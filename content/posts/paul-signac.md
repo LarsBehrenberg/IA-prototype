@@ -93,9 +93,9 @@ textSections:
       - /assets/paul-signac-sunday-1888.jpg
   - textTitle: Signac and Neo-Impressionism
     text: >-
-      Early into his painting career, in 1884, Signac helped to found the Salon
-      des Indépendants, an exhibition created for artists who were disillusioned
-      with the Paris Salon and the official art establishment.
+      ### Early into his painting career, in 1884, Signac helped to found the
+      Salon des Indépendants, an exhibition created for artists who were
+      disillusioned with the Paris Salon and the official art establishment.
 
 
       It was through the [Salon des Indépendants](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_Artistes_Ind%C3%A9pendants)that Signac first met Seurat and the two emerging artists quickly became friends.
