@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: test-repo
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{path}}”'
@@ -7,6 +7,9 @@ backend:
     delete: 'Delete {{collection}} “{{path}}”'
     uploadMedia: '[skip ci] Upload “{{path}}”'
     deleteMedia: '[skip ci] Delete “{{path}}”'
+  
+display_url: https://wonderful-swartz-4900af.netlify.com
+logo_url: https://wonderful-swartz-4900af.netlify.com/logo/logo.png
 
 media_folder: /static/assets/
 public_folder: /assets/
@@ -16,39 +19,44 @@ collections:
     label: "Posts"
     folder: "/content/posts/"
     create: true
+    description: "The list of biographies, events and etc. that are uploaded onto the website."
     fields:
-      - { name: "path", label: "Slug" }
+      - { name: "path", label: "Slug", hint: "Example: paul-signac-biography"}
       - { name: "date", label: "Published Date", widget: "datetime" }
-      - { name: "title", label: "Title" }
-      - { name: "body", label: "Introduction", widget: "markdown" }
-      - { name: "tags", label: "Tags", widget: "list" }
-      - { name: "cover", label: "Featured Image", widget: "image", required: true }
+      - { name: "title", label: "Title", hint: "The title of the article"}
+      - { name: "body", label: "Introduction", widget: "markdown", hint: "The introduction text shown below the upper gallery" }
+      - { name: "tags", label: "Tags", widget: "list", hint: "Tags will be a way to sort/organize articles" }
+      - { name: "cover", label: "Featured Image", widget: "image", required: true, hint: "This image will be displayed one the funnel page"}
       - label: "Upper Gallery"
+        hint: "This widget lists up the images for the upper gallery"
         name: "upperGalleryImages"
         widget: "object"
         fields:
-          - {label: Image 1, name: image1, widget: image, required: true}
-          - {label: Image 2, name: image2, widget: image, required: true}
-          - {label: Image 3, name: image3, widget: image, required: true}
-          - {label: Image 4, name: image4, widget: image, required: true}
+          - {label: Top Image, name: image1, widget: image, required: true}
+          - {label: Left Image, name: image2, widget: image, required: true}
+          - {label: Middle Image, name: image3, widget: image, required: true}
+          - {label: Right Image, name: image4, widget: image, required: true}
       - label: "Text sections"
         name: "textSections"
         widget: "list"
+        hint: "Add the different text sections with title, text and images here"
         allow_add: true
         collapsed: false
         fields:
-          - {label: Title, name: textTitle, widget: "string", default: "Title here", required: true}
-          - {label: Text, name: text, widget: markdown, default: "Body text here", required: true}
+          - {label: Title, name: textTitle, widget: "string", default: "Title here", required: true, hint: "This title of the text section"}
+          - {label: Text, name: text, widget: markdown, default: "Body text here", required: true, hint: "This text of the text section"}
           - label: "Side Gallery"
             name: "sideGalleryImages"
             widget: "list"
             allow_add: true
+            hint: "As many images as needed can be added to the site gallery of each text section"
             collapsed: true
             field: {label: Image, name: image, widget: image}
   - name: "maps"
     label: "Maps"
     folder: "/content/maps/"
-    create: true
+    create: false
+    description: "The list of custom created maps for TTDE."
     fields:
       - { name: "path", label: "Path" }
       - { name: "title", label: "Title" }
