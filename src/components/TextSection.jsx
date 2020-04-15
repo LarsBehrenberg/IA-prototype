@@ -39,8 +39,8 @@ const TextSection = ({ title, text, textSectionImageArray, index }) => {
                     </div>
                     <div className="col-sm-9">
                       <div className="site-text">
-                        <div className="site-text-less" id="view-content-1">
-                          <div id="view-content-height-1">
+                        <div className="site-text-less" id={"view-content-" + (index+1)}>
+                          <div id={"view-content-height-" + (index+1)}>
                           <div dangerouslySetInnerHTML={{ __html: text }} />
                           </div>
                         </div>
