@@ -1,87 +1,142 @@
-const _ = require('lodash')
-const path = require('path')
-const { createFilePath } = require('gatsby-source-filesystem')
-const { fmImagesToRelative } = require('gatsby-remark-relative-images')
+const path = require('path');
+const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 
-exports.createPages = ({ actions, graphql }) => {
-  const { createPage } = actions
+const remark = require('remark')
+const remarkHTML = require('remark-html')
 
-  return graphql(`
-    {
-      allMarkdownRemark(limit: 1000) {
-        edges {
-          node {
-            id
-            fields {
-              slug
-            }
-            frontmatter {
-              tags
-              templateKey
+exports.createPages = ({ graphql, actions: { createPage } }) => {
+
+  return new Promise((resolve, reject) => {
+    const postTemplate = path.resolve('src/templates/post.jsx');
+    // const tagPage = path.resolve('src/pages/tags.jsx');
+    const tagPosts = path.resolve('src/templates/tag.jsx');
+
+    resolve(
+      graphql(
+        `
+          query {
+            allMarkdownRemark(
+              sort: { order: ASC, fields: [frontmatter___date] }
+            ) {
+              edges {
+                node {
+                  frontmatter {
+                    path
+                    title
+                    tags
+                  }
+                }
+              }
             }
           }
+        `
+      ).then(result => {
+        if (result.errors) {
+          return reject(result.errors);
         }
-      }
-    }
-  `).then(result => {
-    if (result.errors) {
-      result.errors.forEach(e => console.error(e.toString()))
-      return Promise.reject(result.errors)
-    }
 
-    const posts = result.data.allMarkdownRemark.edges
+        const posts = result.data.allMarkdownRemark.edges;
 
-    posts.forEach(edge => {
-      const id = edge.node.id
-      createPage({
-        path: edge.node.fields.slug,
-        tags: edge.node.frontmatter.tags,
-        component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
-        ),
-        // additional data can be passed via context
-        context: {
-          id,
-        },
+        // const postsByTag = {};
+        // // create tags page
+        // posts.forEach(({ node }) => {
+        //   if (node.frontmatter.tags) {
+        //     node.frontmatter.tags.forEach(tag => {
+        //       if (!postsByTag[tag]) {
+        //         postsByTag[tag] = [];
+        //       }
+
+        //       postsByTag[tag].push(node);
+        //     });
+        //   }
+        // });
+
+        // const tags = Object.keys(postsByTag);
+
+        // createPage({
+        //   path: '/tags',
+        //   component: tagPage,
+        //   context: {
+        //     tags: tags.sort(),
+        //   },
+        // });
+
+        //create tags
+        // tags.forEach(tagName => {
+        //   const posts = postsByTag[tagName];
+
+        //   createPage({
+        //     path: `/tags/${tagName}`,
+        //     component: tagPosts,
+        //     context: {
+        //       posts,
+        //       tagName,
+        //     },
+        //   });
+        // });
+
+        //create posts
+        posts.forEach(({ node }, index) => {
+          const path = node.frontmatter.path;
+          const prev = index === 0 ? posts[posts.length-1].node : posts[index - 1].node;
+          const next = index === posts.length - 1 ? posts[0].node : posts[index + 1].node;
+          createPage({
+            path,
+            component: postTemplate,
+            context: {
+              pathSlug: path,
+              prev,
+              next,
+            },
+          });
+        });
       })
-    })
+    );
+  });
+};
 
-    // Tag pages:
-    let tags = []
-    // Iterate through each post, putting all found tags into `tags`
-    posts.forEach(edge => {
-      if (_.get(edge, `node.frontmatter.tags`)) {
-        tags = tags.concat(edge.node.frontmatter.tags)
-      }
-    })
-    // Eliminate duplicate tags
-    tags = _.uniq(tags)
+/* Allows named imports */
+exports.onCreateWebpackConfig = ({ actions }) => {
+  actions.setWebpackConfig({
+    resolve: {
+      modules: [path.resolve(__dirname, 'src'), 'node_modules'],
+    },
+  });
+};
 
-    // Make tag pages
-    tags.forEach(tag => {
-      const tagPath = `/tags/${_.kebabCase(tag)}/`
 
-      createPage({
-        path: tagPath,
-        component: path.resolve(`src/templates/tags.js`),
-        context: {
-          tag,
-        },
-      })
-    })
-  })
-}
+exports.onCreateNode = ({ node, actions: { createNodeField } }) => {
+  fmImagesToRelative(node);
 
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
-  fmImagesToRelative(node) // convert image paths for gatsby images
+  if(node.frontmatter){
+    const textSections = node.frontmatter.textSections;
 
-  if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
-    createNodeField({
-      name: `slug`,
-      node,
-      value,
-    })
+    if (textSections) {
+
+      const bodyText = textSections.map(event =>
+          remark()
+          .use(remarkHTML)
+          .processSync(event.text)
+          .toString()
+        )
+      const bodyTitle = textSections.map(event => 
+          remark()
+          .use(remarkHTML)
+          .processSync(event.textTitle)
+          .toString()
+        )
+
+      createNodeField({
+        name: `bodyText`,
+        node,
+        value: bodyText
+      });
+
+      createNodeField({
+        name: `bodyTitle`,
+        node,
+        value: bodyTitle
+      });
+    }
   }
-}
+};
