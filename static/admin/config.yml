@@ -21,9 +21,10 @@ collections:
     create: true
     description: "The list of biographies, events and etc. that are uploaded onto the website."
     fields:
-      - { name: "path", label: "Slug", hint: "Example: paul-signac-biography"}
+      - { name: "path", label: "Slug", hint: "This slug has to be unique. Example: paul-signac-biography"}
       - { name: "date", label: "Published Date", widget: "datetime" }
-      - { name: "title", label: "Title", hint: "The title of the article"}
+      - { name: "subTitle", label: "Subtitle", hint: "The subtitle of the article", default: "Biography of"}
+      - { name: "title", label: "Title", hint: "The title of the article", default: "Impressionist artist"}
       - { name: "body", label: "Introduction", widget: "markdown", hint: "The introduction text shown below the upper gallery" }
       - { name: "tags", label: "Tags", widget: "list", hint: "Tags will be a way to sort/organize articles" }
       - { name: "cover", label: "Featured Image", widget: "image", required: true, hint: "This image will be displayed one the funnel page"}

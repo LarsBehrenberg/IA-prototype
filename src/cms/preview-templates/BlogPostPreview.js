@@ -29,7 +29,7 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor, getAsset }) => {
             <div className="col-sm-12">
                 <section className="site-block top">
                   <div className="site-title">
-                    <h1><span className="page__title-ttd">Biography of </span><span className="page__title-e">{entry.getIn(['data', 'title'])}</span></h1>
+                    <h1><span className="page__title-ttd">{entry.getIn(['data', 'subTitle'])} </span><span className="page__title-e">{entry.getIn(['data', 'title'])}</span></h1>
                   </div>
                   <div className="site-gallery">
                     <div className="ttde-gallery">

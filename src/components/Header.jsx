@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-const Header = ({ title, intro, bodyTitles, images, prevNeighbor, nextNeighbor}) => {
+const Header = ({ title, subTitleText, intro, bodyTitles, images, prevNeighbor, nextNeighbor}) => {
     const { image1, image2, image3, image4 } = images
     return (
     <div class="container">
@@ -9,7 +9,7 @@ const Header = ({ title, intro, bodyTitles, images, prevNeighbor, nextNeighbor})
               <div class="col-sm-9">
                 <section class="site-block top">
                   <div class="site-title">
-                    <h1><span class="page__title-ttd">Biography of </span><span class="page__title-e" itemprop="name">{title}<span></span> </span></h1>
+                    <h1><span class="page__title-ttd">{subTitleText} </span><span class="page__title-e" itemprop="name">{title}<span></span> </span></h1>
                   </div>
                   <div class="site-gallery">
                     <div class="ttde-gallery">

@@ -47,7 +47,7 @@ import Header from '../components/Header'
 const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
   const {html, frontmatter, excerpt, fields} = data.markdownRemark
-  const {date, title, tags, path, description, textSections, upperGalleryImages} = frontmatter
+  const {date, title, subTitle, tags, path, description, textSections, upperGalleryImages} = frontmatter
   const image = frontmatter.cover.childImageSharp.fluid;
 
   return (
@@ -60,7 +60,7 @@ const Post = ({ data, pageContext }) => {
         article
       />
       {/* This is the upprGallery & sideBar */}
-      <Header title={title} intro={html} bodyTitles={fields.bodyTitle} images={upperGalleryImages} prevNeighbor={prev} nextNeighbor={next} />
+      <Header title={title} subTitleText={subTitle} intro={html} bodyTitles={fields.bodyTitle} images={upperGalleryImages} prevNeighbor={prev} nextNeighbor={next} />
       <div class="site-content">
         <main class="site-main">
           {/* These are the TextSections */}
@@ -94,6 +94,7 @@ export const query = graphql`
       frontmatter {
         date(formatString: "MM.DD.YYYY")
         title
+        subTitle
         tags
         upperGalleryImages {
           image4 {

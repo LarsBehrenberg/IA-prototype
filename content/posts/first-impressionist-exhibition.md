@@ -2,6 +2,7 @@
 path: first-impressionist-exhibition
 date: 2020-04-15T04:32:37.229Z
 title: First Impressionist Exhibition
+subTitle: THE 1874
 tags:
   - Impressionist
   - Exhibition

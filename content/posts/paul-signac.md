@@ -2,6 +2,7 @@
 path: paul-signac
 date: 2020-04-15T04:07:58.887Z
 title: Paul Signac
+subTitle: Biography of
 tags:
   - Signac
   - Impressionist
