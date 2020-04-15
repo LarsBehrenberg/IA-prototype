@@ -80,7 +80,7 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor, getAsset }) => {
                             <div className="row">
                                 <div className="col-sm-12">
                                 <section className="site-block">
-                                    <h2>{textBlock.getIn(['data', 'textTitle'])}</h2>
+                                  <h2>{index+1}. {textBlock.getIn(['data', 'textTitle'])}</h2>
                                     <div className="row">
                                         <div className="col-sm-3">
                                             <div className="smallery">
