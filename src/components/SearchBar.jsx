@@ -1,19 +1,19 @@
 import React from 'react'
 
 const SearchBar = () => (
-    <section class="promotionWrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-                    <div class="promotionTable">
-                        <div class="promotionTableInner">
-                            <div class="promotionInfo">
+    <section className="promotionWrapper">
+        <div className="container">
+            <div className="row">
+                <div className="col-xs-12">
+                    <div className="promotionTable">
+                        <div className="promotionTableInner">
+                            <div className="promotionInfo">
                                 <h2>FIND YOUR FAVORITE IMPRESSIONIST</h2>
-                                <div class="ttde__sdst">
-                                    <div class="ui search">
-                                        <div class="ui icon input"> <input class="prompt" type="text"
-                                                placeholder="Search..." autocomplete="off" /></div>
-                                        <div class="results"></div>
+                                <div className="ttde__sdst">
+                                    <div className="ui search">
+                                        <div className="ui icon input"> <input className="prompt" type="text"
+                                                placeholder="Search..." autoComplete="off" /></div>
+                                        <div className="results"></div>
                                     </div>
                                 </div>
                             </div>
