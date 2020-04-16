@@ -66,9 +66,6 @@ const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, o
                             })}
                           {nextNeighbor === null ? null : <Link to={nextNeighbor.frontmatter.path} class="list-group-item active"><h4 class="list-group-item-heading">{nextNeighbor.frontmatter.title}</h4></Link>}
                           {prevNeighbor === null ? null : <Link to={prevNeighbor.frontmatter.path} class="list-group-item active" style={{borderTop: "none"}}><h4 class="list-group-item-heading">{prevNeighbor.frontmatter.title}</h4></Link>}
-                          <a href="https://impressionistarts.com/impressionism-timeline.html" class="list-group-item active" style={{borderTop: "none"}}>
-                            <h4 class="list-group-item-heading">Impressionism Timeline</h4>
-                          </a>
                           </div>
                       </div>
                     </div>
