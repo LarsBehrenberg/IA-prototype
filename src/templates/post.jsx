@@ -16,8 +16,6 @@ const Post = ({ data, pageContext }) => {
   const {date, title, subTitle, tags, path, description, textSections, upperGalleryImages} = frontmatter
   const image = frontmatter.cover.childImageSharp.fluid;
 
-  console.log(textSections)
-
   function openModal() {
     document.getElementById("myModal").style.display = "block";
   }
@@ -29,13 +27,11 @@ const Post = ({ data, pageContext }) => {
   function plusSlides(n) {
     slideIndex += n
     showSlides(slideIndex);
-    console.log(slideIndex)
   }
 
   function showSlides(n) {
     var i;
     var slides = document.getElementsByClassName("mySlides");
-    console.log(n)
     var captionText = document.getElementById("caption");
     if (n > slides.length) {slideIndex = 1}
     if (n < 1) {slideIndex = slides.length}
