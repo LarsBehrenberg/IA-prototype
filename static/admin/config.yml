@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: git-gateway
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{path}}”'
@@ -7,7 +7,7 @@ backend:
     delete: 'Delete {{collection}} “{{path}}”'
     uploadMedia: '[skip ci] Upload “{{path}}”'
     deleteMedia: '[skip ci] Delete “{{path}}”'
-  
+
 display_url: https://wonderful-swartz-4900af.netlify.com
 logo_url: https://wonderful-swartz-4900af.netlify.com/logo/logo.png
 
