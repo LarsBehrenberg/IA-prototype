@@ -70,6 +70,160 @@ textSections:
       - /assets/georges-seurat-photograph-1888.jpg
       - /assets/georges-seurat-vase-of-flowers.jpg
       - /assets/georges-seurat-young-woman-powdering-herself.jpg
+  - textTitle: Seurat and the Impressionists
+    text: >-
+      ### Together with his friends Ernest Laurent and Édmond-François
+      Aman-Jean, with who he had first entered the École des Beaux-Arts, Seruat
+      began renting a studio in Rue de l’Arbalete.
+
+
+      His career was briefly interrupted by a year of military service in Brest, during which time he filled his sketchbook with studies of the sea and ships.
+
+
+      #### The Fourth Impressionist Exhibition
+
+
+      In 1879, Seurat attended the Fourth Impressionist Exhibition where he had the opportunity to see works by artists such as [Claude Monet](https://impressionistarts.com/claude-monet-biography.html) and [Camille Pissarro](https://impressionistarts.com/camille-pissarro-biography.html). This was an important moment for him as he was confronted with a new form of artistic expression that shunned the academic rules enforced on artists at the time, including himself.
+
+
+      Like the Impressionists, Seurat was unsuccessful in his attempts to enter his work into the Paris Salon. He was rejected time and time again and was successful in having his work represented just once. This was in 1883, with a drawing of Aman-Jean. The Impressionists’ example of a school of artists set apart from the mainstream undoubtedly inspired Seurat to follow suit.
+
+
+      #### Points of distinction
+
+
+      Though he drew inspiration from the Impressionists, there was a number of areas where Seurat’s work diverged from the typical Impressionist style.
+
+
+      The Impressionist’s emphasis on modern subjects, depicting life in urban Paris and the surrounding countryside, interested Seurat. He adopted this approach in his works, sketching the scenes he saw around him.
+
+
+      Seurat also borrowed from the Impressionists in his bright colour palette. Like many Impressionist artists, he imitated the light found in nature in his canvasses, rendering his subjects in shimmering tones.
+
+
+      On the other hand, Seurat was uninspired by the Impressionist’s emphasis on capturing a fleeting moment. Instead, he favoured a more considered and scientific approach to depicting scenes from ordinary life, focussed on the essential aspects of life that change little over time.
+
+
+      Though Seurat’s works were shown at the eighth and final Impressionist Exhibition, they contrasted heavily with the Impressionist approach to painting, so much so that it was decided they should be hung in a separate room.
+
+
+      [Félix Fénéon](https://en.wikipedia.org/wiki/F%C3%A9lix_F%C3%A9n%C3%A9on), a prominent art critic, was the first to name the paintings as Neo-Impressionist. From this point forwards, the work of Seurat and his followers became known as Neo-Impressionism.
+    sideGalleryImages:
+      - /assets/georges-seurat-models.jpg
+      - /assets/georges-seurat-seated-nude.jpg
+      - /assets/georges-seurat-bathers-at-asnieres.jpg
+  - textTitle: Seurat and Neo-Impressionism
+    text: >-
+      ### In defining the Neo-Impressionist school, Seurat successful merged the
+      rigours of scientific colour theory with the poetry of the Impressionists.
+      His innovative approach was largely driven by a fascination with
+      scientific theories of colour and form.
+
+
+      #### Colour theory
+
+
+      Seurat sought to exploit the expressive effects of colours in his paintings, as well as experimenting with angled lines. This was where [Chevreul’s](https://en.wikipedia.org/wiki/Michel_Eug%C3%A8ne_Chevreul) writings were enormously influential, providing Seurat with a guide to manipulating colour to greatest effect by taking a studied, academic approach to colour theory. Seurat even had the opportunity to meet the famous chemist himself, who was by then 100 years old.
+
+
+      As well as the work of Chevreul, Seurat also spent time studying the theories set forth by Charles Blanc in the ‘Grammaire des arts du dessin’ or ‘Grammar of the Art of Drawing’. Blanc acknowledged the important work of [Eugene Delacroix](https://impressionistarts.com/eugene-delacroix-biography.html) on expanding the use of colour theory in art. Delacroix was a key source of inspiration for the Impressionists thanks to his expressive, dynamic approach to painting and Seurat also studied his techniques.
+
+
+      #### Grammar of the Art of Drawing
+
+
+      Blanc believed that in the same way that music is decipherable, so too is colour.
+
+
+      Like Chevreul and Delacroix, he experimented with the theory of optical mixing, in which small brushstrokes of different colours are placed next to each other to increase the brilliance of the colours. This quasi-scientific approach to painting appealed to Seurat and he sought to build on their work. At the same time, he drew on the short, loose brushwork of the Impressionists to develop his technique.
+
+
+      #### Pointillism (or Divisionism)
+
+
+      Over time, Seurat created what he called [‘Chromo-luminism’](https://en.wikipedia.org/wiki/Divisionism). This is now better known as Divisionism and Pointillism. Divisionism was a method in which Seurat separated blocks of colour into distinct dots of paint to build up forms and figures in his artworks. Pointillism was the word used to describe the spots of paint essential to this style of painting, though this term was initially rejected by Seurat.
+
+
+      Seurat’s first and arguably best-known works were [‘Bathers at Asnières’](https://www.nationalgallery.org.uk/paintings/georges-seurat-bathers-at-asnieres) from 1884, followed by [‘Sunday Afternoon on the Island of La Grand Jatte’](https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte) from 1884-86. With these paintings, he sought to bring his work into the public eye and both were made to the scale of major Salon pictures, demonstrating his ambition.
+
+
+      The palette of these paintings borrows from the bright, airy style of the Impressionists but the rigid approach to the application of paint sets it firmly apart from Impressionism. Similarly, Bathers at Asnières has the stately composition of a Neo-classical painting.
+
+
+      These paintings delivered almost a manifesto for the Neo-Impressionist technique, firmly laying out Seurat’s radical new style. Both works feature scenes from the banks of the Seine, depicting working-class figures at their leisure to deliver a dose of modernity to the paintings. This aspect further contrasted with the early works of prominent Impressionists like [Monet](https://impressionistarts.com/claude-monet-biography.html) and [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html), who preferred to paint bourgeois figures instead.
+
+
+      #### Fame and fortune
+
+
+      Seurat’s dedication to forging his own path in French art gave him immense fame very quickly. When La Grande Jettee was shown at the Eighth Impressionist Exhibition in May 1886, he was quickly named the leader of a new form of avant-garde. By the end of that year, his work was being shown internationally.
+
+
+      The tight, restricted nature of these earlier paintings gradually gave way to looser forms of Divisionism in Seurat’s works.
+
+
+      [‘The Harbour of Honfleur’](https://www.wikiart.org/en/georges-seurat/harbor-in-honfleur-1886) from 1886 is one such example, using softer spots of paint that are spaced wider across the canvas. Nonetheless, they still utilise the effects of optical mixing to great effect. This was one of many paintings made by Seurat at Honfleur and he produced a number of detailed sketches ‘en plein air’ before creating the larger pieces in his studio.
+
+
+      #### Later works
+
+
+      In his later work, Seurat transitioned from the tranquil scenes of his earlier paintings towards a more dynamic and whimsical style, taking inspiration from caricatures and advertising posters.
+
+
+      Once again, the young artists demonstrated his innovative approach to painting, doing away with the statuesque stillness of his youth in favour of fluidity and movement. This is evident in works like [‘The Circus’](https://en.wikipedia.org/wiki/The_Circus_(Seurat)) from 1890-91, taken from an 1888 poster for the Nouveau Cirque, which depicts a horse mid-gallop and performers frozen during their acrobatic stunts.
+
+
+      This particular painting would be Seurat’s last. Indeed, it was unfinished at his death. Almost predicting his fate, Seurat chose to exhibit the work only partially completed in the Salon des Independants. His friend and fellow [Post-Impressionist Paul Signac](https://impressionistarts.com/paul-signac-biography.html) purchased the painting soon afterwards.
+
+
+      Upon his death, Signac took up the mantle of Neo-Impressionism and continued to develop the techniques further, building on his earliest works created as a disciple of Seurat. Signac enabled the momentum of the movement to continue, introducing the technique to an array of critics and writers and firmly establishing its reputation as an enduring art form.
+    sideGalleryImages:
+      - /assets/georges-seurat-circus-sideshow.jpg
+      - /assets/georges-seurat-the-circus.jpg
+      - /assets/georges-seurat-le-chahut.jpg
+  - textTitle: Seurat’s legacy
+    text: >-
+      ### Much like his father, Seurat chose to live in secrecy for the majority
+      of his adult life, isolating himself in a little studio located in the
+      Passage de l’Elyse-des-Beaux-Arts.
+
+
+      #### Madeline Knobloch
+
+
+      Here he resided with his first love, Madeline Knobloch, who he had met around 1888. She was only 20 at the time and served as the model in many of his artworks. The couple had a son, Pierre Georges, hidden away from family and friends.
+
+
+      A painting dated to 1888-1890 titled [‘Young Woman Powdering Her Face’](https://en.wikipedia.org/wiki/Young_Woman_Powdering_Herself_(Seurat)) is a caricatured portrait of Knobloch. Though the figure is captured in the middle of a sweeping movement, the work has a stateliness and gravitas that makes it seem static. Her figure is solid and curvaceous, contrasting with the delicateness of the setting. Despite the painting being shown in 1890, Knobloch’s identity was not revealed.
+
+
+      #### Seurat’s early death
+
+
+      Tragically, Seurat died in 1891 at the age of just 31 from an infection and complications. His son died from the same infection within two weeks, having lived for little more than a year. The art critic Jules Christophe wrote that “A sudden, stupid sickness carried him off in a few hours when he was about to triumph: I curse providence and death”.
+
+
+      Later investigations indicate that Seurat most likely died of diphtheria. Following the deaths of her son and lover, Madeline disappeared. Records indicate that she too died young, from cirrhosis of the liver at the age of 35.
+
+
+      Seurat’s untimely death meant that his artistic legacy was abruptly cut short. Despite producing just 40 odd paintings, only seven of which were monumental, he succeeded in pioneering a new artistic vocabulary at a time of great innovation and creativity in French art. The fact that this was accomplished in such a short space of time, when he was only in his twenties, further adds to the impressiveness of the feat.
+
+
+      Among his contemporaries, Seurat’s approach to painting sparked the work of Signac and a rapid development in the paintings of [Camille Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) who made the shift to Neo-Impressionism following Seurat’s example. Many other Impressionist artists also began incorporating Neo-Impressionist techniques into their work.
+
+
+      #### Influence on Van Gogh
+
+
+      Perhaps most important, however, was Seurat’s influence on [Vincent Van Gogh](https://impressionistarts.com/van-gogh-biography.html). Van Gogh would borrow from Seurat’s techniques to produce an entirely new form of Post-Impressionist expression. The echoes of Seurat’s work is most evident in many of Van Gogh’s self-portraits, which blend different spots of colour and short, quick brushstrokes to build up a whole image.
+
+
+      The legacy of Seurat and the techniques he developed are far-reaching to this day. The Pointillist movement inspired a great number of Impressionist and Post-Impressionist artists and continued to ripple through the art world long after his death. From Pop Art to today’s pixelated Digital Art, Seurat’s explorations into colour theory and his careful, dotted applications of paint were monumental. His short life only serves to make his legacy even more incredible.
+    sideGalleryImages:
+      - /assets/georges-seurat-monument.jpg
+      - /assets/georges-seurat-grave.jpg
+      - /assets/pere-lachaise-cemetery.jpg
 ---
 ### Georges-Pierre Seurat was the founder of Neo-Impressionism and the pioneer of the Pointillist technique.
 
