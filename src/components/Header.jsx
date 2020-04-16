@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-const Header = ({ title, subTitleText, intro, bodyTitles, images, prevNeighbor, nextNeighbor}) => {
+const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, openGallery, prevNeighbor, nextNeighbor}) => {
     const { image1, image2, image3, image4 } = images
     return (
     <div class="container">
@@ -15,20 +15,20 @@ const Header = ({ title, subTitleText, intro, bodyTitles, images, prevNeighbor, 
                     <div class="ttde-gallery">
                       <div class="ttde-gallery-inner">
                         <div class="ttde-gallery-top ttdegalleryitem" data-pswp-uid="1">
-                          <figure class="ttde-gallery-top-inner"> <a class="ttde-gallery-url" href="#top" title="" data-size="" data-cat="1" data-pid={image1.childImageSharp.fluid.src} data-index="0"><img src={image1.childImageSharp.fluid.src} alt="alt here" class="loading" data-was-processed="true" />
+                          <figure class="ttde-gallery-top-inner" onClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="" data-size="" data-cat="1" data-pid={image1.childImageSharp.fluid.src} data-index="0"><img src={image1.childImageSharp.fluid.src} alt="alt here" class="loading" data-was-processed="true" />
                             </a> </figure>
                         </div>
                         <div class="ttde-gallery-bottom">
                           <div class="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem" data-pswp-uid="1">
-                            <figure class="ttde-gallery-col-inner"> <a class="ttde-gallery-url" href="#top" title="alt here" data-size="FILLIN" data-cat="1" data-pid={image2.childImageSharp.fluid.src} data-index="1"><img data-src={image2.childImageSharp.fluid.src} alt="alt here" class="loaded" src={image2.childImageSharp.fluid.src} data-was-processed="true"/></a>
+                            <figure class="ttde-gallery-col-inner" nClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-size="FILLIN" data-cat="1" data-pid={image2.childImageSharp.fluid.src} data-index="1"><img data-src={image2.childImageSharp.fluid.src} alt="alt here" class="loaded" src={image2.childImageSharp.fluid.src} data-was-processed="true"/></a>
                             </figure>
                           </div>
                           <div class="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem" data-pswp-uid="1">
-                            <figure class="ttde-gallery-col-inner"> <a class="ttde-gallery-url" href="#top" title="some title here" data-size="FILLIN" data-cat="1" data-pid={image3.childImageSharp.fluid.src} data-index="2"><img data-src={image3.childImageSharp.fluid.src} alt="alt here" class="loaded" src={image3.childImageSharp.fluid.src} data-was-processed="true"/></a>
+                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="some title here" data-size="FILLIN" data-cat="1" data-pid={image3.childImageSharp.fluid.src} data-index="2"><img data-src={image3.childImageSharp.fluid.src} alt="alt here" class="loaded" src={image3.childImageSharp.fluid.src} data-was-processed="true"/></a>
                             </figure>
                           </div>
                           <div class="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open" data-pswp-uid="1">
-                            <figure class="ttde-gallery-col-inner"> <a class="ttde-gallery-url" href="#top" title="alt here" data-size="FILLIN" data-cat="1" data-pid={image4.childImageSharp.fluid.src} data-index="3"><span class="ttde-gallery-open-btn"><span>More
+                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-size="FILLIN" data-cat="1" data-pid={image4.childImageSharp.fluid.src} data-index="3"><span class="ttde-gallery-open-btn"><span>More
                                     images 20+</span></span><img data-src={image4.childImageSharp.fluid.src} alt="alt here" class="loaded" src={image4.childImageSharp.fluid.src} data-was-processed="true"/></a>
                             </figure>
                           </div>

@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 
 
-const TextSection = ({ title, text, textSectionImageArray, index }) => {
+const TextSection = ({ title, text, textSectionImageArray, index, showGallery, openGallery }) => {
 
 
     function ttdeToggleVisibility (self, id, idInner) {
@@ -25,10 +25,10 @@ const TextSection = ({ title, text, textSectionImageArray, index }) => {
                         <div className="smallery">
                             {
                                 // console.log(textSectionImageArray)
-                                textSectionImageArray.map((image, index) => {
+                                textSectionImageArray.map((image, arrayLocation) => {
                                 return (
                                     <div className="smallery-item-wrp ttdegalleryitem" data-pswp-uid="1">
-                                        <figure className="smallery-item-psn"> <a href={"#" + (index+1)} className="smallery-item-uri" data-cat="1" title="FILLINALT" data-size="FILLINSIZE" data-pid="FILLINPICS" data-index="FILLINNUMBER">
+                                        <figure className="smallery-item-psn" onClick={() => { openGallery(); showGallery(1);}}> <a href={"#top"} className="smallery-item-uri" data-cat="1" title="FILLINALT" data-size="FILLINSIZE" data-pid="FILLINPICS" data-index="FILLINNUMBER">
                                             <img className="smallery-item-img loaded" data-src={image.childImageSharp.fluid.src} alt="FILLINALT" src={image.childImageSharp.fluid.src} data-was-processed="true" />
                                         </a> </figure>
                                     </div>
