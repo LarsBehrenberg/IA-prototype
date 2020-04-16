@@ -30,18 +30,18 @@ textSections:
       Here are a few examples of the shocking comments made by art critics between 1864 and 1873:
 
 
-      * “never has a painting received more laughter, mockery and catcalls” (of [Monet’s Olympia](https://impressionistarts.com/first-impressionist-exhibition-pictures/monet-olympia-1863.jpg)).
+      * “never has a painting received more laughter, mockery and catcalls” (of [Monet’s Olympia](/first-impressionist-exhibition-pictures/monet-olympia-1863.jpg)).
 
-      * “painted with a pistol” (of [Cezanne’s portrait of Antony Velabregue](https://impressionistarts.com/first-impressionist-exhibition-pictures/cezanne-portrait-of-anthony-valabregue-1866.jpg)).
+      * “painted with a pistol” (of [Cezanne’s portrait of Antony Velabregue](/first-impressionist-exhibition-pictures/cezanne-portrait-of-anthony-valabregue-1866.jpg)).
 
 
-      [Edouard Manet](https://impressionistarts.com/edouard-manet-biography.html), whilst supportive of the independent impressionist exhibitions, decided not to submit. He still had ambitions of persuading the Salon jury and the art establishment of the value of his work.
+      [Edouard Manet](/edouard-manet-biography), whilst supportive of the independent impressionist exhibitions, decided not to submit. He still had ambitions of persuading the Salon jury and the art establishment of the value of his work.
 
 
       Manet’s view was fortified by the fact that, in 1873, he had scored a rare Salon success with a picture of a man drinking a pint of beer called the Bon Bock (the Happy Beer).
 
 
-      Manet tried to persuade [Monet](https://impressionistarts.com/claude-monet-biography.html) against the idea of an independent exhibition, saying:
+      Manet tried to persuade [Monet](/claude-monet-biography) against the idea of an independent exhibition, saying:
 
 
       > “Why don’t you stay with me? Can’t you see I’m on a winning streak?’
@@ -65,7 +65,7 @@ textSections:
       #### The venue
 
 
-      Monet happened to know the caricaturist and photographer known simply as [Nadar](https://en.wikipedia.org/wiki/Nadar), who was vacating his [studio on the Boulevard des Capucines](https://impressionistarts.com/first-impressionist-exhibition-pictures/nadar-atelier-in-1860.jpg).
+      Monet happened to know the caricaturist and photographer known simply as [Nadar](https://en.wikipedia.org/wiki/Nadar), who was vacating his [studio on the Boulevard des Capucines](/first-impressionist-exhibition-pictures/nadar-atelier-in-1860.jpg).
 
 
       This was a perfect venue. The Capucines, one of the four ‘grand boulevards’ of Paris, having been constructed during Baron Haussmann’s remodelling of Paris. Finished in 1865, it was 35-metres wide, tree-lined and presented a prime commercial site. Nadar’s third floor studio was also large and bright, having floor to ceiling windows.
@@ -74,7 +74,7 @@ textSections:
       #### The Anonymous Society
 
 
-      After the idea of an independent exhibition was mooted in 1873, [Monet](https://impressionistarts.com/claude-monet-biography.html) and [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) decided that they should incorporate a joint stock company in which artists and their supporters would hold shares.
+      After the idea of an independent exhibition was mooted in 1873, [Monet](/claude-monet-biography) and [Pissarro](/camille-pissarro-biography) decided that they should incorporate a joint stock company in which artists and their supporters would hold shares.
 
 
       This slowed things down. Monet and Pissarro spent months drafting the charter (the rules governing how the company should operate), using a charter from a baker’s co-operative as a guide.
@@ -97,10 +97,10 @@ textSections:
       #### Discord
 
 
-      The organising committee consisted of Monet, [Degas](https://impressionistarts.com/edgar-degas-biography.html), Pissarro, [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html), [Sisley](https://impressionistarts.com/alfred-sisley-biography.html)and [Berthe Morisot](https://impressionistarts.com/berthe-morisot-biography.html).
+      The organising committee consisted of Monet, [Degas](/edgar-degas-biography), Pissarro, [Renoir](/pierre-auguste-renoir-biography), [Sisley](/alfred-sisley-biography)and [Berthe Morisot](/berthe-morisot-biography).
 
 
-      One of their first tasks was to decide whether to let [Cezanne](https://impressionistarts.com/paul-cezanne-biography.html) participate. The problem was two-fold: Cezanne had been singled out for particular criticism in previous years; and he planned to submit a peculiar work called A Modern Olympia.
+      One of their first tasks was to decide whether to let [Cezanne](/paul-cezanne-biography) participate. The problem was two-fold: Cezanne had been singled out for particular criticism in previous years; and he planned to submit a peculiar work called A Modern Olympia.
 
 
       Of the committee, only the broad-minded Pissarro was in favour of Cezanne’s inclusion. When Manet was consulted, he remarked:
@@ -118,7 +118,7 @@ textSections:
       #### The catalogue, dates and tickets
 
 
-      Renoir’s brother Edmond, a budding journalist, was in charge of the catalogue. Priced at 50 centimes, it proudly announced the[ ‘Premiere Exposition’](https://impressionistarts.com/first-impressionist-exhibition-pictures/catalog-cover-impressionist-exhibition-1874.jpg). Opening times would be 10am to 6pm and then 8pm to 10pm (to encourage as many to come as possible).
+      Renoir’s brother Edmond, a budding journalist, was in charge of the catalogue. Priced at 50 centimes, it proudly announced the[ ‘Premiere Exposition’](/first-impressionist-exhibition-pictures/catalog-cover-impressionist-exhibition-1874.jpg). Opening times would be 10am to 6pm and then 8pm to 10pm (to encourage as many to come as possible).
 
 
       Tickets were 1 franc (the same price as Salon tickets).
@@ -144,10 +144,10 @@ textSections:
       Degas submitted 10 works in total, including Dance Class, Laundress, After the Bath and Carraige at the Races.
 
 
-      Monet submitted nine works. Aside from [Impression Sunrise](https://impressionistarts.com/first-impressionist-exhibition-pictures/monet-impression-sunrise.jpg), his most notable entry was [Boulevard des Capucines](https://impressionistarts.com/first-impressionist-exhibition-pictures/monet-boulevard-des-capucines.jpg).
+      Monet submitted nine works. Aside from [Impression Sunrise](/first-impressionist-exhibition-pictures/monet-impression-sunrise.jpg), his most notable entry was [Boulevard des Capucines](/first-impressionist-exhibition-pictures/monet-boulevard-des-capucines.jpg).
 
 
-      Pissarro showed five works (including Hoar-Frost and [Chestnut Trees at Osny](https://impressionistarts.com/first-impressionist-exhibition-pictures/pissarro-chestnut-trees-at-osny-1873.jpg)); Renoir seven works (including the [Theatre Box](https://impressionistarts.com/first-impressionist-exhibition-pictures/renoir-la-loge.jpg) and[ Dancer](https://impressionistarts.com/first-impressionist-exhibition-pictures/renoir-the-dancer-1874.jpg)); Cezanne three (including [Modern Olympia](https://impressionistarts.com/first-impressionist-exhibition-pictures/cezanne-a-modern-olympia-c-1873-1874.jpg) and a view of Auvers-sur-Oise entitled [The House of the Hanged Man](https://impressionistarts.com/first-impressionist-exhibition-pictures/cezanne-the-hanged-man-s-house-in-auvers-1873.jpg)); Sisley five landscapes; and Berthe Morisot nine works (including [The Cradle](https://impressionistarts.com/first-impressionist-exhibition-pictures/morisot-the-cradle-1872.jpg) and Hide-and-Seek).
+      Pissarro showed five works (including Hoar-Frost and [Chestnut Trees at Osny](/first-impressionist-exhibition-pictures/pissarro-chestnut-trees-at-osny-1873.jpg)); Renoir seven works (including the [Theatre Box](/first-impressionist-exhibition-pictures/renoir-la-loge.jpg) and[ Dancer](/first-impressionist-exhibition-pictures/renoir-the-dancer-1874.jpg)); Cezanne three (including [Modern Olympia](/first-impressionist-exhibition-pictures/cezanne-a-modern-olympia-c-1873-1874.jpg) and a view of Auvers-sur-Oise entitled [The House of the Hanged Man](/first-impressionist-exhibition-pictures/cezanne-the-hanged-man-s-house-in-auvers-1873.jpg)); Sisley five landscapes; and Berthe Morisot nine works (including [The Cradle](/first-impressionist-exhibition-pictures/morisot-the-cradle-1872.jpg) and Hide-and-Seek).
 
 
       The full list of other artists whose work was on display is as follows (in alphabetical order): Attendu, Beliard, Boudin, Bracquemond, Brandon, Bureau, Cals, Colin, Debras, Latouche, Lepic, Lepine, Levert, Meyer, de Molins, Mulot-Durivage, de Nittis, A. Ottin, L. Ottin, Robert, and Rouart.
@@ -165,13 +165,13 @@ textSections:
       Ernest Hoschede for a total of 4,800 francs.
 
 
-      But things for the rest of the group were soon to go from bad to worse as [Paul Durand-Ruel](https://impressionistarts.com/paul-durand-ruel-biography.html) suspended the payments on instalment that he was making to the group.
+      But things for the rest of the group were soon to go from bad to worse as [Paul Durand-Ruel](/paul-durand-ruel-biography) suspended the payments on instalment that he was making to the group.
 
 
-      Manet’s focus on the Salon also backfired. Of the three works he submitted to the 1874 exhibition, two were summarily rejected. The third, a heart-warming depiction of a mother and daughter at a railway station entitled [The Railroad](https://impressionistarts.com/first-impressionist-exhibition-pictures/manet-railway.jpg), was lambasted by critics (eg, the figures were “both cut out of sheet-tin”).
+      Manet’s focus on the Salon also backfired. Of the three works he submitted to the 1874 exhibition, two were summarily rejected. The third, a heart-warming depiction of a mother and daughter at a railway station entitled [The Railroad](/first-impressionist-exhibition-pictures/manet-railway.jpg), was lambasted by critics (eg, the figures were “both cut out of sheet-tin”).
 
 
-      Ironically, given his refusal to get involved, many reviewers placed the blame for the first exhibition on [Edouard Manet](https://impressionistarts.com/edouard-manet-biography.html). A rude review in La Presse described the group as ‘disciples of Monsieur Manet’; and a caricature in Les Contemporains showed Manet wearing a crown under the title ‘Manet, King of the Impressionists’.
+      Ironically, given his refusal to get involved, many reviewers placed the blame for the first exhibition on [Edouard Manet](/edouard-manet-biography). A rude review in La Presse described the group as ‘disciples of Monsieur Manet’; and a caricature in Les Contemporains showed Manet wearing a crown under the title ‘Manet, King of the Impressionists’.
 
 
       In December 1874, Renoir chaired a meeting of the company’s shareholders. It had liabilities of 3,713 francs and cash in hand of a mere 278 francs. Each exhibitor owed 184 francs 50 centimes. The group made the unanimous decision to liquidate the company.
@@ -182,8 +182,8 @@ textSections:
 ---
 ### The First Impressionist Exhibition took place in April-May 1874 in a gallery on Rue du Capucines in Paris.
 
-Organised by Monet, Pissarro, Degas, Renoir, Sisley and Berthe Morisot, the exhibition displayed [165 works by 30 artists](https://impressionistarts.com/first-impressionist-exhibition.html#3). They included Monet’s Impression Sunrise, the painting which was responsible for coining the term ‘impressionism’.
+Organised by Monet, Pissarro, Degas, Renoir, Sisley and Berthe Morisot, the exhibition displayed [165 works by 30 artists](/first-impressionist-exhibition#3). They included Monet’s Impression Sunrise, the painting which was responsible for coining the term ‘impressionism’.
 
-But the exhibition was a failure: although 3,500 people came (paying 1 franc each), most attended to sneer and scoff at the works on display. And the newspaper critics were, on the whole, [remarkably hostile](https://impressionistarts.com/first-impressionist-exhibition.html#4). One remarked of Impression Sunrise that:
+But the exhibition was a failure: although 3,500 people came (paying 1 franc each), most attended to sneer and scoff at the works on display. And the newspaper critics were, on the whole, [remarkably hostile](/first-impressionist-exhibition#4). One remarked of Impression Sunrise that:
 
 > “Wallpaper in its early stages is much more finished than that.”
