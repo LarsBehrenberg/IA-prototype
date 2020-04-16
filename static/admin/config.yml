@@ -8,8 +8,7 @@ backend:
     uploadMedia: '[skip ci] Upload “{{path}}”'
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
-display_url: https://wonderful-swartz-4900af.netlify.com
-logo_url: https://wonderful-swartz-4900af.netlify.com/logo/logo.png
+display_url: https://impressionistarts.larsbehrenberg.com
 
 media_folder: /static/assets/
 public_folder: /assets/
