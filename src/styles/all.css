@@ -732,6 +732,21 @@ img[data-srcset] {
   position: relative
 }
 
+.site-text h3, .site-text h2 {
+  color: #dd3030;
+  font-weight: 400;
+  margin-top: 0
+}
+
+.site-text h4 {
+  color: #23527c;
+}
+
+.site-text li a {
+  border-bottom: #e53132 dotted 2px;
+  color: #23527c
+}
+
 .site-text-less {
   position: relative;
   z-index: 5;
@@ -1826,6 +1841,10 @@ blockquote {
   padding: 10px 20px;
   background-color: rgba(0, 87, 255, 0.05);
   border-left: red solid 4px;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
 }
 
 .interesting {
