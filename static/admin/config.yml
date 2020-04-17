@@ -8,8 +8,6 @@ backend:
     uploadMedia: '[skip ci] Upload “{{path}}”'
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
-display_url: https://ia-prototype.larsbehrenberg.com
-
 media_folder: /static/assets/
 public_folder: /assets/
 
