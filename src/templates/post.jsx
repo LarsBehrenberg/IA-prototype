@@ -31,6 +31,7 @@ const Post = ({ data, pageContext }) => {
 
   function showSlides(n) {
     var i;
+    slideIndex = n
     var slides = document.getElementsByClassName("mySlides");
     var captionText = document.getElementById("caption");
     if (n > slides.length) {slideIndex = 1}
