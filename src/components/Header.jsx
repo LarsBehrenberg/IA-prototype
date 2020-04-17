@@ -20,7 +20,7 @@ const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, o
                         </div>
                         <div class="ttde-gallery-bottom">
                           <div class="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem" data-pswp-uid="1">
-                            <figure class="ttde-gallery-col-inner" nClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-size="FILLIN" data-cat="1" data-pid={image2.childImageSharp.fluid.src} data-index="1"><img data-src={image2.childImageSharp.fluid.src} alt="alt here" class="loaded" src={image2.childImageSharp.fluid.src} data-was-processed="true"/></a>
+                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-size="FILLIN" data-cat="1" data-pid={image2.childImageSharp.fluid.src} data-index="1"><img data-src={image2.childImageSharp.fluid.src} alt="alt here" class="loaded" src={image2.childImageSharp.fluid.src} data-was-processed="true"/></a>
                             </figure>
                           </div>
                           <div class="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem" data-pswp-uid="1">
