@@ -9,7 +9,7 @@ cover: /assets/caillebotte-the-floor-scrapers.jpg
 upperGalleryImages:
   image1: /assets/caillebotte-the-floor-scrapers.jpg
   image2: /assets/photograph-berthe-morisot.jpg
-  image3: /assets/berthe-morisot-the-artists-daughter-julie-with-her-nanny.jpg
+  image3: /assets/victor-chocquet-paul-cezanne.jpg
   image4: /assets/berthe-morisot-reading.jpg
 textSections:
   - textTitle: The artists and collectors
@@ -61,8 +61,8 @@ textSections:
 
       By far the most exciting artist in the Second Impressionist Exhibition, however, was another largely unknown figure: Caillebotte.
     sideGalleryImages:
-      - /assets/georges-seurat-bathers-at-asnieres.jpg
-      - /assets/georges-seurat-models.jpg
+      - /assets/morisot-hanging-the-laundry-out-to-dry.jpg
+      - /assets/edgar-degas-cotton-exchange.jpg
       - /assets/photograph-berthe-morisot.jpg
   - textTitle: The role of Caillebotte
     text: >-
