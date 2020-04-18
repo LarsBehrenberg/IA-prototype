@@ -17,19 +17,49 @@ textSections:
       ### In total, 20 Impressionist artists exhibited their work at the event.
 
 
-      It was agreed that the paintings should be hung in separate groupings for each artist so that each individual appeared distinctly. To limit the outrage caused by the exhibition, they put the artists whose work was considered ‘easiest’ in the front rooms and the more ‘difficult’ artists in the back. This was designed to gently ease visitors into the exhibition, avoiding an assault of revolutionary work as soon as they walked in the door. Edgar Degas enlisted the help of Berthe Morisot to coordinate the hanging of the paintings.
+      #### Organisation
+
+
+      It was agreed that the paintings should be hung in separate groupings for each artist so that each individual appeared distinctly. To limit the outrage caused by the exhibition, they put the artists whose work was considered ‘easiest’ in the front rooms and the more ‘difficult’ artists in the back. 
+
+
+      This was designed to gently ease visitors into the exhibition, avoiding an assault of revolutionary work as soon as they walked in the door. Edgar Degas enlisted the help of Berthe Morisot to coordinate the hanging of the paintings.
+
+
+      #### Key works exhibited
 
 
       Some of the most notable artists to exhibit in the Second Impressionist Exhibition were Morisot, Degas and Monet. These artists were most highly praised in reviews and they each showed a large array of paintings. Morisot exhibited 19 paintings including ‘Hanging the Laundry Out to Dry’ from 1875, whilst Degas sent 24 works with ‘The Cotton Office’ and ‘In the Cafe’ among them. Meanwhile, Monet displayed 18 works, which were duly chosen to go near the front of the exhibition.
 
 
-      Édouard Manet chose not to exhibit with the group but there were several newcomers, including Marcellin Desboutin and Alphonse Legros, who did. Similarly, Camille Pissarro, Renoir and Alfred Sisley also contributed works. Many pieces were further loaned by collectors such as Victor Chocquet and Jean-Baptiste Faure, a famous baritone. Faure had previously been a collector of works by Eugène Delacroix and Camille Corot among others, but on the advice of Paul Durand-Ruel, he had begun buying works by the Impressionists and Monet in particular.
+      #### Edouard Manet
 
 
-      Chocquet attended the exhibition every day and made it his duty to explain and defend his paintings to the public, especially the works of Paul Cézanne. “He turned into a kind of apostle” described Théodore Duret at a later date, expending enormous energy, “in order to persuade them \[visitors] of his convictions, to make them share his admiration and pleasure. It was a thankless task”. Cézanne chose not to attend the exhibition in person or send any of the works still in his possession, instead opting to stay in L’Estaque, a village in southern France where he was working on a series of landscape paintings. 
+      Édouard Manet chose not to exhibit with the group but there were several newcomers, including Marcellin Desboutin and Alphonse Legros, who did. Similarly, Camille Pissarro, Renoir and Alfred Sisley also contributed works. 
 
 
-      Desboutin showed his etchings and dry points at the exhibition, as well as at least one painting. He was also one of the models for Degas’ infamous painting ‘In the Cafe’ from 1875-76, which left visitors to the exhibition appalled due its depiction of “low vice”, as George Moore described it. By far the most exciting artist in the Second Impressionist Exhibition, however, was another largely unknown figure: Caillebotte.
+      Many pieces were further loaned by collectors such as Victor Chocquet and Jean-Baptiste Faure, a famous baritone. Faure had previously been a collector of works by Eugène Delacroix and Camille Corot among others, but on the advice of Paul Durand-Ruel, he had begun buying works by the Impressionists and Monet in particular.
+
+
+      #### Victor Chocquet
+
+
+      Chocquet attended the exhibition every day and made it his duty to explain and defend his paintings to the public, especially the works of Paul Cézanne. As Théodore Duret later described, Chocquet 
+
+
+      > “He turned into a kind of apostle in order to persuade them \[visitors] of his convictions, to make them share his admiration and pleasure. It was a thankless task”. 
+
+
+      Cézanne chose not to attend the exhibition in person or send any of the works still in his possession, instead opting to stay in L’Estaque, a village in southern France where he was working on a series of landscape paintings. 
+
+
+      #### Degas' Low Vice
+
+
+      Desboutin showed his etchings and dry points at the exhibition, as well as at least one painting. He was also one of the models for Degas’ infamous painting ‘In the Cafe’ from 1875-76, which left visitors to the exhibition appalled due its depiction of “low vice”, as George Moore described it. 
+
+
+      By far the most exciting artist in the Second Impressionist Exhibition, however, was another largely unknown figure: Caillebotte.
     sideGalleryImages:
       - /assets/berthe-morisot-reading.jpg
       - /assets/georges-seurat-bathers-at-asnieres.jpg
