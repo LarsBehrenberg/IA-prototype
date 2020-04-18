@@ -5,10 +5,10 @@ subTitle: "1876"
 title: Second Impressionist Exhibition
 tags:
   - exhibition
-cover: /assets/berthe-morisot-reading.jpg
+cover: /assets/caillebotte-the-floor-scrapers.jpg
 upperGalleryImages:
-  image1: /assets/berthe-morisot-grain-field.jpg
-  image2: /assets/berthe-morisot-laundry.jpg
+  image1: /assets/caillebotte-the-floor-scrapers.jpg
+  image2: /assets/photograph-berthe-morisot.jpg
   image3: /assets/berthe-morisot-the-artists-daughter-julie-with-her-nanny.jpg
   image4: /assets/berthe-morisot-reading.jpg
 textSections:
