@@ -100,7 +100,7 @@ textSections:
 
       Strangely, Caillebotte was not included in the exhibition catalogue, despite his central role. It has been theorised that this was because his inclusion was a later decision, but it may also point to rifts in the group that led to him being ‘overlooked’. It is known that Degas was put out at losing his position as unofficial manager of the Impressionist Exhibitions thanks to Caillebotte’s involvement. On the other hand, it may have been a simple error on behalf of the printer, who also managed to spell the names of Monet and Sisley incorrectly.
     sideGalleryImages:
-      - /assets/berthe-morisot-laundry.jpg
+      - /assets/gustave-caillebotte-photograph.jpg
   - textTitle: The Crowd
     text: >-
       ### The attendees of the Second Impressionist Exhibition were considerably
