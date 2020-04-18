@@ -61,9 +61,9 @@ textSections:
 
       By far the most exciting artist in the Second Impressionist Exhibition, however, was another largely unknown figure: Caillebotte.
     sideGalleryImages:
-      - /assets/berthe-morisot-reading.jpg
       - /assets/georges-seurat-bathers-at-asnieres.jpg
       - /assets/georges-seurat-models.jpg
+      - /assets/photograph-berthe-morisot.jpg
   - textTitle: The role of Caillebotte
     text: >-
       ### For the Second Impressionist Exhibition, Caillebotte acted as a
