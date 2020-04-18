@@ -98,31 +98,61 @@ textSections:
       > “a painting that is so accurate that it makes it bourgeois".
 
 
-      Strangely, Caillebotte was not included in the exhibition catalogue, despite his central role. It has been theorised that this was because his inclusion was a later decision, but it may also point to rifts in the group that led to him being ‘overlooked’. It is known that Degas was put out at losing his position as unofficial manager of the Impressionist Exhibitions thanks to Caillebotte’s involvement. On the other hand, it may have been a simple error on behalf of the printer, who also managed to spell the names of Monet and Sisley incorrectly.
+      Strangely, Caillebotte was not included in the exhibition catalogue, despite his central role. It has been theorised that this was because his inclusion was a later decision, but it may also point to rifts in the group that led to him being ‘overlooked’. 
+
+
+      It is known that Degas was put out at losing his position as unofficial manager of the Impressionist Exhibitions thanks to Caillebotte’s involvement. On the other hand, it may have been a simple error on behalf of the printer, who also managed to spell the names of Monet and Sisley incorrectly.
     sideGalleryImages:
       - /assets/gustave-caillebotte-photograph.jpg
   - textTitle: The Crowd
     text: >-
       ### The attendees of the Second Impressionist Exhibition were considerably
-      smaller than they had been for the First Impressionist Exhibition. 
+      smaller than they had been for the First Impressionist Exhibition.
 
 
       Nonetheless, a small crowd gathered to see the works displayed in the rue le Peletier. Paul Durand-Ruel had agreed to lend his gallery to the Impressionists for a month for the exhibition. Overall, some 252 works were hung, including two paintings by Frédéric Bazille, who had died in 1870.
 
 
+      #### Monet's Japanese Girl
+
+
       Despite much mockery and criticism from the crowd, a few of the paintings sold. Monet’s ‘Japanese Girl’ from 1876 was sold for 2,000 francs, a high price for an Impressionist work at this time. This rather satirical painting features his wife, Camille, wearing a blonde wig and a red kimono, posing smilingly with a fan raised against her face. The decorations on the striking kimono are rendered in extreme detail but the model’s face and hair are more of impressionistic, painted quickly and loosely. 
+
+
+      #### Discontent in the ranks
 
 
       Whilst the painting was well-liked by visitors to the exhibition, Cézanne expressed his disapproval in private letters to Pissarro. He stated that if he exhibited with the Impressionists again, he would like to do so without Monet. He saw the artist as having sold out in pursuit of commercial success, creating pretty pictures rather than progressive art. Similarly, the work was largely derided by critics in the press.
 
 
-      Despite its controversial subject matter, Degas’ ‘In the Cafe’, later changed to ‘L’Absinthe’, was sold to a British buyer, Captain Henry Hill of Brighton. Hill lent the painting to the Third Annual Winter Exhibition of Modern Pictures in Brighton in 1876, where the title was changed to ‘A Sketch At A French Cafe’. To some extent this demonstrates the perspective many visitors to the exhibition, who largely missed the concept of the paintings being finished works and instead saw many as mere sketches. Nonetheless, the sale provided Degas with much needed funds.
+      #### Degas' In the Cafe
 
 
-      The centrepiece of Renoir’s submission to the exhibition was ‘La Promenade’ from 1875-76. This lighthearted and fashionable piece, featuring two girls being shepherded by their mother through a park, was reportedly largely ignored by the public. Much to Renoir’s disappointment, it was also criticised in reviews of the exhibition. Despite the lukewarm response during its first unveiling, Durand-Ruel eventually purchased the work. In his characteristic style of art dealership, he sold and bought back the painting several times in the following decades before eventually selling the painting to the wealthy American collector Henry Clay Frick.
+      Despite its controversial subject matter, Degas’ ‘In the Cafe’, later changed to ‘L’Absinthe’, was sold to a British buyer, Captain Henry Hill of Brighton. Hill lent the painting to the Third Annual Winter Exhibition of Modern Pictures in Brighton in 1876, where the title was changed to ‘A Sketch At A French Cafe’. 
 
 
-      Another talked about painting was ‘The Cotton Office’ by Degas. This painting demonstrated Degas’ familiarity with academic painting, despite its modern, industrial subject matter. Though it was exhibited at the Second Impressionist Exhibition, Degas had first conceived of the work whilst he was traveling in America. His uncle owned a cotton business in New Orleans and Degas initially planned to sell the piece to a wealthy British textile manufacturer when he returned to Europe but was prevented from doing so as the cotton business declined sharply. Instead, he successfully sold the painting to the Musee des Beaux-Arts in Pau, France in 1878.
+      To some extent this demonstrates the perspective many visitors to the exhibition, who largely missed the concept of the paintings being finished works and instead saw many as mere sketches. Nonetheless, the sale provided Degas with much needed funds.
+
+
+      #### Renoir's La Promenade
+
+
+      The centrepiece of Renoir’s submission to the exhibition was ‘La Promenade’ from 1875-76. This lighthearted and fashionable piece, featuring two girls being shepherded by their mother through a park, was reportedly largely ignored by the public. Much to Renoir’s disappointment, it was also criticised in reviews of the exhibition. 
+
+
+      Despite the lukewarm response during its first unveiling, Durand-Ruel eventually purchased the work. In his characteristic style of art dealership, he sold and bought back the painting several times in the following decades before eventually selling the painting to the wealthy American collector Henry Clay Frick.
+
+
+      #### The Cotton Office/Exchange
+
+
+      Another talked about painting was ‘The Cotton Office’ by Degas. This painting demonstrated Degas’ familiarity with academic painting, despite its modern, industrial subject matter. Though it was exhibited at the Second Impressionist Exhibition, Degas had first conceived of the work whilst he was traveling in America. 
+
+
+      His uncle owned a cotton business in New Orleans and Degas initially planned to sell the piece to a wealthy British textile manufacturer when he returned to Europe but was prevented from doing so as the cotton business declined sharply. Instead, he successfully sold the painting to the Musee des Beaux-Arts in Pau, France in 1878.
+
+
+      #### A small profit
 
 
       Though overall attendance to the Second Impressionist Exhibition was not particularly high, the artists made enough money to pay Durand-Ruel 3,000 francs for the loan of the gallery and they each got back the 1,500 francs they had put into a group fund. On top of this, each contributing artist also got three francs. This made it a greater success than their previous exhibition.
@@ -132,16 +162,22 @@ textSections:
   - textTitle: Critics of the Second Impressionist Exhibition
     text: >-
       ### In the newspapers, the critical response to the Second Impressionist
-      Exhibition was mixed. 
+      Exhibition was mixed.
 
 
       Though many reviled the art on show and viewers were shocked by the picture of modernity portrayed by the Impressionists, some critics did provide the exhibition with a fair assessment. However, many reviews came with caveats and dismissals peppered in amongst their praise.
+
+
+      #### Duranty's praise
 
 
       Edmond Duranty, writing in Paris, published a long and glowing review of the exhibition. He then went on to publish his own pamphlet titled ‘La Nouvelle Peinture‘ or ‘The New Painting’ which stretched to 38 pages. Paid for out of his personal funds, he described the movement’s central tenets in detail, telling the public about the extraordinary new way of painting light and capturing everyday life. However, he also stated that he believed some of the artists were rather “too visionary”. 
 
 
       Some readers suspected that he had been enlisted by Degas to produce a positive review of the show as he paid much attention to his paintings in particular, above the other artists. Indeed, the two had earlier become friends over a shared interest in depicting daily life.
+
+
+      #### Henry James
 
 
       Back in the US after a visit to Paris, Henry James reviewed the exhibition for the New York Tribune. He described the work of the Impressionists as “decidedly interesting” and provided a comprehensive description of the aims of the Impressionist movement: 
@@ -151,6 +187,9 @@ textSections:
 
 
       However, he showed that he had not quite grasped the essence of the Impressionists when he compared them to the English Pre-Raphelites. Despite the confusion, this review was instrumental in introducing American audiences to the emerging movement.
+
+
+      #### Albert Wolff
 
 
       The review that undoubtedly stands out the most from the Second Impressionist Exhibition, however, is the one penned by Albert Wolff in Figaro. Wolff attacked the Impressionists with a shocking level of vehemence, describing the artists as “lunatics” and stating that, 
