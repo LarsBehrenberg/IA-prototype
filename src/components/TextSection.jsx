@@ -25,6 +25,7 @@ const TextSection = ({ title, text, textSectionImageArray, index, showGallery, o
                         <div className="smallery">
                             {
                                 // console.log(textSectionImageArray)
+                                textSectionImageArray !== null ?
                                 textSectionImageArray.map((image, arrayLocation) => {
                                 return (
                                     <div className="smallery-item-wrp ttdegalleryitem" data-pswp-uid="1">
@@ -33,7 +34,7 @@ const TextSection = ({ title, text, textSectionImageArray, index, showGallery, o
                                         </a> </figure>
                                     </div>
                                 )
-                            })
+                            }) : null
                             }
                         </div>
                     </div>
@@ -45,7 +46,7 @@ const TextSection = ({ title, text, textSectionImageArray, index, showGallery, o
                           </div>
                         </div>
                         <div className="site-text-more" id={"site-text-more-button-"+(index+1)}>
-                            <a className="btn btn-outline" href={"#"+(index+1)} onClick={ttdeToggleVisibility}>Expand to read more</a>
+                            <span className="btn btn-outline" onClick={ttdeToggleVisibility}>Expand to read more</span>
                         </div>
                       </div>
                     </div>

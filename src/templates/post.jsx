@@ -44,12 +44,12 @@ const Post = ({ data, pageContext }) => {
   }
 
   function fillModals(arr) {
-    return arr.map((image, index) => (
+    return arr !== null ? arr.map((image, index) => (
       <div className="mySlides">
         <div className="numbertext">1 / x</div>
         <img src={image.childImageSharp.fluid.src} className="gallery-image" alt="Image title" style={{width: "100%"}} />
       </div>
-    ))
+    )) : null
   }
 
   return (
