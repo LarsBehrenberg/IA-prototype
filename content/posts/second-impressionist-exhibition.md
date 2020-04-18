@@ -66,20 +66,36 @@ textSections:
       - /assets/photograph-berthe-morisot.jpg
   - textTitle: The role of Caillebotte
     text: >-
-      ### For the Second Impressionist Exhibition, Caillebotte acted as a
-      central source of funding. 
+      ### For the Second Impressionist Exhibition,
+      [Caillebotte](gustave-caillebotte-biography.html) acted as a central
+      source of funding.
 
 
-      He had been introduced to the group by Monet and Renoir and he financed the exhibition almost single-handedly, using his inheritance from his father’s death the previous year. The same year, in 1874, he had also tragically lost his brother, who was just 26 when he died. These sudden and untimely deaths stirred in Caillebotte the feeling that his life might not last much longer and he invested a great deal of money and energy into staging the Second Impressionist Exhibition. His will drafted that year also included considerable funds designated to support future Impressionist exhibitions in the event of his death.
+      He had been introduced to the group by Monet and Renoir and he financed the exhibition almost single-handedly, using his inheritance from his father’s death the previous year. The same year, in 1874, he had also tragically lost his brother, who was just 26 when he died. 
+
+
+      #### Caillebotte's influence
+
+
+      These sudden and untimely deaths stirred in Caillebotte the feeling that his life might not last much longer and he invested a great deal of money and energy into staging the Second Impressionist Exhibition. His will drafted that year also included considerable funds designated to support future Impressionist exhibitions in the event of his death.
 
 
       As well as acting as a crucial source of monetary support, Caillebotte also contributed eight paintings to the Second Impressionist Exhibition. By far the most important of these was ‘Les raboteurs de parquet’, ‘The Floor Planers’ or ‘The Floor Strippers’ from 1875. This impressive work was painted on an enormous scale and exhibits the academic style with which Caillebotte was taught to paint. 
 
 
+      #### The Floor Strippers/Scrapers/Planers
+
+
       ‘The Floor Planers’ is also one of the first examples of the urban working-class being depicted in art, though rural works and peasants had often been shown. Caillebotte does not attach any moral message to his painting, he simply captures the scene with objective realism, from the tools to the gestures of the men and the strain of their muscles as they work on their hands and knees in a luxurious Parisian apartment. 
 
 
-      Having previously been rejected by the Paris Salon due to talk of its “vulgar subject matter”, this painting was undoubtedly one of the stars of the Second Impressionist Exhibition. Visitors could not help but be arrested by the tableau and it was reported that people stood and stared at the work for some time. However, Émile Zola remarked somewhat ironically that it was a, “painting that is so accurate that it makes it bourgeois".
+      #### Vulgar Subject Matter?
+
+
+      Having previously been rejected by the Paris Salon due to talk of its “vulgar subject matter”, this painting was undoubtedly one of the stars of the Second Impressionist Exhibition. Visitors could not help but be arrested by the tableau and it was reported that people stood and stared at the work for some time. However, Émile Zola remarked somewhat ironically that it was:
+
+
+      > “a painting that is so accurate that it makes it bourgeois".
 
 
       Strangely, Caillebotte was not included in the exhibition catalogue, despite his central role. It has been theorised that this was because his inclusion was a later decision, but it may also point to rifts in the group that led to him being ‘overlooked’. It is known that Degas was put out at losing his position as unofficial manager of the Impressionist Exhibitions thanks to Caillebotte’s involvement. On the other hand, it may have been a simple error on behalf of the printer, who also managed to spell the names of Monet and Sisley incorrectly.
