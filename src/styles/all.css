@@ -740,9 +740,11 @@ img[data-srcset] {
 
 .site-text h4 {
   color: #23527c;
+  font-weight: normal;
+  font-size: 1.17em;
 }
 
-.site-text li a {
+.site-text li a, .site-text h3 a {
   border-bottom: #e53132 dotted 2px;
   color: #23527c
 }
