@@ -8,10 +8,14 @@ tags:
   - Berthe Morisot
 cover: /assets/berthe-morisot-with-a-bouquet-edouard-manet.jpg
 upperGalleryImages:
-  image1: /assets/berthe-morisot-the-harbor-at-lorient.jpg
-  image2: /assets/berthe-morisot-eugene-manet.jpg
-  image3: /assets/berthe-morisot-with-a-bouquet-edouard-manet.jpg
-  image4: /assets/berthe-morisot-girl-with-greyhound.jpg
+  topImage:
+    - topImageUrl: /assets/berthe-morisot-the-harbor-at-lorient.jpg
+  leftImage:
+    - leftImageUrl: /assets/berthe-morisot-eugene-manet.jpg
+  middleImage:
+    - middleImageUrl: /assets/berthe-morisot-with-a-bouquet-edouard-manet.jpg
+  rightImage:
+    - rightImageUrl: /assets/berthe-morisot-girl-with-greyhound.jpg
 textSections:
   - textTitle: Morisot’s early years
     text: >-
@@ -67,9 +71,9 @@ textSections:
 
       However, to say that she was merely a painter of domestic subjects is to reduce her work to a stereotype; she has a number of paintings that show the energy and movement of the public sphere as well, including vibrant boatyards, harbours and the banks of the River Seine.
     sideGalleryImages:
-      - /assets/berthe-morisot-mother-and-sister.jpg
-      - /assets/berthe-morisot-the-artists-daughter-julie-with-her-nanny.jpg
-      - /assets/berthe-morisot-the-sisters.jpg
+      - imageUrl: /assets/berthe-morisot-mother-and-sister.jpg
+      - imageUrl: /assets/berthe-morisot-the-artists-daughter-julie-with-her-nanny.jpg
+      - imageUrl: /assets/berthe-morisot-the-sisters.jpg
   - textTitle: The Impressionist exhibitions
     text: >-
       The Impressionist exhibitions were first conceived as a reaction to the [Paris Salon](https://en.wikipedia.org/wiki/Salon_(Paris)) and its restrictive judging process for artworks.
@@ -140,9 +144,9 @@ textSections:
 
       > “This woman’s work is exceptional. Too bad she’s not a man.”
     sideGalleryImages:
-      - /assets/berthe-morisot-jeune-fille-au-manteau.jpg
-      - /assets/berthe-morisot-la-coiffure.jpg
-      - /assets/berthe-morisot-the-dining-room.jpg
+      - imageUrl: /assets/berthe-morisot-jeune-fille-au-manteau.jpg
+      - imageUrl: /assets/berthe-morisot-la-coiffure.jpg
+      - imageUrl: /assets/berthe-morisot-the-dining-room.jpg
   - textTitle: Garden paintings
     text: >-
       Morisot’s wealthy upbringing meant that she was not as reliant on making
@@ -188,9 +192,9 @@ textSections:
 
       In all her works, there is a freedom to her painting style. Much of her brushwork is loose and unkept, making it extremely dynamic. It almost vibrates before the viewer’s eyes as in a painting of her husband and daughter - [‘Eugene Manet and His Daughter in the Garden’](https://www.wikiart.org/en/berthe-morisot/eugene-manet-with-his-daughter-at-bougival) - from 1883.
     sideGalleryImages:
-      - /assets/berthe-morisot-grain-field.jpg
-      - /assets/berthe-morisot-laundry.jpg
-      - /assets/berthe-morisot-reading.jpg
+      - imageUrl: /assets/berthe-morisot-grain-field.jpg
+      - imageUrl: /assets/berthe-morisot-laundry.jpg
+      - imageUrl: /assets/berthe-morisot-reading.jpg
   - textTitle: Morisot’s later works
     text: >-
       Whilst Morisot’s work was firmly Impressionist in style for much of her
@@ -210,9 +214,9 @@ textSections:
 
       As she grew more confident in her abilities, Morisot became freer with her style and experimentation. There is a sense of fearlessness that comes through in many of her later paintings that is missing from the more restrained work of the mid-1800s. She pursued her own distinctly radical path, setting herself apart from the other Impressionists and pushing further towards abstraction.
     sideGalleryImages:
-      - /assets/berthe-morisot-le-berceau.jpg
-      - /assets/berthe-morisot-le-repos-edouard-manet.jpg
-      - /assets/berthe-morisot-woman-with-a-muff.jpg
+      - imageUrl: /assets/berthe-morisot-le-berceau.jpg
+      - imageUrl: /assets/berthe-morisot-le-repos-edouard-manet.jpg
+      - imageUrl: /assets/berthe-morisot-woman-with-a-muff.jpg
   - textTitle: Morisot’s legacy
     text: >-
       Morisot’s death came suddenly and as a great shock to the [Impressionist
@@ -240,9 +244,9 @@ textSections:
 
       This quote is still painfully poignant to this day.
     sideGalleryImages:
-      - /assets/berthe-morisot-au-soulier-rose-edouard-manet.jpg
-      - /assets/berthe-morisot-with-a-fan-edouard-manet.jpg
-      - /assets/berthe-morisot-photo.jpg
+      - imageUrl: /assets/berthe-morisot-au-soulier-rose-edouard-manet.jpg
+      - imageUrl: /assets/berthe-morisot-with-a-fan-edouard-manet.jpg
+      - imageUrl: /assets/berthe-morisot-photo.jpg
 ---
 ### In many ways, Berthe Morisot captured the essence of Impressionism.
 

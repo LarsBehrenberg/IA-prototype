@@ -30,10 +30,30 @@ collections:
         name: "upperGalleryImages"
         widget: "object"
         fields:
-          - {label: Top Image, name: image1, widget: image, required: true}
-          - {label: Left Image, name: image2, widget: image, required: true}
-          - {label: Middle Image, name: image3, widget: image, required: true}
-          - {label: Right Image, name: image4, widget: image, required: true}
+          - label: Top
+            name: topImage
+            widget: object
+            fields:
+              - {label: Top Image, name: topImageUrl, widget: image, required: true}
+              - {label: Title & Alt, name: topImageTitle, widget: string, required: true}
+          - label: Left
+            name: leftImage
+            widget: object
+            fields:
+              - {label: Left Image, name: leftImageUrl, widget: image, required: true}
+              - {label: Title & Alt, name: leftImageTitle, widget: string, required: true}
+          - label: Middle
+            name: middleImage
+            widget: object
+            fields:
+              - {label: Middle Image, name: middleImageUrl, widget: image, required: true}
+              - {label: Title & Alt, name: middleImageTitle, widget: string, required: true}
+          - label: Right
+            name: rightImage
+            widget: object
+            fields:
+              - {label: Right Image, name: rightImageUrl, widget: image, required: true}
+              - {label: Title & Alt, name: rightImageTitle, widget: string, required: true}
       - label: "Text sections"
         name: "textSections"
         widget: "list"
@@ -49,7 +69,9 @@ collections:
             allow_add: true
             hint: "As many images as needed can be added to the site gallery of each text section"
             collapsed: true
-            field: {label: Image, name: image, widget: image}
+            fields:
+              - {label: Image, name: imageUrl, widget: image}
+              - {label: "Title & Alt", name: imageTitle, widget: string}
   - name: "maps"
     label: "Maps"
     folder: "/content/maps/"

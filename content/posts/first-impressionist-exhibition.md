@@ -8,10 +8,14 @@ tags:
   - Exhibition
 cover: /assets/postcard-of-paris-boulevard-des-capucines.jpg
 upperGalleryImages:
-  image1: /assets/postcard-of-paris-boulevard-des-capucines.jpg
-  image2: /assets/monet-boulevard-des-capucines.jpg
-  image3: /assets/monet-impression-sunrise.jpg
-  image4: /assets/renoir-la-loge.jpg
+  topImage:
+    - topImageUrl: /assets/postcard-of-paris-boulevard-des-capucines.jpg
+  leftImage:
+    - leftImageUrl: /assets/monet-boulevard-des-capucines.jpg
+  middleImage:
+    - middleImageUrl: /assets/monet-impression-sunrise.jpg
+  rightImage:
+    - rightImageUrl: /assets/renoir-la-loge.jpg
 textSections:
   - textTitle: Why was the first exhibition held?
     text: >-
@@ -53,9 +57,9 @@ textSections:
 
       But Monet would not be persuaded. Both he and Degas (who needed money because his family business had recently failed) both saw the exhibition as an opportunity to show their works to a wider audience and to drum-up some lucrative sales.
     sideGalleryImages:
-      - /assets/manet-a-good-glass-of-beer-1873.jpg
-      - /assets/cezanne-portrait-of-anthony-valabregue-1866.jpg
-      - /assets/monet-olympia-1863.jpg
+      - imageUrl: /assets/manet-a-good-glass-of-beer-1873.jpg
+      - imageUrl: /assets/cezanne-portrait-of-anthony-valabregue-1866.jpg
+      - imageUrl: /assets/monet-olympia-1863.jpg
   - textTitle: Organisation
     text: >-
       ### The main organisers of the first exhibition were Monet, Pissarro,
@@ -129,9 +133,9 @@ textSections:
 
       The exhibition ran from 15 April 1874 (two weeks before the start of the Salon) until 15 May 1874.
     sideGalleryImages:
-      - /assets/nadar-atelier-in-1860.jpg
-      - /assets/cham-caricature-in-1874.jpg
-      - /assets/catalog-cover-impressionist-exhibition-1874.jpg
+      - imageUrl: /assets/nadar-atelier-in-1860.jpg
+      - imageUrl: /assets/cham-caricature-in-1874.jpg
+      - imageUrl: /assets/catalog-cover-impressionist-exhibition-1874.jpg
   - textTitle: Paintings on display
     text: >-
       ### The most famous painting to be displayed was Claude Monet’s Impression
@@ -155,9 +159,9 @@ textSections:
 
       Sales were not good. Sisley was the most successful of the group, earning 1000 francs. Monet and Renoir made just under 200 francs each; Pissarro earned 130 francs; and Degas and Berthe Morisot sold nothing whatsoever.
     sideGalleryImages:
-      - /assets/pissarro-chestnut-trees-at-osny-1873.jpg
-      - /assets/renoir-the-dancer-1874.jpg
-      - /assets/cezanne-the-hanged-man-s-house-in-auvers-1873.jpg
+      - imageUrl: /assets/pissarro-chestnut-trees-at-osny-1873.jpg
+      - imageUrl: /assets/renoir-the-dancer-1874.jpg
+      - imageUrl: /assets/cezanne-the-hanged-man-s-house-in-auvers-1873.jpg
   - textTitle: What happened next?
     text: >-
       ### Though the exhibition was a bust commercially, Monet managed to sell
@@ -176,9 +180,9 @@ textSections:
 
       In December 1874, Renoir chaired a meeting of the company’s shareholders. It had liabilities of 3,713 francs and cash in hand of a mere 278 francs. Each exhibitor owed 184 francs 50 centimes. The group made the unanimous decision to liquidate the company.
     sideGalleryImages:
-      - /assets/manet-railway.jpg
-      - /assets/manet-boating.jpg
-      - /assets/manet-luncheon-on-the-grass.jpg
+      - imageUrl: /assets/manet-railway.jpg
+      - imageUrl: /assets/manet-boating.jpg
+      - imageUrl: /assets/manet-luncheon-on-the-grass.jpg
 ---
 ### The First Impressionist Exhibition took place in April-May 1874 in a gallery on Rue du Capucines in Paris.
 

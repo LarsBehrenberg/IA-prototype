@@ -8,10 +8,14 @@ tags:
   - Impressionist
 cover: /assets/van-gogh-starry-night.jpg
 upperGalleryImages:
-  image1: /assets/van-gogh-starry-night.jpg
-  image2: /assets/van-gogh-the-yellow-house.jpg
-  image3: /assets/van-gogh-self-portrait.jpg
-  image4: /assets/van-gogh-sunflowers.jpg
+  topImage:
+    - topImageUrl: /assets/van-gogh-starry-night.jpg
+  leftImage:
+    - leftImageUrl: /assets/van-gogh-the-yellow-house.jpg
+  middleImage:
+    - middleImageUrl: /assets/van-gogh-self-portrait.jpg
+  rightImage:
+    - rightImageUrl: /assets/van-gogh-sunflowers.jpg
 textSections:
   - textTitle: Van Gogh’s early years
     text: >-
@@ -47,9 +51,12 @@ textSections:
 
       After a brief time pursuing a career in the clergy, where Vincent donated all his possessions to coal-miners in South Belgium and was rejected from the church for being too extreme in his piety, he finally settled on becoming an artist. His reason for seeking out the career was a method of bringing him closer to God.
     sideGalleryImages:
-      - /assets/van-gogh-1873.jpg
-      - /assets/van-gogh-home.jpg
-      - /assets/van-gogh-theo.jpg
+      - imageUrl: /assets/van-gogh-1873.jpg
+        imageTitle: "Van Gogh's Image"
+      - imageUrl: /assets/van-gogh-home.jpg
+        imageTitle: "Van Gogh's Image"
+      - imageUrl: /assets/van-gogh-theo.jpg
+        imageTitle: "Van Gogh's Image"
   - textTitle: Vincent van Gogh and Theo
     text: >-
       ### Vincent’s younger brother, Theo, also became art dealer. Four years
@@ -103,9 +110,12 @@ textSections:
 
       This painting contrasts heavily with the airy, colourful scenes of the Monet, [Renoir](pierre-auguste-renoir-biography.html) and many other Impressionists. van Gogh’s deliberate shunning of the beauty and carefree style of the Impressionists showed his commitment to pursuing his own unique style. However, as a result of this individualist attitude, van Gogh was penniless. This canvas was unsellable, despite Theo’s stoic efforts.
     sideGalleryImages:
-      - /assets/van-gogh-bleaching-ground-at-scheveningen.jpg
-      - /assets/van-gogh-knotwilg-1882.jpg
-      - /assets/van-gogh-the-hill-of-montmartre-with-stone-quarry.jpg
+      - imageUrl: /assets/van-gogh-bleaching-ground-at-scheveningen.jpg
+        imageTitle: "Van Gogh's Image"
+      - imageUrl: /assets/van-gogh-knotwilg-1882.jpg
+        imageTitle: "Van Gogh's Image"
+      - imageUrl: /assets/van-gogh-the-hill-of-montmartre-with-stone-quarry.jpg
+        imageTitle: "Van Gogh's Image"
   - textTitle: Van Gogh and the Impressionists
     text: >-
       ### Theo has largely been credited with introducing his brother Vincent to
@@ -148,9 +158,12 @@ textSections:
 
       Similarly, many of van Gogh’s mature paintings have a linear quality to them that mimics Japanese artworks. He combined these strong lines with the loose brushwork of the Impressionists, whilst using his own distinct colour palette. In doing so, van Gogh began creating works that were highly unique and instantly recognisable, differing from any other artist painting at the time.
     sideGalleryImages:
-      - /assets/van-gogh-flowering-plum-orchard.jpg
-      - /assets/van-gogh-la-courtisane.jpg
-      - /assets/van-gogh-portrait-of-pere-tanguy-1887.jpg
+      - imageUrl: /assets/van-gogh-flowering-plum-orchard.jpg
+        imageTitle: "Van Gogh's Image"
+      - imageUrl: /assets/van-gogh-la-courtisane.jpg
+        imageTitle: "Van Gogh's Image"
+      - imageUrl: /assets/van-gogh-portrait-of-pere-tanguy-1887.jpg
+        imageTitle: "Van Gogh's Image"
   - textTitle: Van Gogh’s later works
     text: >-
       ### Two years in Paris eventually wore him down and van Gogh decided to
@@ -216,9 +229,12 @@ textSections:
 
       Van Gogh died in his Theo’s arms two days later. He left him his entire collection of artworks.
     sideGalleryImages:
-      - /assets/van-gogh-olive-trees.jpg
-      - /assets/van-gogh-self-portrait-with-grey-felt-hat.jpg
-      - /assets/van-gogh-starry-night-over-the-rhone.jpg
+      - imageUrl: /assets/van-gogh-olive-trees.jpg
+        imageTitle: "Van Gogh's Image Title"
+      - imageUrl: /assets/van-gogh-self-portrait-with-grey-felt-hat.jpg
+        imageTitle: "Van Gogh's Title"
+      - imageUrl: /assets/van-gogh-starry-night-over-the-rhone.jpg
+        imageTitle: "Van Gogh's Title"
   - textTitle: Van Gogh’s legacy
     text: >-
       ### Van Gogh is now an internationally recognised artist, revered for his
@@ -239,9 +255,12 @@ textSections:
 
       Over the course of his artistic career, van Gogh produced 900 paintings and over 1,100 drawings and sketches. Despite this, his talent went unnoticed by the French art market. He sold just one painting while he was alive.
     sideGalleryImages:
-      - /assets/van-gogh-newspaper-article.jpg
-      - /assets/van-gogh-graves.jpg
-      - /assets/van-gogh-museum-amsterdam.jpg
+      - imageUrl: /assets/van-gogh-newspaper-article.jpg
+        imageTitle: "Van Gogh's Image"
+      - imageUrl: /assets/van-gogh-graves.jpg
+        imageTitle: "Van Gogh's Image"
+      - imageUrl: /assets/van-gogh-museum-amsterdam.jpg
+        imageTitle: "Van Gogh's Image"
 ---
 ### Perhaps the best-known artist of the Post-Impressionist movement, Vincent van Gogh reached new heights with his use of colour and expressive artworks. His paintings are instantly recognisable and tend to linger in the viewer’s mind long after the physical image has passed.
 

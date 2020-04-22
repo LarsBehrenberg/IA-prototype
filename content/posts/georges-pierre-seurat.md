@@ -8,10 +8,14 @@ tags:
   - Impressionist
 cover: /assets/georges-seurat-sunday-on-la-grande-jatte.jpg
 upperGalleryImages:
-  image1: /assets/georges-seurat-sunday-on-la-grande-jatte.jpg
-  image2: /assets/georges-seurat-the-laborers.jpg
-  image3: /assets/georges-seurat-study-for-bathers-at-asnieres.jpg
-  image4: /assets/georges-seurat-house-with-red-roof.jpg
+  topImage:
+    - topImageUrl: /assets/georges-seurat-sunday-on-la-grande-jatte.jpg
+  leftImage:
+    - leftImageUrl: /assets/georges-seurat-the-laborers.jpg
+  middleImage:
+    - middleImageUrl: /assets/georges-seurat-study-for-bathers-at-asnieres.jpg
+  rightImage:
+    - rightImageUrl: /assets/georges-seurat-house-with-red-roof.jpg
 textSections:
   - textTitle: Seurat’s early years
     text: >-
@@ -67,9 +71,9 @@ textSections:
 
       However, he also conducted his own study in museums and libraries around Paris. It was his early discovery of Michel-Eugène Chevreul’s ‘The Principles of Harmony and Contrast of Colours’, which would be a key turning point in the development of Seurat’s artistic tastes and his wider career.
     sideGalleryImages:
-      - /assets/georges-seurat-photograph-1888.jpg
-      - /assets/georges-seurat-vase-of-flowers.jpg
-      - /assets/georges-seurat-young-woman-powdering-herself.jpg
+      - imageUrl: /assets/georges-seurat-photograph-1888.jpg
+      - imageUrl: /assets/georges-seurat-vase-of-flowers.jpg
+      - imageUrl: /assets/georges-seurat-young-woman-powdering-herself.jpg
   - textTitle: Seurat and the Impressionists
     text: >-
       ### Together with his friends Ernest Laurent and Édmond-François
@@ -109,9 +113,9 @@ textSections:
 
       [Félix Fénéon](https://en.wikipedia.org/wiki/F%C3%A9lix_F%C3%A9n%C3%A9on), a prominent art critic, was the first to name the paintings as Neo-Impressionist. From this point forwards, the work of Seurat and his followers became known as Neo-Impressionism.
     sideGalleryImages:
-      - /assets/georges-seurat-models.jpg
-      - /assets/georges-seurat-seated-nude.jpg
-      - /assets/georges-seurat-bathers-at-asnieres.jpg
+      - imageUrl: /assets/georges-seurat-models.jpg
+      - imageUrl: /assets/georges-seurat-seated-nude.jpg
+      - imageUrl: /assets/georges-seurat-bathers-at-asnieres.jpg
   - textTitle: Seurat and Neo-Impressionism
     text: >-
       ### In defining the Neo-Impressionist school, Seurat successful merged the
@@ -179,9 +183,9 @@ textSections:
 
       Upon his death, Signac took up the mantle of Neo-Impressionism and continued to develop the techniques further, building on his earliest works created as a disciple of Seurat. Signac enabled the momentum of the movement to continue, introducing the technique to an array of critics and writers and firmly establishing its reputation as an enduring art form.
     sideGalleryImages:
-      - /assets/georges-seurat-circus-sideshow.jpg
-      - /assets/georges-seurat-the-circus.jpg
-      - /assets/georges-seurat-le-chahut.jpg
+      - imageUrl: /assets/georges-seurat-circus-sideshow.jpg
+      - imageUrl: /assets/georges-seurat-the-circus.jpg
+      - imageUrl: /assets/georges-seurat-le-chahut.jpg
   - textTitle: Seurat’s legacy
     text: >-
       ### Much like his father, Seurat chose to live in secrecy for the majority
@@ -221,9 +225,9 @@ textSections:
 
       The legacy of Seurat and the techniques he developed are far-reaching to this day. The Pointillist movement inspired a great number of Impressionist and Post-Impressionist artists and continued to ripple through the art world long after his death. From Pop Art to today’s pixelated Digital Art, Seurat’s explorations into colour theory and his careful, dotted applications of paint were monumental. His short life only serves to make his legacy even more incredible.
     sideGalleryImages:
-      - /assets/georges-seurat-monument.jpg
-      - /assets/georges-seurat-grave.jpg
-      - /assets/pere-lachaise-cemetery.jpg
+      - imageUrl: /assets/georges-seurat-monument.jpg
+      - imageUrl: /assets/georges-seurat-grave.jpg
+      - imageUrl: /assets/pere-lachaise-cemetery.jpg
 ---
 ### Georges-Pierre Seurat was the founder of Neo-Impressionism and the pioneer of the Pointillist technique.
 

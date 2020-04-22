@@ -24,13 +24,12 @@ const TextSection = ({ title, text, textSectionImageArray, index, showGallery, o
                     <div className="col-sm-3">
                         <div className="smallery">
                             {
-                                // console.log(textSectionImageArray)
                                 textSectionImageArray !== null ?
                                 textSectionImageArray.map((image, arrayLocation) => {
                                 return (
                                     <div className="smallery-item-wrp ttdegalleryitem" data-pswp-uid="1">
-                                        <figure className="smallery-item-psn" onClick={() => { openGallery(); showGallery(1);}}> <a href={"#top"} className="smallery-item-uri" data-cat="1" title="FILLINALT" data-size="FILLINSIZE" data-pid="FILLINPICS" data-index="FILLINNUMBER">
-                                            <img className="smallery-item-img loaded" data-src={image.childImageSharp.fluid.src} alt="FILLINALT" src={image.childImageSharp.fluid.src} data-was-processed="true" />
+                                        <figure className="smallery-item-psn" onClick={() => { openGallery(); showGallery(1);}}> <a href={"#top"} className="smallery-item-uri" data-pid={image.imageUrl.childImageSharp.fluid.src} >
+                                            <img className="smallery-item-img loaded" data-src={image.imageUrl.childImageSharp.fluid.src} alt={image.imageTitle} src={image.imageUrl.childImageSharp.fluid.src} data-was-processed="true" />
                                         </a> </figure>
                                     </div>
                                 )

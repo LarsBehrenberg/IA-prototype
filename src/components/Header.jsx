@@ -2,7 +2,8 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, openGallery, prevNeighbor, nextNeighbor}) => {
-    const { image1, image2, image3, image4 } = images
+    const { topImage, leftImage, middleImage, rightImage } = images
+
     return (
     <div class="container">
             <div class="row">
@@ -15,21 +16,21 @@ const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, o
                     <div class="ttde-gallery">
                       <div class="ttde-gallery-inner">
                         <div class="ttde-gallery-top ttdegalleryitem" data-pswp-uid="1">
-                          <figure class="ttde-gallery-top-inner" onClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="" data-size="" data-cat="1" data-pid={image1.childImageSharp.fluid.src} data-index="0"><img src={image1.childImageSharp.fluid.src} alt="alt here" class="loading" data-was-processed="true" />
+                          <figure class="ttde-gallery-top-inner" onClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-pid={topImage[0].topImageUrl.childImageSharp.fluid.src} data-index="0"><img src={topImage[0].topImageUrl.childImageSharp.fluid.src} alt={topImage[0].topImageTitle} class="loading" data-was-processed="true" />
                             </a> </figure>
                         </div>
                         <div class="ttde-gallery-bottom">
                           <div class="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem" data-pswp-uid="1">
-                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-size="FILLIN" data-cat="1" data-pid={image2.childImageSharp.fluid.src} data-index="1"><img data-src={image2.childImageSharp.fluid.src} alt="alt here" class="loaded" src={image2.childImageSharp.fluid.src} data-was-processed="true"/></a>
+                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(2);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-pid={leftImage[0].leftImageUrl.childImageSharp.fluid.src} data-index="1"><img data-src={leftImage[0].leftImageUrl.childImageSharp.fluid.src} alt={leftImage[0].leftImageTitle} class="loaded" src={leftImage[0].leftImageUrl.childImageSharp.fluid.src} data-was-processed="true"/></a>
                             </figure>
                           </div>
                           <div class="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem" data-pswp-uid="1">
-                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="some title here" data-size="FILLIN" data-cat="1" data-pid={image3.childImageSharp.fluid.src} data-index="2"><img data-src={image3.childImageSharp.fluid.src} alt="alt here" class="loaded" src={image3.childImageSharp.fluid.src} data-was-processed="true"/></a>
+                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(3);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-pid={middleImage[0].middleImageUrl.childImageSharp.fluid.src} data-index="2"><img data-src={middleImage[0].middleImageUrl.childImageSharp.fluid.src} alt={middleImage[0].middleImageTitle} class="loaded" src={middleImage[0].middleImageUrl.childImageSharp.fluid.src} data-was-processed="true"/></a>
                             </figure>
                           </div>
                           <div class="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open" data-pswp-uid="1">
-                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-size="FILLIN" data-cat="1" data-pid={image4.childImageSharp.fluid.src} data-index="3"><span class="ttde-gallery-open-btn"><span>More
-                                    images 20+</span></span><img data-src={image4.childImageSharp.fluid.src} alt="alt here" class="loaded" src={image4.childImageSharp.fluid.src} data-was-processed="true"/></a>
+                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(4);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-pid={rightImage[0].rightImageUrl.childImageSharp.fluid.src} data-index="3"><span class="ttde-gallery-open-btn"><span>More
+                                    images 20+</span></span><img data-src={rightImage[0].rightImageUrl.childImageSharp.fluid.src} alt={rightImage[0].rightImageTitle} class="loaded" src={rightImage[0].rightImageUrl.childImageSharp.fluid.src} data-was-processed="true"/></a>
                             </figure>
                           </div>
                         </div>

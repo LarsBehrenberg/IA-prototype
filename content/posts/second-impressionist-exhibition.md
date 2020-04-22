@@ -7,10 +7,14 @@ tags:
   - exhibition
 cover: /assets/caillebotte-the-floor-scrapers.jpg
 upperGalleryImages:
-  image1: /assets/caillebotte-the-floor-scrapers.jpg
-  image2: /assets/photograph-berthe-morisot.jpg
-  image3: /assets/victor-chocquet-paul-cezanne.jpg
-  image4: /assets/berthe-morisot-reading.jpg
+  topImage:
+    - topImageUrl: /assets/caillebotte-the-floor-scrapers.jpg
+  leftImage:
+    - leftImageUrl: /assets/photograph-berthe-morisot.jpg
+  middleImage:
+    - middleImageUrl: /assets/victor-chocquet-paul-cezanne.jpg
+  rightImage:
+    - rightImageUrl: /assets/berthe-morisot-reading.jpg
 textSections:
   - textTitle: The artists and collectors
     text: >-
@@ -61,9 +65,12 @@ textSections:
 
       By far the most exciting artist in the Second Impressionist Exhibition, however, was another largely unknown figure: Caillebotte.
     sideGalleryImages:
-      - /assets/morisot-hanging-the-laundry-out-to-dry.jpg
-      - /assets/edgar-degas-cotton-exchange.jpg
-      - /assets/photograph-berthe-morisot.jpg
+      - imageUrl: /assets/morisot-hanging-the-laundry-out-to-dry.jpg
+        imageTitle: "Morisot's Hanging the laundry out to dry"
+      - imageUrl: /assets/edgar-degas-cotton-exchange.jpg
+        imageTitle: "Degas's Cotton exchange"
+      - imageUrl: /assets/photograph-berthe-morisot.jpg
+        imageTitle: "Morisot's photograph"
   - textTitle: The role of Caillebotte
     text: >-
       ### For the Second Impressionist Exhibition,
@@ -103,7 +110,8 @@ textSections:
 
       It is known that Degas was put out at losing his position as unofficial manager of the Impressionist Exhibitions thanks to Caillebotte’s involvement. On the other hand, it may have been a simple error on behalf of the printer, who also managed to spell the names of Monet and Sisley incorrectly.
     sideGalleryImages:
-      - /assets/gustave-caillebotte-photograph.jpg
+      - imageUrl: /assets/gustave-caillebotte-photograph.jpg
+        imageTitle: "Gustave Caillebotte's photograph"
   - textTitle: The Crowd
     text: >-
       ### The attendees of the Second Impressionist Exhibition were considerably

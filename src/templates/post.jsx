@@ -13,9 +13,10 @@ var slideIndex = 1;
 
 const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
-  const {html, frontmatter, excerpt, fields} = data.markdownRemark
-  const {date, title, subTitle, tags, path, description, textSections, upperGalleryImages} = frontmatter
+  const { html, frontmatter, excerpt, fields } = data.markdownRemark
+  const { date, title, subTitle, tags, path, description, textSections, upperGalleryImages } = frontmatter
   const image = frontmatter.cover.childImageSharp.fluid;
+  const { topImage, leftImage, middleImage, rightImage } = upperGalleryImages
 
   function openModal() {
     document.getElementById("myModal").style.display = "block";
@@ -48,7 +49,7 @@ const Post = ({ data, pageContext }) => {
     return arr !== null ? arr.map((image, index) => (
       <div className="mySlides">
         <div className="numbertext">1 / x</div>
-        <img src={image.childImageSharp.fluid.src} className="gallery-image" alt="Image title" style={{width: "100%"}} />
+        <img src={image.imageUrl.childImageSharp.fluid.src} className="gallery-image" alt={image.imageTitle == null ? "An image title is missing" : image.imageTitle} style={{width: "100%"}} />
       </div>
     )) : null
   }
@@ -84,19 +85,19 @@ const Post = ({ data, pageContext }) => {
 
                 <div className="mySlides">
                   <div className="numbertext">1 / x</div>
-                  <img src={upperGalleryImages.image1.childImageSharp.fluid.src} className="gallery-image" alt="Image title" style={{width: "100%"}} />
+                  <img src={topImage[0].topImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={topImage[0].topImageTitle == null ? "An image title is missing" : topImage[0].topImageTitle} style={{width: "100%"}} />
                 </div>
                 <div className="mySlides">
                   <div className="numbertext">1 / x</div>
-                  <img src={upperGalleryImages.image2.childImageSharp.fluid.src} className="gallery-image" alt="Image title" style={{width: "100%"}} />
+                  <img src={leftImage[0].leftImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={leftImage[0].leftImageTitle == null ? "An image title is missing" : leftImage[0].leftImageTitle} style={{width: "100%"}} />
                 </div>
                 <div className="mySlides">
                   <div className="numbertext">1 / x</div>
-                  <img src={upperGalleryImages.image3.childImageSharp.fluid.src} className="gallery-image" alt="Image title" style={{width: "100%"}} />
+                  <img src={middleImage[0].middleImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={middleImage[0].middleImageTitle == null ? "An image title is missing" : middleImage[0].middleImageTitle} style={{width: "100%"}} />
                 </div>
                 <div className="mySlides">
                   <div className="numbertext">1 / x</div>
-                  <img src={upperGalleryImages.image4.childImageSharp.fluid.src} className="gallery-image" alt="Image title" style={{width: "100%"}} />
+                  <img src={rightImage[0].rightImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={rightImage[0].rightImageTitle == null ? "An image title is missing" : rightImage[0].rightImageTitle} style={{width: "100%"}} />
                 </div>
 
                 {
@@ -141,47 +142,39 @@ export const query = graphql`
         subTitle
         tags
         upperGalleryImages {
-          image4 {
-            childImageSharp {
-              fluid(
-                maxWidth: 450
-                quality: 90
-                traceSVG: { color: "#2B2B2F" }
-              ) {
-                ...GatsbyImageSharpFluid_withWebp_tracedSVG
+          topImage {
+            topImageUrl {
+              childImageSharp {
+                fluid(maxWidth: 900) {
+                  ...GatsbyImageSharpFluid
+                }
               }
             }
           }
-          image3 {
-            childImageSharp {
-              fluid(
-                maxWidth: 450
-                quality: 90
-                traceSVG: { color: "#2B2B2F" }
-              ) {
-                ...GatsbyImageSharpFluid_withWebp_tracedSVG
+          leftImage {
+            leftImageUrl {
+              childImageSharp {
+                fluid(maxWidth: 450) {
+                  ...GatsbyImageSharpFluid
+                }
               }
             }
           }
-          image2 {
-            childImageSharp {
-              fluid(
-                maxWidth: 450
-                quality: 90
-                traceSVG: { color: "#2B2B2F" }
-              ) {
-                ...GatsbyImageSharpFluid_withWebp_tracedSVG
+          middleImage {
+            middleImageUrl {
+              childImageSharp {
+                fluid(maxWidth: 450) {
+                  ...GatsbyImageSharpFluid
+                }
               }
             }
           }
-          image1 {
-            childImageSharp {
-              fluid(
-                maxWidth: 900
-                quality: 90
-                traceSVG: { color: "#2B2B2F" }
-              ) {
-                ...GatsbyImageSharpFluid_withWebp_tracedSVG
+          rightImage {
+            rightImageUrl {
+              childImageSharp {
+                fluid(maxWidth: 450) {
+                  ...GatsbyImageSharpFluid
+                }
               }
             }
           }
@@ -189,15 +182,14 @@ export const query = graphql`
         textSections {
           textTitle
           sideGalleryImages {
-            childImageSharp {
-              fluid(
-                maxWidth: 900
-                quality: 90
-                traceSVG: { color: "#2B2B2F" }
-              ) {
-                ...GatsbyImageSharpFluid_withWebp_tracedSVG
+            imageUrl {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
               }
             }
+            imageTitle
           }
         }
         cover {
