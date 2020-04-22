@@ -6,6 +6,7 @@ import SEO from '../components/SEO'
 import Layout from '../layouts/Layout'
 import TextSection from '../components/TextSection'
 import Header from '../components/Header'
+import Suggestion from '../components/Suggestion'
 import '../styles/lightbox.css'
 
 var slideIndex = 1;
@@ -70,6 +71,8 @@ const Post = ({ data, pageContext }) => {
           {fields.bodyTitle.map((value, index) => {
             return <TextSection showGallery={showSlides} openGallery={openModal} index={index} title={textSections[index].textTitle} text={fields.bodyText[index]} textSectionImageArray={textSections[index].sideGalleryImages}/>
           })}
+
+        <Suggestion previousNeighbor={prev} nextNeighbor={next}/>
         </main>
       </div>
     </Layout>

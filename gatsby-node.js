@@ -24,6 +24,9 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
                     path
                     title
                     tags
+                    cover {
+                      relativePath
+                    }
                   }
                 }
               }
