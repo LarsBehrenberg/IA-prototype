@@ -5,10 +5,13 @@ const Navbar = () => (
     <header className="site-header">
     <div className="container">
       <div className="site-brand">
-        <div className="brand"><a className="brand-uri" href="/"><img
-              src="./logo/logo.png" alt="" className="loading"
-              data-was-processed="true" /></a></div><button id="primary-toggle" className="menu-toggle"
-          aria-controls="primary-menu" aria-expanded="false"><span></span><span></span><span></span></button>
+        <div className="brand"><Link className="brand-uri" to="/"><img
+              src="/logo/logo.png" alt="" className="loading"
+              data-was-processed="true" /></Link>
+        </div>
+        <button id="primary-toggle" className="menu-toggle"
+          aria-controls="primary-menu" aria-expanded="false"><span></span><span></span><span></span>
+        </button>
       </div>
       <nav id="site-navigation" className="nav">
         <div className="nav-ctn">
