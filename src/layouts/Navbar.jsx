@@ -28,7 +28,7 @@ const Navbar = () => (
                 <li>Coming soon</li>
                 </ul>
             </li>
-            <li><a href="/">Quiz</a></li>
+            <li><Link to="impressionism-quiz">Quiz</Link></li>
             <li><a href="/"><span>More</span> <span className="caret"></span></a>
                 <ul className="sub-menu">
                     {/* <li><a href="https://impressionistarts.com/impressionism-timeline.html">Impressionism Timeline </a> </li>

@@ -16,7 +16,7 @@ const Suggestion = ({ previousNeighbor, nextNeighbor }) => (
                         </div>
                       </div>
                         <div className="ttde-gallery-col ttde-gallery-col-2">
-                        <div className="ttde-gallery-col-inner"> <Link className="ttde-gallery-url" to="impressionism-quiz.html" data-gallery="" title="Try our 100 question impressionism quiz"><span className="ttde-gallery-open-btn"><span>2-minute quiz</span></span><img alt="Try our 100 question impressionism quiz" className="loaded" src="assets/impressionism-quiz.jpg" data-was-processed="true" /></Link>
+                        <div className="ttde-gallery-col-inner"> <Link className="ttde-gallery-url" to="impressionism-quiz" title="Try our 100 question impressionism quiz"><span className="ttde-gallery-open-btn"><span>2-minute quiz</span></span><img alt="Try our 100 question impressionism quiz" className="loaded" src="assets/impressionism-quiz.jpg" data-was-processed="true" /></Link>
                         </div>
                       </div>
                       <div className="ttde-gallery-col ttde-gallery-col-3 ttde-gallery-open">
