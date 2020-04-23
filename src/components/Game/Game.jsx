@@ -5,12 +5,6 @@ import '../../styles/quiz.css'
 const questions = require('./questions').questions;
 
 class Game extends React.Component {
-
-    question = document.getElementById('question')
-    progressText = document.getElementById('progressText')
-    scoreText = document.getElementById('score')
-    progressBarFull = document.getElementById("progressBarFull")
-
     currentQuestion = {}
     acceptingAnswers = false
     score = 0
