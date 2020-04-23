@@ -85,19 +85,19 @@ const Post = ({ data, pageContext }) => {
 
                 <div className="mySlides">
                   <div className="numbertext">1 / x</div>
-                  <img src={topImage[0].topImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={topImage[0].topImageTitle == null ? "An image title is missing" : topImage[0].topImageTitle} style={{width: "100%"}} />
+                  <img src={topImage.topImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={topImage.topImageTitle == null ? "An image title is missing" : topImage.topImageTitle} style={{width: "100%"}} />
                 </div>
                 <div className="mySlides">
                   <div className="numbertext">1 / x</div>
-                  <img src={leftImage[0].leftImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={leftImage[0].leftImageTitle == null ? "An image title is missing" : leftImage[0].leftImageTitle} style={{width: "100%"}} />
+                  <img src={leftImage.leftImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={leftImage.leftImageTitle == null ? "An image title is missing" : leftImage.leftImageTitle} style={{width: "100%"}} />
                 </div>
                 <div className="mySlides">
                   <div className="numbertext">1 / x</div>
-                  <img src={middleImage[0].middleImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={middleImage[0].middleImageTitle == null ? "An image title is missing" : middleImage[0].middleImageTitle} style={{width: "100%"}} />
+                  <img src={middleImage.middleImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={middleImage.middleImageTitle == null ? "An image title is missing" : middleImage.middleImageTitle} style={{width: "100%"}} />
                 </div>
                 <div className="mySlides">
                   <div className="numbertext">1 / x</div>
-                  <img src={rightImage[0].rightImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={rightImage[0].rightImageTitle == null ? "An image title is missing" : rightImage[0].rightImageTitle} style={{width: "100%"}} />
+                  <img src={rightImage.rightImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={rightImage.rightImageTitle == null ? "An image title is missing" : rightImage.rightImageTitle} style={{width: "100%"}} />
                 </div>
 
                 {
