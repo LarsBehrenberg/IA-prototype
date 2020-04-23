@@ -7,6 +7,8 @@ import Layout from '../layouts/Layout'
 import '../styles/quiz.css'
 
 const ResultWrapper = styled.div`
+
+    background-color: #ecf5ff;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -15,14 +17,14 @@ const ResultWrapper = styled.div`
 `
 
 const FinalScore = styled.h1`
-    font-size: 5.4rem;
+    font-size: 4rem;
     color: #e53132
 `
 
 const StyledLink = styled(Link)`
-    font-size: 1.8rem;
-    padding: 1rem 0;
-    width: 15rem;
+    font-size: 1.3rem;
+    padding: .7rem 0;
+    width: 10rem;
     text-align: center;
     border: 0.1rem solid #56a5eb;
     margin-bottom: 1rem;
