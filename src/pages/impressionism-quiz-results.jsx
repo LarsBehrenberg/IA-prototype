@@ -48,12 +48,6 @@ const Form = styled.form`
 `
 
 class ImpressionismQuizResult extends React.Component {
-
-    username = document.getElementById('username')
-    saveScoreBtn = document.getElementById('saveScoreBtn')
-    mostRecentScore = localStorage.getItem('mostRecentScore')
-
-
     finalScoreMessage = () => {
         if (document.getElementById('finalScore').innerText > 8) {document.getElementById('finalMessage').innerText = "Congratulations, you know your Manet from your Monet!"}
         else if (document.getElementById('finalScore').innerText >6) {document.getElementById('finalMessage').innerText = "Good work. But check out our timeline page to get top marks!"}
