@@ -35,25 +35,25 @@ collections:
             widget: object
             fields:
               - {label: Top Image, name: topImageUrl, widget: image, required: true}
-              - {label: Title & Alt, name: topImageTitle, widget: string, required: true}
+              - {label: Title & Alt, name: topImageTitle, widget: string}
           - label: Left
             name: leftImage
             widget: object
             fields:
               - {label: Left Image, name: leftImageUrl, widget: image, required: true}
-              - {label: Title & Alt, name: leftImageTitle, widget: string, required: true}
+              - {label: Title & Alt, name: leftImageTitle, widget: string}
           - label: Middle
             name: middleImage
             widget: object
             fields:
               - {label: Middle Image, name: middleImageUrl, widget: image, required: true}
-              - {label: Title & Alt, name: middleImageTitle, widget: string, required: true}
+              - {label: Title & Alt, name: middleImageTitle, widget: string}
           - label: Right
             name: rightImage
             widget: object
             fields:
               - {label: Right Image, name: rightImageUrl, widget: image, required: true}
-              - {label: Title & Alt, name: rightImageTitle, widget: string, required: true}
+              - {label: Title & Alt, name: rightImageTitle, widget: string}
       - label: "Text sections"
         name: "textSections"
         widget: "list"
