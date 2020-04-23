@@ -8,13 +8,17 @@ tags:
 cover: /assets/caillebotte-the-floor-scrapers.jpg
 upperGalleryImages:
   topImage:
-    - topImageUrl: /assets/caillebotte-the-floor-scrapers.jpg
+    topImageUrl: /assets/caillebotte-the-floor-scrapers.jpg
+    topImageTitle: alt tag here
   leftImage:
-    - leftImageUrl: /assets/photograph-berthe-morisot.jpg
+    leftImageUrl: /assets/photograph-berthe-morisot.jpg
+    leftImageTitle: alt tag here
   middleImage:
-    - middleImageUrl: /assets/victor-chocquet-paul-cezanne.jpg
+    middleImageUrl: /assets/victor-chocquet-paul-cezanne.jpg
+    middleImageTitle: alt tag here
   rightImage:
-    - rightImageUrl: /assets/berthe-morisot-reading.jpg
+    rightImageUrl: /assets/berthe-morisot-reading.jpg
+    rightImageTitle: alt tag here
 textSections:
   - textTitle: The artists and collectors
     text: >-

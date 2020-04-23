@@ -9,13 +9,17 @@ tags:
 cover: /assets/paul-signac-in-the-time-of-harmony.jpg
 upperGalleryImages:
   topImage:
-    - topImageUrl: /assets/paul-signac-in-the-time-of-harmony.jpg
+    topImageUrl: /assets/paul-signac-in-the-time-of-harmony.jpg
+    topImageTitle: alt tag here
   leftImage:
-    - leftImageUrl: /assets/paul-signac-port-of-saint-tropez.jpg
+    leftImageUrl: /assets/paul-signac-port-of-saint-tropez.jpg
+    leftImageTitle: alt tag here
   middleImage:
-    - middleImageUrl: /assets/paul-signac-capo-di-noli.jpg
+    middleImageUrl: /assets/paul-signac-capo-di-noli.jpg
+    middleImageTitle: alt tag here
   rightImage:
-    - rightImageUrl: /assets/paul-signac-portrait-of-felix-feneon.jpg
+    rightImageUrl: /assets/paul-signac-portrait-of-felix-feneon.jpg
+    rightImageTitle: alt tag here
 textSections:
   - textTitle: Signac’s early years
     text: >-

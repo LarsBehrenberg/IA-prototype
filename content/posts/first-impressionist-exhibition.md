@@ -9,13 +9,17 @@ tags:
 cover: /assets/postcard-of-paris-boulevard-des-capucines.jpg
 upperGalleryImages:
   topImage:
-    - topImageUrl: /assets/postcard-of-paris-boulevard-des-capucines.jpg
+    topImageUrl: /assets/postcard-of-paris-boulevard-des-capucines.jpg
+    topImageTitle: alt tag here
   leftImage:
-    - leftImageUrl: /assets/monet-boulevard-des-capucines.jpg
+    leftImageUrl: /assets/monet-boulevard-des-capucines.jpg
+    leftImageTitle: alt tag here
   middleImage:
-    - middleImageUrl: /assets/monet-impression-sunrise.jpg
+    middleImageUrl: /assets/monet-impression-sunrise.jpg
+    middleImageTitle: alt tag here
   rightImage:
-    - rightImageUrl: /assets/renoir-la-loge.jpg
+    rightImageUrl: /assets/renoir-la-loge.jpg
+    rightImageTitle: alt tag here
 textSections:
   - textTitle: Why was the first exhibition held?
     text: >-

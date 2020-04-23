@@ -9,13 +9,17 @@ tags:
 cover: /assets/georges-seurat-sunday-on-la-grande-jatte.jpg
 upperGalleryImages:
   topImage:
-    - topImageUrl: /assets/georges-seurat-sunday-on-la-grande-jatte.jpg
+    topImageUrl: /assets/georges-seurat-sunday-on-la-grande-jatte.jpg
+    topImageTitle: alt tag here
   leftImage:
-    - leftImageUrl: /assets/georges-seurat-the-laborers.jpg
+    leftImageUrl: /assets/georges-seurat-the-laborers.jpg
+    leftImageTitle: alt tag here
   middleImage:
-    - middleImageUrl: /assets/georges-seurat-study-for-bathers-at-asnieres.jpg
+    middleImageUrl: /assets/georges-seurat-study-for-bathers-at-asnieres.jpg
+    middleImageTitle: alt tag here
   rightImage:
-    - rightImageUrl: /assets/georges-seurat-house-with-red-roof.jpg
+    rightImageUrl: /assets/georges-seurat-house-with-red-roof.jpg
+    rightImageTitle: alt tag here
 textSections:
   - textTitle: Seurat’s early years
     text: >-

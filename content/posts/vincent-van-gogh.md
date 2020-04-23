@@ -9,13 +9,17 @@ tags:
 cover: /assets/van-gogh-starry-night.jpg
 upperGalleryImages:
   topImage:
-    - topImageUrl: /assets/van-gogh-starry-night.jpg
+    topImageUrl: /assets/van-gogh-starry-night.jpg
+    topImageTitle: alt tag here
   leftImage:
-    - leftImageUrl: /assets/van-gogh-the-yellow-house.jpg
+    leftImageUrl: /assets/van-gogh-the-yellow-house.jpg
+    leftImageTitle: alt tag here
   middleImage:
-    - middleImageUrl: /assets/van-gogh-self-portrait.jpg
+    middleImageUrl: /assets/van-gogh-self-portrait.jpg
+    middleImageTitle: alt tag here
   rightImage:
-    - rightImageUrl: /assets/van-gogh-sunflowers.jpg
+    rightImageUrl: /assets/van-gogh-sunflowers.jpg
+    rightImageTitle: alt tag here
 textSections:
   - textTitle: Van Gogh’s early years
     text: >-

@@ -9,13 +9,17 @@ tags:
 cover: /assets/camille-corot-venise-la-piazetta.jpg
 upperGalleryImages:
   topImage:
-    - topImageUrl: /assets/camille-corot-venise-la-piazetta.jpg
+    topImageUrl: /assets/camille-corot-venise-la-piazetta.jpg
+    topImageTitle: alt tag here
   leftImage:
-    - leftImageUrl: /assets/camille-corot-little-bird-nesters.jpg
+    leftImageUrl: /assets/camille-corot-little-bird-nesters.jpg
+    leftImageTitle: alt tag here
   middleImage:
-    - middleImageUrl: /assets/camille-corot-self-portrait.jpg
+    middleImageUrl: /assets/camille-corot-self-portrait.jpg
+    middleImageTitle: alt tag here
   rightImage:
-    - rightImageUrl: /assets/camille-corot-forest-of-fontainebleau.jpg
+    rightImageUrl: /assets/camille-corot-forest-of-fontainebleau.jpg
+    rightImageTitle: alt tag here
 textSections:
   - textTitle: Corot’s early years
     text: >-

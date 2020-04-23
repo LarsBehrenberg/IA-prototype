@@ -9,13 +9,17 @@ tags:
 cover: /assets/berthe-morisot-with-a-bouquet-edouard-manet.jpg
 upperGalleryImages:
   topImage:
-    - topImageUrl: /assets/berthe-morisot-the-harbor-at-lorient.jpg
+    topImageUrl: /assets/berthe-morisot-the-harbor-at-lorient.jpg
+    topImageTitle: alt tag here
   leftImage:
-    - leftImageUrl: /assets/berthe-morisot-eugene-manet.jpg
+    leftImageUrl: /assets/berthe-morisot-eugene-manet.jpg
+    leftImageTitle: alt tag here
   middleImage:
-    - middleImageUrl: /assets/berthe-morisot-with-a-bouquet-edouard-manet.jpg
+    middleImageUrl: /assets/berthe-morisot-with-a-bouquet-edouard-manet.jpg
+    middleImageTitle: alt tag here
   rightImage:
-    - rightImageUrl: /assets/berthe-morisot-girl-with-greyhound.jpg
+    rightImageUrl: /assets/berthe-morisot-girl-with-greyhound.jpg
+    rightImageTitle: alt tag here
 textSections:
   - textTitle: Morisot’s early years
     text: >-
