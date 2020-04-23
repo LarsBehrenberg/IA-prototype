@@ -1,0 +1,116 @@
+ :root {
+     background-color: #ecf5ff;
+     font-size: 62.5%
+ }
+
+ .container2 {
+     width: 100vw;
+     height: 650px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     max-width: 80rem;
+     margin: 0 auto;
+     padding: 2rem;
+     padding-top: 5rem;
+ }
+
+ .container2>* {
+     width: 100%;
+ }
+
+ .flex-column {
+     display: flex;
+     flex-direction: column;
+ }
+
+ .flex-center {
+     justify-content: center;
+     align-items: center;
+ }
+
+ .justify.center {
+     justify-content: center;
+ }
+
+ .text-center {
+     text-align: center;
+ }
+
+ .hidden {
+     display: none;
+ }
+
+ .choice-container {
+     display: flex;
+     margin-bottom: 0.8rem;
+     width: 100%;
+     font-size: 1.8rem;
+     border: 0.1rem solid rgb(86, 165, 235, 0.25);
+     background-color: white;
+ }
+
+ .choice-container:hover {
+     cursor: pointer;
+     box-shadow: 0 0.4rem 1.4rem 0 rgba(85, 185, 235, 0.5);
+     transform: translateY(-0.1rem);
+     transition: transform 150ms;
+ }
+
+ .choice-prefix {
+     padding: 1.5rem 2.5rem;
+     background-color: #56a5eb;
+     color: white;
+     margin-bottom: 0;
+ }
+
+ .choice-text {
+     padding: 1.5rem ;
+     width: 100%;
+     margin-bottom: 0;
+ }
+
+ .choice-text>p {
+     margin-bottom: 0px;
+ }
+
+ .correct {
+     background-color: #28a745;
+ }
+
+ .incorrect {
+     background-color: #e53132;
+ }
+
+ #hud {
+     display: flex;
+     justify-content: space-between;
+ }
+
+ .hud-prefix {
+     text-align: center;
+     font-size: 2rem;
+ }
+
+ .hud-main-text {
+     text-align: center;
+     color: #e53132;
+ }
+
+ #progressBar {
+     width: 20rem;
+     height: 4rem;
+     border: 0.3rem solid #56a5eb;
+     margin-top: 1.5rem;
+ }
+
+ #progressBarFull {
+     height: 3.4rem;
+     background-color: #e53132;
+     width: 50%;
+ }
+
+
+ .i-arrow-right use {
+     fill: #dd3030;
+ }
