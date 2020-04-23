@@ -19,7 +19,6 @@ class Game extends React.Component {
     startGame = () => {
         this.questionCounter = 0
         this.score = 0
-        console.log(this.availableQuestions)
         this.getNewQuestion()
     }
 
@@ -96,7 +95,7 @@ class Game extends React.Component {
                     </div>
                 </div>
                 <h2 id="question">In what year did Manet, after 20 years of trying, finally win a medal at the Salon des Beaux Arts?</h2>
-                <div className="choice-container" onClick={this.getNewQuestion}>
+                <div className="choice-container">
                     <p className="choice-prefix">A</p>
                     <p className="choice-text" data-number="1">1876</p>
                 </div>
