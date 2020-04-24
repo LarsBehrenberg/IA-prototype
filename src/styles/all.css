@@ -1869,3 +1869,21 @@ p>a {
   color: #23527c;
   border-bottom: #e53132 dotted 2px;
 }
+
+.social-svg-mask {
+  fill: white !important;
+}
+
+@media only screen and (max-width: 500px) {
+
+  .footer-container {
+    flex-direction: column;
+  }
+  .footer-container :nth-child(2){
+    order: -1
+  }
+}
+
+.footer-container :first-child{
+  order: 1;
+}
