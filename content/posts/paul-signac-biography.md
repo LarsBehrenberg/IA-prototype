@@ -7,6 +7,7 @@ tags:
   - Signac
   - Impressionist
 cover: /assets/paul-signac-in-the-time-of-harmony.jpg
+videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/paul-signac-in-the-time-of-harmony.jpg

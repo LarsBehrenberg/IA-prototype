@@ -25,6 +25,12 @@ collections:
       - { name: "body", label: "Introduction", widget: "markdown", hint: "The introduction text shown below the upper gallery" }
       - { name: "tags", label: "Tags", widget: "list", hint: "Tags will be a way to sort/organize articles" }
       - { name: "cover", label: "Featured Image", widget: "image", required: true, hint: "This image will be displayed one the funnel page"}
+      - { name: "videoUrl",
+          label: "Video Url",
+          widget: "string",
+          required: false,
+          hint: "If this field is left empty, no video will be displayed. Url has to be an embed video url, e.g: https://youtube.com/embed/JYFbpniHyJ8",
+          pattern: ['^(http(s)?:\/\/)?((w){3}.)?youtube.com?\/+embed+', "You must enter a Youtube (/embed/) Url beginning with http:// or https://"]}
       - label: "Upper Gallery"
         hint: "This widget lists up the images for the upper gallery"
         name: "upperGalleryImages"

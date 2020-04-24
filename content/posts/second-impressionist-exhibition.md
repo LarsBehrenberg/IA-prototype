@@ -6,6 +6,7 @@ title: Second Impressionist Exhibition
 tags:
   - exhibition
 cover: /assets/caillebotte-the-floor-scrapers.jpg
+videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/caillebotte-the-floor-scrapers.jpg

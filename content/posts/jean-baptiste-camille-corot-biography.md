@@ -7,6 +7,7 @@ tags:
   - Corot
   - Impressionist
 cover: /assets/camille-corot-venise-la-piazetta.jpg
+videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/camille-corot-venise-la-piazetta.jpg

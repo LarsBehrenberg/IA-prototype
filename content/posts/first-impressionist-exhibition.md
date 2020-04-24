@@ -7,6 +7,7 @@ tags:
   - Impressionist
   - Exhibition
 cover: /assets/postcard-of-paris-boulevard-des-capucines.jpg
+videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/postcard-of-paris-boulevard-des-capucines.jpg

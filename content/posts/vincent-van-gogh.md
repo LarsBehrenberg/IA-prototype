@@ -7,6 +7,7 @@ tags:
   - Van Gogh
   - Impressionist
 cover: /assets/van-gogh-starry-night.jpg
+videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/van-gogh-starry-night.jpg

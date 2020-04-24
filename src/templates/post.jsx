@@ -7,6 +7,7 @@ import Layout from '../layouts/Layout'
 import TextSection from '../components/TextSection'
 import Header from '../components/Header'
 import Suggestion from '../components/Suggestion'
+import Video from '../components/Video'
 import '../styles/lightbox.css'
 
 var slideIndex = 1;
@@ -14,7 +15,7 @@ var slideIndex = 1;
 const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
   const { html, frontmatter, excerpt, fields } = data.markdownRemark
-  const { date, title, subTitle, tags, path, description, textSections, upperGalleryImages } = frontmatter
+  const { title, subTitle, path, description, textSections, upperGalleryImages, videoUrl } = frontmatter
   const image = frontmatter.cover.childImageSharp.fluid;
   const { topImage, leftImage, middleImage, rightImage } = upperGalleryImages
 
@@ -69,6 +70,7 @@ const Post = ({ data, pageContext }) => {
       <div class="site-content">
         <main class="site-main">
           {/* These are the TextSections */}
+          {videoUrl !== null ? <Video url={videoUrl} /> : null}
           {fields.bodyTitle.map((value, index) => {
             return <TextSection showGallery={showSlides} openGallery={openModal} index={index} title={textSections[index].textTitle} text={fields.bodyText[index]} textSectionImageArray={textSections[index].sideGalleryImages}/>
           })}
@@ -137,10 +139,9 @@ export const query = graphql`
         bodyText
       }
       frontmatter {
-        date(formatString: "MM.DD.YYYY")
         title
         subTitle
-        tags
+        videoUrl
         upperGalleryImages {
           topImage {
             topImageUrl {
