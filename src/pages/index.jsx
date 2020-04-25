@@ -14,6 +14,33 @@ const PostWrapper = styled.div`
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 4rem 4rem 1rem 4rem;
+
+  & article:nth-child(4), article:nth-child(5)  {
+    flex-basis: 48%;
+    max-width: 48%;
+    width: 48%;
+  }
+
+  @media (max-width: 1000px) {
+    margin: 4rem 2rem 1rem 2rem;
+  }
+  @media (max-width: 700px) {
+    margin: 3rem 1rem 1rem 1rem;
+  }
+  @media (min-width: 1200px) {
+    width: 1170px;
+    margin: 4rem auto 1rem auto;
+  }
+`;
+
+
+const ButtonWrapper = styled.div`
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 4rem 0rem 1rem 4rem;
+
   @media (max-width: 1000px) {
     margin: 4rem 2rem 1rem 2rem;
   }
@@ -24,7 +51,41 @@ const PostWrapper = styled.div`
     width: 1170px;
     margin: 4rem auto 1rem auto;
   }
-`;
+`
+
+const Headline = styled.h1`
+  text-align: center;
+  color: #262a2e;
+  margin: 4rem 0rem 1rem 4rem;
+  @media (max-width: 1000px) {
+    margin: 4rem 2rem 1rem 2rem;
+  }
+  @media (max-width: 700px) {
+    margin: 4rem 1rem 1rem 1rem;
+  }
+  @media (min-width: 1200px) {
+    width: 1170px;
+    margin: 3rem auto 0rem auto;
+  }
+  text-decoration: underline;
+  `
+
+const TagButton = styled.a`
+  font-size: 14px;
+  line-height: 35px;
+  color: #929497;
+  text-transform: uppercase;
+  border-width: 1px;
+  border-style: solid;
+  display: inline-block;
+  height: 35px;
+  border-radius: 4px;
+  border-color: #dedede;
+  padding: 0 15px;
+  outline: none;
+  text-decoration: none!important;
+  margin: 0 5px 10px 5px;
+`
 
 const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
@@ -32,6 +93,13 @@ const Index = ({ data }) => {
     <Layout>
       <Helmet title={'ImpressionistArts.com | Homepage'} />
         <SearchBar />
+        {/* <Headline><span>Our Top Pages</span></Headline> */}
+        <ButtonWrapper>
+          <TagButton>Impressionists</TagButton>
+          <TagButton>Pre-Impressionists</TagButton>
+          <TagButton>Post-Impressionists</TagButton>
+          <TagButton>En plein air</TagButton>
+        </ButtonWrapper>
         <PostWrapper>
         {edges.map(({ node }) => {
           const { id, excerpt, frontmatter } = node;

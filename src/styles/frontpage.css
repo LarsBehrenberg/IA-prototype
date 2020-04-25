@@ -17,24 +17,26 @@
 
 .countUpSection,
 .promotionWrapper {
-    background-attachment: fixed;
-    width: 100%
+    width: 100vw;
+    margin: 0 auto;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
 }
+
 
 
 @media only screen and (max-width: 767px) {
     .promotionWrapper {
-        background-image: url(../../static/assets/degas-cotton-exchange-new-orleans-lg.jpg);
+        background-image: url(../../static/assets/claude-monet-nympheas.jpg);
         background-size: cover;
-        opacity: 0.8;
+        opacity: 0.9;
     }
 }
 
 @media only screen and (min-width: 767px) {
     .promotionWrapper {
-        background-image: url(../../static/assets/degas-cotton-exchange-new-orleans-lg.jpg);
+        background-image: url(../../static/assets/claude-monet-nympheas.jpg);
         background-size: cover;
-        opacity: 0.8;
+        opacity: 0.9;
     }
 }
 
