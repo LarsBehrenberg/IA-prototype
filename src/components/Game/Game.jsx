@@ -24,7 +24,7 @@ class Game extends React.Component {
 
     getNewQuestion = () => {
 
-        if(this.availableQuestions.length == 0 || this.questionCounter >= this.MAX_QUESTIONS) {
+        if(this.availableQuestions.length === 0 || this.questionCounter >= this.MAX_QUESTIONS) {
             localStorage.setItem('mostRecentScore', this.score)
             return window.location.assign("impressionism-quiz-results")
         }
@@ -50,13 +50,10 @@ class Game extends React.Component {
 
                 this.acceptingAnswers = false
                 const selectedChoice = e.target
-                const selectedAnswer = selectedChoice.dataset['number']
+                const selectedAnswer = Number(selectedChoice.dataset['number'])
+                const classToApply = selectedAnswer === this.currentQuestion.answer ? "correct" : "incorrect";
 
-                const classToApply = selectedAnswer == this.currentQuestion.answer ? "correct" : "incorrect";
-                console.log(classToApply)
-
-                if (classToApply == 'correct'){
-
+                if (classToApply === 'correct'){
                     this.incrementScore(1)
                 }
                 selectedChoice.parentElement.classList.add(classToApply)

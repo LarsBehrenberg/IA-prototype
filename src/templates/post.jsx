@@ -1,6 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import PropTypes, { func } from 'prop-types';
+import PropTypes from 'prop-types';
 import SEO from '../components/SEO'
 
 import Layout from '../layouts/Layout'
@@ -82,7 +82,7 @@ const Post = ({ data, pageContext }) => {
 
     {/* Invisable Modal for image gallery */}
      <div id="myModal" className="modal">
-            <span className="close cursor" onClick={closeModal}>&times;</span>
+            <button className="close cursor" onClick={closeModal}>&times;</button>
             <div className="modal-content">
 
                 <div className="mySlides">
@@ -108,8 +108,8 @@ const Post = ({ data, pageContext }) => {
                     return fillModals(sideGalleryImages)
                   })
                 }
-                <a className="prev" onClick={() => plusSlides(-1)}>&#10094;</a>
-                <a className="next" onClick={() => plusSlides(1)}>&#10095;</a>
+                <button className="prev" onClick={() => plusSlides(-1)}>&#10094;</button>
+                <button className="next" onClick={() => plusSlides(1)}>&#10095;</button>
 
                 <div className="caption-container">
                     <p id="caption"></p>

@@ -22,12 +22,12 @@ const Gallery = ({ data }) => {
                 <div className="gallery-container">
                     <div className="profile">
                         <div className="profile-image">
-                            <img src={profile_pic_url_hd} alt="Instagram profile image" />
+                            <img src={profile_pic_url_hd} alt="Instagram profile" />
                         </div>
 
                         <div className="profile-user-settings">
                             <h1 className="profile-user-name">{username}</h1>
-                            <a className="btn profile-edit-btn" href={`https://instagram.com/${username}`} target="_blank" rel="noopener norefferer">View Profile</a>
+                            <a className="btn profile-edit-btn" href={`https://instagram.com/${username}`} target="_blank" rel="noopener noreferrer">View Profile</a>
                         </div>
 
                         <div className="profile-stats">
@@ -46,7 +46,7 @@ const Gallery = ({ data }) => {
                     <div className="gallery">
                         {edges.map(({ node }) => {
                         return (
-                            <a className="gallery-item" tabindex="0" href={`${nodeURL}/${node.id}`} target="_blank" rel="noopener norefferer">
+                            <a className="gallery-item" tabindex="0" href={`${nodeURL}/${node.id}`} target="_blank" rel="noopener noreferrer">
                                 <Img
                                     fixed={node.localFile.childImageSharp.fixed}
                                     loading="lazy"
@@ -55,8 +55,8 @@ const Gallery = ({ data }) => {
 
                             <div class="gallery-item-info">
                                 <ul>
-                                    <li class="gallery-item-likes">&#128150; {node.likes !== null ? node.likes.toLocaleString() : 0}</li>
-                                    <li class="gallery-item-comments">&#128172; {node.comments !== null ? node.likes.toLocaleString() : 0}</li>
+                                    <li class="gallery-item-likes"><span role="img" aria-label="heart">&#128150;</span> {node.likes !== null ? node.likes.toLocaleString() : 0}</li>
+                                    <li class="gallery-item-comments"><span role="img" aria-label="speech-balloon">&#128172;</span> {node.comments !== null ? node.likes.toLocaleString() : 0}</li>
                                 </ul>
                             </div>
                             </a>
