@@ -1,43 +1,72 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import Img from 'gatsby-image'
 
 const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, openGallery, prevNeighbor, nextNeighbor}) => {
     const { topImage, leftImage, middleImage, rightImage } = images
 
     return (
-    <div class="container">
-            <div class="row">
-              <div class="col-sm-9">
-                <section class="site-block top">
-                  <div class="site-title">
-                    <h1><span class="page__title-ttd">{subTitleText} </span><span class="page__title-e" itemprop="name">{title}<span></span> </span></h1>
+    <div className="container">
+            <div className="row">
+              <div className="col-sm-9">
+                <section className="site-block top">
+                  <div className="site-title">
+                    <h1><span className="page__title-ttd">{subTitleText} </span><span className="page__title-e" itemprop="name">{title}<span></span> </span></h1>
                   </div>
-                  <div class="site-gallery">
-                    <div class="ttde-gallery">
-                      <div class="ttde-gallery-inner">
-                        <div class="ttde-gallery-top ttdegalleryitem" data-pswp-uid="1">
-                          <figure class="ttde-gallery-top-inner" onClick={() => { openGallery(); showGallery(1);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-pid={topImage.topImageUrl.childImageSharp.fluid.src} data-index="0"><img src={topImage.topImageUrl.childImageSharp.fluid.src} alt={topImage.topImageTitle} class="loading" data-was-processed="true" />
-                            </a> </figure>
+                  <div className="site-gallery">
+                    <div className="ttde-gallery">
+                      <div className="ttde-gallery-inner">
+                        <div className="ttde-gallery-top ttdegalleryitem" data-pswp-uid="1">
+                          <figure className="ttde-gallery-top-inner" onClick={() => { openGallery(); showGallery(1);}}>
+                            <a className="ttde-gallery-url" href="#top" data-index="0">
+                              <Img
+                                fluid={topImage.topImageUrl.childImageSharp.fluid}
+                                alt={topImage.topImageTitle}
+                                loading="lazy"
+                              />
+                            </a>
+                          </figure>
                         </div>
-                        <div class="ttde-gallery-bottom">
-                          <div class="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem" data-pswp-uid="1">
-                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(2);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-pid={leftImage.leftImageUrl.childImageSharp.fluid.src} data-index="1"><img data-src={leftImage.leftImageUrl.childImageSharp.fluid.src} alt={leftImage.leftImageTitle} class="loaded" src={leftImage.leftImageUrl.childImageSharp.fluid.src} data-was-processed="true"/></a>
+                        <div className="ttde-gallery-bottom">
+                          <div className="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem" data-pswp-uid="1">
+                            <figure className="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(2);}}>
+                              <a className="ttde-gallery-url" href="#top"data-index="1">
+                                <Img
+                                  fluid={leftImage.leftImageUrl.childImageSharp.fluid}
+                                  alt={leftImage.leftImageTitle}
+                                  loading="lazy"
+                                />
+                              </a>
                             </figure>
                           </div>
-                          <div class="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem" data-pswp-uid="1">
-                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(3);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-pid={middleImage.middleImageUrl.childImageSharp.fluid.src} data-index="2"><img data-src={middleImage.middleImageUrl.childImageSharp.fluid.src} alt={middleImage.middleImageTitle} class="loaded" src={middleImage.middleImageUrl.childImageSharp.fluid.src} data-was-processed="true"/></a>
+                          <div className="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem" data-pswp-uid="1">
+                            <figure className="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(3);}}>
+                              <a className="ttde-gallery-url" href="#top" data-index="2">
+                                <Img
+                                  fluid={middleImage.middleImageUrl.childImageSharp.fluid}
+                                  alt={middleImage.middleImageTitle}
+                                  loading="lazy"
+                                />
+                              </a>
                             </figure>
                           </div>
-                          <div class="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open" data-pswp-uid="1">
-                            <figure class="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(4);}}> <a class="ttde-gallery-url" href="#top" title="alt here" data-pid={rightImage.rightImageUrl.childImageSharp.fluid.src} data-index="3"><span class="ttde-gallery-open-btn"><span>More
-                                    images 20+</span></span><img data-src={rightImage.rightImageUrl.childImageSharp.fluid.src} alt={rightImage.rightImageTitle} class="loaded" src={rightImage.rightImageUrl.childImageSharp.fluid.src} data-was-processed="true"/></a>
+                          <div className="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open" data-pswp-uid="1">
+                            <figure className="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(4);}}>
+                              <a className="ttde-gallery-url" href="#top" data-index="3">
+                                <span className="ttde-gallery-open-btn"><span>More images 20+</span></span>
+                                <Img
+                                  fluid={rightImage.rightImageUrl.childImageSharp.fluid}
+                                  alt={rightImage.rightImageTitle}
+                                  loading="lazy"
+                                />
+                              </a>
                             </figure>
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                  <div class="site-bb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                  <div className="site-bb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
                     <ul>
                       <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://impressionistarts.com/index.html"><span itemprop="name">Home</span></a>
                         <meta itemprop="position" content="1"/>
@@ -47,26 +76,26 @@ const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, o
                       </li>
                     </ul>
                   </div>
-                  <div class="site-text" dangerouslySetInnerHTML={{ __html: intro}}>
+                  <div className="site-text" dangerouslySetInnerHTML={{ __html: intro}}>
                       {/* Intro text here */}
                   </div>
                 </section>
               </div>
-              <div class="col-sm-3">
-                <section class="site-sidebar">
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-sm-push-9 col-sm-3">
-                        <div class="list-group"> <a href="#top" class="list-group-item active">
-                            <h4 class="list-group-item-heading">{title}</h4>
+              <div className="col-sm-3">
+                <section className="site-sidebar">
+                  <div className="container">
+                    <div className="row">
+                      <div className="col-sm-push-9 col-sm-3">
+                        <div className="list-group"> <a href="#top" className="list-group-item active">
+                            <h4 className="list-group-item-heading">{title}</h4>
                           </a>
                           {bodyTitles.map((value, index) => {
-                            return (<a href={"#"+(index+1)} class="list-group-item">
-                            <h5 class="list-group-item-heading" dangerouslySetInnerHTML={{ __html: bodyTitles[index]}} ></h5>
+                            return (<a href={"#"+(index+1)} className="list-group-item">
+                            <h5 className="list-group-item-heading" dangerouslySetInnerHTML={{ __html: bodyTitles[index]}} ></h5>
                           </a>)
                             })}
-                          {nextNeighbor === null ? null : <Link to={nextNeighbor.frontmatter.path} class="list-group-item active"><h4 class="list-group-item-heading">{nextNeighbor.frontmatter.title}</h4></Link>}
-                          {prevNeighbor === null ? null : <Link to={prevNeighbor.frontmatter.path} class="list-group-item active" style={{borderTop: "none"}}><h4 class="list-group-item-heading">{prevNeighbor.frontmatter.title}</h4></Link>}
+                          {nextNeighbor === null ? null : <Link to={nextNeighbor.frontmatter.path} className="list-group-item active"><h4 className="list-group-item-heading">{nextNeighbor.frontmatter.title}</h4></Link>}
+                          {prevNeighbor === null ? null : <Link to={prevNeighbor.frontmatter.path} className="list-group-item active" style={{borderTop: "none"}}><h4 className="list-group-item-heading">{prevNeighbor.frontmatter.title}</h4></Link>}
                           </div>
                       </div>
                     </div>

@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
+import Img from 'gatsby-image'
 
 
 
@@ -28,9 +28,16 @@ const TextSection = ({ title, text, textSectionImageArray, index, showGallery, o
                                 textSectionImageArray.map((image, arrayLocation) => {
                                 return (
                                     <div className="smallery-item-wrp ttdegalleryitem" data-pswp-uid="1">
-                                        <figure className="smallery-item-psn" onClick={() => { openGallery(); showGallery(1);}}> <a href={"#top"} className="smallery-item-uri" data-pid={image.imageUrl.childImageSharp.fluid.src} >
-                                            <img className="smallery-item-img loaded" data-src={image.imageUrl.childImageSharp.fluid.src} alt={image.imageTitle} src={image.imageUrl.childImageSharp.fluid.src} data-was-processed="true" />
-                                        </a> </figure>
+                                        <figure className="smallery-item-psn" onClick={() => { openGallery(); showGallery(1);}}>
+                                            <span className="smallery-item-uri">
+                                                <Img
+                                                    fluid={image.imageUrl.childImageSharp.fluid}
+                                                    alt={image.imageTitle}
+                                                    className="smallery-item-img"
+                                                    loading="lazy"
+                                                />
+                                            </span>
+                                        </figure>
                                     </div>
                                 )
                             }) : null

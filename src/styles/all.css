@@ -656,6 +656,11 @@ img[data-srcset] {
   opacity: .6
 }
 
+.ttde-gallery-url .gatsby-image-wrapper {
+  height: 100%;
+  width: 100%;
+}
+
 .ttde-gallery-url>img {
   width: 100%;
   height: 100%;
