@@ -15,4 +15,5 @@ module.exports = {
     themeColor: '#3e7bf2',
     backgroundColor: '#d3e0ff',
     twitter: '@codetraveling', // Twitter Username
+    instagram: 'natgeoyourshot' // Instagram Username
   };

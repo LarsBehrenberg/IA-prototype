@@ -31,6 +31,7 @@ const Navbar = () => (
                 <li>Coming soon</li>
                 </ul>
             </li>
+            <li><Link to="gallery">Gallery</Link></li>
             <li><Link to="impressionism-quiz">Quiz</Link></li>
             <li><a href="/"><span>More</span> <span className="caret"></span></a>
                 <ul className="sub-menu">

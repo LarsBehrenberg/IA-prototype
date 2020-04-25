@@ -56,6 +56,19 @@ module.exports = {
     // },
     'gatsby-plugin-sharp',
     'gatsby-plugin-sitemap',
+    { // Sourcing Instagram Images - 12 images max
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: config.instagram
+      },
+    },
+    { // Sourcing Instgram profile information and photo
+      resolve: `gatsby-source-instagram`,
+      options: {
+        type: `user-profile`,
+        username: config.instagram
+      },
+    },
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
