@@ -179,6 +179,13 @@ textSections:
 
 
       When he heard the news of the modest gains made by the exhibition, Cézanne wrote to his father to tell him the good news. This expressive letter was perhaps an attempt to persuade his father that the exhibitions were a worthwhile venture after he had become indebted to him following losses from the First Impressionist Exhibition.
+    sideGalleryImages:
+      - imageUrl: /assets/claude-monet-japanese-girl.jpg
+        imageTitle: Claude Monet's Japanese Girl (Monet's wife Camille in a kimono!)
+      - imageUrl: /assets/edgar-degas-absinthe.jpg
+        imageTitle: Edgar Degas' Absinthe (previously called 'In the Cafe')
+      - imageUrl: /assets/degas-cotton-exchange-new-orleans-lg.jpg
+        imageTitle: Edgar Degas' Cotton Exchange
   - textTitle: Critics of the Second Impressionist Exhibition
     text: >-
       ### In the newspapers, the critical response to the Second Impressionist
@@ -225,6 +232,11 @@ textSections:
 
 
       Nonetheless, she did write some preemptive letters to her aunts to notify them that they might read about her in the Parisian newspapers. In the writing of other critics, her work had largely been praised with many, somewhat predictably, emphasising the ‘femininity’ of her paintings.
+    sideGalleryImages:
+      - imageUrl: /assets/edmond-duranty.jpg
+        imageTitle: A sketch of Edmond Duranty
+      - imageUrl: /assets/john-singer-sargent-painting-henry-james.jpg
+        imageTitle: Sargant's painting of Henry James
   - textTitle: The Aftermath
     text: >-
       ## Following the exhibition and the onslaught from the critics, some
