@@ -6,7 +6,6 @@ import  PostList  from '../components/PostList';
 import Layout from '../layouts/Layout'
 import SearchBar from '../components/SearchBar'
 import '../styles/all.css';
-import '../styles/frontpage.css'
 
 const PostWrapper = styled.div`
   display: flex;
