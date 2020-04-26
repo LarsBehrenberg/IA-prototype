@@ -9,7 +9,7 @@ cover: /assets/caillebotte-the-floor-scrapers.jpg
 links:
   - First Impressionist Exhibition
   - Berthe Morisot
-videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
+videoUrl: ""
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/caillebotte-the-floor-scrapers.jpg
@@ -240,7 +240,7 @@ textSections:
   - textTitle: The Aftermath
     text: >-
       ## Following the exhibition and the onslaught from the critics, some
-      artists fared better than others. 
+      artists fared better than others.
 
 
       Despite continued resistance to their work, 1876 proved to be a productive year for the Impressionists as a whole. Heavy flooding in Marly saw Sisley embark on his series of landscapes that captured the underwater world the region had become and these paintings would be some of the highest regarded works of his career. 
@@ -249,10 +249,19 @@ textSections:
       Similarly, Monet set upon a new series of works in which he found a novel direction among the smoke and the trains in the railway station of St. Lazare in Paris.
 
 
+      #### Pissarro and Cezanne
+
+
       Meanwhile, Pissarro became very depressed and Cézanne, worried about his friend, invited him to go and stay with him in L’Estaque where he was working on a commission for Chocquet. He encouraged Pissarro to try painting the sea in order to find a new direction for his work and provide him with some much needed inspiration.
 
 
-      Though some sales had been made at during the Second Impressionist Exhibition, many Impressionist artists continue to work in a precarious financial situation, reliant on the generosity of dealers and collectors and the occasional commission. Though it was widely assumed that Monet was becoming extremely wealthy from the sale of his paintings, he was also finding that he lacked the funds to live the bourgeois lifestyle he wanted in his home in Argenteuil. His growing reputation caused his creditors to pursue him even more tirelessly than before.
+      Though some sales had been made at during the Second Impressionist Exhibition, many Impressionist artists continue to work in a precarious financial situation, reliant on the generosity of dealers and collectors and the occasional commission. 
+
+
+      Though it was widely assumed that Monet was becoming extremely wealthy from the sale of his paintings, he was also finding that he lacked the funds to live the bourgeois lifestyle he wanted in his home in Argenteuil. His growing reputation caused his creditors to pursue him even more tirelessly than before.
+
+
+      #### Business as usual for Manet
 
 
       Whilst Manet had decided not to include his work in the Second Impressionist Exhibition, he did not benefit from distancing himself from the Impressionists. His work continued to be rejected from the Salon, even while the work of one of his pupils, Eva Gonzales, was accepted. Morisot insisted in letters that he was “perfectly good-humoured about his failure” but there was also evidence that he was growing more desperate. 
@@ -261,7 +270,18 @@ textSections:
       Later, Manet attempted to ingratiate himself with Wolff in a move to get closer to the decision makers at the Salon. He began painting his portrait but Wolff soon grew tired of sitting for him and the work was abandoned.
 
 
+      #### The Third Impressionist Exhibition
+
+
       The Third Impressionist Exhibition would open the following year, in 1877, thanks once again to the generosity of Caillebotte. After the modest financial success of the Second Impressionist Exhibition, the Impressionists reserved the space in Durand-Ruel’s gallery once more. This exhibition would see Cézanne return to the group and be marked by many more rivalries and disputes as the pressures on the group mounted.
+    sideGalleryImages:
+      - imageUrl: /assets/claude-monet-arrival-of-the-normandy-train.jpg
+        imageTitle: Claude Monet's Arrival of the Normandy Train, one of his Gare St
+          Lazare series.
+      - imageUrl: /assets/alfred-sisley-flood-on-the-road-to-saint-germain.jpg
+        imageTitle: Alfred Sisley's Flood on the Road to Saint Germain
+      - imageUrl: /assets/paul-cezanne-houses-at-estaque.jpg
+        imageTitle: One of Paul Cezanne's many paintings of l'Estaque
 ---
 ## In the spring of 1876, the Impressionists gathered for the Second Impressionist Exhibition.
 
