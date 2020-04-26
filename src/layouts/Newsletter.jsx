@@ -28,7 +28,9 @@ const Form = styled.form`
         margin: 4rem 2rem 1rem 2rem;
     }
     @media (max-width: 700px) {
-        margin: 3rem 1rem 1rem 1rem;
+        flex-direction: column;
+        height: auto;
+        margin: 2rem 1rem 2rem 1rem;
     }
     @media (min-width: 1200px) {
         width: 1120px;
@@ -59,6 +61,12 @@ const InputWrapper = styled.div`
         height: 2.6rem;
     }
 
+    @media (max-width: 700px) {
+        flex-basis: 100%;
+        max-width: 100%;
+        width: 100%;
+    }
+
     & button {
         font-weight: 700!important;
         text-transform: uppercase!important;
@@ -87,6 +95,10 @@ const TextWrapper = styled.div`
     }
     & p {
         line-height: 1.5rem
+    }
+
+    @media (max-width: 700px) {
+        padding-right: 0;
     }
 `
 
