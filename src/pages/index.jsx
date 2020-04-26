@@ -14,12 +14,6 @@ const PostWrapper = styled.div`
   justify-content: space-between;
   margin: 4rem 4rem 1rem 4rem;
 
-  & article:nth-child(4), article:nth-child(5)  {
-    flex-basis: 48%;
-    max-width: 48%;
-    width: 48%;
-  }
-
   @media (max-width: 1000px) {
     margin: 4rem 2rem 1rem 2rem;
   }
@@ -29,6 +23,11 @@ const PostWrapper = styled.div`
   @media (min-width: 1200px) {
     width: 1170px;
     margin: 4rem auto 1rem auto;
+    & article:nth-of-type(4), article:nth-of-type(5)  {
+      flex-basis: 48%;
+      max-width: 48%;
+      width: 48%;
+    }
   }
 `;
 
