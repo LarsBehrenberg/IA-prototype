@@ -14,7 +14,6 @@ const Gallery = ({ data }) => {
     const nodeURL = 'https://www.instagram.com/p';
     const {full_name, username, biography, profile_pic_url_hd, edge_follow, edge_followed_by} = data.instaUserNode
 
-    console.log(data.instaUserNode)
     return (
         <Layout>
             <Helmet title={'Gallery | ImpressionistArts.com '} />

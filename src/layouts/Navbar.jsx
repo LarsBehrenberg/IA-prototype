@@ -19,8 +19,6 @@ const Navbar = () => {
   }
   `)
   const painters = data.allMarkdownRemark.nodes
-  console.log(painters)
-
 
   return (
       <header className="site-header">
