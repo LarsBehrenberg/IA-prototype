@@ -6,20 +6,23 @@ title: Second Impressionist Exhibition
 tags:
   - exhibition
 cover: /assets/caillebotte-the-floor-scrapers.jpg
+links:
+  - First Impressionist Exhibition
+  - Berthe Morisot
 videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/caillebotte-the-floor-scrapers.jpg
-    topImageTitle: alt tag here
+    topImageTitle: Gustave Caillebotte's The Floor Strippers
   leftImage:
     leftImageUrl: /assets/photograph-berthe-morisot.jpg
-    leftImageTitle: alt tag here
+    leftImageTitle: A photograph of Berthe Morisot
   middleImage:
     middleImageUrl: /assets/victor-chocquet-paul-cezanne.jpg
-    middleImageTitle: alt tag here
+    middleImageTitle: Paul Cezanne's picture of Victor Chocquet
   rightImage:
     rightImageUrl: /assets/berthe-morisot-reading.jpg
-    rightImageTitle: alt tag here
+    rightImageTitle: Berthe Morisot's Reading, a painting of Berthe's younger sister Edma.
 textSections:
   - textTitle: The artists and collectors
     text: >-
@@ -71,11 +74,11 @@ textSections:
       By far the most exciting artist in the Second Impressionist Exhibition, however, was another largely unknown figure: Caillebotte.
     sideGalleryImages:
       - imageUrl: /assets/morisot-hanging-the-laundry-out-to-dry.jpg
-        imageTitle: "Morisot's Hanging the laundry out to dry"
+        imageTitle: Morisot's Hanging the laundry out to dry
       - imageUrl: /assets/edgar-degas-cotton-exchange.jpg
-        imageTitle: "Degas's Cotton exchange"
+        imageTitle: Degas's Cotton exchange
       - imageUrl: /assets/photograph-berthe-morisot.jpg
-        imageTitle: "Morisot's photograph"
+        imageTitle: Morisot's photograph
   - textTitle: The role of Caillebotte
     text: >-
       ### For the Second Impressionist Exhibition,
@@ -116,7 +119,11 @@ textSections:
       It is known that Degas was put out at losing his position as unofficial manager of the Impressionist Exhibitions thanks to Caillebotte’s involvement. On the other hand, it may have been a simple error on behalf of the printer, who also managed to spell the names of Monet and Sisley incorrectly.
     sideGalleryImages:
       - imageUrl: /assets/gustave-caillebotte-photograph.jpg
-        imageTitle: "Gustave Caillebotte's photograph"
+        imageTitle: Gustave Caillebotte's photograph
+      - imageUrl: /assets/caillebotte-the-floor-scrapers.jpg
+        imageTitle: Caillebotte's The Floor Strippers/Scrapers
+      - imageUrl: /assets/gustave-caillebotte-self-portrait.jpg
+        imageTitle: A self-portrait by Gustave Caillebotte
   - textTitle: The Crowd
     text: >-
       ### The attendees of the Second Impressionist Exhibition were considerably
@@ -244,8 +251,8 @@ textSections:
 
       The Third Impressionist Exhibition would open the following year, in 1877, thanks once again to the generosity of Caillebotte. After the modest financial success of the Second Impressionist Exhibition, the Impressionists reserved the space in Durand-Ruel’s gallery once more. This exhibition would see Cézanne return to the group and be marked by many more rivalries and disputes as the pressures on the group mounted.
 ---
-## In the spring of 1876, the Impressionists gathered for the Second Impressionist Exhibition. 
+## In the spring of 1876, the Impressionists gathered for the Second Impressionist Exhibition.
 
-Though the First Impressionist Exhibition had been widely criticised, Auguste Renoir and Claude Monet were eager to organise a follow up. Gradually, the other artists joined in their enthusiasm and it was widely agreed to stage the event again.
+Though the First Impressionist Exhibition had been widely criticised, [Auguste Renoir](pierre-auguste-renoir-biography.html) and [Claude Monet](claude-monet-biography.html) were eager to organise a follow up. Gradually, the other artists joined in their enthusiasm and it was widely agreed to stage the event again.
 
-This exhibition would mark the unveiling of Gustave Caillebotte’s work and establish him as an indispensable figure in the group, both artistically and financially. Caillebotte’s contribution marked a seminal moment for the Impressionists as the movement turned its eye towards the urban proletariat of Paris. However, critics still found much to ridicule and the exhibition, much like the first, was only a partial success.
+This exhibition would mark the unveiling of [Gustave Caillebotte’s](gustave-caillebotte-biography.html) work and establish him as an indispensable figure in the group, both artistically and financially. Caillebotte’s contribution marked a seminal moment for the Impressionists as the movement turned its eye towards the urban proletariat of Paris. However, critics still found much to ridicule and the exhibition, much like the first, was only a partial success.
