@@ -25,6 +25,15 @@ collections:
       - { name: "body", label: "Introduction", widget: "markdown", hint: "The introduction text shown below the upper gallery" }
       - { name: "tags", label: "Tags", widget: "list", hint: "Tags will be a way to sort/organize articles" }
       - { name: "cover", label: "Featured Image", widget: "image", required: true, hint: "This image will be displayed one the funnel page"}
+      - label: "Sidebar Links"
+        name: "links"
+        widget: "relation"
+        collection: "posts"
+        hint: This field searches all published articles and attaches the selected ones to the side menu. Articles can be searched by title & tags.
+        searchFields: ["title", "tags"]
+        displayFields: ["title", "tags"]
+        valueField: "title"
+        multiple: true
       - { name: "videoUrl",
           label: "Video Url",
           widget: "string",
