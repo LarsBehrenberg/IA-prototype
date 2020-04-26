@@ -931,7 +931,7 @@ img[data-srcset] {
 .list-group-item.active:hover {
   z-index: 2;
   color: #333;
-  background-color: rgba(0, 87, 255, 0.05);
+  background-color: #F2F7FF;
   border-color: #e53132;
   border-width: 2px;
   font-weight: bold
