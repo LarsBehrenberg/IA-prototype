@@ -2,7 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import SEO from '../components/SEO'
-
+import Newsletter from '../layouts/Newsletter'
 import Layout from '../layouts/Layout'
 import TextSection from '../components/TextSection'
 import Header from '../components/Header'
@@ -78,6 +78,7 @@ const Post = ({ data, pageContext }) => {
         <Suggestion previousNeighbor={prev} nextNeighbor={next}/>
         </main>
       </div>
+      <Newsletter />
     </Layout>
 
     {/* Invisable Modal for image gallery */}
@@ -116,6 +117,7 @@ const Post = ({ data, pageContext }) => {
                 </div>
             </div>
             </div>
+            
     </>
   );
 };

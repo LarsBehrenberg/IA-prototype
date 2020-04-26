@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Img from 'gatsby-image'
 import Layout from '../layouts/Layout'
+import Newsletter from '../layouts/Newsletter'
 import Helmet from 'react-helmet'
 import '../styles/gallery.css'
 
@@ -65,6 +66,7 @@ const Gallery = ({ data }) => {
                     </div>
                 </div>
             </div>
+            <Newsletter />
         </Layout>
     )
 }

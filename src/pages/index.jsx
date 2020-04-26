@@ -6,6 +6,7 @@ import  PostList  from '../components/PostList';
 import Layout from '../layouts/Layout'
 import SearchBar from '../components/SearchBar'
 import '../styles/all.css';
+import Newsletter from '../layouts/Newsletter';
 
 const PostWrapper = styled.div`
   display: flex;
@@ -114,6 +115,7 @@ const Index = ({ data }) => {
           );
         })}
         </PostWrapper>
+        <Newsletter />
     </Layout>
   );
 };
