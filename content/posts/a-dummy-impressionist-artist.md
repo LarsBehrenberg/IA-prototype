@@ -7,6 +7,10 @@ tags:
   - dummy
   - artist
 cover: /assets/berthe-morisot-au-soulier-rose-edouard-manet.jpg
+links:
+  - Berthe Morisot
+  - First Impressionist Exhibition
+  - Jean-Baptiste-Camille Corot
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/berthe-morisot-eugene-manet.jpg
