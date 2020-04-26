@@ -80,7 +80,7 @@ module.exports = {
         icon: config.favicon,
       },
     },
-    'gatsby-plugin-offline',
+    // 'gatsby-plugin-offline',
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
