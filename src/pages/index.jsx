@@ -90,7 +90,7 @@ const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'ImpressionistArts.com | Homepage'} />
+      <Helmet title={'Home | ImpressionistArts.com'} />
         <SearchBar />
         {/* <Headline><span>Our Top Pages</span></Headline> */}
         <ButtonWrapper>
@@ -125,6 +125,7 @@ export default Index;
 export const query = graphql`
   query {
     allMarkdownRemark(
+      filter: {fileAbsolutePath: {regex: "/posts/"}},
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
