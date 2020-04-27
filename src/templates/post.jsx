@@ -70,7 +70,7 @@ const Post = ({ data, pageContext }) => {
       <div class="site-content">
         <main class="site-main">
           {/* These are the TextSections */}
-          {videoUrl !== null ? <Video url={videoUrl} /> : null}
+          {videoUrl !== null && videoUrl !== "" ? <Video url={videoUrl} /> : null}
           {fields.bodyTitle.map((value, index) => {
             return <TextSection showGallery={showSlides} openGallery={openModal} index={index} title={textSections[index].textTitle} text={fields.bodyText[index]} textSectionImageArray={textSections[index].sideGalleryImages}/>
           })}

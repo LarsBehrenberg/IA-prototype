@@ -1,7 +1,6 @@
 import React from 'react'
 
 const Video = ({ url }) => {
-    console.log(url)
     return (
     <div className="container">
         <div className="row">
