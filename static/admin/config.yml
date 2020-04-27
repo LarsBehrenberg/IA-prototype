@@ -87,6 +87,45 @@ collections:
             fields:
               - {label: Image, name: imageUrl, widget: image}
               - {label: "Title & Alt", name: imageTitle, widget: string}
+  - label: "Static Pages"
+    name: "pages"
+    files:
+      - label: "About Us"
+        name: "aboutUs"
+        file: "/content/pages/about-us.md"
+        fields:
+          - { name: "subTitle", label: "Subtitle", hint: "The subtitle of the article", default: "Biography of"}
+          - { name: "title", label: "Title", hint: "The title of the article", default: "Impressionist artist"}
+          - { name: "body", label: "Introduction", widget: "markdown", hint: "The introduction text shown below the upper gallery" }
+          - label: "Upper Gallery"
+            hint: "This widget lists up the images for the upper gallery"
+            name: "upperGalleryImages"
+            widget: "object"
+            fields:
+              - label: Top
+                name: topImage
+                widget: object
+                fields:
+                  - {label: Top Image, name: topImageUrl, widget: image, required: true}
+                  - {label: Title & Alt, name: topImageTitle, widget: string, required: true}
+              - label: Left
+                name: leftImage
+                widget: object
+                fields:
+                  - {label: Left Image, name: leftImageUrl, widget: image, required: true}
+                  - {label: Title & Alt, name: leftImageTitle, widget: string, required: true}
+              - label: Middle
+                name: middleImage
+                widget: object
+                fields:
+                  - {label: Middle Image, name: middleImageUrl, widget: image, required: true}
+                  - {label: Title & Alt, name: middleImageTitle, widget: string, required: true}
+              - label: Right
+                name: rightImage
+                widget: object
+                fields:
+                  - {label: Right Image, name: rightImageUrl, widget: image, required: true}
+                  - {label: Title & Alt, name: rightImageTitle, widget: string, required: true}
   - name: "maps"
     label: "Maps"
     folder: "/content/maps/"

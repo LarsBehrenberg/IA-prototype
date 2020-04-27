@@ -15,7 +15,7 @@ const Footer = () => (
             <SocialIcon url="https://www.pinterest.co.uk/1u5g3vkf5xp33xzdg311ezzung5n21/" className="social-icon" style={{width: "30px", height: "30px", marginLeft: "10px"}}/>
         </div>
         <div className="col-md-4" style={{float: "left", display: "flex", justifyContent: "center", width: "100%"}}>
-            <span style={{lineHeight: "30px"}}>About Us</span>
+            <Link to="about-us" style={{lineHeight: "30px", textDecoration: "underline", color: "white"}}>About Us</Link>
         </div>
         <div className="col-md-4" style={{textAlign: "center", width: "100%"}}>
             <p style={{lineHeight: "30px"}}>&copy; {new Date().getFullYear()} ImpressionistArts.com</p>

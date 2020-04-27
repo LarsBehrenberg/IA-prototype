@@ -54,7 +54,7 @@ const Navbar = () => {
                       <li><a href="https://impressionistarts.com/first-impressionist-exhibition.html">First Impressionist Exhibition</a> </li>
                       <li><a href="https://impressionistarts.com/impressionist-painters.html"><svg className="i i-arrow-right" width="16px" height="12px" title="impressionist painters">
                           </svg><span>10 More</span></a></li> */}
-                      <li>Coming soon</li>
+                      <li><Link to="about-us">About us</Link></li>
                   </ul>
               </li>
             </ul>
