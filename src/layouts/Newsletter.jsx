@@ -101,9 +101,7 @@ const TextWrapper = styled.div`
         padding-right: 0;
     }
 `
-
 const Newsletter = () => {
-
     // const [email, setEmail] = useState('');
 
     // const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
@@ -114,7 +112,7 @@ const Newsletter = () => {
     // setEmail(event.currentTarget.value);
     // };
     return (
-        <Wrapper>
+        <Wrapper id="newsletter">
             <Form /*onSubmit={handleSubmit}*/ >
                 <TextWrapper>
                     <h2>Join The Monthly Newsletter!</h2>

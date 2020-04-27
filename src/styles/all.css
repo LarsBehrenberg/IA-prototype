@@ -626,8 +626,8 @@ img[data-srcset] {
   bottom: 0;
   background-color: rgba(230, 51, 51, 0.6);
   opacity: 0;
-  -webkit-transition: opacity .1s linear;
-  transition: opacity .1s linear;
+  -webkit-transition: opacity ..3s linear;
+  transition: opacity ..3s linear;
   cursor: pointer;
 }
 
@@ -652,8 +652,8 @@ img[data-srcset] {
   bottom: 0;
   background-color: rgba(230, 51, 51, 0.6);
   opacity: 0;
-  -webkit-transition: opacity .1s linear;
-  transition: opacity .1s linear
+  -webkit-transition: opacity ..3s linear;
+  transition: opacity ..3s linear
 }
 
 .ttde-gallery-url:hover:after {
@@ -875,7 +875,12 @@ img[data-srcset] {
     height: 0;
     position: fixed;
     left: 0;
-    right: 0
+    right: 0;
+    transition: opacity .3s ease-in-out;;
+    -webkit-transition: opacity .3s ease-in-out;
+    -moz-transition: opacity .3s ease-in-out;
+    -ms-transition: opacity .3s ease-in-out;
+    -o-transition: opacity .3s ease-in-out;
   }
 
   .site-sidebar>.container {
@@ -1895,4 +1900,8 @@ p>a {
 
 .footer-container :first-child{
   order: 1;
+}
+
+.stuck {
+  opacity: 0;
 }

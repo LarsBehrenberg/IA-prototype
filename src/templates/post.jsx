@@ -55,6 +55,36 @@ const Post = ({ data, pageContext }) => {
     )) : null
   }
 
+  window.addEventListener('scroll', function(event){
+    if(document.getElementById('sidebar')){
+      let sideBar = document.getElementById('sidebar')  // your element
+      let sideBottom = sideBar.getBoundingClientRect().bottom+100
+      // current scroll position relative to the body
+      let footerDiv = document.getElementById('newsletter')
+      let footerTop = footerDiv.getBoundingClientRect().top-50
+      console.log(sideBottom, footerTop)
+      if (sideBottom > footerTop) {
+        document.getElementById("sidebar-container").classList.add("stuck");
+      } else {
+        document.getElementById("sidebar-container").classList.remove("stuck");
+      }
+    }
+    // if (sideBar.hasClass('stuck')){
+    //   sideBar.removeClass('stuck')
+    // }
+    // console.log(footerDivPos)
+    // var toCross_position = $(".div-to-cross").offset().top;
+    // var toCross_height = $(".div-to-cross").height();
+
+    // if (fixed_position + fixed_height  < toCross_position) {
+    //   fixed.removeClass('white');
+    // } else if (fixed_position > toCross_position + toCross_height) {
+    //   fixed.removeClass('white');
+    // } else {
+    //   fixed.addClass('white');
+    // }
+  });
+
   return (
     <>
     <Layout>
