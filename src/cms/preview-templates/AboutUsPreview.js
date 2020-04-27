@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import '../../styles/all.css'
 
 
-const AboutUsPreview = ({ entry, widgetFor, widgetsFor, getAsset }) => {
+const AboutUsPreview = ({ entry, widgetFor }) => {
 
 
     const data = entry.getIn(['data']).toJS()

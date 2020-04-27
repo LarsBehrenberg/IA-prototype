@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import '../../styles/all.css'
 
 
-const BlogPostPreview = ({ entry, widgetFor, widgetsFor, getAsset }) => {
+const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
 
     const data = entry.getIn(['data']).toJS()
     const { topImageUrl } = data.upperGalleryImages.topImage
