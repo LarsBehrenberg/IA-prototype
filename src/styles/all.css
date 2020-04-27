@@ -627,7 +627,8 @@ img[data-srcset] {
   background-color: rgba(230, 51, 51, 0.6);
   opacity: 0;
   -webkit-transition: opacity .1s linear;
-  transition: opacity .1s linear
+  transition: opacity .1s linear;
+  cursor: pointer;
 }
 
 .smallery-item-uri:hover:after {
@@ -638,7 +639,8 @@ img[data-srcset] {
   position: relative;
   display: block;
   width: 100%;
-  height: 100%
+  height: 100%;
+  cursor: pointer;
 }
 
 .ttde-gallery-url:after {

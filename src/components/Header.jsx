@@ -18,36 +18,36 @@ const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, o
                       <div className="ttde-gallery-inner">
                         <div className="ttde-gallery-top ttdegalleryitem" data-pswp-uid="1">
                           <figure className="ttde-gallery-top-inner" onClick={() => { openGallery(); showGallery(1);}}>
-                            <a className="ttde-gallery-url" href="#top" data-index="0">
+                            <span className="ttde-gallery-url" data-index="0">
                               <Img
                                 fluid={topImage.topImageUrl.childImageSharp.fluid}
                                 alt={topImage.topImageTitle}
                                 loading="lazy"
                               />
-                            </a>
+                            </span>
                           </figure>
                         </div>
                         <div className="ttde-gallery-bottom">
                           <div className="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem" data-pswp-uid="1">
                             <figure className="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(2);}}>
-                              <a className="ttde-gallery-url" href="#top"data-index="1">
+                              <span className="ttde-gallery-url" data-index="1">
                                 <Img
                                   fluid={leftImage.leftImageUrl.childImageSharp.fluid}
                                   alt={leftImage.leftImageTitle}
                                   loading="lazy"
                                 />
-                              </a>
+                              </span>
                             </figure>
                           </div>
                           <div className="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem" data-pswp-uid="1">
                             <figure className="ttde-gallery-col-inner" onClick={() => { openGallery(); showGallery(3);}}>
-                              <a className="ttde-gallery-url" href="#top" data-index="2">
+                              <span className="ttde-gallery-url" href="#top" data-index="2">
                                 <Img
                                   fluid={middleImage.middleImageUrl.childImageSharp.fluid}
                                   alt={middleImage.middleImageTitle}
                                   loading="lazy"
                                 />
-                              </a>
+                              </span>
                             </figure>
                           </div>
                           <div className="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open" data-pswp-uid="1">
