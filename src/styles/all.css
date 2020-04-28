@@ -941,12 +941,22 @@ img[data-srcset] {
   background-color: #F2F7FF;
   border-color: #e53132;
   border-width: 2px;
-  font-weight: bold
+  font-weight: bold;
+  border-bottom-width: 1px;
 }
 
-.list-group-item:first-child {
+
+.list-group-item:first-child,
+.list-group-item:first-child:focus,
+.list-group-item:first-child:hover {
   border-top-right-radius: 4px;
-  border-top-left-radius: 4px
+  border-top-left-radius: 4px;
+  border-bottom-width: 2px;
+}
+.list-group-item:last-child,
+.list-group-item:last-child:focus,
+.list-group-item:last-child:hover {
+  border-bottom-width: 2px;
 }
 
 .adsbygoogle-wrp {
