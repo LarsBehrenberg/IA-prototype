@@ -55,36 +55,6 @@ const Post = ({ data, pageContext }) => {
     )) : null
   }
 
-  window.addEventListener('scroll', function(event){
-    if(document.getElementById('sidebar')){
-      let sideBar = document.getElementById('sidebar')  // your element
-      let sideBottom = sideBar.getBoundingClientRect().bottom+100
-      // current scroll position relative to the body
-      let footerDiv = document.getElementById('newsletter')
-      let footerTop = footerDiv.getBoundingClientRect().top-50
-      console.log(sideBottom, footerTop)
-      if (sideBottom > footerTop) {
-        document.getElementById("sidebar-container").classList.add("stuck");
-      } else {
-        document.getElementById("sidebar-container").classList.remove("stuck");
-      }
-    }
-    // if (sideBar.hasClass('stuck')){
-    //   sideBar.removeClass('stuck')
-    // }
-    // console.log(footerDivPos)
-    // var toCross_position = $(".div-to-cross").offset().top;
-    // var toCross_height = $(".div-to-cross").height();
-
-    // if (fixed_position + fixed_height  < toCross_position) {
-    //   fixed.removeClass('white');
-    // } else if (fixed_position > toCross_position + toCross_height) {
-    //   fixed.removeClass('white');
-    // } else {
-    //   fixed.addClass('white');
-    // }
-  });
-
   return (
     <>
     <Layout>
@@ -112,42 +82,41 @@ const Post = ({ data, pageContext }) => {
     </Layout>
 
     {/* Invisable Modal for image gallery */}
-     <div id="myModal" className="modal">
-            <button className="close cursor" onClick={closeModal}>&times;</button>
-            <div className="modal-content">
+      <div id="myModal" className="modal">
+        <button className="close cursor" onClick={closeModal}>&times;</button>
+        <div className="modal-content">
 
-                <div className="mySlides">
-                  <div className="numbertext">1 / x</div>
-                  <img src={topImage.topImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={topImage.topImageTitle == null ? "An image title is missing" : topImage.topImageTitle} style={{width: "100%"}} />
-                </div>
-                <div className="mySlides">
-                  <div className="numbertext">1 / x</div>
-                  <img src={leftImage.leftImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={leftImage.leftImageTitle == null ? "An image title is missing" : leftImage.leftImageTitle} style={{width: "100%"}} />
-                </div>
-                <div className="mySlides">
-                  <div className="numbertext">1 / x</div>
-                  <img src={middleImage.middleImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={middleImage.middleImageTitle == null ? "An image title is missing" : middleImage.middleImageTitle} style={{width: "100%"}} />
-                </div>
-                <div className="mySlides">
-                  <div className="numbertext">1 / x</div>
-                  <img src={rightImage.rightImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={rightImage.rightImageTitle == null ? "An image title is missing" : rightImage.rightImageTitle} style={{width: "100%"}} />
-                </div>
+              <div className="mySlides">
+                <div className="numbertext">1 / x</div>
+                <img src={topImage.topImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={topImage.topImageTitle == null ? "An image title is missing" : topImage.topImageTitle} style={{width: "100%"}} />
+              </div>
+              <div className="mySlides">
+                <div className="numbertext">1 / x</div>
+                <img src={leftImage.leftImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={leftImage.leftImageTitle == null ? "An image title is missing" : leftImage.leftImageTitle} style={{width: "100%"}} />
+              </div>
+              <div className="mySlides">
+                <div className="numbertext">1 / x</div>
+                <img src={middleImage.middleImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={middleImage.middleImageTitle == null ? "An image title is missing" : middleImage.middleImageTitle} style={{width: "100%"}} />
+              </div>
+              <div className="mySlides">
+                <div className="numbertext">1 / x</div>
+                <img src={rightImage.rightImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={rightImage.rightImageTitle == null ? "An image title is missing" : rightImage.rightImageTitle} style={{width: "100%"}} />
+              </div>
 
-                {
-                  textSections.map((section, index) => {
-                    const { sideGalleryImages } = section
-                    return fillModals(sideGalleryImages)
-                  })
-                }
-                <button className="prev" onClick={() => plusSlides(-1)}>&#10094;</button>
-                <button className="next" onClick={() => plusSlides(1)}>&#10095;</button>
+              {
+                textSections.map((section, index) => {
+                  const { sideGalleryImages } = section
+                  return fillModals(sideGalleryImages)
+                })
+              }
+              <button className="prev" onClick={() => plusSlides(-1)}>&#10094;</button>
+              <button className="next" onClick={() => plusSlides(1)}>&#10095;</button>
 
-                <div className="caption-container">
-                    <p id="caption"></p>
-                </div>
-            </div>
-            </div>
-            
+              <div className="caption-container">
+                  <p id="caption"></p>
+              </div>
+          </div>
+      </div>
     </>
   );
 };
