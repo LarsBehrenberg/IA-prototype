@@ -6,10 +6,7 @@ import '../../styles/all.css'
 const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
 
     const data = entry.getIn(['data']).toJS()
-    const { topImageUrl } = data.upperGalleryImages.topImage
-    const { leftImageUrl } = data.upperGalleryImages.leftImage
-    const { middleImageUrl } = data.upperGalleryImages.middleImage
-    const { rightImageUrl } = data.upperGalleryImages.rightImage
+    console.log(data)
 
     // function ttdeToggleVisibility (self, id, idInner) {
     //     document.getElementById("site-text-more-button-"+(index+1)).remove()
@@ -30,21 +27,21 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
                     <div className="ttde-gallery">
                       <div className="ttde-gallery-inner">
                         <div className="ttde-gallery-top ttdegalleryitem" data-pswp-uid="1">
-                          <figure className="ttde-gallery-top-inner"> <a className="ttde-gallery-url"><img src={topImageUrl == null ? "" : topImageUrl.toString()} className="loading" alt=""/>
+                          <figure className="ttde-gallery-top-inner"> <a className="ttde-gallery-url"><img src={data.upperGalleryImages != undefined ? data.upperGalleryImages.topImage.topImageUrl != undefined ? data.upperGalleryImages.topImage.topImageUrl.toString() : "" : ""} className="loading" alt=""/>
                             </a> </figure>
                         </div>
                         <div className="ttde-gallery-bottom">
                           <div className="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem" data-pswp-uid="1">
-                            <figure className="ttde-gallery-col-inner"> <a className="ttde-gallery-url"><img className="loaded" src={leftImageUrl == null ? "" : leftImageUrl.toString()} alt=""/></a>
+                            <figure className="ttde-gallery-col-inner"> <a className="ttde-gallery-url"><img className="loaded" src={data.upperGalleryImages != undefined ? data.upperGalleryImages.leftImage.leftImageUrl != undefined ? data.upperGalleryImages.leftImage.leftImageUrl.toString() : "" : ""} alt=""/></a>
                             </figure>
                           </div>
                           <div className="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem" data-pswp-uid="1">
-                            <figure className="ttde-gallery-col-inner"> <a className="ttde-gallery-url"><img className="loaded" src={middleImageUrl == null ? "" : middleImageUrl.toString()} alt=""/></a>
+                            <figure className="ttde-gallery-col-inner"> <a className="ttde-gallery-url"><img className="loaded" src={data.upperGalleryImages != undefined ? data.upperGalleryImages.middleImage.middleImageUrl != undefined ? data.upperGalleryImages.middleImage.middleImageUrl.toString() : "" : ""} alt=""/></a>
                             </figure>
                           </div>
                           <div className="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open" data-pswp-uid="1">
                             <figure className="ttde-gallery-col-inner"> <a className="ttde-gallery-url"><span className="ttde-gallery-open-btn"><span>More
-                                    images 20+</span></span><img className="loaded" src={rightImageUrl == null ? "" : rightImageUrl.toString()} alt=""/></a>
+                                    images 20+</span></span><img className="loaded" src={data.upperGalleryImages != undefined ? data.upperGalleryImages.rightImage.rightImageUrl != undefined ? data.upperGalleryImages.rightImage.rightImageUrl.toString() : "" : ""} alt=""/></a>
                             </figure>
                           </div>
                         </div>
@@ -80,7 +77,7 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
                                       <div className="col-sm-3">
                                           <div className="smallery">
                                             {
-                                              data.textSections[index].sideGalleryImages.map((image, curr) => (
+                                              data.textSections[index].sideGalleryImages !== undefined ? data.textSections[index].sideGalleryImages.map((image, curr) => (
                                                 <div className="smallery-item-wrp ttdegalleryitem">
                                                   <figure className="smallery-item-psn">
                                                     <a className="smallery-item-uri">
@@ -88,7 +85,7 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
                                                     </a>
                                                   </figure>
                                                 </div>
-                                              ))
+                                              )) : null
                                             }
                                           </div>
                                       </div>
