@@ -99,15 +99,15 @@ const AboutUs = ({ data }) => {
                                                     </Link>
                                                 ))
                                             }
-                                            {/* {nextNeighbor === null ? null :
-                                            <Link to={nextNeighbor.frontmatter.path} className="list-group-item active">
-                                            <h4 className="list-group-item-heading">{nextNeighbor.frontmatter.title}</h4>
-                                            </Link>}
-                                            {prevNeighbor === null ? null :
-                                            <Link to={prevNeighbor.frontmatter.path} className="list-group-item active"
-                                                style={{borderTop: "none"}}>
-                                            <h4 className="list-group-item-heading">{prevNeighbor.frontmatter.title}</h4>
-                                            </Link>} */}
+                                            <Link to="impressionism-quiz" className="list-group-item active">
+                                            <h4 className="list-group-item-heading">Impressionism Quiz</h4>
+                                            </Link>
+                                            <Link to="gallery" className="list-group-item active">
+                                            <h4 className="list-group-item-heading">Our Gallery</h4>
+                                            </Link>
+                                            <Link to="/" className="list-group-item active">
+                                            <h4 className="list-group-item-heading">The Painters</h4>
+                                            </Link>
                                         </div>
                                     </div>
                                 </div>
