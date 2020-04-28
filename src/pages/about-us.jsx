@@ -1,6 +1,7 @@
 import React from 'react'
 import Layout from '../layouts/Layout'
 import Helmet from 'react-helmet'
+import { graphql } from 'gatsby';
 import Newsletter from '../layouts/Newsletter'
 import Img from 'gatsby-image'
 import { Link } from 'gatsby'
