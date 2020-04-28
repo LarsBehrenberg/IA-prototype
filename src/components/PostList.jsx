@@ -1,3 +1,4 @@
+/* eslint-disable react/forbid-prop-types */
 import React from 'react';
 import { Link } from 'gatsby';
 import Img from 'gatsby-image';
@@ -104,7 +105,7 @@ const Title = styled.h2`
   margin-bottom: 0.6rem;
 `;
 
-const PostList = ({ cover, path, date, title, excerpt }) => (
+const PostList = ({ cover, path, title, excerpt }) => (
   <Wrapper>
     <Image>
       <Img fluid={cover} />
@@ -124,7 +125,6 @@ export default PostList;
 PostList.propTypes = {
   cover: PropTypes.object.isRequired,
   path: PropTypes.string.isRequired,
-  excerpt: PropTypes.string,
-  date: PropTypes.string.isRequired,
+  excerpt: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
 };
