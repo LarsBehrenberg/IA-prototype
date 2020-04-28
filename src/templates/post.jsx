@@ -13,7 +13,7 @@ import '../styles/lightbox.css'
 var slideIndex = 1;
 
 const Post = ({ data, pageContext }) => {
-  const { next, prev, sideBarLinks } = pageContext;
+  const { next, prev } = pageContext;
   const { html, frontmatter, excerpt, fields } = data.markdownRemark
   const { title, subTitle, path, description, textSections, upperGalleryImages, videoUrl } = frontmatter
   const image = frontmatter.cover.childImageSharp.fluid;
