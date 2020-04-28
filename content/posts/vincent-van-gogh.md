@@ -7,6 +7,10 @@ tags:
   - Van Gogh
   - Impressionist
 cover: /assets/van-gogh-starry-night.jpg
+links:
+  - Berthe Morisot
+  - First Impressionist Exhibition
+  - Jean-Baptiste-Camille Corot
 videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:

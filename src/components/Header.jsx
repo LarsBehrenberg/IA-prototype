@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 
-const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, openGallery, prevNeighbor, nextNeighbor}) => {
+const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, openGallery, sideLinks }) => {
     const { topImage, leftImage, middleImage, rightImage } = images
 
     return (
@@ -94,8 +94,13 @@ const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, o
                             <h5 className="list-group-item-heading" dangerouslySetInnerHTML={{ __html: bodyTitles[index]}} ></h5>
                           </a>)
                             })}
-                          {nextNeighbor === null ? null : <Link to={nextNeighbor.frontmatter.path} className="list-group-item active"><h4 className="list-group-item-heading">{nextNeighbor.frontmatter.title}</h4></Link>}
-                          {prevNeighbor === null ? null : <Link to={prevNeighbor.frontmatter.path} className="list-group-item active" style={{borderTop: "none"}}><h4 className="list-group-item-heading">{prevNeighbor.frontmatter.title}</h4></Link>}
+                          {
+                            sideLinks.map((link, index) => (
+                              <Link to={link.frontmatter.path} className="list-group-item active"><h4 className="list-group-item-heading">{link.frontmatter.title}</h4></Link>
+                            ))
+                          }
+                          {/* {nextNeighbor === null ? null : <Link to={nextNeighbor.frontmatter.path} className="list-group-item active"><h4 className="list-group-item-heading">{nextNeighbor.frontmatter.title}</h4></Link>}
+                          {prevNeighbor === null ? null : <Link to={prevNeighbor.frontmatter.path} className="list-group-item active" style={{borderTop: "none"}}><h4 className="list-group-item-heading">{prevNeighbor.frontmatter.title}</h4></Link>} */}
                           </div>
                       </div>
                     </div>

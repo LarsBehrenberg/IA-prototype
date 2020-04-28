@@ -7,6 +7,10 @@ tags:
   - Seurat
   - Impressionist
 cover: /assets/georges-seurat-sunday-on-la-grande-jatte.jpg
+links:
+  - Berthe Morisot
+  - First Impressionist Exhibition
+  - Jean-Baptiste-Camille Corot
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/georges-seurat-sunday-on-la-grande-jatte.jpg

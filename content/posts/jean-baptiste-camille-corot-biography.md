@@ -8,6 +8,10 @@ tags:
   - Impressionist
 cover: /assets/camille-corot-venise-la-piazetta.jpg
 videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
+links:
+  - Berthe Morisot
+  - First Impressionist Exhibition
+  - Jean-Baptiste-Camille Corot
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/camille-corot-venise-la-piazetta.jpg

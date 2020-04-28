@@ -25,6 +25,7 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
                     path
                     title
                     tags
+                    links
                     cover {
                       relativePath
                     }
@@ -82,6 +83,7 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
         //create posts
         posts.forEach(({ node }, index) => {
           const path = node.frontmatter.path;
+          const sideBarLinks = node.frontmatter.links;
           const prev = index === 0 ? posts[posts.length-1].node : posts[index - 1].node;
           const next = index === posts.length - 1 ? posts[0].node : posts[index + 1].node;
           createPage({
@@ -89,6 +91,7 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
             component: postTemplate,
             context: {
               pathSlug: path,
+              sideBarLinks,
               prev,
               next,
             },

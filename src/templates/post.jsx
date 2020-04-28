@@ -13,7 +13,7 @@ import '../styles/lightbox.css'
 var slideIndex = 1;
 
 const Post = ({ data, pageContext }) => {
-  const { next, prev } = pageContext;
+  const { next, prev, sideBarLinks } = pageContext;
   const { html, frontmatter, excerpt, fields } = data.markdownRemark
   const { title, subTitle, path, description, textSections, upperGalleryImages, videoUrl } = frontmatter
   const image = frontmatter.cover.childImageSharp.fluid;
@@ -66,7 +66,7 @@ const Post = ({ data, pageContext }) => {
         article
       />
       {/* This is the upprGallery & sideBar */}
-      <Header title={title} subTitleText={subTitle} intro={html} bodyTitles={fields.bodyTitle} images={upperGalleryImages} showGallery={showSlides} openGallery={openModal} prevNeighbor={prev} nextNeighbor={next} />
+      <Header title={title} subTitleText={subTitle} intro={html} bodyTitles={fields.bodyTitle} images={upperGalleryImages} showGallery={showSlides} openGallery={openModal} sideLinks={data.allMarkdownRemark.nodes} />
       <div class="site-content">
         <main class="site-main">
           {/* These are the TextSections */}
@@ -132,7 +132,15 @@ Post.propTypes = {
 };
 
 export const query = graphql`
-  query($pathSlug: String!) {
+  query($pathSlug: String!, $sideBarLinks: [String]) {
+    allMarkdownRemark(filter: {frontmatter: {title: {in: $sideBarLinks}}}) {
+      nodes {
+        frontmatter {
+          title
+          path
+        }
+      }
+    }
     markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
       html
       fields {

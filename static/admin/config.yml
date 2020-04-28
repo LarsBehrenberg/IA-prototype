@@ -34,6 +34,7 @@ collections:
         displayFields: ["title", "tags"]
         valueField: "title"
         multiple: true
+        required: true
       - { name: "videoUrl",
           label: "Video Url",
           widget: "string",
