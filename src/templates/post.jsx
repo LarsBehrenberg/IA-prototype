@@ -16,7 +16,7 @@ const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
   const { html, frontmatter, excerpt, fields } = data.markdownRemark
   const { title, subTitle, path, description, textSections, upperGalleryImages, videoUrl } = frontmatter
-  const image = frontmatter.cover.childImageSharp.fluid;
+  const image = frontmatter.cover.childImageSharp.fluid.src;
   const { topImage, leftImage, middleImage, rightImage } = upperGalleryImages
 
   function openModal() {
@@ -48,7 +48,7 @@ const Post = ({ data, pageContext }) => {
 
   function fillModals(arr) {
     return arr !== null ? arr.map((image, index) => (
-      <div className="mySlides">
+      <div className="mySlides" key={index+5}>
         <div className="numbertext">1 / x</div>
         <img src={image.imageUrl.childImageSharp.fluid.src} className="gallery-image" alt={image.imageTitle == null ? "An image title is missing" : image.imageTitle} style={{width: "100%"}} />
       </div>
@@ -67,12 +67,12 @@ const Post = ({ data, pageContext }) => {
       />
       {/* This is the upprGallery & sideBar */}
       <Header title={title} subTitleText={subTitle} intro={html} bodyTitles={fields.bodyTitle} images={upperGalleryImages} showGallery={showSlides} openGallery={openModal} sideLinks={data.allMarkdownRemark.nodes} />
-      <div class="site-content">
-        <main class="site-main">
+      <div className="site-content">
+        <main className="site-main">
           {/* These are the TextSections */}
           {videoUrl !== null && videoUrl !== "" ? <Video url={videoUrl} /> : null}
           {fields.bodyTitle.map((value, index) => {
-            return <TextSection showGallery={showSlides} openGallery={openModal} index={index} title={textSections[index].textTitle} text={fields.bodyText[index]} textSectionImageArray={textSections[index].sideGalleryImages}/>
+            return <TextSection key={index} showGallery={showSlides} openGallery={openModal} index={index} title={textSections[index].textTitle} text={fields.bodyText[index]} textSectionImageArray={textSections[index].sideGalleryImages}/>
           })}
 
         <Suggestion previousNeighbor={prev} nextNeighbor={next}/>
@@ -86,19 +86,19 @@ const Post = ({ data, pageContext }) => {
         <button className="close cursor" onClick={closeModal}>&times;</button>
         <div className="modal-content">
 
-              <div className="mySlides">
+              <div className="mySlides" key="1">
                 <div className="numbertext">1 / x</div>
                 <img src={topImage.topImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={topImage.topImageTitle == null ? "An image title is missing" : topImage.topImageTitle} style={{width: "100%"}} />
               </div>
-              <div className="mySlides">
+              <div className="mySlides" key="2">
                 <div className="numbertext">1 / x</div>
                 <img src={leftImage.leftImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={leftImage.leftImageTitle == null ? "An image title is missing" : leftImage.leftImageTitle} style={{width: "100%"}} />
               </div>
-              <div className="mySlides">
+              <div className="mySlides" key="3">
                 <div className="numbertext">1 / x</div>
                 <img src={middleImage.middleImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={middleImage.middleImageTitle == null ? "An image title is missing" : middleImage.middleImageTitle} style={{width: "100%"}} />
               </div>
-              <div className="mySlides">
+              <div className="mySlides" key="4">
                 <div className="numbertext">1 / x</div>
                 <img src={rightImage.rightImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={rightImage.rightImageTitle == null ? "An image title is missing" : rightImage.rightImageTitle} style={{width: "100%"}} />
               </div>

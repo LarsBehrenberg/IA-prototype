@@ -39,7 +39,7 @@ const Navbar = () => {
               <li><Link to="/"><span>The Painters</span> <span className="caret"></span></Link>
                   <ul className="sub-menu">
                     {painters.map((painter) => (
-                      <li><Link to={painter.frontmatter.path}>{painter.frontmatter.title}</Link></li>
+                      <li key={painter.frontmatter.title}><Link to={painter.frontmatter.path}>{painter.frontmatter.title}</Link></li>
                     ))}
                     <li><Link to="/"><span style={{color: "#dd3030"}}>&#10145;</span> {(data.allMarkdownRemark.totalCount - 6).toString()} more</Link></li>
                   </ul>

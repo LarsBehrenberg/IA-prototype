@@ -11,7 +11,7 @@ const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, o
               <div className="col-sm-9">
                 <section className="site-block top">
                   <div className="site-title">
-                    <h1><span className="page__title-ttd">{subTitleText} </span><span className="page__title-e" itemprop="name">{title}<span></span> </span></h1>
+                    <h1><span className="page__title-ttd">{subTitleText} </span><span className="page__title-e" itemProp="name">{title}<span></span> </span></h1>
                   </div>
                   <div className="site-gallery">
                     <div className="ttde-gallery">
@@ -66,13 +66,13 @@ const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, o
                       </div>
                     </div>
                   </div>
-                  <div className="site-bb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                  <div className="site-bb" itemScope="" itemType="http://schema.org/BreadcrumbList">
                     <ul>
-                      <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://impressionistarts.com/index.html"><span itemprop="name">Home</span></a>
-                        <meta itemprop="position" content="1"/>
+                      <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem"><Link itemProp="item" to="/"><span itemProp="name">Home</span></Link>
+                        <meta itemProp="position" content="1"/>
                       </li>
-                      <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://impressionistarts.com/paul-signac-biography.html"><span itemprop="name">{title}</span></a>
-                        <meta itemprop="position" content="3"/>
+                      <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem"><span itemProp="name">{title}</span>
+                        <meta itemProp="position" content="3"/>
                       </li>
                     </ul>
                   </div>
@@ -90,13 +90,17 @@ const Header = ({ title, subTitleText, intro, bodyTitles, images, showGallery, o
                             <h4 className="list-group-item-heading">{title}</h4>
                           </a>
                           {bodyTitles.map((value, index) => {
-                            return (<a href={"#"+(index+1)} className="list-group-item">
-                            <h5 className="list-group-item-heading" dangerouslySetInnerHTML={{ __html: bodyTitles[index]}} ></h5>
-                          </a>)
+                            return (
+                              <a href={"#"+(index+1)} className="list-group-item" key={"#"+(index+1)}>
+                                <h5 className="list-group-item-heading" dangerouslySetInnerHTML={{ __html: bodyTitles[index]}} ></h5>
+                              </a>
+                            )
                             })}
                           {
                             sideLinks.map((link, index) => (
-                              <Link to={link.frontmatter.path} className="list-group-item active"><h4 className="list-group-item-heading">{link.frontmatter.title}</h4></Link>
+                              <Link to={link.frontmatter.path} className="list-group-item active" key={link.frontmatter.path}>
+                                <h4 className="list-group-item-heading">{link.frontmatter.title}</h4>
+                              </Link>
                             ))
                           }
                           {/* {nextNeighbor === null ? null : <Link to={nextNeighbor.frontmatter.path} className="list-group-item active"><h4 className="list-group-item-heading">{nextNeighbor.frontmatter.title}</h4></Link>}
