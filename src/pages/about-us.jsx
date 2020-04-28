@@ -83,10 +83,10 @@ const AboutUs = ({ data }) => {
                         </section>
                     </div>
                     <div className="col-sm-3">
-                        <section className="site-sidebar">
+                        <section className="site-sidebar" id="sidebar-container">
                             <div className="container">
                                 <div className="row">
-                                    <div className="col-sm-push-9 col-sm-3">
+                                    <div className="col-sm-push-9 col-sm-3" id="sidebar">
                                         <div className="list-group"> 
                                             <a href="#top" className="list-group-item active">
                                                 <h4 className="list-group-item-heading">Impressionist Painters</h4>
