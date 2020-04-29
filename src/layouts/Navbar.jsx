@@ -22,7 +22,10 @@ const Navbar = () => {
 
   const data = useStaticQuery(graphql`
     query {
-      allMarkdownRemark(limit: 6) {
+      allMarkdownRemark(
+        filter: { fileAbsolutePath: { regex: "/posts/" } }
+        limit: 6
+      ) {
         nodes {
           frontmatter {
             title
