@@ -1,7 +1,25 @@
-import React from "react";
-import { Link, graphql, useStaticQuery } from "gatsby";
+/* eslint-disable no-undef */
+import React from 'react';
+import { Link, graphql, useStaticQuery } from 'gatsby';
 
 const Navbar = () => {
+  // // Button onClick function!
+  function buttonClicked() {
+    const container = document.getElementById('site-navigation');
+    const menu = container.getElementsByTagName('ul')[0];
+    const button = document.getElementById('primary-toggle');
+
+    if (container.className.indexOf('toggled') !== -1) {
+      container.className = container.className.replace(' toggled', '');
+      button.setAttribute('aria-expanded', 'false');
+      menu.setAttribute('aria-expanded', 'false');
+    } else {
+      container.className += ' toggled';
+      button.setAttribute('aria-expanded', 'true');
+      menu.setAttribute('aria-expanded', 'true');
+    }
+  }
+
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(limit: 6) {
@@ -33,27 +51,29 @@ const Navbar = () => {
           </div>
           <button
             id="primary-toggle"
+            type="button"
             className="menu-toggle"
             aria-controls="primary-menu"
             aria-expanded="false"
+            onClick={buttonClicked}
           >
-            <span></span>
-            <span></span>
-            <span></span>
+            <span />
+            <span />
+            <span />
           </button>
         </div>
         <nav id="site-navigation" className="nav">
           <div className="nav-ctn">
             <ul id="primary-menu" className="nav-menu" aria-expanded="false">
               <li>
-                <Link to="/">Home</Link>{" "}
+                <Link to="/">Home</Link>{' '}
               </li>
               <li>
                 <Link to="/">
-                  <span>The Painters</span> <span className="caret"></span>
+                  <span>The Painters</span> <span className="caret" />
                 </Link>
                 <ul className="sub-menu">
-                  {painters.map((painter) => (
+                  {painters.map(painter => (
                     <li key={painter.frontmatter.title}>
                       <Link to={painter.frontmatter.path}>
                         {painter.frontmatter.title}
@@ -62,7 +82,7 @@ const Navbar = () => {
                   ))}
                   <li>
                     <Link to="/">
-                      <span style={{ color: "#dd3030" }}>&#10145;</span>{" "}
+                      <span style={{ color: '#dd3030' }}>&#10145;</span>{' '}
                       {(data.allMarkdownRemark.totalCount - 6).toString()} more
                     </Link>
                   </li>
@@ -76,7 +96,7 @@ const Navbar = () => {
               </li>
               <li>
                 <a href="/">
-                  <span>More</span> <span className="caret"></span>
+                  <span>More</span> <span className="caret" />
                 </a>
                 <ul className="sub-menu">
                   {/* <li><a href="https://impressionistarts.com/impressionism-timeline.html">Impressionism Timeline </a> </li>
