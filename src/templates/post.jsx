@@ -1,121 +1,222 @@
+/* eslint-disable no-undef */
 import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import SEO from '../components/SEO'
-import Newsletter from '../layouts/Newsletter'
-import Layout from '../layouts/Layout'
-import TextSection from '../components/TextSection'
-import Header from '../components/Header'
-import Suggestion from '../components/Suggestion'
-import Video from '../components/Video'
-import '../styles/lightbox.css'
+import SEO from '../components/SEO';
+import Newsletter from '../layouts/Newsletter';
+import Layout from '../layouts/Layout';
+import TextSection from '../components/TextSection';
+import Header from '../components/Header';
+import Suggestion from '../components/Suggestion';
+import Video from '../components/Video';
+import '../styles/lightbox.css';
 
-var slideIndex = 1;
+let slideIndex = 1;
 
 const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
-  const { html, frontmatter, excerpt, fields } = data.markdownRemark
-  const { title, subTitle, path, description, textSections, upperGalleryImages, videoUrl } = frontmatter
+  const { html, frontmatter, excerpt, fields } = data.markdownRemark;
+  const {
+    title,
+    subTitle,
+    path,
+    description,
+    textSections,
+    upperGalleryImages,
+    videoUrl,
+  } = frontmatter;
   const image = frontmatter.cover.childImageSharp.fluid.src;
-  const { topImage, leftImage, middleImage, rightImage } = upperGalleryImages
+  const { topImage, leftImage, middleImage, rightImage } = upperGalleryImages;
 
   function openModal() {
-    document.getElementById("myModal").style.display = "block";
+    document.getElementById('myModal').style.display = 'block';
   }
 
   function closeModal() {
-    document.getElementById("myModal").style.display = "none";
-  }
-
-  function plusSlides(n) {
-    slideIndex += n
-    showSlides(slideIndex);
+    document.getElementById('myModal').style.display = 'none';
   }
 
   function showSlides(n) {
-    var i;
-    slideIndex = n
-    var slides = document.getElementsByClassName("mySlides");
-    var captionText = document.getElementById("caption");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
+    let i;
+    slideIndex = n;
+    const slides = document.getElementsByClassName('mySlides');
+    const captionText = document.getElementById('caption');
+    const numberText = document.getElementById('numbertext');
+    if (n > slides.length) {
+      slideIndex = 1;
     }
-    slides[slideIndex-1].style.display = "block";
-    captionText.innerHTML = document.getElementsByClassName("gallery-image")[slideIndex-1].alt;
+    if (n < 1) {
+      slideIndex = slides.length;
+    }
+    for (i = 0; i < slides.length; i += 1) {
+      slides[i].style.display = 'none';
+    }
+    slides[slideIndex - 1].style.display = 'block';
+    captionText.innerHTML = document.getElementsByClassName('gallery-image')[
+      slideIndex - 1
+    ].alt;
+
+    numberText.innerHTML = `${slideIndex} / ${
+      document.getElementsByClassName('gallery-image').length
+    }`;
+  }
+
+  function plusSlides(n) {
+    slideIndex += n;
+    showSlides(slideIndex);
   }
 
   function fillModals(arr) {
-    return arr !== null ? arr.map((image, index) => (
-      <div className="mySlides" key={index+5}>
-        <div className="numbertext">1 / x</div>
-        <img src={image.imageUrl.childImageSharp.fluid.src} className="gallery-image" alt={image.imageTitle == null ? "An image title is missing" : image.imageTitle} style={{width: "100%"}} />
-      </div>
-    )) : null
+    return arr !== null
+      ? arr.map(modalImage => (
+          <div className="mySlides" key="modalImage">
+            <img
+              src={modalImage.imageUrl.childImageSharp.fluid.src}
+              className="gallery-image"
+              alt={
+                modalImage.imageTitle == null
+                  ? 'An image title is missing'
+                  : modalImage.imageTitle
+              }
+              style={{ width: '100%' }}
+            />
+          </div>
+        ))
+      : null;
   }
 
   return (
     <>
-    <Layout>
-      <SEO
-        title={title}
-        description={description || excerpt || ' '}
-        banner={image}
-        pathname={path}
-        article
-      />
-      {/* This is the upprGallery & sideBar */}
-      <Header title={title} subTitleText={subTitle} intro={html} bodyTitles={fields.bodyTitle} images={upperGalleryImages} showGallery={showSlides} openGallery={openModal} sideLinks={data.allMarkdownRemark.nodes} />
-      <div className="site-content">
-        <main className="site-main">
-          {/* These are the TextSections */}
-          {videoUrl !== null && videoUrl !== "" ? <Video url={videoUrl} /> : null}
-          {fields.bodyTitle.map((value, index) => {
-            return <TextSection key={index} showGallery={showSlides} openGallery={openModal} index={index} title={textSections[index].textTitle} text={fields.bodyText[index]} textSectionImageArray={textSections[index].sideGalleryImages}/>
+      <Layout>
+        <SEO
+          title={title}
+          description={description || excerpt || ' '}
+          banner={image}
+          pathname={path}
+          article
+        />
+        {/* This is the upprGallery & sideBar */}
+        <Header
+          title={title}
+          subTitleText={subTitle}
+          intro={html}
+          bodyTitles={fields.bodyTitle}
+          images={upperGalleryImages}
+          showGallery={showSlides}
+          openGallery={openModal}
+          sideLinks={data.allMarkdownRemark.nodes}
+        />
+        <div className="site-content">
+          <main className="site-main">
+            {/* These are the TextSections */}
+            {videoUrl !== null && videoUrl !== '' ? (
+              <Video url={videoUrl} />
+            ) : null}
+            {fields.bodyTitle.map((value, index) => {
+              return (
+                <TextSection
+                  key="Textsection"
+                  showGallery={showSlides}
+                  openGallery={openModal}
+                  index={index}
+                  title={textSections[index].textTitle}
+                  text={fields.bodyText[index]}
+                  textSectionImageArray={textSections[index].sideGalleryImages}
+                />
+              );
+            })}
+
+            <Suggestion previousNeighbor={prev} nextNeighbor={next} />
+          </main>
+        </div>
+        <Newsletter />
+      </Layout>
+
+      {/* Invisable Modal for image gallery */}
+      <div id="myModal" className="modal">
+        <div className="numbertext" id="numbertext">
+          1 / x
+        </div>
+        <button className="close cursor" onClick={closeModal} type="button">
+          &times;
+        </button>
+        <div className="modal-content">
+          <div className="mySlides" key="1">
+            <img
+              src={topImage.topImageUrl.childImageSharp.fluid.src}
+              className="gallery-image"
+              alt={
+                topImage.topImageTitle == null
+                  ? 'An image title is missing'
+                  : topImage.topImageTitle
+              }
+              style={{ width: '100%' }}
+            />
+          </div>
+          <div className="mySlides" key="2">
+            <img
+              src={leftImage.leftImageUrl.childImageSharp.fluid.src}
+              className="gallery-image"
+              alt={
+                leftImage.leftImageTitle == null
+                  ? 'An image title is missing'
+                  : leftImage.leftImageTitle
+              }
+              style={{ width: '100%' }}
+            />
+          </div>
+          <div className="mySlides" key="3">
+            <img
+              src={middleImage.middleImageUrl.childImageSharp.fluid.src}
+              className="gallery-image"
+              alt={
+                middleImage.middleImageTitle == null
+                  ? 'An image title is missing'
+                  : middleImage.middleImageTitle
+              }
+              style={{ width: '100%' }}
+            />
+          </div>
+          <div className="mySlides" key="4">
+            <img
+              src={rightImage.rightImageUrl.childImageSharp.fluid.src}
+              className="gallery-image"
+              alt={
+                rightImage.rightImageTitle == null
+                  ? 'An image title is missing'
+                  : rightImage.rightImageTitle
+              }
+              style={{ width: '100%' }}
+            />
+          </div>
+
+          {textSections.map(section => {
+            const { sideGalleryImages } = section;
+            return fillModals(sideGalleryImages);
           })}
 
-        <Suggestion previousNeighbor={prev} nextNeighbor={next}/>
-        </main>
-      </div>
-      <Newsletter />
-    </Layout>
-
-    {/* Invisable Modal for image gallery */}
-      <div id="myModal" className="modal">
-        <button className="close cursor" onClick={closeModal}>&times;</button>
-        <div className="modal-content">
-
-              <div className="mySlides" key="1">
-                <div className="numbertext">1 / x</div>
-                <img src={topImage.topImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={topImage.topImageTitle == null ? "An image title is missing" : topImage.topImageTitle} style={{width: "100%"}} />
-              </div>
-              <div className="mySlides" key="2">
-                <div className="numbertext">1 / x</div>
-                <img src={leftImage.leftImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={leftImage.leftImageTitle == null ? "An image title is missing" : leftImage.leftImageTitle} style={{width: "100%"}} />
-              </div>
-              <div className="mySlides" key="3">
-                <div className="numbertext">1 / x</div>
-                <img src={middleImage.middleImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={middleImage.middleImageTitle == null ? "An image title is missing" : middleImage.middleImageTitle} style={{width: "100%"}} />
-              </div>
-              <div className="mySlides" key="4">
-                <div className="numbertext">1 / x</div>
-                <img src={rightImage.rightImageUrl.childImageSharp.fluid.src} className="gallery-image" alt={rightImage.rightImageTitle == null ? "An image title is missing" : rightImage.rightImageTitle} style={{width: "100%"}} />
-              </div>
-
-              {
-                textSections.map((section, index) => {
-                  const { sideGalleryImages } = section
-                  return fillModals(sideGalleryImages)
-                })
-              }
-              <button className="prev" onClick={() => plusSlides(-1)}>&#10094;</button>
-              <button className="next" onClick={() => plusSlides(1)}>&#10095;</button>
-
-              <div className="caption-container">
-                  <p id="caption"></p>
-              </div>
+          <div className="caption-container">
+            <p id="caption" />
           </div>
+        </div>
+        <button className="prev" onClick={() => plusSlides(-1)} type="button">
+          &#10094;
+        </button>
+        <button className="next" onClick={() => plusSlides(1)} type="button">
+          &#10095;
+        </button>
+        <div
+          style={{
+            position: 'absolute',
+            width: '100vw',
+            height: '100vh',
+            opacity: '0',
+            top: '0',
+            left: '0',
+            zIndex: '-1',
+          }}
+          onClick={closeModal}
+        />
       </div>
     </>
   );
@@ -128,12 +229,15 @@ Post.propTypes = {
     prev: PropTypes.object,
     next: PropTypes.object,
   }).isRequired,
+  // eslint-disable-next-line react/forbid-prop-types
   data: PropTypes.object.isRequired,
 };
 
 export const query = graphql`
   query($pathSlug: String!, $sideBarLinks: [String]) {
-    allMarkdownRemark(filter: {frontmatter: {title: {in: $sideBarLinks}}}) {
+    allMarkdownRemark(
+      filter: { frontmatter: { title: { in: $sideBarLinks } } }
+    ) {
       nodes {
         frontmatter {
           title
@@ -153,6 +257,7 @@ export const query = graphql`
         videoUrl
         upperGalleryImages {
           topImage {
+            topImageTitle
             topImageUrl {
               childImageSharp {
                 fluid(maxWidth: 900) {
@@ -162,6 +267,7 @@ export const query = graphql`
             }
           }
           leftImage {
+            leftImageTitle
             leftImageUrl {
               childImageSharp {
                 fluid(maxWidth: 450) {
@@ -171,6 +277,7 @@ export const query = graphql`
             }
           }
           middleImage {
+            middleImageTitle
             middleImageUrl {
               childImageSharp {
                 fluid(maxWidth: 450) {
@@ -180,6 +287,7 @@ export const query = graphql`
             }
           }
           rightImage {
+            rightImageTitle
             rightImageUrl {
               childImageSharp {
                 fluid(maxWidth: 450) {
