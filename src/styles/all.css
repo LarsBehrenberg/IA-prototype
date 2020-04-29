@@ -276,7 +276,7 @@ a.btn {
   vertical-align: middle
 }
 
-.sub-menu{
+.sub-menu {
   z-index: 99999
 }
 
@@ -626,8 +626,8 @@ img[data-srcset] {
   bottom: 0;
   background-color: rgba(230, 51, 51, 0.6);
   opacity: 0;
-  -webkit-transition: opacity ..3s linear;
-  transition: opacity ..3s linear;
+  -webkit-transition: opacity .03s linear;
+  transition: opacity .03s linear;
   cursor: pointer;
 }
 
@@ -652,8 +652,8 @@ img[data-srcset] {
   bottom: 0;
   background-color: rgba(230, 51, 51, 0.6);
   opacity: 0;
-  -webkit-transition: opacity ..3s linear;
-  transition: opacity ..3s linear
+  -webkit-transition: opacity .03s linear;
+  transition: opacity .03s linear
 }
 
 .ttde-gallery-url:hover:after {
@@ -741,7 +741,8 @@ img[data-srcset] {
   position: relative
 }
 
-.site-text h3, .site-text h2 {
+.site-text h3,
+.site-text h2 {
   color: #dd3030;
   font-weight: 400;
   margin-top: 0
@@ -753,7 +754,8 @@ img[data-srcset] {
   font-size: 1.17em;
 }
 
-.site-text li a, .site-text h3 a {
+.site-text li a,
+.site-text h3 a {
   border-bottom: #e53132 dotted 2px;
   color: #23527c
 }
@@ -876,7 +878,8 @@ img[data-srcset] {
     position: fixed;
     left: 0;
     right: 0;
-    transition: opacity .3s ease-in-out;;
+    transition: opacity .3s ease-in-out;
+    ;
     -webkit-transition: opacity .3s ease-in-out;
     -moz-transition: opacity .3s ease-in-out;
     -ms-transition: opacity .3s ease-in-out;
@@ -898,9 +901,10 @@ img[data-srcset] {
   margin: 20px 0
 }
 
-.list-group-item-heading > p {
+.list-group-item-heading>p {
   margin: 0
 }
+
 .list-group-item {
   position: relative;
   display: block;
@@ -953,6 +957,7 @@ img[data-srcset] {
   border-top-left-radius: 4px;
   border-bottom-width: 2px;
 }
+
 .list-group-item:last-child,
 .list-group-item:last-child:focus,
 .list-group-item:last-child:hover {
@@ -1903,12 +1908,13 @@ p>a {
   .footer-container {
     flex-direction: column;
   }
-  .footer-container :nth-child(2){
+
+  .footer-container :nth-child(2) {
     order: -1
   }
 }
 
-.footer-container :first-child{
+.footer-container :first-child {
   order: 1;
 }
 
