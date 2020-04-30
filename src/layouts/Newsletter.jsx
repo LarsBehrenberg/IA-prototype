@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import styled from "@emotion/styled";
+import React, { useState } from 'react';
+import styled from '@emotion/styled';
 
 const Wrapper = styled.div`
   margin-top: 4rem;
@@ -117,8 +117,8 @@ const Newsletter = () => {
         <TextWrapper>
           <h2>Join The Monthly Newsletter!</h2>
           <p>
-            Curabitur ultricies blandit nisi ut convallis. Integer in augue
-            feugiat laoreet risus. Etiam tempus lorem luctus hendrerit.
+            Sign up to receive our free monthly email covering the latest
+            exhibitions, auctions and more.
           </p>
         </TextWrapper>
         <InputWrapper>
