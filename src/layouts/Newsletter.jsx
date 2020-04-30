@@ -72,7 +72,7 @@ const InputWrapper = styled.div`
     text-transform: uppercase !important;
 
     line-height: 1.7em !important;
-    border-width: 8px !important;
+    border-width: 0 !important;
     color: #ffffff;
     border-color: #94a6bf;
     border-radius: 3px;
