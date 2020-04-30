@@ -28,6 +28,23 @@ const Post = ({ data, pageContext }) => {
   const image = frontmatter.cover.childImageSharp.fluid.src;
   const { topImage, leftImage, middleImage, rightImage } = upperGalleryImages;
 
+  let keyBoardListen = false;
+
+  function keyListener(event) {
+    if (event.keyCode === 39) {
+      // eslint-disable-next-line no-use-before-define
+      plusSlides(1);
+    }
+    if (event.keyCode === 37) {
+      // eslint-disable-next-line no-use-before-define
+      plusSlides(-1);
+    }
+    if (event.keyCode === 27) {
+      // eslint-disable-next-line no-use-before-define
+      closeModal();
+    }
+  }
+
   function openModal() {
     document.getElementById('myModal').style.display = 'block';
   }
@@ -59,6 +76,10 @@ const Post = ({ data, pageContext }) => {
     numberText.innerHTML = `${slideIndex} / ${
       document.getElementsByClassName('gallery-image').length
     }`;
+    if (keyBoardListen === false) {
+      window.addEventListener('keydown', event => keyListener(event));
+      keyBoardListen = true;
+    }
   }
 
   function plusSlides(n) {
