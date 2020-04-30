@@ -198,13 +198,13 @@ const Post = ({ data, pageContext }) => {
           <div className="caption-container">
             <p id="caption" />
           </div>
+          <button className="prev" onClick={() => plusSlides(-1)} type="button">
+            &#10094;
+          </button>
+          <button className="next" onClick={() => plusSlides(1)} type="button">
+            &#10095;
+          </button>
         </div>
-        <button className="prev" onClick={() => plusSlides(-1)} type="button">
-          &#10094;
-        </button>
-        <button className="next" onClick={() => plusSlides(1)} type="button">
-          &#10095;
-        </button>
         <div
           style={{
             position: 'absolute',

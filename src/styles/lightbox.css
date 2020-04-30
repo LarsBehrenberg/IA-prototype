@@ -24,7 +24,9 @@
     background-color: #fefefe;
     margin: auto;
     padding: 0;
-    width: 400px;
+    max-width: 70%;
+    width: auto;
+    height: 80vh;
 }
 
 /* The Close Button */
@@ -49,6 +51,38 @@
 
 .mySlides {
     display: none;
+    width: auto;
+    max-height: 80vh;
+    background-color: rgba(0, 0, 0, 0.98);
+}
+
+.mySlides img {
+    height: 77vh;
+    object-fit: contain;
+}
+
+@media only screen and (max-width: 767px) {
+
+    .mySlides,
+    .modal-content {
+        max-height: 55vh;
+    }
+
+    .mySlides img {
+        height: 50vh;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+
+    .mySlides,
+    .modal-content {
+        max-height: 600px;
+    }
+
+    .mySlides img {
+        height: 550px;
+    }
 }
 
 .cursor {
