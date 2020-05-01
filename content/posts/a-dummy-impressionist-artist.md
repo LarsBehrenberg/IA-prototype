@@ -11,7 +11,7 @@ links:
   - Berthe Morisot
   - First Impressionist Exhibition
   - Jean-Baptiste-Camille Corot
-videoUrl: https://www.youtube.com/embed/ZPOS3WtXfFg
+videoUrl: ''
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/berthe-morisot-eugene-manet.jpg
@@ -26,18 +26,16 @@ upperGalleryImages:
     rightImageUrl: /assets/berthe-morisot-jeune-fille-au-manteau.jpg
     rightImageTitle: extra alt tag here
 textSections:
-  - textTitle: "Cezanne: The Card Players"
+  - textTitle: 'Cezanne: The Card Players'
     text: >-
-      | Sale Price: | Adjusted Price: | Date of Sale: |
-      Buyer/Seller:                    |
+      ### In early 2002, the tiny oil-rich State of Qatar purchased one of Cezanne's five Card Players for a reported price of $259 million.
+
+
+      | Sale Price: | Adjusted Price: | Date of Sale: | Buyer/Seller:                    |
 
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | $259m       | $338.4m         | Feb 2002      | State of Qatar/ George Embiricos |
-
-
-      ### In early 2002, the tiny oil-rich State of Qatar purchased one of Cezanne's five Card Players for a reported price of $259 million.
-
 
       The adjusted price to take account of inflation is $338.4 million.
 
@@ -78,18 +76,19 @@ textSections:
       - imageUrl: /assets/cezanne-a-modern-olympia-c-1873-1874.jpg
         imageTitle: another extra alt tag here
 ---
+
 ## Impressionist paintings are some of the most sought after in the international art market.
 
 #### This page provides information about the most expensive of impressionist works.
 
-Cezanne's The Card Players tops our list, having been sold for $259 million in 2002 (giving it a current price* of $340 million). The average current price of the top 10 works is a whopping $124 million.
+Cezanne's The Card Players tops our list, having been sold for $259 million in 2002 (giving it a current price* of $340 million). The average current price of the top 10 works is a whopping \$124 million.
 
 Paul Cezanne has three works in the top five, with works by Pierre-Auguste Renoir, Claude Monet and Edouard Manet all making the top ten. And the list of the top 20 dearest impressionist paintings is dominated by Claude Monet, with 12 entries.
 
-The impressionist market show no sign of cooling off: one of [Monet's Haystacks](https://impressionistarts.com/most-expensive-impressionist-paintings.html#6) was sold by Sotheby's New York in May 2019 for $110.7 million.
+The impressionist market show no sign of cooling off: one of [Monet's Haystacks](https://impressionistarts.com/most-expensive-impressionist-paintings.html#6) was sold by Sotheby's New York in May 2019 for \$110.7 million.
 
 Other entries in the list are by lesser known impressionists including Berthe Morisot, Frederic Bazille and Alfred Sisley.
 
-###### \* To ensure a fair comparison between paintings sold at different times in different currencies, we have converted the sale price into dollars using the exchange rate on the date of sale and then updated that figure to reflect inflation until January 2019 (at the rate of 3% per year, compounded annually). All references to $ are to United States Dollars.
+###### \* To ensure a fair comparison between paintings sold at different times in different currencies, we have converted the sale price into dollars using the exchange rate on the date of sale and then updated that figure to reflect inflation until January 2019 (at the rate of 3% per year, compounded annually). All references to \$ are to United States Dollars.
 
 **November 2019 Update:** Sotheby's New York held its latest impressionist evening sale on [12 November 2019](https://www.sothebys.com/en/auctions/2019/impressionist-modern-art-evening-n10147.html). Monet's Charing Cross Bridge was the stand-out lot, achieving a price of $27.6 million. Caillebotte's Richard Gallo and His Dog also did well, being sold for $19.68 million.

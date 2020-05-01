@@ -1,7 +1,7 @@
 ---
 path: second-impressionist-exhibition
 date: 2020-04-17T05:31:30.767Z
-subTitle: "1876"
+subTitle: '1876'
 title: Second Impressionist Exhibition
 tags:
   - exhibition
@@ -9,7 +9,7 @@ cover: /assets/caillebotte-the-floor-scrapers.jpg
 links:
   - First Impressionist Exhibition
   - Berthe Morisot
-videoUrl: ""
+videoUrl: ''
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/caillebotte-the-floor-scrapers.jpg
@@ -28,6 +28,11 @@ textSections:
     text: >-
       ### In total, 20 Impressionist artists exhibited their work at the event.
 
+      |Sale Price: | Adjusted Price: | Date of Sale: |                     Buyer/Seller |
+
+      |----------- | --------------- | ------------- | -------------------------------- |
+
+      |$259m      | $338.4m        | Feb 2002      | State of Qatar / George Embiricos |
 
       #### Organisation
 
@@ -276,15 +281,21 @@ textSections:
       The Third Impressionist Exhibition would open the following year, in 1877, thanks once again to the generosity of Caillebotte. After the modest financial success of the Second Impressionist Exhibition, the Impressionists reserved the space in Durand-Ruel’s gallery once more. This exhibition would see Cézanne return to the group and be marked by many more rivalries and disputes as the pressures on the group mounted.
     sideGalleryImages:
       - imageUrl: /assets/claude-monet-arrival-of-the-normandy-train.jpg
-        imageTitle: Claude Monet's Arrival of the Normandy Train, one of his Gare St
+        imageTitle:
+          Claude Monet's Arrival of the Normandy Train, one of his Gare St
           Lazare series.
       - imageUrl: /assets/alfred-sisley-flood-on-the-road-to-saint-germain.jpg
         imageTitle: Alfred Sisley's Flood on the Road to Saint Germain
       - imageUrl: /assets/paul-cezanne-houses-at-estaque.jpg
         imageTitle: One of Paul Cezanne's many paintings of l'Estaque
 ---
+
 ## In the spring of 1876, the Impressionists gathered for the Second Impressionist Exhibition.
 
 Though the First Impressionist Exhibition had been widely criticised, [Auguste Renoir](pierre-auguste-renoir-biography.html) and [Claude Monet](claude-monet-biography.html) were eager to organise a follow up. Gradually, the other artists joined in their enthusiasm and it was widely agreed to stage the event again.
 
 This exhibition would mark the unveiling of [Gustave Caillebotte’s](gustave-caillebotte-biography.html) work and establish him as an indispensable figure in the group, both artistically and financially. Caillebotte’s contribution marked a seminal moment for the Impressionists as the movement turned its eye towards the urban proletariat of Paris. However, critics still found much to ridicule and the exhibition, much like the first, was only a partial success.
+
+| Sale Price: | Adjusted Price: | Date of Sale: |                     Buyer/Seller: |
+| ----------- | --------------- | ------------- | --------------------------------: |
+| \$259m      | \$338.4m        | Feb 2002      | State of Qatar / George Embiricos |
