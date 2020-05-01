@@ -1,20 +1,39 @@
 import React, { useState } from 'react';
 import styled from '@emotion/styled';
+import Img from 'gatsby-image';
+import { useStaticQuery, graphql } from 'gatsby';
 
 const Wrapper = styled.div`
   margin-top: 4rem;
-  width: 100vw;
   height: 25rem;
   padding: 1rem;
+  position: relative;
   background: #22262d;
-  display: flex;
-  align-items: center;
-  background: url(assets/claude-monet-nympheas.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+`;
+
+const Image = styled.div`
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 1;
+  object-fit: cover;
+  > div {
+    position: static !important;
+  }
+  > div > div {
+    position: static !important;
+  }
 `;
 
 const Form = styled.form`
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   z-index: 25;
   display: flex;
   flex-direction: row;
@@ -33,7 +52,7 @@ const Form = styled.form`
   }
   @media (min-width: 1200px) {
     width: 1120px;
-    margin: 3rem auto 3rem auto;
+    margin: 4rem auto 3rem auto;
   }
 `;
 
@@ -111,8 +130,24 @@ const Newsletter = () => {
   // const handleEmailChange = (event: React.ChangeEvent<HTMLInputElement>) => {
   // setEmail(event.currentTarget.value);
   // };
+
+  const data = useStaticQuery(graphql`
+    query {
+      file(relativePath: { eq: "claude-monet-nympheas.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 600, quality: 90) {
+            ...GatsbyImageSharpFluid_withWebp_tracedSVG
+          }
+        }
+      }
+    }
+  `);
+
   return (
-    <Wrapper id="newsletter">
+    <Wrapper>
+      <Image>
+        <Img fluid={data.file.childImageSharp.fluid} />
+      </Image>
       <Form /* onSubmit={handleSubmit} */>
         <TextWrapper>
           <h2>Join The Monthly Newsletter!</h2>
