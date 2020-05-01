@@ -27,6 +27,7 @@
     max-width: 70%;
     width: auto;
     height: 80vh;
+    max-width: 900px;
 }
 
 /* The Close Button */
@@ -61,19 +62,28 @@
     object-fit: contain;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 992px) {
+
+    .modal {
+        padding-top: 18vh;
+    }
 
     .mySlides,
     .modal-content {
         max-height: 55vh;
+        max-width: 800px;
     }
 
     .mySlides img {
-        height: 50vh;
+        height: 52vh;
     }
 }
 
 @media only screen and (min-width: 992px) {
+
+    .modal {
+        padding-top: 15vh;
+    }
 
     .mySlides,
     .modal-content {
