@@ -71,7 +71,6 @@
     .mySlides,
     .modal-content {
         max-height: 55vh;
-        max-width: 800px;
     }
 
     .mySlides img {
