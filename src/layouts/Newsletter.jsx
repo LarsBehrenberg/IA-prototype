@@ -42,7 +42,7 @@ const Form = styled.form`
   background: #22262d80;
   height: 15rem;
 
-  @media (max-width: 1000px) {
+  @media (max-width: 1200px) {
     margin: 4rem 2rem 1rem 2rem;
   }
   @media (max-width: 700px) {

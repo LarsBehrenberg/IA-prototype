@@ -47,37 +47,34 @@ const Footer = () => (
         />
       </div>
     </div>
-    <div className="container" style={{ textAlign: 'center' }}>
-      <div className="col-sm-3" style={{ borderRight: '2px solid white' }}>
+    <div className="container footer-link-container">
+      <div className="col-sm-3">
         <Link
           to="about-us"
           style={{
             lineHeight: '30px',
-            textDecoration: 'underline',
             color: 'white',
           }}
         >
           About Us
         </Link>
       </div>
-      <div className="col-sm-3" style={{ borderRight: '2px solid white' }}>
+      <div className="col-sm-3">
         <Link
           to="contact-us"
           style={{
             lineHeight: '30px',
-            textDecoration: 'underline',
             color: 'white',
           }}
         >
           Contact Us
         </Link>
       </div>
-      <div className="col-sm-3" style={{ borderRight: '2px solid white' }}>
+      <div className="col-sm-3">
         <Link
           to="about-us"
           style={{
             lineHeight: '30px',
-            textDecoration: 'underline',
             color: 'white',
           }}
         >
@@ -89,7 +86,6 @@ const Footer = () => (
           to="about-us"
           style={{
             lineHeight: '30px',
-            textDecoration: 'underline',
             color: 'white',
           }}
         >
