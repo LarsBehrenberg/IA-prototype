@@ -144,7 +144,7 @@ const Newsletter = () => {
   `);
 
   return (
-    <Wrapper>
+    <Wrapper id="newsletter">
       <Image>
         <Img fluid={data.file.childImageSharp.fluid} />
       </Image>
