@@ -25,6 +25,14 @@ const PostWrapper = styled.div`
   @media (min-width: 1200px) {
     width: 1170px;
     margin: 4rem auto 1rem auto;
+
+    article:first-child:nth-last-child(2),
+    article:first-child:nth-last-child(2) ~ article {
+      flex-basis: 48%;
+      max-width: 48%;
+      width: 48%;
+    }
+
     & article:nth-of-type(4),
     article:nth-of-type(5) {
       flex-basis: 48%;
@@ -48,7 +56,7 @@ const ButtonWrapper = styled.div`
     margin: 4rem 1rem 1rem 1rem;
   }
   @media (min-width: 1200px) {
-    width: 1170px;
+    width: 800px;
     margin: 4rem auto 1rem auto;
   }
 `;
@@ -70,7 +78,7 @@ const ButtonWrapper = styled.div`
 //   text-decoration: underline;
 // `;
 
-const TagButton = styled.a`
+const TagButton = styled.span`
   font-size: 14px;
   line-height: 35px;
   color: #929497;
@@ -85,19 +93,43 @@ const TagButton = styled.a`
   outline: none;
   text-decoration: none !important;
   margin: 0 5px 10px 5px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    cursor: pointer;
+    background: #e53132;
+    color: white;
+    border-color: #e53132;
+  }
+
+  &.active {
+    background: #e53132;
+    color: white;
+    border-color: #e53132;
+  }
 `;
 
 const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
+  const tagSet = new Set(
+    edges.map(({ node }) => node.frontmatter.tags).flat(1),
+  );
+  const categories = [...tagSet];
 
   const emptyQuery = '';
   const [state, setState] = useState({
+    categorizedData: edges,
+    currentCategory: 'all',
     filteredData: [],
     query: emptyQuery,
   });
 
   const handleInputChange = event => {
-    const query = event.target === undefined ? event : event.target.value;
+    const query = event.target.value || '';
     const posts = edges || [];
 
     // return all filtered posts
@@ -120,9 +152,31 @@ const Index = ({ data }) => {
     setState({
       query, // with current query string from the `Input` event
       filteredData, // with filtered data from posts.filter(post => (//filteredData)) above
+      categorizedData,
+      currentCategory,
     });
   };
-  const { filteredData, query } = state;
+
+  const categoryPressed = category => {
+    const posts = edges || [];
+
+    const categorizedData = posts.filter(post => {
+      const { tags } = post.node.frontmatter;
+      return (
+        tags &&
+        tags
+          .join('') // convert tags from an array to string
+          .toLowerCase()
+          .includes(category.toLowerCase())
+      );
+    });
+    setState({
+      categorizedData,
+      currentCategory: category,
+    });
+  };
+
+  const { filteredData, query, categorizedData, currentCategory } = state;
   const hasSearchResults = filteredData && query !== emptyQuery;
   // if we have a search query then return filtered data instead of all posts; else return allPosts
   const posts = hasSearchResults ? filteredData : null;
@@ -133,28 +187,40 @@ const Index = ({ data }) => {
       <SearchBar onChange={handleInputChange} searchResults={posts} />
       {/* <Headline><span>Our Top Pages</span></Headline> */}
       <ButtonWrapper>
-        <TagButton onClick={() => handleInputChange('Impressionist')}>
-          Impressionists
+        <TagButton
+          onClick={() => {
+            setState({ categorizedData: edges, currentCategory: 'all' });
+          }}
+          className={`${currentCategory === 'all' ? 'active' : ''}`}
+        >
+          All Posts
         </TagButton>
-        <TagButton>Pre-Impressionists</TagButton>
-        <TagButton>Post-Impressionists</TagButton>
-        <TagButton>En plein air</TagButton>
+        {categories.map(tag => (
+          <TagButton
+            onClick={() => categoryPressed(tag)}
+            className={`${currentCategory === tag ? 'active' : ''}`}
+          >
+            {tag}
+          </TagButton>
+        ))}
       </ButtonWrapper>
       <PostWrapper>
-        {edges.map(({ node }) => {
-          const { id, excerpt, frontmatter } = node;
-          const { cover, path, title, date } = frontmatter;
-          return (
-            <PostList
-              key={id}
-              cover={cover.childImageSharp.fluid}
-              path={path}
-              title={title}
-              date={date}
-              excerpt={excerpt}
-            />
-          );
-        })}
+        {categorizedData
+          ? categorizedData.map(({ node }) => {
+              const { id, excerpt, frontmatter } = node;
+              const { cover, path, title, date } = frontmatter;
+              return (
+                <PostList
+                  key={id}
+                  cover={cover.childImageSharp.fluid}
+                  path={path}
+                  title={title}
+                  date={date}
+                  excerpt={excerpt}
+                />
+              );
+            })
+          : null}
       </PostWrapper>
       <Newsletter />
     </Layout>
