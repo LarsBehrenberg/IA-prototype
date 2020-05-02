@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Helmet from 'react-helmet';
@@ -89,13 +89,53 @@ const TagButton = styled.a`
 
 const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
+
+  const emptyQuery = '';
+  const [state, setState] = useState({
+    filteredData: [],
+    query: emptyQuery,
+  });
+
+  const handleInputChange = event => {
+    const query = event.target === undefined ? event : event.target.value;
+    const posts = edges || [];
+
+    // return all filtered posts
+    const filteredData = posts.filter(post => {
+      // destructure data from post frontmatter
+      const { title, tags } = post.node.frontmatter;
+      return (
+        // standardize data with .toLowerCase()
+        // return true if the description, title or tags
+        // contains the query string
+        title.toLowerCase().includes(query.toLowerCase()) ||
+        (tags &&
+          tags
+            .join('') // convert tags from an array to string
+            .toLowerCase()
+            .includes(query.toLowerCase()))
+      );
+    });
+    // update state according to the latest query and results
+    setState({
+      query, // with current query string from the `Input` event
+      filteredData, // with filtered data from posts.filter(post => (//filteredData)) above
+    });
+  };
+  const { filteredData, query } = state;
+  const hasSearchResults = filteredData && query !== emptyQuery;
+  // if we have a search query then return filtered data instead of all posts; else return allPosts
+  const posts = hasSearchResults ? filteredData : null;
+
   return (
     <Layout>
       <Helmet title="Home | ImpressionistArts.com" />
-      <SearchBar />
+      <SearchBar onChange={handleInputChange} searchResults={posts} />
       {/* <Headline><span>Our Top Pages</span></Headline> */}
       <ButtonWrapper>
-        <TagButton>Impressionists</TagButton>
+        <TagButton onClick={() => handleInputChange('Impressionist')}>
+          Impressionists
+        </TagButton>
         <TagButton>Pre-Impressionists</TagButton>
         <TagButton>Post-Impressionists</TagButton>
         <TagButton>En plein air</TagButton>
