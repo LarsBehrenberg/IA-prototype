@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/click-events-have-key-events */
+/* eslint-disable jsx-a11y/no-static-element-interactions */
 /* eslint-disable no-undef */
 import React from 'react';
 import { graphql } from 'gatsby';
@@ -29,6 +31,10 @@ const Post = ({ data, pageContext }) => {
   const { topImage, leftImage, middleImage, rightImage } = upperGalleryImages;
 
   let keyBoardListen = false;
+  let touchListen = false;
+
+  let touchstartX = 0;
+  let touchendX = 0;
 
   function keyListener(event) {
     if (event.keyCode === 39) {
@@ -59,6 +65,7 @@ const Post = ({ data, pageContext }) => {
     const slides = document.getElementsByClassName('mySlides');
     const captionText = document.getElementById('caption');
     const numberText = document.getElementById('numbertext');
+
     if (n > slides.length) {
       slideIndex = 1;
     }
@@ -80,11 +87,44 @@ const Post = ({ data, pageContext }) => {
       window.addEventListener('keydown', event => keyListener(event));
       keyBoardListen = true;
     }
+
+    if (touchListen === false) {
+      Array.from(slides).forEach(slide => {
+        slide.addEventListener(
+          'touchstart',
+          event => {
+            touchstartX = event.changedTouches[0].screenX;
+          },
+          false,
+        );
+
+        slide.addEventListener(
+          'touchend',
+          event => {
+            touchendX = event.changedTouches[0].screenX;
+            // eslint-disable-next-line no-use-before-define
+            handleGesture();
+          },
+          false,
+        );
+      });
+      touchListen = true;
+    }
   }
 
   function plusSlides(n) {
     slideIndex += n;
     showSlides(slideIndex);
+  }
+
+  function handleGesture() {
+    if (touchendX <= touchstartX) {
+      plusSlides(1);
+    }
+
+    if (touchendX >= touchstartX) {
+      plusSlides(-1);
+    }
   }
 
   function fillModals(arr) {
