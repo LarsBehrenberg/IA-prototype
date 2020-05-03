@@ -4,8 +4,7 @@ date: 2020-04-15T04:07:58.887Z
 title: Paul Signac
 subTitle: Biography of
 tags:
-  - Signac
-  - Impressionist
+  - Post-Impressionists
 cover: /assets/paul-signac-in-the-time-of-harmony.jpg
 videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 links:
@@ -196,6 +195,7 @@ textSections:
       - imageUrl: /assets/paul-signac-in-1923.jpg
       - imageUrl: /assets/paul-signac-grave-in-paris.jpg
 ---
+
 ### One of the principle Neo-Impressionists, Paul Signac worked alongside Georges Seurat to develop a new form of expression, combining the Impressionist technique with scientific accuracy and colour theory.
 
 He helped champion the movement among the [creative community of Paris](/paul-signac-biography#2) in the late 1800s, utilising his friends and acquaintances to publicise the [Neo-Impressionist’s](/paul-signac-biography#3) radical and original approach to painting.

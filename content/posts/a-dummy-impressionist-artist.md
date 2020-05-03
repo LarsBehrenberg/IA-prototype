@@ -1,11 +1,10 @@
 ---
 path: most-expensive-impressionist-paintings
 date: 2020-04-23T00:24:58.763Z
-subTitle: Most expensive
-title: Impressionist Paintings
+subTitle: Biography
+title: A dummy artist
 tags:
-  - dummy
-  - artist
+  - Impressionists
 cover: /assets/berthe-morisot-au-soulier-rose-edouard-manet.jpg
 links:
   - Berthe Morisot

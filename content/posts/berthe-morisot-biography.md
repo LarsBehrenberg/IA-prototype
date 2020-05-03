@@ -4,8 +4,7 @@ date: 2020-04-12T04:32:37.229Z
 subTitle: Biography of
 title: Berthe Morisot
 tags:
-  - Impressionist
-  - Berthe Morisot
+  - Impressionists
 cover: /assets/berthe-morisot-with-a-bouquet-edouard-manet.jpg
 links:
   - Berthe Morisot
@@ -256,6 +255,7 @@ textSections:
       - imageUrl: /assets/berthe-morisot-with-a-fan-edouard-manet.jpg
       - imageUrl: /assets/berthe-morisot-photo.jpg
 ---
+
 ### In many ways, Berthe Morisot captured the essence of Impressionism.
 
 Critics, including Paul Mantz and Theodore Duret, described her as a ‘quintessential Impressionist’. This is evident in the way her works manipulate light and colour, exuding life and a sense of fleeting emotion.

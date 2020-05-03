@@ -4,8 +4,7 @@ date: 2020-04-16T09:41:19.738Z
 subTitle: Biography of
 title: Jean-Baptiste-Camille Corot
 tags:
-  - Corot
-  - Impressionist
+  - Pre-Impressionists
 cover: /assets/camille-corot-venise-la-piazetta.jpg
 videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 links:
@@ -236,6 +235,7 @@ textSections:
       - imageUrl: /assets/camille-corot-plaque-in-paris.jpg
       - imageUrl: /assets/camille-corot-grave-in-pere-lachaise.jpg
 ---
+
 ### Born in Paris in the late 1700s, Jean-Baptiste-Camille Corot was crucial for establishing landscape painting as a valued genre in France.
 
 In doing so, he was a precursor of the [Impressionist Movement](/). Corot’s use of natural light and soft [depictions of landscapes](#2), sensitive to the colours and patterns of nature, were key drivers for the development of the Impressionist style.

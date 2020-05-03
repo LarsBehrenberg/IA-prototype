@@ -4,8 +4,7 @@ date: 2020-04-16T11:51:22.450Z
 subTitle: Biography of
 title: Vincent Van Gogh
 tags:
-  - Van Gogh
-  - Impressionist
+  - Post-Impressionists
 cover: /assets/van-gogh-starry-night.jpg
 links:
   - Berthe Morisot
@@ -271,6 +270,7 @@ textSections:
       - imageUrl: /assets/van-gogh-museum-amsterdam.jpg
         imageTitle: "Van Gogh's Image"
 ---
+
 ### Perhaps the best-known artist of the Post-Impressionist movement, Vincent van Gogh reached new heights with his use of colour and expressive artworks. His paintings are instantly recognisable and tend to linger in the viewer’s mind long after the physical image has passed.
 
 Van Gogh is best known for works such as Sunflowers, Starry Night and his Self-Portraits. He is perhaps equally famous for being the artist who, in late 1888 while [suffering from mental illness](#4), cut off his left ear and gave the blood-stained flesh to a brothel worker.

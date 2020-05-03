@@ -4,8 +4,7 @@ date: 2020-04-15T04:32:37.229Z
 title: First Impressionist Exhibition
 subTitle: THE 1874
 tags:
-  - Impressionist
-  - Exhibition
+  - Exhibitions
 cover: /assets/postcard-of-paris-boulevard-des-capucines.jpg
 links:
   - Berthe Morisot
@@ -193,6 +192,7 @@ textSections:
       - imageUrl: /assets/manet-boating.jpg
       - imageUrl: /assets/manet-luncheon-on-the-grass.jpg
 ---
+
 ### The First Impressionist Exhibition took place in April-May 1874 in a gallery on Rue du Capucines in Paris.
 
 Organised by Monet, Pissarro, Degas, Renoir, Sisley and Berthe Morisot, the exhibition displayed [165 works by 30 artists](/first-impressionist-exhibition#3). They included Monet’s Impression Sunrise, the painting which was responsible for coining the term ‘impressionism’.

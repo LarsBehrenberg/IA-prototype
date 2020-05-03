@@ -4,8 +4,7 @@ date: 2020-04-16T11:17:59.620Z
 subTitle: Biography of
 title: Georges-Pierre Seurat
 tags:
-  - Seurat
-  - Impressionist
+  - Post-Impressionists
 cover: /assets/georges-seurat-sunday-on-la-grande-jatte.jpg
 links:
   - Berthe Morisot
@@ -237,6 +236,7 @@ textSections:
       - imageUrl: /assets/georges-seurat-grave.jpg
       - imageUrl: /assets/pere-lachaise-cemetery.jpg
 ---
+
 ### Georges-Pierre Seurat was the founder of Neo-Impressionism and the pioneer of the Pointillist technique.
 
 This method of applying dots of paint to create cumulative colour effects was Seurat’s defining contribution to 19th century French art. At a time of great artistic innovation, Seurat forged [his own, novel path](#1).

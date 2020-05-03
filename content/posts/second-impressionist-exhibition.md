@@ -4,7 +4,7 @@ date: 2020-04-17T05:31:30.767Z
 subTitle: '1876'
 title: Second Impressionist Exhibition
 tags:
-  - exhibition
+  - Exhibitions
 cover: /assets/caillebotte-the-floor-scrapers.jpg
 links:
   - First Impressionist Exhibition
