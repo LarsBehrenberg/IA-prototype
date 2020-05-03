@@ -162,13 +162,7 @@ const Index = ({ data }) => {
 
     const categorizedData = posts.filter(post => {
       const { tags } = post.node.frontmatter;
-      return (
-        tags &&
-        tags
-          .join('') // convert tags from an array to string
-          .toLowerCase()
-          .includes(category.toLowerCase())
-      );
+      return tags && tags.includes(category);
     });
     setState({
       categorizedData,
