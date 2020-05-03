@@ -53,10 +53,12 @@ const Post = ({ data, pageContext }) => {
 
   function openModal() {
     document.getElementById('myModal').style.display = 'block';
+    document.getElementsByTagName('body')[0].style.overflow = 'hidden';
   }
 
   function closeModal() {
     document.getElementById('myModal').style.display = 'none';
+    document.getElementsByTagName('body')[0].style.overflow = 'auto';
   }
 
   function showSlides(n) {
