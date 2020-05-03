@@ -114,12 +114,15 @@ const TagButton = styled.span`
 `;
 
 const Index = ({ data }) => {
+  // Const of all Markdown posts
   const { edges } = data.allMarkdownRemark;
-  const tagSet = new Set(
-    edges.map(({ node }) => node.frontmatter.tags).flat(1),
-  );
+
+  // Get only tags from MD posts, store in an array, flatten array and remove duplicates
+  const tagArray = edges.map(({ node }) => node.frontmatter.tags);
+  const tagSet = new Set([].concat(...tagArray));
   const categories = [...tagSet];
 
+  // Set state for manipulating displayed posts after searching or sorting
   const emptyQuery = '';
   const [state, setState] = useState({
     categorizedData: edges,
@@ -168,6 +171,7 @@ const Index = ({ data }) => {
       categorizedData,
       currentCategory: category,
     });
+    console.log(tagSet);
   };
 
   const { filteredData, query, categorizedData, currentCategory } = state;
