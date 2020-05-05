@@ -32,13 +32,14 @@ textSections:
 
 
       The Courtauld Institute is hosting a series of virtual mini-art festivals to help you get through lockdown.  [May 2020](https://www.eventbrite.co.uk/e/open-courtauld-hour-art-in-isolation-tickets-103139410754) sees evenings devoted to Women Artists, the Future of Art History and Art and Wellbeing.
+
+
+      The Shelbourne Museum in Vermont is also putting on daily [art-related activities](https://shelburnemuseum.org/museum-from-home/ten-two-four-break-challenge/).
 ---
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.
 
 Learn about the latest impressionist exhibitions, auctions and research.  Highlights from the past six months include:
 
-* First Highlight
-
-*  Second Highlight
-
-*  Third Highlight
+* Various museums putting on virtual tours, galleries and other activities to help you cope with Covid-19 lockdown.
+* Second Highlight
+* Third Highlight
