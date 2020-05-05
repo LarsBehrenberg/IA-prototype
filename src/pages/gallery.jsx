@@ -1,16 +1,15 @@
 /* eslint-disable camelcase */
 /* eslint-disable react/prop-types */
-import React from 'react';
-import { graphql } from 'gatsby';
-import Img from 'gatsby-image';
-import Helmet from 'react-helmet';
-import Layout from '../layouts/Layout';
-import Newsletter from '../layouts/Newsletter';
-import '../styles/gallery.css';
+import React from 'react'
+import { graphql } from 'gatsby'
+import Img from 'gatsby-image'
+import { Helmet } from 'react-helmet'
+import { Layout, Newsletter } from 'layouts'
+import '../styles/gallery.css'
 
 const Gallery = ({ data }) => {
-  const { edges } = data.allInstaNode;
-  const nodeURL = 'https://www.instagram.com/p';
+  const { edges } = data.allInstaNode
+  const nodeURL = 'https://www.instagram.com/p'
   const {
     full_name,
     username,
@@ -18,7 +17,7 @@ const Gallery = ({ data }) => {
     profile_pic_url_hd,
     edge_follow,
     edge_followed_by,
-  } = data.instaUserNode;
+  } = data.instaUserNode
 
   return (
     <Layout>
@@ -103,17 +102,17 @@ const Gallery = ({ data }) => {
                     </ul>
                   </div>
                 </a>
-              );
+              )
             })}
           </div>
         </div>
       </div>
       <Newsletter />
     </Layout>
-  );
-};
+  )
+}
 
-export default Gallery;
+export default Gallery
 
 export const query = graphql`
   query {
@@ -146,4 +145,4 @@ export const query = graphql`
       }
     }
   }
-`;
+`

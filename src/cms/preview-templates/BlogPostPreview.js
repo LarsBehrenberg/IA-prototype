@@ -2,124 +2,217 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import '../../styles/all.css'
 
-
 const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
+  const data = entry.getIn(['data']).toJS()
+  console.log(data)
 
-    const data = entry.getIn(['data']).toJS()
-    console.log(data)
+  // function ttdeToggleVisibility (self, id, idInner) {
+  //     document.getElementById("site-text-more-button-"+(index+1)).remove()
+  //     document.getElementById("view-content-"+(index+1)).classList.add("auto")
+  // }
 
-    // function ttdeToggleVisibility (self, id, idInner) {
-    //     document.getElementById("site-text-more-button-"+(index+1)).remove()
-    //     document.getElementById("view-content-"+(index+1)).classList.add("auto")
-    // }
-
-    return (
-        <>
-            <div className="site-content">
-            <main className="site-main">
-            {/* This is the upperGallery & sideBar */}
-            <div className="col-sm-12">
-                <section className="site-block top">
-                  <div className="site-title">
-                    <h1><span className="page__title-ttd">{entry.getIn(['data', 'subTitle'])} </span><span className="page__title-e">{entry.getIn(['data', 'title'])}</span></h1>
-                  </div>
-                  <div className="site-gallery">
-                    <div className="ttde-gallery">
-                      <div className="ttde-gallery-inner">
-                        <div className="ttde-gallery-top ttdegalleryitem" data-pswp-uid="1">
-                          <figure className="ttde-gallery-top-inner"> <a className="ttde-gallery-url"><img src={data.upperGalleryImages != undefined ? data.upperGalleryImages.topImage.topImageUrl != undefined ? data.upperGalleryImages.topImage.topImageUrl.toString() : "" : ""} className="loading" alt=""/>
-                            </a> </figure>
-                        </div>
-                        <div className="ttde-gallery-bottom">
-                          <div className="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem" data-pswp-uid="1">
-                            <figure className="ttde-gallery-col-inner"> <a className="ttde-gallery-url"><img className="loaded" src={data.upperGalleryImages != undefined ? data.upperGalleryImages.leftImage.leftImageUrl != undefined ? data.upperGalleryImages.leftImage.leftImageUrl.toString() : "" : ""} alt=""/></a>
-                            </figure>
-                          </div>
-                          <div className="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem" data-pswp-uid="1">
-                            <figure className="ttde-gallery-col-inner"> <a className="ttde-gallery-url"><img className="loaded" src={data.upperGalleryImages != undefined ? data.upperGalleryImages.middleImage.middleImageUrl != undefined ? data.upperGalleryImages.middleImage.middleImageUrl.toString() : "" : ""} alt=""/></a>
-                            </figure>
-                          </div>
-                          <div className="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open" data-pswp-uid="1">
-                            <figure className="ttde-gallery-col-inner"> <a className="ttde-gallery-url"><span className="ttde-gallery-open-btn"><span>More
-                                    images 20+</span></span><img className="loaded" src={data.upperGalleryImages != undefined ? data.upperGalleryImages.rightImage.rightImageUrl != undefined ? data.upperGalleryImages.rightImage.rightImageUrl.toString() : "" : ""} alt=""/></a>
-                            </figure>
-                          </div>
-                        </div>
+  return (
+    <>
+      <div className="site-content">
+        <main className="site-main">
+          {/* This is the upperGallery & sideBar */}
+          <div className="col-sm-12">
+            <section className="site-block top">
+              <div className="site-title">
+                <h1>
+                  <span className="page__title-ttd">
+                    {entry.getIn(['data', 'subTitle'])}{' '}
+                  </span>
+                  <span className="page__title-e">
+                    {entry.getIn(['data', 'title'])}
+                  </span>
+                </h1>
+              </div>
+              <div className="site-gallery">
+                <div className="ttde-gallery">
+                  <div className="ttde-gallery-inner">
+                    <div
+                      className="ttde-gallery-top ttdegalleryitem"
+                      data-pswp-uid="1"
+                    >
+                      <figure className="ttde-gallery-top-inner">
+                        {' '}
+                        <a className="ttde-gallery-url">
+                          <img
+                            src={
+                              data.upperGalleryImages != undefined
+                                ? data.upperGalleryImages.topImage
+                                    .topImageUrl != undefined
+                                  ? data.upperGalleryImages.topImage.topImageUrl.toString()
+                                  : ''
+                                : ''
+                            }
+                            className="loading"
+                            alt=""
+                          />
+                        </a>{' '}
+                      </figure>
+                    </div>
+                    <div className="ttde-gallery-bottom">
+                      <div
+                        className="ttde-gallery-col ttde-gallery-col-1 ttdegalleryitem"
+                        data-pswp-uid="1"
+                      >
+                        <figure className="ttde-gallery-col-inner">
+                          {' '}
+                          <a className="ttde-gallery-url">
+                            <img
+                              className="loaded"
+                              src={
+                                data.upperGalleryImages != undefined
+                                  ? data.upperGalleryImages.leftImage
+                                      .leftImageUrl != undefined
+                                    ? data.upperGalleryImages.leftImage.leftImageUrl.toString()
+                                    : ''
+                                  : ''
+                              }
+                              alt=""
+                            />
+                          </a>
+                        </figure>
+                      </div>
+                      <div
+                        className="ttde-gallery-col ttde-gallery-col-2 ttdegalleryitem"
+                        data-pswp-uid="1"
+                      >
+                        <figure className="ttde-gallery-col-inner">
+                          {' '}
+                          <a className="ttde-gallery-url">
+                            <img
+                              className="loaded"
+                              src={
+                                data.upperGalleryImages != undefined
+                                  ? data.upperGalleryImages.middleImage
+                                      .middleImageUrl != undefined
+                                    ? data.upperGalleryImages.middleImage.middleImageUrl.toString()
+                                    : ''
+                                  : ''
+                              }
+                              alt=""
+                            />
+                          </a>
+                        </figure>
+                      </div>
+                      <div
+                        className="ttde-gallery-col ttde-gallery-col-3 ttdegalleryitem ttde-gallery-open"
+                        data-pswp-uid="1"
+                      >
+                        <figure className="ttde-gallery-col-inner">
+                          {' '}
+                          <a className="ttde-gallery-url">
+                            <span className="ttde-gallery-open-btn">
+                              <span>More images 20+</span>
+                            </span>
+                            <img
+                              className="loaded"
+                              src={
+                                data.upperGalleryImages != undefined
+                                  ? data.upperGalleryImages.rightImage
+                                      .rightImageUrl != undefined
+                                    ? data.upperGalleryImages.rightImage.rightImageUrl.toString()
+                                    : ''
+                                  : ''
+                              }
+                              alt=""
+                            />
+                          </a>
+                        </figure>
                       </div>
                     </div>
                   </div>
-                  <div className="site-bb">
-                    <ul>
-                      <li><span>Home</span></li>
-                      <li><span>{entry.getIn(['data', 'title'])}</span></li>
-                    </ul>
-                  </div>
-                  <div className="site-text">
-                      {widgetFor('body')}
-                  </div>
-                </section>
+                </div>
               </div>
-                {/* These are the TextSections */}
-                {widgetsFor('textSections').map((textBlock, index) => {
+              <div className="site-bb">
+                <ul>
+                  <li>
+                    <span>Home</span>
+                  </li>
+                  <li>
+                    <span>{entry.getIn(['data', 'title'])}</span>
+                  </li>
+                </ul>
+              </div>
+              <div className="site-text">{widgetFor('body')}</div>
+            </section>
+          </div>
+          {/* These are the TextSections */}
+          {widgetsFor('textSections').map((textBlock, index) => {
+            // function ttdeToggleVisibility (self, id, idInner) {
+            //     document.getElementById("site-text-more-button-"+(index+1)).remove()
+            //     document.getElementById("view-content-"+(index+1)).classList.add("auto")
+            // }
 
-                  // function ttdeToggleVisibility (self, id, idInner) {
-                  //     document.getElementById("site-text-more-button-"+(index+1)).remove()
-                  //     document.getElementById("view-content-"+(index+1)).classList.add("auto")
-                  // }
-
-                  return (
-                      <div className="container" id={index+1}>
-                          <div className="row">
-                              <div className="col-sm-12">
-                              <section className="site-block">
-                                <h2>{index+1}. {textBlock.getIn(['data', 'textTitle'])}</h2>
-                                  <div className="row">
-                                      <div className="col-sm-3">
-                                          <div className="smallery">
-                                            {
-                                              data.textSections[index].sideGalleryImages !== undefined ? data.textSections[index].sideGalleryImages.map((image, curr) => (
-                                                <div className="smallery-item-wrp ttdegalleryitem">
-                                                  <figure className="smallery-item-psn">
-                                                    <a className="smallery-item-uri">
-                                                      <img className="smallery-item-img loaded" src={image.imageUrl} alt=""/>
-                                                    </a>
-                                                  </figure>
-                                                </div>
-                                              )) : null
-                                            }
-                                          </div>
-                                      </div>
-                                      <div className="col-sm-9">
-                                      <div className="site-text">
-                                          <div className="site-text-less auto" id="view-content-1">
-                                            <div id="view-content-height-1">
-                                              <div>{textBlock.getIn(['widgets', 'text'])}</div>
-                                            </div>
-                                          </div>
-                                          {/* <div className="site-text-more" id={"site-text-more-button-"+(index+1)}>
+            return (
+              <div className="container" id={index + 1}>
+                <div className="row">
+                  <div className="col-sm-12">
+                    <section className="site-block">
+                      <h2>
+                        {index + 1}. {textBlock.getIn(['data', 'textTitle'])}
+                      </h2>
+                      <div className="row">
+                        <div className="col-sm-3">
+                          <div className="smallery">
+                            {data.textSections[index].sideGalleryImages !==
+                            undefined
+                              ? data.textSections[index].sideGalleryImages.map(
+                                  (image, curr) => (
+                                    <div className="smallery-item-wrp ttdegalleryitem">
+                                      <figure className="smallery-item-psn">
+                                        <a className="smallery-item-uri">
+                                          <img
+                                            className="smallery-item-img loaded"
+                                            src={image.imageUrl}
+                                            alt=""
+                                          />
+                                        </a>
+                                      </figure>
+                                    </div>
+                                  )
+                                )
+                              : null}
+                          </div>
+                        </div>
+                        <div className="col-sm-9">
+                          <div className="site-text">
+                            <div
+                              className="site-text-less auto"
+                              id="view-content-1"
+                            >
+                              <div id="view-content-height-1">
+                                <div>
+                                  {textBlock.getIn(['widgets', 'text'])}
+                                </div>
+                              </div>
+                            </div>
+                            {/* <div className="site-text-more" id={"site-text-more-button-"+(index+1)}>
                                             <a className="btn btn-outline" onClick={ttdeToggleVisibility}>Expand to read more</a>
                                           </div> */}
-                                      </div>
-                                      </div>
-                                  </div>
-                              </section>
-                              </div>
                           </div>
+                        </div>
                       </div>
-                  )
-                  })}
-                </main>
-            </div>
-        </>
-    )
+                    </section>
+                  </div>
+                </div>
+              </div>
+            )
+          })}
+        </main>
+      </div>
+    </>
+  )
 }
 
-
 BlogPostPreview.propTypes = {
-    entry: PropTypes.shape({
-      getIn: PropTypes.func,
-    }),
-    widgetFor: PropTypes.func,
-  }
+  entry: PropTypes.shape({
+    getIn: PropTypes.func,
+  }),
+  widgetFor: PropTypes.func,
+}
 
 export default BlogPostPreview

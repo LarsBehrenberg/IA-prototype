@@ -1,13 +1,11 @@
-import React, { useState } from 'react';
-import PropTypes from 'prop-types';
-import { graphql } from 'gatsby';
-import Helmet from 'react-helmet';
-import styled from '@emotion/styled';
-import PostList from '../components/PostList';
-import Layout from '../layouts/Layout';
-import SearchBar from '../components/SearchBar';
-import '../styles/all.css';
-import Newsletter from '../layouts/Newsletter';
+/* eslint-disable no-use-before-define */
+import React, { useState } from 'react'
+import PropTypes from 'prop-types'
+import { graphql } from 'gatsby'
+import { Helmet } from 'react-helmet'
+import styled from '@emotion/styled'
+import { Layout, Newsletter } from 'layouts'
+import { PostList, SearchBar } from 'components'
 
 const PostWrapper = styled.div`
   display: flex;
@@ -40,7 +38,7 @@ const PostWrapper = styled.div`
       width: 48%;
     }
   }
-`;
+`
 
 const ButtonWrapper = styled.div`
   display: flex;
@@ -59,7 +57,7 @@ const ButtonWrapper = styled.div`
     width: 800px;
     margin: 4rem auto 1rem auto;
   }
-`;
+`
 
 // const Headline = styled.h1`
 //   text-align: center;
@@ -111,34 +109,34 @@ const TagButton = styled.span`
     color: white;
     border-color: #e53132;
   }
-`;
+`
 
 const Index = ({ data }) => {
   // Const of all Markdown posts
-  const { edges } = data.allMarkdownRemark;
+  const { edges } = data.allMarkdownRemark
 
   // Get only tags from MD posts, store in an array, flatten array and remove duplicates
-  const tagArray = edges.map(({ node }) => node.frontmatter.tags);
-  const tagSet = new Set([].concat(...tagArray));
-  const categories = [...tagSet];
+  const tagArray = edges.map(({ node }) => node.frontmatter.tags)
+  const tagSet = new Set([].concat(...tagArray))
+  const categories = [...tagSet]
 
   // Set state for manipulating displayed posts after searching or sorting
-  const emptyQuery = '';
+  const emptyQuery = ''
   const [state, setState] = useState({
     categorizedData: edges,
     currentCategory: 'all',
     filteredData: [],
     query: emptyQuery,
-  });
+  })
 
   const handleInputChange = event => {
-    const query = event.target.value || '';
-    const posts = edges || [];
+    const query = event.target.value || ''
+    const posts = edges || []
 
     // return all filtered posts
     const filteredData = posts.filter(post => {
       // destructure data from post frontmatter
-      const { title, tags } = post.node.frontmatter;
+      const { title, tags } = post.node.frontmatter
       return (
         // standardize data with .toLowerCase()
         // return true if the description, title or tags
@@ -149,35 +147,35 @@ const Index = ({ data }) => {
             .join('') // convert tags from an array to string
             .toLowerCase()
             .includes(query.toLowerCase()))
-      );
-    });
+      )
+    })
     // update state according to the latest query and results
     setState({
       query, // with current query string from the `Input` event
       filteredData, // with filtered data from posts.filter(post => (//filteredData)) above
       categorizedData,
       currentCategory,
-    });
-  };
+    })
+  }
 
   const categoryPressed = category => {
-    const posts = edges || [];
+    const posts = edges || []
 
     const categorizedData = posts.filter(post => {
-      const { tags } = post.node.frontmatter;
-      return tags && tags.includes(category);
-    });
+      const { tags } = post.node.frontmatter
+      return tags && tags.includes(category)
+    })
     setState({
       categorizedData,
       currentCategory: category,
-    });
-    console.log(tagSet);
-  };
+    })
+    console.log(tagSet)
+  }
 
-  const { filteredData, query, categorizedData, currentCategory } = state;
-  const hasSearchResults = filteredData && query !== emptyQuery;
+  const { filteredData, query, categorizedData, currentCategory } = state
+  const hasSearchResults = filteredData && query !== emptyQuery
   // if we have a search query then return filtered data instead of all posts; else return allPosts
-  const posts = hasSearchResults ? filteredData : null;
+  const posts = hasSearchResults ? filteredData : null
 
   return (
     <Layout>
@@ -187,7 +185,7 @@ const Index = ({ data }) => {
       <ButtonWrapper>
         <TagButton
           onClick={() => {
-            setState({ categorizedData: edges, currentCategory: 'all' });
+            setState({ categorizedData: edges, currentCategory: 'all' })
           }}
           className={`${currentCategory === 'all' ? 'active' : ''}`}
         >
@@ -205,8 +203,8 @@ const Index = ({ data }) => {
       <PostWrapper>
         {categorizedData
           ? categorizedData.map(({ node }) => {
-              const { id, excerpt, frontmatter } = node;
-              const { cover, path, title, date } = frontmatter;
+              const { id, excerpt, frontmatter } = node
+              const { cover, path, title, date } = frontmatter
               return (
                 <PostList
                   key={id}
@@ -216,21 +214,21 @@ const Index = ({ data }) => {
                   date={date}
                   excerpt={excerpt}
                 />
-              );
+              )
             })
           : null}
       </PostWrapper>
       <Newsletter />
     </Layout>
-  );
-};
+  )
+}
 
-export default Index;
+export default Index
 
 Index.propTypes = {
   // eslint-disable-next-line react/forbid-prop-types
   data: PropTypes.object.isRequired,
-};
+}
 
 export const query = graphql`
   query {
@@ -263,4 +261,4 @@ export const query = graphql`
       }
     }
   }
-`;
+`

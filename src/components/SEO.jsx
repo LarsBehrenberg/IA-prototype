@@ -1,7 +1,7 @@
-import React from 'react';
-import Helmet from 'react-helmet';
-import PropTypes from 'prop-types';
-import { StaticQuery, graphql } from 'gatsby';
+import React from 'react'
+import { Helmet } from 'react-helmet'
+import PropTypes from 'prop-types'
+import { StaticQuery, graphql } from 'gatsby'
 
 const SEO = ({ title, description, banner, pathname, article }) => (
   <StaticQuery
@@ -29,8 +29,8 @@ const SEO = ({ title, description, banner, pathname, article }) => (
         description: defaultDescription || description,
         image: `${siteUrl}${banner || defaultBanner}`,
         url: `${siteUrl}${pathname || '/'}`,
-      };
-      const realPrefix = pathPrefix === '/' ? '' : pathPrefix;
+      }
+      const realPrefix = pathPrefix === '/' ? '' : pathPrefix
       let schemaOrgJSONLD = [
         {
           '@context': 'http://schema.org',
@@ -40,7 +40,7 @@ const SEO = ({ title, description, banner, pathname, article }) => (
           name: defaultTitle,
           alternateName: titleAlt || '',
         },
-      ];
+      ]
       if (article) {
         schemaOrgJSONLD = [
           {
@@ -76,7 +76,7 @@ const SEO = ({ title, description, banner, pathname, article }) => (
               '@id': siteUrl,
             },
           },
-        ];
+        ]
       }
       return (
         <>
@@ -105,12 +105,12 @@ const SEO = ({ title, description, banner, pathname, article }) => (
             <meta name="twitter:image" content={seo.image} />
           </Helmet>
         </>
-      );
+      )
     }}
   />
-);
+)
 
-export default SEO;
+export default SEO
 
 SEO.propTypes = {
   title: PropTypes.string,
@@ -118,7 +118,7 @@ SEO.propTypes = {
   banner: PropTypes.string,
   pathname: PropTypes.string,
   article: PropTypes.bool,
-};
+}
 
 SEO.defaultProps = {
   title: null,
@@ -126,7 +126,7 @@ SEO.defaultProps = {
   banner: null,
   pathname: null,
   article: false,
-};
+}
 
 const query = graphql`
   query SEO {
@@ -147,4 +147,4 @@ const query = graphql`
       }
     }
   }
-`;
+`

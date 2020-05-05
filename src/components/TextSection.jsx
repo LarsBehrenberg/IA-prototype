@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
-import React from 'react';
-import PropTypes from 'prop-types';
-import Img from 'gatsby-image';
+import React from 'react'
+import PropTypes from 'prop-types'
+import Img from 'gatsby-image'
 
 const TextSection = ({
   title,
@@ -12,25 +12,25 @@ const TextSection = ({
   openGallery,
 }) => {
   function ttdeToggleVisibility() {
-    document.getElementById(`site-text-more-button-${index + 1}`).remove();
-    document.getElementById(`view-content-${index + 1}`).classList.add('auto');
+    document.getElementById(`site-text-more-button-${index + 1}`).remove()
+    document.getElementById(`view-content-${index + 1}`).classList.add('auto')
   }
 
   function findImage(num) {
-    const arr = document.getElementsByClassName('smallery-item-psn');
+    const arr = document.getElementsByClassName('smallery-item-psn')
     for (let x = 0; x < arr.length; x++) {
       if (arr[x] == arr.namedItem(num)) {
-        openGallery();
-        showGallery(x + 5);
-        return x;
+        openGallery()
+        showGallery(x + 5)
+        return x
       }
     }
-    openGallery();
-    showGallery(1);
-    return 1;
+    openGallery()
+    showGallery(1)
+    return 1
   }
 
-  const newTitle = `${index + 1}. ${title}`;
+  const newTitle = `${index + 1}. ${title}`
   return (
     <div className="container" id={index + 1}>
       <div className="row">
@@ -53,8 +53,8 @@ const TextSection = ({
                               id={index.toString() + arrayLocation.toString()}
                               onClick={() => {
                                 findImage(
-                                  index.toString() + arrayLocation.toString(),
-                                );
+                                  index.toString() + arrayLocation.toString()
+                                )
                               }}
                             >
                               <span className="smallery-item-uri">
@@ -67,7 +67,7 @@ const TextSection = ({
                               </span>
                             </figure>
                           </div>
-                        );
+                        )
                       })
                     : null}
                 </div>
@@ -100,12 +100,12 @@ const TextSection = ({
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default TextSection;
+export default TextSection
 
 TextSection.propTypes = {
   title: PropTypes.any.isRequired,
   text: PropTypes.any.isRequired,
-};
+}

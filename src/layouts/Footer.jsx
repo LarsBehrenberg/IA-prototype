@@ -1,6 +1,6 @@
-import React from 'react';
-import { SocialIcon } from 'react-social-icons';
-import { Link } from 'gatsby';
+import React from 'react'
+import { SocialIcon } from 'react-social-icons'
+import { Link } from 'gatsby'
 
 const Footer = () => (
   <footer className="site-footer">
@@ -99,6 +99,6 @@ const Footer = () => (
       </p>
     </div>
   </footer>
-);
+)
 
-export default Footer;
+export default Footer

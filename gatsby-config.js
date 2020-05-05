@@ -1,4 +1,4 @@
-const config = require('./config/site');
+const config = require('./config/site')
 
 module.exports = {
   siteMetadata: {
@@ -9,10 +9,10 @@ module.exports = {
     'gatsby-plugin-catch-links',
     {
       resolve: `gatsby-source-filesystem`,
-          options: {
-              name: 'images',
-              path: `${__dirname}/static/assets`,
-          },
+      options: {
+        name: 'images',
+        path: `${__dirname}/static/assets`,
+      },
     },
     {
       resolve: 'gatsby-source-filesystem',
@@ -40,6 +40,7 @@ module.exports = {
         ],
       },
     },
+    'gatsby-plugin-emotion',
     // {
     //   resolve: 'gatsby-plugin-emotion',
     //   options: {
@@ -56,17 +57,19 @@ module.exports = {
     // },
     'gatsby-plugin-sharp',
     'gatsby-plugin-sitemap',
-    { // Sourcing Instagram Images - 12 images max
+    {
+      // Sourcing Instagram Images - 12 images max
       resolve: `gatsby-source-instagram`,
       options: {
-        username: config.instagram
+        username: config.instagram,
       },
     },
-    { // Sourcing Instgram profile information and photo
+    {
+      // Sourcing Instgram profile information and photo
       resolve: `gatsby-source-instagram`,
       options: {
         type: `user-profile`,
-        username: config.instagram
+        username: config.instagram,
       },
     },
     {
@@ -89,4 +92,4 @@ module.exports = {
     },
     'gatsby-plugin-netlify',
   ],
-};
+}

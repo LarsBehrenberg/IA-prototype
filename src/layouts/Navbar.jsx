@@ -1,22 +1,22 @@
 /* eslint-disable no-undef */
-import React from 'react';
-import { Link, graphql, useStaticQuery } from 'gatsby';
+import React from 'react'
+import { Link, graphql, useStaticQuery } from 'gatsby'
 
 const Navbar = () => {
   // // Button onClick function!
   function buttonClicked() {
-    const container = document.getElementById('site-navigation');
-    const menu = container.getElementsByTagName('ul')[0];
-    const button = document.getElementById('primary-toggle');
+    const container = document.getElementById('site-navigation')
+    const menu = container.getElementsByTagName('ul')[0]
+    const button = document.getElementById('primary-toggle')
 
     if (container.className.indexOf('toggled') !== -1) {
-      container.className = container.className.replace(' toggled', '');
-      button.setAttribute('aria-expanded', 'false');
-      menu.setAttribute('aria-expanded', 'false');
+      container.className = container.className.replace(' toggled', '')
+      button.setAttribute('aria-expanded', 'false')
+      menu.setAttribute('aria-expanded', 'false')
     } else {
-      container.className += ' toggled';
-      button.setAttribute('aria-expanded', 'true');
-      menu.setAttribute('aria-expanded', 'true');
+      container.className += ' toggled'
+      button.setAttribute('aria-expanded', 'true')
+      menu.setAttribute('aria-expanded', 'true')
     }
   }
 
@@ -35,8 +35,8 @@ const Navbar = () => {
         totalCount
       }
     }
-  `);
-  const painters = data.allMarkdownRemark.nodes;
+  `)
+  const painters = data.allMarkdownRemark.nodes
 
   return (
     <header className="site-header">
@@ -118,6 +118,6 @@ const Navbar = () => {
         </nav>
       </div>
     </header>
-  );
-};
-export default Navbar;
+  )
+}
+export default Navbar

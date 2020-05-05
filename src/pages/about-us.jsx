@@ -1,20 +1,18 @@
-import React from 'react';
-import Helmet from 'react-helmet';
-import { graphql, Link } from 'gatsby';
-import Img from 'gatsby-image';
-import Newsletter from '../layouts/Newsletter';
-
-import Layout from '../layouts/Layout';
+import React from 'react'
+import { Helmet } from 'react-helmet'
+import { graphql, Link } from 'gatsby'
+import Img from 'gatsby-image'
+import { Layout, Newsletter } from 'layouts'
 
 const AboutUs = ({ data }) => {
-  const { title, subTitle } = data.markdownRemark.frontmatter;
+  const { title, subTitle } = data.markdownRemark.frontmatter
   const {
     topImage,
     leftImage,
     middleImage,
     rightImage,
-  } = data.markdownRemark.frontmatter.upperGalleryImages;
-  const artists = data.allMarkdownRemark.nodes;
+  } = data.markdownRemark.frontmatter.upperGalleryImages
+  const artists = data.allMarkdownRemark.nodes
   return (
     <Layout>
       <Helmet title="About Us | ImpressionistArts.com" />
@@ -174,7 +172,7 @@ const AboutUs = ({ data }) => {
                           Impressionist Painters
                         </h4>
                       </a>
-                      {artists.map((artist) => (
+                      {artists.map(artist => (
                         <Link
                           to={artist.frontmatter.path}
                           className="list-group-item"
@@ -210,9 +208,9 @@ const AboutUs = ({ data }) => {
       </div>
       <Newsletter />
     </Layout>
-  );
-};
-export default AboutUs;
+  )
+}
+export default AboutUs
 
 export const query = graphql`
   query {
@@ -273,4 +271,4 @@ export const query = graphql`
       }
     }
   }
-`;
+`

@@ -1,14 +1,14 @@
 /* eslint-disable react/forbid-prop-types */
-import React from 'react';
-import Img from 'gatsby-image';
-import styled from '@emotion/styled';
-import { graphql, useStaticQuery, Link } from 'gatsby';
-import PropTypes from 'prop-types';
+import React from 'react'
+import Img from 'gatsby-image'
+import styled from '@emotion/styled'
+import { graphql, useStaticQuery, Link } from 'gatsby'
+import PropTypes from 'prop-types'
 
 const Wrapper = styled.div`
   height: 403px;
   width: 100vw;
-`;
+`
 
 const SearchWrapper = styled.div`
   position: absolute;
@@ -20,7 +20,7 @@ const SearchWrapper = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-`;
+`
 const Search = styled.input`
   padding: 8px 16px 4px !important;
   line-height: 1 !important;
@@ -34,7 +34,7 @@ const Search = styled.input`
   &::placeholder {
     color: #fff;
   }
-`;
+`
 
 const Headline = styled.h1`
   text-transform: uppercase;
@@ -44,7 +44,7 @@ const Headline = styled.h1`
   color: #fff;
   margin: 10px 0 40px;
   font-weight: 700;
-`;
+`
 
 const ResultWrapper = styled.div`
   top: 330px;
@@ -57,7 +57,7 @@ const ResultWrapper = styled.div`
   box-shadow: 0 2px 4px 0 rgba(34, 36, 38, 0.12),
     0 2px 10px 0 rgba(34, 36, 38, 0.15);
   border: 1px solid #d4d4d5;
-`;
+`
 
 const StyledLink = styled(Link)`
   display: flex;
@@ -65,14 +65,14 @@ const StyledLink = styled(Link)`
   padding: 0 0.7em;
   height: 5em;
   border-bottom: 1px solid rgba(34, 36, 38, 0.1);
-`;
+`
 const PostTitle = styled.h3`
   width: 50%;
   font-size: 1em;
   text-align: center;
   margin: 0 auto;
   color: #333;
-`;
+`
 const SearchBar = ({ onChange, searchResults }) => {
   const data = useStaticQuery(graphql`
     query {
@@ -84,7 +84,7 @@ const SearchBar = ({ onChange, searchResults }) => {
         }
       }
     }
-  `);
+  `)
 
   return (
     <Wrapper>
@@ -99,8 +99,8 @@ const SearchBar = ({ onChange, searchResults }) => {
           <ResultWrapper>
             {searchResults.length !== 0 ? (
               searchResults.map(({ node }) => {
-                const { frontmatter } = node;
-                const { cover, path, title } = frontmatter;
+                const { frontmatter } = node
+                const { cover, path, title } = frontmatter
                 return (
                   <StyledLink to={path}>
                     <PostTitle>{title}</PostTitle>
@@ -114,7 +114,7 @@ const SearchBar = ({ onChange, searchResults }) => {
                       }}
                     />
                   </StyledLink>
-                );
+                )
               })
             ) : (
               <div style={{ textAlign: 'center' }}>
@@ -128,12 +128,12 @@ const SearchBar = ({ onChange, searchResults }) => {
         ) : null}
       </SearchWrapper>
     </Wrapper>
-  );
-};
+  )
+}
 
-export default SearchBar;
+export default SearchBar
 
 SearchBar.propTypes = {
   onChange: PropTypes.func.isRequired,
   searchResults: PropTypes.array.isRequired,
-};
+}

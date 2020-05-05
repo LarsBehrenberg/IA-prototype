@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
-import styled from '@emotion/styled';
-import Img from 'gatsby-image';
-import { useStaticQuery, graphql } from 'gatsby';
+import React, { useState } from 'react'
+import styled from '@emotion/styled'
+import Img from 'gatsby-image'
+import { useStaticQuery, graphql } from 'gatsby'
 
 const Wrapper = styled.div`
   margin-top: 4rem;
@@ -9,7 +9,7 @@ const Wrapper = styled.div`
   padding: 1rem;
   position: relative;
   background: #22262d;
-`;
+`
 
 const Image = styled.div`
   position: absolute;
@@ -26,7 +26,7 @@ const Image = styled.div`
   > div > div {
     position: static !important;
   }
-`;
+`
 
 const Form = styled.form`
   position: absolute;
@@ -54,7 +54,7 @@ const Form = styled.form`
     width: 1120px;
     margin: 4rem auto 3rem auto;
   }
-`;
+`
 
 const InputWrapper = styled.div`
   display: flex;
@@ -99,7 +99,7 @@ const InputWrapper = styled.div`
     letter-spacing: 2px;
     font-size: 14px;
   }
-`;
+`
 
 const TextWrapper = styled.div`
   display: flex;
@@ -119,7 +119,7 @@ const TextWrapper = styled.div`
   @media (max-width: 700px) {
     padding-right: 0;
   }
-`;
+`
 const Newsletter = () => {
   // const [email, setEmail] = useState('');
 
@@ -141,7 +141,7 @@ const Newsletter = () => {
         }
       }
     }
-  `);
+  `)
 
   return (
     <Wrapper id="newsletter">
@@ -167,7 +167,7 @@ const Newsletter = () => {
         </InputWrapper>
       </Form>
     </Wrapper>
-  );
-};
+  )
+}
 
-export default Newsletter;
+export default Newsletter

@@ -1,9 +1,9 @@
 /* eslint-disable react/forbid-prop-types */
-import React from 'react';
-import { Link } from 'gatsby';
-import Img from 'gatsby-image';
-import styled from '@emotion/styled';
-import PropTypes from 'prop-types';
+import React from 'react'
+import { Link } from 'gatsby'
+import Img from 'gatsby-image'
+import styled from '@emotion/styled'
+import PropTypes from 'prop-types'
 
 const Wrapper = styled.article`
   margin-bottom: 2rem;
@@ -35,7 +35,7 @@ const Wrapper = styled.article`
     width: 100%;
     height: 15rem;
   }
-`;
+`
 
 const StyledLink = styled(Link)`
   position: absolute;
@@ -70,7 +70,7 @@ const StyledLink = styled(Link)`
     border-radius: 0.4rem;
     transition: opacity 0.4s;
   }
-`;
+`
 
 const Image = styled.div`
   position: absolute;
@@ -91,7 +91,7 @@ const Image = styled.div`
   > div > div {
     position: static !important;
   }
-`;
+`
 
 const Info = styled.div`
   color: #f0f0f0;
@@ -99,11 +99,11 @@ const Info = styled.div`
   position: absolute;
   bottom: 0;
   left: 0;
-`;
+`
 
 const Title = styled.h2`
   margin-bottom: 0.6rem;
-`;
+`
 
 const PostList = ({ cover, path, title, excerpt }) => (
   <Wrapper>
@@ -118,13 +118,13 @@ const PostList = ({ cover, path, title, excerpt }) => (
       </Info>
     </StyledLink>
   </Wrapper>
-);
+)
 
-export default PostList;
+export default PostList
 
 PostList.propTypes = {
   cover: PropTypes.object.isRequired,
   path: PropTypes.string.isRequired,
   excerpt: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
-};
+}

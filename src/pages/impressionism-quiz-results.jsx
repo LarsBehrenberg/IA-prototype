@@ -1,11 +1,11 @@
 /* eslint-disable no-undef */
-import React from 'react';
-import Helmet from 'react-helmet';
-import styled from '@emotion/styled';
-import { Link } from 'gatsby';
+import React from 'react'
+import { Helmet } from 'react-helmet'
+import styled from '@emotion/styled'
+import { Link } from 'gatsby'
 
-import Layout from '../layouts/Layout';
-import '../styles/quiz.css';
+import { Layout } from 'layouts'
+import '../styles/quiz.css'
 
 const ResultWrapper = styled.div`
   background-color: #ecf5ff;
@@ -14,12 +14,12 @@ const ResultWrapper = styled.div`
   justify-content: center;
   align-items: center;
   height: 80vh;
-`;
+`
 
 const FinalScore = styled.h1`
   font-size: 4rem;
   color: #e53132;
-`;
+`
 
 const StyledLink = styled(Link)`
   font-size: 1.3rem;
@@ -38,38 +38,38 @@ const StyledLink = styled(Link)`
   &:hover {
     transform: scale(1.05);
   }
-`;
+`
 
 const Form = styled.form`
   display: flex;
   flex-flow: row wrap;
   flex-wrap: wrap;
   justify-content: center;
-`;
+`
 
 class ImpressionismQuizResult extends React.Component {
   componentDidMount() {
-    const mostRecentScore = localStorage.getItem('mostRecentScore');
-    this.finalScoreMessage();
+    const mostRecentScore = localStorage.getItem('mostRecentScore')
+    this.finalScoreMessage()
 
-    document.getElementById('finalScore').innerText = mostRecentScore;
+    document.getElementById('finalScore').innerText = mostRecentScore
   }
 
   finalScoreMessage = () => {
     if (document.getElementById('finalScore').innerText > 8) {
       document.getElementById('finalMessage').innerText =
-        'Congratulations, you know your Manet from your Monet!';
+        'Congratulations, you know your Manet from your Monet!'
     } else if (document.getElementById('finalScore').innerText > 6) {
       document.getElementById('finalMessage').innerText =
-        'Good work. But check out our timeline page to get top marks!';
+        'Good work. But check out our timeline page to get top marks!'
     } else if (document.getElementById('finalScore').innerText > 4) {
       document.getElementById('finalMessage').innerText =
-        "Not bad, but there's room for improvement!  Start with our Monet page.";
+        "Not bad, but there's room for improvement!  Start with our Monet page."
     } else {
       document.getElementById('finalMessage').innerText =
-        'You need to do some serious research!';
+        'You need to do some serious research!'
     }
-  };
+  }
 
   render() {
     return (
@@ -91,8 +91,8 @@ class ImpressionismQuizResult extends React.Component {
           </div>
         </ResultWrapper>
       </Layout>
-    );
+    )
   }
 }
 
-export default ImpressionismQuizResult;
+export default ImpressionismQuizResult

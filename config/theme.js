@@ -19,7 +19,7 @@ export const colors = {
     light: '#399fbc',
     dark: '#284187',
   },
-};
+}
 
 export const shadow = {
   card: '0 20px 30px rgba(0, 0, 0, 0.1)',
@@ -40,20 +40,20 @@ export const shadow = {
     small: '0 5px 10px rgba(0, 0, 0, 0.25)',
     big: '0 15px 20px rgba(0, 0, 0, 0.13)',
   },
-};
+}
 
 export const gradient = {
   // eslint-disable-next-line
   leftToRight: `linear-gradient(-45deg, ${colors.background.light} 0%, ${colors.background.dark} 100%)`,
   // eslint-disable-next-line
   rightToLeft: `linear-gradient(45deg, ${colors.background.light} 0%, ${colors.background.dark} 100%)`,
-};
+}
 
 export const transition = {
   easeInOutCubic: 'cubic-bezier(0.645, 0.045, 0.355, 1)',
   easeOutBack: 'cubic-bezier(0.175, 0.885, 0.32, 1.275)',
   duration: '0.4s',
-};
+}
 
 export const theme = {
   colors,
@@ -95,6 +95,6 @@ export const theme = {
       transition: 'all 0.25s ease-in-out',
     },
   },
-};
+}
 
-export default theme;
+export default theme

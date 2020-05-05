@@ -1,6 +1,6 @@
-import React from 'react';
-import { Link } from 'gatsby';
-import Img from 'gatsby-image';
+import React from 'react'
+import { Link } from 'gatsby'
+import Img from 'gatsby-image'
 
 const Header = ({
   title,
@@ -12,7 +12,7 @@ const Header = ({
   openGallery,
   sideLinks,
 }) => {
-  const { topImage, leftImage, middleImage, rightImage } = images;
+  const { topImage, leftImage, middleImage, rightImage } = images
 
   return (
     <div className="container">
@@ -38,8 +38,8 @@ const Header = ({
                     <figure
                       className="ttde-gallery-top-inner"
                       onClick={() => {
-                        openGallery();
-                        showGallery(1);
+                        openGallery()
+                        showGallery(1)
                       }}
                     >
                       <span className="ttde-gallery-url" data-index="0">
@@ -59,8 +59,8 @@ const Header = ({
                       <figure
                         className="ttde-gallery-col-inner"
                         onClick={() => {
-                          openGallery();
-                          showGallery(2);
+                          openGallery()
+                          showGallery(2)
                         }}
                       >
                         <span className="ttde-gallery-url" data-index="1">
@@ -79,8 +79,8 @@ const Header = ({
                       <figure
                         className="ttde-gallery-col-inner"
                         onClick={() => {
-                          openGallery();
-                          showGallery(3);
+                          openGallery()
+                          showGallery(3)
                         }}
                       >
                         <span
@@ -105,8 +105,8 @@ const Header = ({
                       <figure
                         className="ttde-gallery-col-inner"
                         onClick={() => {
-                          openGallery();
-                          showGallery(4);
+                          openGallery()
+                          showGallery(4)
                         }}
                       >
                         <a
@@ -189,7 +189,7 @@ const Header = ({
                             }}
                           />
                         </a>
-                      );
+                      )
                     })}
                     {sideLinks.map((link, index) => (
                       <Link
@@ -212,7 +212,7 @@ const Header = ({
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Header;
+export default Header

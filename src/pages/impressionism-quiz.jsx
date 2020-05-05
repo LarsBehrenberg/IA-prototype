@@ -1,8 +1,8 @@
-import React from 'react';
-import Helmet from 'react-helmet';
+import React from 'react'
+import { Helmet } from 'react-helmet'
 
-import Layout from '../layouts/Layout';
-import Game from '../components/Game/Game';
+import { Layout } from 'layouts'
+import { Game } from 'components'
 
 const ImpressionismQuiz = () => {
   return (
@@ -10,7 +10,7 @@ const ImpressionismQuiz = () => {
       <Helmet title="ImpressionistArts.com | Quiz" />
       <Game />
     </Layout>
-  );
-};
+  )
+}
 
-export default ImpressionismQuiz;
+export default ImpressionismQuiz

@@ -1,23 +1,18 @@
 /* eslint-disable jsx-a11y/click-events-have-key-events */
 /* eslint-disable jsx-a11y/no-static-element-interactions */
 /* eslint-disable no-undef */
-import React from 'react';
-import { graphql } from 'gatsby';
-import PropTypes from 'prop-types';
-import SEO from '../components/SEO';
-import Newsletter from '../layouts/Newsletter';
-import Layout from '../layouts/Layout';
-import TextSection from '../components/TextSection';
-import Header from '../components/Header';
-import Suggestion from '../components/Suggestion';
-import Video from '../components/Video';
-import '../styles/lightbox.css';
+import React from 'react'
+import { graphql } from 'gatsby'
+import PropTypes from 'prop-types'
+import { SEO, TextSection, Header, Suggestion, Video } from 'components'
+import { Newsletter, Layout } from 'layouts'
+import '../styles/lightbox.css'
 
-let slideIndex = 1;
+let slideIndex = 1
 
 const Post = ({ data, pageContext }) => {
-  const { next, prev } = pageContext;
-  const { html, frontmatter, excerpt, fields } = data.markdownRemark;
+  const { next, prev } = pageContext
+  const { html, frontmatter, excerpt, fields } = data.markdownRemark
   const {
     title,
     subTitle,
@@ -26,68 +21,68 @@ const Post = ({ data, pageContext }) => {
     textSections,
     upperGalleryImages,
     videoUrl,
-  } = frontmatter;
-  const image = frontmatter.cover.childImageSharp.fluid.src;
-  const { topImage, leftImage, middleImage, rightImage } = upperGalleryImages;
+  } = frontmatter
+  const image = frontmatter.cover.childImageSharp.fluid.src
+  const { topImage, leftImage, middleImage, rightImage } = upperGalleryImages
 
-  let keyBoardListen = false;
-  let touchListen = false;
+  let keyBoardListen = false
+  let touchListen = false
 
-  let touchstartX = 0;
-  let touchendX = 0;
+  let touchstartX = 0
+  let touchendX = 0
 
   function keyListener(event) {
     if (event.keyCode === 39) {
       // eslint-disable-next-line no-use-before-define
-      plusSlides(1);
+      plusSlides(1)
     }
     if (event.keyCode === 37) {
       // eslint-disable-next-line no-use-before-define
-      plusSlides(-1);
+      plusSlides(-1)
     }
     if (event.keyCode === 27) {
       // eslint-disable-next-line no-use-before-define
-      closeModal();
+      closeModal()
     }
   }
 
   function openModal() {
-    document.getElementById('myModal').style.display = 'block';
-    document.getElementsByTagName('body')[0].style.overflow = 'hidden';
+    document.getElementById('myModal').style.display = 'block'
+    document.getElementsByTagName('body')[0].style.overflow = 'hidden'
   }
 
   function closeModal() {
-    document.getElementById('myModal').style.display = 'none';
-    document.getElementsByTagName('body')[0].style.overflow = 'auto';
+    document.getElementById('myModal').style.display = 'none'
+    document.getElementsByTagName('body')[0].style.overflow = 'auto'
   }
 
   function showSlides(n) {
-    let i;
-    slideIndex = n;
-    const slides = document.getElementsByClassName('mySlides');
-    const captionText = document.getElementById('caption');
-    const numberText = document.getElementById('numbertext');
+    let i
+    slideIndex = n
+    const slides = document.getElementsByClassName('mySlides')
+    const captionText = document.getElementById('caption')
+    const numberText = document.getElementById('numbertext')
 
     if (n > slides.length) {
-      slideIndex = 1;
+      slideIndex = 1
     }
     if (n < 1) {
-      slideIndex = slides.length;
+      slideIndex = slides.length
     }
     for (i = 0; i < slides.length; i += 1) {
-      slides[i].style.display = 'none';
+      slides[i].style.display = 'none'
     }
-    slides[slideIndex - 1].style.display = 'block';
+    slides[slideIndex - 1].style.display = 'block'
     captionText.innerHTML = document.getElementsByClassName('gallery-image')[
       slideIndex - 1
-    ].alt;
+    ].alt
 
     numberText.innerHTML = `${slideIndex} / ${
       document.getElementsByClassName('gallery-image').length
-    }`;
+    }`
     if (keyBoardListen === false) {
-      window.addEventListener('keydown', event => keyListener(event));
-      keyBoardListen = true;
+      window.addEventListener('keydown', event => keyListener(event))
+      keyBoardListen = true
     }
 
     if (touchListen === false) {
@@ -95,37 +90,37 @@ const Post = ({ data, pageContext }) => {
         slide.addEventListener(
           'touchstart',
           event => {
-            touchstartX = event.changedTouches[0].screenX;
+            touchstartX = event.changedTouches[0].screenX
           },
-          false,
-        );
+          false
+        )
 
         slide.addEventListener(
           'touchend',
           event => {
-            touchendX = event.changedTouches[0].screenX;
+            touchendX = event.changedTouches[0].screenX
             // eslint-disable-next-line no-use-before-define
-            handleGesture();
+            handleGesture()
           },
-          false,
-        );
-      });
-      touchListen = true;
+          false
+        )
+      })
+      touchListen = true
     }
   }
 
   function plusSlides(n) {
-    slideIndex += n;
-    showSlides(slideIndex);
+    slideIndex += n
+    showSlides(slideIndex)
   }
 
   function handleGesture() {
     if (touchendX <= touchstartX) {
-      plusSlides(1);
+      plusSlides(1)
     }
 
     if (touchendX >= touchstartX) {
-      plusSlides(-1);
+      plusSlides(-1)
     }
   }
 
@@ -145,7 +140,7 @@ const Post = ({ data, pageContext }) => {
             />
           </div>
         ))
-      : null;
+      : null
   }
 
   return (
@@ -186,7 +181,7 @@ const Post = ({ data, pageContext }) => {
                   text={fields.bodyText[index]}
                   textSectionImageArray={textSections[index].sideGalleryImages}
                 />
-              );
+              )
             })}
 
             <Suggestion previousNeighbor={prev} nextNeighbor={next} />
@@ -254,8 +249,8 @@ const Post = ({ data, pageContext }) => {
           </div>
 
           {textSections.map(section => {
-            const { sideGalleryImages } = section;
-            return fillModals(sideGalleryImages);
+            const { sideGalleryImages } = section
+            return fillModals(sideGalleryImages)
           })}
 
           <div className="caption-container">
@@ -282,10 +277,10 @@ const Post = ({ data, pageContext }) => {
         />
       </div>
     </>
-  );
-};
+  )
+}
 
-export default Post;
+export default Post
 
 Post.propTypes = {
   pageContext: PropTypes.shape({
@@ -294,7 +289,7 @@ Post.propTypes = {
   }).isRequired,
   // eslint-disable-next-line react/forbid-prop-types
   data: PropTypes.object.isRequired,
-};
+}
 
 export const query = graphql`
   query($pathSlug: String!, $sideBarLinks: [String]) {
@@ -390,4 +385,4 @@ export const query = graphql`
       }
     }
   }
-`;
+`

@@ -1,22 +1,21 @@
-const path = require('path');
-const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+const path = require('path')
+const { fmImagesToRelative } = require('gatsby-remark-relative-images')
 
 const remark = require('remark')
 const remarkHTML = require('remark-html')
 
 exports.createPages = ({ graphql, actions: { createPage } }) => {
-
   return new Promise((resolve, reject) => {
-    const postTemplate = path.resolve('src/templates/post.jsx');
+    const postTemplate = path.resolve('src/templates/post.jsx')
     // const tagPage = path.resolve('src/pages/tags.jsx');
-    const tagPosts = path.resolve('src/templates/tag.jsx');
+    // const tagPosts = path.resolve('src/templates/tag.jsx')
 
     resolve(
       graphql(
         `
           query {
             allMarkdownRemark(
-              filter: {fileAbsolutePath: {regex: "/posts/"}},
+              filter: { fileAbsolutePath: { regex: "/posts/" } }
               sort: { order: ASC, fields: [frontmatter___date] }
             ) {
               edges {
@@ -37,10 +36,10 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
         `
       ).then(result => {
         if (result.errors) {
-          return reject(result.errors);
+          return reject(result.errors)
         }
 
-        const posts = result.data.allMarkdownRemark.edges;
+        const posts = result.data.allMarkdownRemark.edges
 
         // const postsByTag = {};
         // // create tags page
@@ -66,7 +65,7 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
         //   },
         // });
 
-        //create tags
+        // create tags
         // tags.forEach(tagName => {
         //   const posts = postsByTag[tagName];
 
@@ -80,12 +79,14 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
         //   });
         // });
 
-        //create posts
+        // create posts
         posts.forEach(({ node }, index) => {
-          const path = node.frontmatter.path;
-          const sideBarLinks = node.frontmatter.links;
-          const prev = index === 0 ? posts[posts.length-1].node : posts[index - 1].node;
-          const next = index === posts.length - 1 ? posts[0].node : posts[index + 1].node;
+          const { path } = node.frontmatter
+          const sideBarLinks = node.frontmatter.links
+          const prev =
+            index === 0 ? posts[posts.length - 1].node : posts[index - 1].node
+          const next =
+            index === posts.length - 1 ? posts[0].node : posts[index + 1].node
           createPage({
             path,
             component: postTemplate,
@@ -95,12 +96,12 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
               prev,
               next,
             },
-          });
-        });
+          })
+        })
       })
-    );
-  });
-};
+    )
+  })
+}
 
 /* Allows named imports */
 exports.onCreateWebpackConfig = ({ actions }) => {
@@ -108,42 +109,34 @@ exports.onCreateWebpackConfig = ({ actions }) => {
     resolve: {
       modules: [path.resolve(__dirname, 'src'), 'node_modules'],
     },
-  });
-};
-
+  })
+}
 
 exports.onCreateNode = ({ node, actions: { createNodeField } }) => {
-  fmImagesToRelative(node);
+  fmImagesToRelative(node)
 
-  if(node.frontmatter){
-    const textSections = node.frontmatter.textSections;
+  if (node.frontmatter) {
+    const { textSections } = node.frontmatter
 
     if (textSections) {
-
       const bodyText = textSections.map(event =>
-          remark()
-          .use(remarkHTML)
-          .processSync(event.text)
-          .toString()
-        )
-      const bodyTitle = textSections.map(event => 
-          remark()
-          .use(remarkHTML)
-          .processSync(event.textTitle)
-          .toString()
-        )
+        remark().use(remarkHTML).processSync(event.text).toString()
+      )
+      const bodyTitle = textSections.map(event =>
+        remark().use(remarkHTML).processSync(event.textTitle).toString()
+      )
 
       createNodeField({
         name: `bodyText`,
         node,
-        value: bodyText
-      });
+        value: bodyText,
+      })
 
       createNodeField({
         name: `bodyTitle`,
         node,
-        value: bodyTitle
-      });
+        value: bodyTitle,
+      })
     }
   }
-};
+}

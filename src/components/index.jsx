@@ -1,3 +1,8 @@
-import SEO from './SEO'
-
-export default { SEO };
+export { default as Header } from './Header'
+export { default as PostList } from './PostList'
+export { default as SearchBar } from './SearchBar'
+export { default as SEO } from './SEO'
+export { default as Suggestion } from './Suggestion'
+export { default as TextSection } from './TextSection'
+export { default as Video } from './Video'
+export { default as Game } from './Game/Game'

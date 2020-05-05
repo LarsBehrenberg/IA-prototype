@@ -1,6 +1,5 @@
 <h1 align="center">IA - Prototype</h1>
 
-
 <p align="center">
   <strong>
     View the demo at <a href="https://ia-prototype.larsbehrenberg.com">ia-prototype.larsbehrenberg.com</a>.
@@ -31,6 +30,7 @@
   - Google Lighthouse Optimization
 
 ## Folder structure
+
 ```bash
 ├──.circleci # Circleci integration
 ├── config # Theme and site metadata
