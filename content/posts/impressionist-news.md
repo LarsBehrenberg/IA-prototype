@@ -35,11 +35,14 @@ textSections:
 
 
       The Shelbourne Museum in Vermont is also putting on daily [art-related activities](https://shelburnemuseum.org/museum-from-home/ten-two-four-break-challenge/).
+
+
+      There's an online [auction of autographs](https://www.finebooksmagazine.com/news/mao-marx-autographs-and-artifacts-offered-online-auction) and writings (you can bid until 13 May 2020), with lots including an 8-page letter written by Claude Monet to his second wife, Alice, in 1901.  It comments on the arrangements for Queen Victoria's funeral and Monet's meeting with writer Henry James.
 ---
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.
 
 Learn about the latest impressionist exhibitions, auctions and research.  Highlights from the past six months include:
 
 * Various museums putting on virtual tours, galleries and other activities to help you cope with Covid-19 lockdown.
-* Second Highlight
+* Bid on impressionist works and writings at a number of online auctions.
 * Third Highlight
