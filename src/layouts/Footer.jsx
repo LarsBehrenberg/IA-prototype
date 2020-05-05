@@ -94,7 +94,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="container" style={{ textAlign: 'center' }}>
-      <p style={{ lineHeight: '30px', color: '#ffffff50' }}>
+      <p style={{ lineHeight: '30px', fontSize: '15px', color: '#ffffff50' }}>
         &copy; {new Date().getFullYear()} ImpressionistArts.com
       </p>
     </div>
