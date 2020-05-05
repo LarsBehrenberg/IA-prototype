@@ -6,7 +6,6 @@ import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
 import { SEO, TextSection, Header, Suggestion, Video } from 'components'
 import { Newsletter, Layout } from 'layouts'
-import '../styles/lightbox.css'
 
 let slideIndex = 1
 
