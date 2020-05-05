@@ -2,7 +2,7 @@
 path: impressionism-news
 date: 2020-05-05T06:45:19.751Z
 subTitle: "2020"
-title: Impressionist News
+title: Impressionism News
 tags:
   - more
 cover: /assets/berthe-morisot-grain-field.jpg
