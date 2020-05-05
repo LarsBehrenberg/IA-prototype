@@ -38,6 +38,9 @@ textSections:
 
 
       There's an online [auction of autographs](https://www.finebooksmagazine.com/news/mao-marx-autographs-and-artifacts-offered-online-auction) and writings (you can bid until 13 May 2020), with lots including an 8-page letter written by Claude Monet to his second wife, Alice, in 1901.  It comments on the arrangements for Queen Victoria's funeral and Monet's meeting with writer Henry James.
+
+
+      In February 2020, the Boston Museum of Fine Arts marked its 150th anniversary.  It selected 15 key works for the occasion, including one of Monet's Haystacks (or Grainstacks).
 ---
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.
 
@@ -45,4 +48,4 @@ Learn about the latest impressionist exhibitions, auctions and research.  Highli
 
 * Various museums putting on virtual tours, galleries and other activities to help you cope with Covid-19 lockdown.
 * Bid on impressionist works and writings at a number of online auctions.
-* Third Highlight
+* The Boston Museum of Fine Arts marked its 150th anniversary in February 2020.
