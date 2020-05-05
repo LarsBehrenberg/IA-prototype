@@ -5,7 +5,6 @@ import styled from '@emotion/styled'
 import { Link } from 'gatsby'
 
 import { Layout } from 'layouts'
-import '../styles/quiz.css'
 
 const ResultWrapper = styled.div`
   background-color: #ecf5ff;

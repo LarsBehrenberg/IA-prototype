@@ -1,5 +1,4 @@
 import React from 'react'
-import '../../styles/quiz.css'
 
 const questions = require('./questions').questions
 
