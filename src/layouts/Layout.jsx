@@ -1,17 +1,33 @@
 import React from 'react'
-import { Navbar, Footer } from 'layouts'
+import { NavBar, Footer } from 'layouts'
 import SEO from '../components/SEO'
 import '../styles/all.css'
 
+import { ThemeProvider } from 'emotion-theming'
+import theme from '../../config/theme'
+import { css, Global } from '@emotion/core'
+import styled from '@emotion/styled'
+import headroom from '../styles/headroom'
+
+const ChildWrapper = styled.div`
+  padding-top: 60px;
+`
+
 const Layout = ({ children }) => (
-  <>
-    <div className="site">
+  <ThemeProvider theme={theme}>
+    <>
+      <Global
+        styles={css`
+          ${headroom}
+        `}
+      />
+
       <SEO />
-      <Navbar />
-      {children}
-    </div>
-    <Footer />
-  </>
+      <NavBar />
+      <ChildWrapper>{children}</ChildWrapper>
+      <Footer />
+    </>
+  </ThemeProvider>
 )
 
 export default Layout
