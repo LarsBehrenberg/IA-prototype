@@ -85,7 +85,20 @@ const Navbar = () => {
                   ))}
                   <li>
                     <Link to="/">
-                      <span style={{ color: '#dd3030' }}>&#10145;</span>{' '}
+                      <span>
+                        <svg
+                          class="i i-arrow-right"
+                          width="16px"
+                          height="12px"
+                          title="impressionist painters"
+                          style={{ fill: '#dd3030', marginBottom: '3px' }}
+                        >
+                          <svg id="i-arrow-right" viewBox="0 0 113.4 85">
+                            <path d="M109,35.4L70.9,3.8C68.7,2,67,0,63.8,0c-4.4,0-7.1,3.7-7.1,7.1v21.3H7.1c-3.9,0-7.1,3.2-7.1,7.1v14.2c0,3.9,3.2,7.1,7.1,7.1 h49.6V78c0,3.4,2.7,7.1,7.1,7.1c3.3,0,4.9-2,7.1-3.8L109,49.6c2.7-2.2,4.4-3.9,4.4-7.1S111.7,37.7,109,35.4z" />
+                          </svg>
+                        </svg>
+                      </span>
+                      {''}
                       {(data.allMarkdownRemark.totalCount - 6).toString()} more
                     </Link>
                   </li>
