@@ -11,129 +11,276 @@ backend:
 media_folder: /static/assets/
 public_folder: /assets/
 
+publish_mode: editorial_workflow
+
 collections:
-  - name: "posts"
-    label: "Posts"
-    folder: "/content/posts/"
+  - name: 'posts'
+    label: 'Posts'
+    folder: '/content/posts/'
     create: true
-    description: "The list of biographies, events and etc. that are uploaded onto the website."
+    description: 'The list of biographies, events and etc. that are uploaded onto the website.'
     fields:
-      - { name: "path", label: "Slug", hint: "This slug has to be unique. Example: paul-signac-biography"}
-      - { name: "date", label: "Published Date", widget: "datetime" }
-      - { name: "subTitle", label: "Subtitle", hint: "The subtitle of the article", default: "Biography of"}
-      - { name: "title", label: "Title", hint: "The title of the article", default: "Impressionist artist"}
-      - { name: "body", label: "Introduction", widget: "markdown", hint: "The introduction text shown below the upper gallery" }
-      - { name: "tags", label: "Tags", widget: "list", hint: "Tags will be a way to sort/organize articles" }
-      - { name: "cover", label: "Featured Image", widget: "image", required: true, hint: "This image will be displayed one the funnel page"}
-      - label: "Sidebar Links"
-        name: "links"
-        widget: "relation"
-        collection: "posts"
+      - {
+          name: 'path',
+          label: 'Slug',
+          hint: 'This slug has to be unique. Example: paul-signac-biography',
+        }
+      - { name: 'date', label: 'Published Date', widget: 'datetime' }
+      - {
+          name: 'subTitle',
+          label: 'Subtitle',
+          hint: 'The subtitle of the article',
+          default: 'Biography of',
+        }
+      - {
+          name: 'title',
+          label: 'Title',
+          hint: 'The title of the article',
+          default: 'Impressionist artist',
+        }
+      - {
+          name: 'body',
+          label: 'Introduction',
+          widget: 'markdown',
+          hint: 'The introduction text shown below the upper gallery',
+        }
+      - {
+          name: 'tags',
+          label: 'Tags',
+          widget: 'list',
+          hint: 'Tags will be a way to sort/organize articles',
+        }
+      - {
+          name: 'cover',
+          label: 'Featured Image',
+          widget: 'image',
+          required: true,
+          hint: 'This image will be displayed one the funnel page',
+        }
+      - label: 'Sidebar Links'
+        name: 'links'
+        widget: 'relation'
+        collection: 'posts'
         hint: This field searches all published articles and attaches the selected ones to the side menu. Articles can be searched by title & tags.
-        searchFields: ["title", "tags"]
-        displayFields: ["title", "tags"]
-        valueField: "title"
+        searchFields: ['title', 'tags']
+        displayFields: ['title', 'tags']
+        valueField: 'title'
         multiple: true
         required: true
-      - { name: "videoUrl",
-          label: "Video Url",
-          widget: "string",
+      - {
+          name: 'videoUrl',
+          label: 'Video Url',
+          widget: 'string',
           required: false,
-          hint: "If this field is left empty, no video will be displayed. Url has to be an embed video url, e.g: https://youtube.com/embed/JYFbpniHyJ8",
-          pattern: ['^(http(s)?:\/\/)?((w){3}.)?youtube.com?\/+embed+', "You must enter a Youtube (/embed/) Url beginning with http:// or https://"]}
-      - label: "Upper Gallery"
-        hint: "This widget lists up the images for the upper gallery"
-        name: "upperGalleryImages"
-        widget: "object"
+          hint: 'If this field is left empty, no video will be displayed. Url has to be an embed video url, e.g: https://youtube.com/embed/JYFbpniHyJ8',
+          pattern:
+            [
+              '^(http(s)?:\/\/)?((w){3}.)?youtube.com?\/+embed+',
+              'You must enter a Youtube (/embed/) Url beginning with http:// or https://',
+            ],
+        }
+      - label: 'Upper Gallery'
+        hint: 'This widget lists up the images for the upper gallery'
+        name: 'upperGalleryImages'
+        widget: 'object'
         fields:
           - label: Top
             name: topImage
             widget: object
             fields:
-              - {label: Top Image, name: topImageUrl, widget: image, required: true}
-              - {label: Title & Alt, name: topImageTitle, widget: string, required: true}
+              - {
+                  label: Top Image,
+                  name: topImageUrl,
+                  widget: image,
+                  required: true,
+                }
+              - {
+                  label: Title & Alt,
+                  name: topImageTitle,
+                  widget: string,
+                  required: true,
+                }
           - label: Left
             name: leftImage
             widget: object
             fields:
-              - {label: Left Image, name: leftImageUrl, widget: image, required: true}
-              - {label: Title & Alt, name: leftImageTitle, widget: string, required: true}
+              - {
+                  label: Left Image,
+                  name: leftImageUrl,
+                  widget: image,
+                  required: true,
+                }
+              - {
+                  label: Title & Alt,
+                  name: leftImageTitle,
+                  widget: string,
+                  required: true,
+                }
           - label: Middle
             name: middleImage
             widget: object
             fields:
-              - {label: Middle Image, name: middleImageUrl, widget: image, required: true}
-              - {label: Title & Alt, name: middleImageTitle, widget: string, required: true}
+              - {
+                  label: Middle Image,
+                  name: middleImageUrl,
+                  widget: image,
+                  required: true,
+                }
+              - {
+                  label: Title & Alt,
+                  name: middleImageTitle,
+                  widget: string,
+                  required: true,
+                }
           - label: Right
             name: rightImage
             widget: object
             fields:
-              - {label: Right Image, name: rightImageUrl, widget: image, required: true}
-              - {label: Title & Alt, name: rightImageTitle, widget: string, required: true}
-      - label: "Text sections"
-        name: "textSections"
-        widget: "list"
-        hint: "Add the different text sections with title, text and images here"
+              - {
+                  label: Right Image,
+                  name: rightImageUrl,
+                  widget: image,
+                  required: true,
+                }
+              - {
+                  label: Title & Alt,
+                  name: rightImageTitle,
+                  widget: string,
+                  required: true,
+                }
+      - label: 'Text sections'
+        name: 'textSections'
+        widget: 'list'
+        hint: 'Add the different text sections with title, text and images here'
         allow_add: true
         collapsed: false
         fields:
-          - {label: Title, name: textTitle, widget: "string", default: "Title here", required: true, hint: "This title of the text section"}
-          - {label: Text, name: text, widget: markdown, default: "Body text here", required: true, hint: "This text of the text section"}
-          - label: "Side Gallery"
-            name: "sideGalleryImages"
-            widget: "list"
+          - {
+              label: Title,
+              name: textTitle,
+              widget: 'string',
+              default: 'Title here',
+              required: true,
+              hint: 'This title of the text section',
+            }
+          - {
+              label: Text,
+              name: text,
+              widget: markdown,
+              default: 'Body text here',
+              required: true,
+              hint: 'This text of the text section',
+            }
+          - label: 'Side Gallery'
+            name: 'sideGalleryImages'
+            widget: 'list'
             allow_add: true
-            hint: "As many images as needed can be added to the site gallery of each text section"
+            hint: 'As many images as needed can be added to the site gallery of each text section'
             collapsed: true
             fields:
-              - {label: Image, name: imageUrl, widget: image}
-              - {label: "Title & Alt", name: imageTitle, widget: string}
-  - label: "Static Pages"
-    name: "pages"
+              - { label: Image, name: imageUrl, widget: image }
+              - { label: 'Title & Alt', name: imageTitle, widget: string }
+  - label: 'Static Pages'
+    name: 'pages'
     files:
-      - label: "About Us"
-        name: "aboutUs"
-        file: "/content/pages/about-us.md"
+      - label: 'About Us'
+        name: 'aboutUs'
+        file: '/content/pages/about-us.md'
         fields:
-          - { name: "subTitle", label: "Subtitle", hint: "The subtitle of the article", default: "Biography of"}
-          - { name: "title", label: "Title", hint: "The title of the article", default: "Impressionist artist"}
-          - { name: "body", label: "Introduction", widget: "markdown", hint: "The introduction text shown below the upper gallery" }
-          - label: "Upper Gallery"
-            hint: "This widget lists up the images for the upper gallery"
-            name: "upperGalleryImages"
-            widget: "object"
+          - {
+              name: 'subTitle',
+              label: 'Subtitle',
+              hint: 'The subtitle of the article',
+              default: 'Biography of',
+            }
+          - {
+              name: 'title',
+              label: 'Title',
+              hint: 'The title of the article',
+              default: 'Impressionist artist',
+            }
+          - {
+              name: 'body',
+              label: 'Introduction',
+              widget: 'markdown',
+              hint: 'The introduction text shown below the upper gallery',
+            }
+          - label: 'Upper Gallery'
+            hint: 'This widget lists up the images for the upper gallery'
+            name: 'upperGalleryImages'
+            widget: 'object'
             fields:
               - label: Top
                 name: topImage
                 widget: object
                 fields:
-                  - {label: Top Image, name: topImageUrl, widget: image, required: true}
-                  - {label: Title & Alt, name: topImageTitle, widget: string, required: true}
+                  - {
+                      label: Top Image,
+                      name: topImageUrl,
+                      widget: image,
+                      required: true,
+                    }
+                  - {
+                      label: Title & Alt,
+                      name: topImageTitle,
+                      widget: string,
+                      required: true,
+                    }
               - label: Left
                 name: leftImage
                 widget: object
                 fields:
-                  - {label: Left Image, name: leftImageUrl, widget: image, required: true}
-                  - {label: Title & Alt, name: leftImageTitle, widget: string, required: true}
+                  - {
+                      label: Left Image,
+                      name: leftImageUrl,
+                      widget: image,
+                      required: true,
+                    }
+                  - {
+                      label: Title & Alt,
+                      name: leftImageTitle,
+                      widget: string,
+                      required: true,
+                    }
               - label: Middle
                 name: middleImage
                 widget: object
                 fields:
-                  - {label: Middle Image, name: middleImageUrl, widget: image, required: true}
-                  - {label: Title & Alt, name: middleImageTitle, widget: string, required: true}
+                  - {
+                      label: Middle Image,
+                      name: middleImageUrl,
+                      widget: image,
+                      required: true,
+                    }
+                  - {
+                      label: Title & Alt,
+                      name: middleImageTitle,
+                      widget: string,
+                      required: true,
+                    }
               - label: Right
                 name: rightImage
                 widget: object
                 fields:
-                  - {label: Right Image, name: rightImageUrl, widget: image, required: true}
-                  - {label: Title & Alt, name: rightImageTitle, widget: string, required: true}
-  - name: "maps"
-    label: "Maps"
-    folder: "/content/maps/"
+                  - {
+                      label: Right Image,
+                      name: rightImageUrl,
+                      widget: image,
+                      required: true,
+                    }
+                  - {
+                      label: Title & Alt,
+                      name: rightImageTitle,
+                      widget: string,
+                      required: true,
+                    }
+  - name: 'maps'
+    label: 'Maps'
+    folder: '/content/maps/'
     create: false
-    description: "The list of custom created maps for TTDE."
+    description: 'The list of custom created maps for TTDE.'
     fields:
-      - { name: "path", label: "Path" }
-      - { name: "title", label: "Title" }
-      - { name: "googleApi", label: "Google API URL"}
-      - { name: "tags", label: "Tags", widget: "list" }
+      - { name: 'path', label: 'Path' }
+      - { name: 'title', label: 'Title' }
+      - { name: 'googleApi', label: 'Google API URL' }
+      - { name: 'tags', label: 'Tags', widget: 'list' }
