@@ -811,13 +811,19 @@ img[data-srcset] {
   background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #fff 100%);
   background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #fff 100%);
   background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #fff 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffff', GradientType=0)
 }
 
 .site-text-more .btn {
   display: inline-block;
   width: 100%;
-  max-width: 400px
+  max-width: 400px;
+  transition: all .2s ease-in-out;
+}
+
+.site-text-more .btn:hover {
+  color: #333;
+  border: 2px solid #161b2e;
+  transform: scale(1.02);
 }
 
 .block__meta-val {
