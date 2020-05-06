@@ -1,4 +1,9 @@
 /* eslint-disable */
+
+export const onRouteUpdate = ({ location, prevLocation }) => {
+  document.getElementsByTagName('body')[0].style.overflow = 'auto'
+}
+
 export const onClientEntry = () => {
   window.onload = () => {
     window.addEventListener('scroll', function (event) {
