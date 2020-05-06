@@ -2,7 +2,7 @@
 import React from 'react'
 import { Link, graphql, useStaticQuery } from 'gatsby'
 
-const Navbar = () => {
+const NavbarOld = () => {
   // // Button onClick function!
   function buttonClicked() {
     const container = document.getElementById('site-navigation')
@@ -133,4 +133,4 @@ const Navbar = () => {
     </header>
   )
 }
-export default Navbar
+export default NavbarOld
