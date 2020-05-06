@@ -835,8 +835,10 @@ img[data-srcset] {
 }
 
 .site-text-more .btn:hover {
-  color: #333;
+  /* color: #333; */
   border: 2px solid #161b2e;
+  color: #e53132;
+  /* border: 2px solid #e53132; */
   transform: scale(1.02);
 }
 
