@@ -6,16 +6,16 @@ import { graphql, useStaticQuery, Link } from 'gatsby'
 import PropTypes from 'prop-types'
 
 const Wrapper = styled.div`
-  height: 403px;
+  height: 300px;
   width: 100vw;
 `
 
 const SearchWrapper = styled.div`
   position: absolute;
-  top: 0;
+  top: 50px;
   left: 0;
   width: 100%;
-  height: 500px;
+  height: 300px;
   display: flex;
   flex-direction: column;
   justify-content: center;
