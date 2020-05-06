@@ -57,6 +57,8 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   color: #333;
+  background-color: #fafafa);
+  ;
 }
 
 body>svg {
@@ -87,7 +89,7 @@ svg:not(:root) {
 }
 
 .site {
-  padding-top: 60px;
+  /* padding-top: 60px; */
   overflow: hidden;
 }
 

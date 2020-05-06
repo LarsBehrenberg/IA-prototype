@@ -15,7 +15,7 @@ const Header = ({
   const { topImage, leftImage, middleImage, rightImage } = images
 
   return (
-    <div className="container">
+    <div className="container" style={{ paddingTop: '40px' }}>
       <div className="row">
         <div className="col-sm-9">
           <section className="site-block top">

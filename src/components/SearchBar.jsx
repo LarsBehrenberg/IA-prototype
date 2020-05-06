@@ -47,7 +47,7 @@ const Headline = styled.h1`
 `
 
 const ResultWrapper = styled.div`
-  top: 330px;
+  top: 250px;
   position: absolute;
   width: 250px;
   background-color: white;

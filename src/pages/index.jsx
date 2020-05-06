@@ -5,7 +5,7 @@ import { graphql } from 'gatsby'
 import { Helmet } from 'react-helmet'
 import styled from '@emotion/styled'
 import { Layout, Newsletter } from 'layouts'
-import { PostList, SearchBar } from 'components'
+import { PostList, SearchBar, Hero } from 'components'
 
 const PostWrapper = styled.div`
   display: flex;
@@ -40,25 +40,6 @@ const PostWrapper = styled.div`
   }
 `
 
-const ButtonWrapper = styled.div`
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: 4rem 0rem 1rem 4rem;
-
-  @media (max-width: 1000px) {
-    margin: 4rem 2rem 1rem 2rem;
-  }
-  @media (max-width: 700px) {
-    margin: 4rem 1rem 1rem 1rem;
-  }
-  @media (min-width: 1200px) {
-    width: 800px;
-    margin: 3rem auto 1rem auto;
-  }
-`
-
 const Headline = styled.h1`
   text-align: center;
   text-transform: uppercase;
@@ -87,7 +68,32 @@ const Headline = styled.h1`
   }
 `
 
+const ButtonWrapper = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 2rem 4rem 1rem 4rem;
+
+  @media (max-width: 1000px) {
+    margin: 4rem 2rem 1rem 2rem;
+  }
+  @media (max-width: 700px) {
+    margin: 3rem 1rem 1rem 1rem;
+  }
+  @media (min-width: 1200px) {
+    width: 1170px;
+    margin: 2rem auto 1rem auto;
+  }
+`
+
+const CategoryWrapper = styled.div`
+  @media (min-width: 1200px) {
+    max-width: 600px;
+  }
+`
+
 const TagButton = styled.span`
+  z-index: 5;
   font-size: 14px;
   line-height: 35px;
   color: #929497;
@@ -98,6 +104,7 @@ const TagButton = styled.span`
   height: 35px;
   border-radius: 4px;
   border-color: #dedede;
+  background-color: white;
   padding: 0 15px;
   outline: none;
   text-decoration: none !important;
@@ -191,27 +198,42 @@ const Index = ({ data }) => {
   return (
     <Layout>
       <Helmet title="Home | ImpressionistArts.com" />
-      <SearchBar onChange={handleInputChange} searchResults={posts} />
-      <Headline>
+      {/* <SearchBar onChange={handleInputChange} searchResults={posts} /> */}
+      <Hero></Hero>
+      {/* <Headline>
         <span>Our Top Pages</span>
-      </Headline>
+      </Headline> */}
       <ButtonWrapper>
-        <TagButton
-          onClick={() => {
-            setState({ categorizedData: edges, currentCategory: 'all' })
-          }}
-          className={`${currentCategory === 'all' ? 'active' : ''}`}
-        >
-          All Posts
-        </TagButton>
-        {categories.map(tag => (
+        <CategoryWrapper>
           <TagButton
-            onClick={() => categoryPressed(tag)}
-            className={`${currentCategory === tag ? 'active' : ''}`}
+            onClick={() => {
+              setState({ categorizedData: edges, currentCategory: 'all' })
+            }}
+            className={`${currentCategory === 'all' ? 'active' : ''}`}
           >
-            {tag}
+            All Posts
           </TagButton>
-        ))}
+          {categories.map(tag => (
+            <TagButton
+              onClick={() => categoryPressed(tag)}
+              className={`${currentCategory === tag ? 'active' : ''}`}
+            >
+              {tag}
+            </TagButton>
+          ))}
+        </CategoryWrapper>
+        <div>
+          <TagButton>
+            <svg width="26" height="26" viewBox="0 0 26 26" fill="#333">
+              <path d="M4.33337 13.8424H12.0371V5.4165H4.33337V13.8424ZM4.33337 20.5832H12.0371V15.5276H4.33337V20.5832ZM13.963 20.5832H21.6667V12.1572H13.963V20.5832ZM13.963 5.4165V10.4721H21.6667V5.4165H13.963Z"></path>
+            </svg>
+          </TagButton>
+          <TagButton>
+            <svg width="26" height="26" viewBox="0 0 26 26" fill="#333">
+              <path d="M4.33331 15.1665H8.41174V10.8332H4.33331V15.1665ZM4.33331 20.5832H8.41174V16.2498H4.33331V20.5832ZM4.33331 9.74984H8.41174V5.4165H4.33331V9.74984ZM9.43135 15.1665H21.6666V10.8332H9.43135V15.1665ZM9.43135 20.5832H21.6666V16.2498H9.43135V20.5832ZM9.43135 5.4165V9.74984H21.6666V5.4165H9.43135Z"></path>
+            </svg>
+          </TagButton>
+        </div>
       </ButtonWrapper>
       <PostWrapper>
         {categorizedData

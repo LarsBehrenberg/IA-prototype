@@ -10,7 +10,7 @@ import styled from '@emotion/styled'
 import headroom from '../styles/headroom'
 
 const ChildWrapper = styled.div`
-  padding-top: 60px;
+  padding-top: 2rem;
 `
 
 const Layout = ({ children }) => (
