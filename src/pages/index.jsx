@@ -12,7 +12,7 @@ const PostWrapper = styled.div`
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 4rem 4rem 1rem 4rem;
+  margin: 2rem 4rem 1rem 4rem;
 
   @media (max-width: 1000px) {
     margin: 4rem 2rem 1rem 2rem;
@@ -22,7 +22,7 @@ const PostWrapper = styled.div`
   }
   @media (min-width: 1200px) {
     width: 1170px;
-    margin: 4rem auto 1rem auto;
+    margin: 2rem auto 1rem auto;
 
     article:first-child:nth-last-child(2),
     article:first-child:nth-last-child(2) ~ article {
@@ -31,8 +31,8 @@ const PostWrapper = styled.div`
       width: 48%;
     }
 
-    & article:nth-of-type(4),
-    article:nth-of-type(5) {
+    & article:nth-of-type(5n-1),
+    article:nth-of-type(6n-1) {
       flex-basis: 48%;
       max-width: 48%;
       width: 48%;
@@ -55,26 +55,37 @@ const ButtonWrapper = styled.div`
   }
   @media (min-width: 1200px) {
     width: 800px;
-    margin: 4rem auto 1rem auto;
+    margin: 3rem auto 1rem auto;
   }
 `
 
-// const Headline = styled.h1`
-//   text-align: center;
-//   color: #262a2e;
-//   margin: 4rem 0rem 1rem 4rem;
-//   @media (max-width: 1000px) {
-//     margin: 4rem 2rem 1rem 2rem;
-//   }
-//   @media (max-width: 700px) {
-//     margin: 4rem 1rem 1rem 1rem;
-//   }
-//   @media (min-width: 1200px) {
-//     width: 1170px;
-//     margin: 3rem auto 0rem auto;
-//   }
-//   text-decoration: underline;
-// `;
+const Headline = styled.h1`
+  text-align: center;
+  text-transform: uppercase;
+  color: #262a2e;
+  font-size: 28px;
+  font-weight: 600;
+  border-bottom: 1px solid #e5e5e5;
+  margin: 4rem 0rem 0rem 4rem;
+  @media (max-width: 1000px) {
+    margin: 4rem 2rem 0rem 2rem;
+  }
+  @media (max-width: 700px) {
+    margin: 4rem 1rem 0rem 1rem;
+  }
+  @media (min-width: 1200px) {
+    width: 1170px;
+    margin: 4rem auto 1rem auto;
+  }
+
+  line-height: 0.1em;
+  width: 100%;
+
+  & span {
+    background: #fff;
+    padding: 0 30px;
+  }
+`
 
 const TagButton = styled.span`
   font-size: 14px;
@@ -181,7 +192,9 @@ const Index = ({ data }) => {
     <Layout>
       <Helmet title="Home | ImpressionistArts.com" />
       <SearchBar onChange={handleInputChange} searchResults={posts} />
-      {/* <Headline><span>Our Top Pages</span></Headline> */}
+      <Headline>
+        <span>Our Top Pages</span>
+      </Headline>
       <ButtonWrapper>
         <TagButton
           onClick={() => {
