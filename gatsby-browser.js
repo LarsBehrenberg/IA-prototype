@@ -9,9 +9,9 @@ export const onClientEntry = () => {
         const footerDiv = document.getElementById('newsletter')
         const footerTop = footerDiv.getBoundingClientRect().top - 50
         if (sideBottom > footerTop) {
-          document.getElementById('sidebar-container').classList.add('stuck')
+          document.getElementById('sidebar').classList.add('stuck')
         } else {
-          document.getElementById('sidebar-container').classList.remove('stuck')
+          document.getElementById('sidebar').classList.remove('stuck')
         }
       }
     })

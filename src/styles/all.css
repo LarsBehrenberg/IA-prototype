@@ -918,11 +918,28 @@ img[data-srcset] {
     position: fixed;
     left: 0;
     right: 0;
-    transition: opacity 0.3s ease-in-out;
-    -webkit-transition: opacity 0.3s ease-in-out;
-    -moz-transition: opacity 0.3s ease-in-out;
-    -ms-transition: opacity 0.3s ease-in-out;
-    -o-transition: opacity 0.3s ease-in-out;
+
+    animation: fadeInAnimation ease-in-out 1.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+  }
+  @keyframes fadeInAnimation {
+    0% {
+      opacity: 0;
+      right: -300px;
+    }
+    100% {
+      opacity: 1;
+      right: 0;
+    }
+  }
+  @keyframes fadeOutAnimation {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
   }
 
   .site-sidebar > .container {
@@ -1983,7 +2000,9 @@ p > a {
 }
 
 .stuck {
-  opacity: 0;
+  animation: fadeOutAnimation ease-in-out 0.5s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 
 /* QUIZ PAGE CSS */
