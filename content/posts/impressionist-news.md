@@ -41,6 +41,15 @@ textSections:
 
 
       In February 2020, the Boston Museum of Fine Arts marked its 150th anniversary.  It selected 15 key works for the occasion, including one of Monet's Haystacks (or Grainstacks).
+
+
+      <div class="interesting">
+
+      <h4><img src="logo/palette.png"> Interesting fact...</h4>
+
+      <p>On occasion Manet and Couture quarrelled. Once, Manet stormed out of Couture’s studio in protest about a critical remark and refused to return for a month! </p>
+
+      </div>
 ---
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.
 
