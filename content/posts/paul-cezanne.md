@@ -5,7 +5,7 @@ subTitle: Biography of
 title: Paul Cezanne
 tags:
   - Impressionists
-cover: /assets/paul-cezanne-houses-at-estaque.jpg
+cover: /assets/camille-corot-forest-of-fontainebleau.jpg
 links:
   - Vincent Van Gogh
   - Jean-Baptiste-Camille Corot
@@ -99,3 +99,11 @@ Cezanne did not achieve recognition until 1895, when the dealer Ambroise Vollard
 Cezanne was not a happy man: he spent much of his adult life trying to please and placate his [pushy father](https://impressionistarts.com/paul-cezanne-biography.html#4) (from whom Cezanne concealed the fact that he had a son for over a decade!); he [severed ties](https://impressionistarts.com/paul-cezanne-biography.html#4) with his childhood friend, [Emile Zola](https://impressionistarts.com/emile-zola-biography.html), in 1886 after Zola wrote a novel seemingly based on Cezanne's life; and he was prone to depression and self-doubt.
 
 Cezanne died on 22 October 1906, having caught pneumonia after being[ caught in a storm](https://impressionistarts.com/paul-cezanne-biography.html#5) painting.
+
+<div class="interesting">
+
+<h4><img src="logo/palette.png"> Interesting fact...</h4>
+
+<p>On occasion Manet and Couture quarrelled. Once, Manet stormed out of Couture’s studio in protest about a critical remark and refused to return for a month! </p>
+
+</div>
