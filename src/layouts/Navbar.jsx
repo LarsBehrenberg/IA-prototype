@@ -46,7 +46,7 @@ const Search = styled.input`
   }
 `
 
-const NavBar = () => {
+const Navbar = () => {
   return (
     <Headroom calcHeightOnResize disableInlineStyles>
       <StyledLink to="/">
@@ -64,4 +64,4 @@ const NavBar = () => {
   )
 }
 
-export default NavBar
+export default Navbar

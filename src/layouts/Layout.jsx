@@ -1,6 +1,5 @@
 import React from 'react'
-import { Footer } from 'layouts'
-import NavBar from './NavBar'
+import { Footer, Navbar } from 'layouts'
 import SEO from '../components/SEO'
 import '../styles/all.css'
 
@@ -23,7 +22,7 @@ const Layout = ({ children }) => (
         `}
       />
       <SEO />
-      <NavBar />
+      <Navbar />
       <ChildWrapper>{children}</ChildWrapper>
       <Footer />
     </>
