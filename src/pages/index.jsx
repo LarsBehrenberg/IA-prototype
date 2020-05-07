@@ -32,7 +32,7 @@ const PostWrapper = styled.div`
     }
 
     & article:nth-of-type(5n-1),
-    article:nth-of-type(6n-1) {
+    article:nth-of-type(5n) {
       flex-basis: 48%;
       max-width: 48%;
       width: 48%;
