@@ -3,35 +3,47 @@ import { graphql, Link } from 'gatsby'
 import Headroom from 'react-headroom'
 import logo from '../../static/logo/logo.png'
 import styled from '@emotion/styled'
+import { stack as Menu } from 'react-burger-menu'
 
-const StyledLink = styled(Link)`
-  display: flex;
-  font-weight: 700;
-  align-items: center;
-  width: 31%;
+const Wrapper = styled.div`
+  width: 100%;
+  background-color: #161b2e;
+  position: fixed;
+  z-index: 40;
+  height: 60px;
 `
 
-const Nav = styled.nav`
+const Container = styled.div`
   display: flex;
-  justify-content: flex-end;
-  /* font-family: ${props => props.theme.fontFamily.body}; */
-  font-weight: 500;
-  font-size: 1.1rem;
+  position: relative;
   align-items: center;
-  a {
-    color: ${props => props.theme.colors.white.base};
-    margin-left: 1rem;
-    transition: all ${props => props.theme.transitions.default.duration};
-    &:hover {
-      color: ${props => props.theme.colors.white.grey};
-    }
+  padding: 10px 0;
+  height: '100%';
+  /* background-image: url('./assets/claude-monet-nympheas.jpg'); */
+  margin: 0 4rem;
+
+  @media (max-width: 1000px) {
+    margin: 0 2rem;
+  }
+  @media (max-width: 700px) {
+    margin: 0 1rem;
+  }
+  @media (min-width: 1200px) {
+    width: 1170px;
+    margin: 0 auto;
   }
 `
 
+const StyledLink = styled(Link)`
+  font-weight: 700;
+  width: 33.3%;
+`
+
 const Search = styled.input`
-  padding: 2px 16px 2px !important;
+  padding: 2px 0px 2px !important;
   line-height: 1 !important;
   color: #ffffff;
+  width: 33%;
   background-color: transparent;
   font-size: 23px !important;
   border: none;
@@ -46,21 +58,87 @@ const Search = styled.input`
   }
 `
 
+var styles = {
+  bmBurgerButton: {
+    position: 'absolute',
+    width: '30px',
+    height: '25px',
+    right: '5px',
+    top: '18px',
+  },
+  bmBurgerBars: {
+    background: '#fefefe',
+  },
+  bmBurgerBarsHover: {
+    background: '#a90000',
+  },
+  bmCrossButton: {
+    height: '24px',
+    width: '24px',
+  },
+  bmCross: {
+    background: '#bdc3c7',
+  },
+  bmMenuWrap: {
+    position: 'fixed',
+    height: '100%',
+    top: '0',
+  },
+  bmMenu: {
+    background: 'rgb(22, 27, 46)',
+    padding: '2.5em 1.5em 0',
+    fontSize: '1.15em',
+  },
+  bmMorphShape: {
+    fill: '#373a47',
+  },
+  bmItemList: {
+    color: 'white',
+    padding: '0.8em',
+  },
+  bmItem: {
+    display: 'block',
+  },
+  bmOverlay: {
+    background: 'rgba(0, 0, 0, 0.3)',
+    top: '0',
+    left: '0',
+    width: '100vw',
+  },
+}
+
+const NavLink = styled(Link)`
+  color: #fefefe;
+  padding: 0.8rem;
+  &:visited {
+    color: #fefefe;
+  }
+`
+
 const Navbar = () => {
   return (
-    <Headroom calcHeightOnResize disableInlineStyles>
-      <StyledLink to="/">
-        <img src={logo} alt="Impressionist Arts" />
-      </StyledLink>
-      <Search placeholder="Search..." />
-      <Nav>
-        <Link to="/">Home</Link>
-        <Link to="/">The Painters</Link>
-        <Link to="/gallery">Gallery</Link>
-        <Link to="/impressionism-quiz">Quiz</Link>
-        <Link to="/">More</Link>
-      </Nav>
-    </Headroom>
+    // <Headroom calcHeightOnResize disableInlineStyles>
+    <Wrapper>
+      <Container>
+        <StyledLink to="/">
+          <img src={logo} alt="Impressionist Arts" />
+        </StyledLink>
+        <Search placeholder="Search..." />
+        <Menu
+          styles={styles}
+          pageWrapId={'childWrapper'}
+          outerContainerId={'gatsby-focus-wrapper'}
+          right
+        >
+          <NavLink className="menu-item">Home</NavLink>
+          <NavLink className="menu-item">The Painters</NavLink>
+          <NavLink className="menu-item">Gallery</NavLink>
+          <NavLink className="menu-item">Quiz</NavLink>
+          <NavLink className="menu-item">More</NavLink>
+        </Menu>
+        {/* </Headroom> */}
+      </Container>
+    </Wrapper>
   )
 }
 

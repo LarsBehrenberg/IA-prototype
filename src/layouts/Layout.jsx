@@ -23,9 +23,13 @@ const Layout = ({ children }) => (
       />
       <SEO />
       <Navbar />
-      <ChildWrapper>{children}</ChildWrapper>
+      <ChildWrapper id="childWrapper">{children}</ChildWrapper>
       <Footer />
     </>
+    <script
+      async
+      src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+    ></script>
   </ThemeProvider>
 )
 
