@@ -63,25 +63,25 @@ const Image = styled.div`
 
 const Info = styled.div`
   color: #f0f0f0;
+  span {
+    font-size: 2.6rem;
+  }
 
   @media (max-width: 1200px) {
     margin: 5rem 2rem 1rem 3.3rem;
   }
   @media (max-width: 1000px) {
-    margin: 5rem 2rem 1rem 2rem;
+    margin: 6rem 2rem 1rem 2rem;
   }
   @media (max-width: 700px) {
     margin: 3rem 1rem 1rem 1rem;
     span {
-      font-size: 2.4rem;
+      font-size: 2.3rem;
     }
   }
   @media (min-width: 1200px) {
-    width: 1180px;
-    margin: 5rem auto 1rem auto;
-  }
-  span {
-    font-size: 2.6rem;
+    width: 1150px;
+    margin: 6rem auto 1rem auto;
   }
 `
 
