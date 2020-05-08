@@ -24,8 +24,8 @@ const PostWrapper = styled.div`
     width: 1170px;
     margin: 2rem auto 1rem auto;
 
-    article:first-child:nth-last-child(2),
-    article:first-child:nth-last-child(2) ~ article {
+    article:first-of-type:nth-last-of-type(2),
+    article:first-of-type:nth-last-of-type(2) ~ article {
       flex-basis: 48%;
       max-width: 48%;
       width: 48%;
@@ -40,33 +40,33 @@ const PostWrapper = styled.div`
   }
 `
 
-const Headline = styled.h1`
-  text-align: center;
-  text-transform: uppercase;
-  color: #262a2e;
-  font-size: 28px;
-  font-weight: 600;
-  border-bottom: 1px solid #e5e5e5;
-  margin: 4rem 0rem 0rem 4rem;
-  @media (max-width: 1000px) {
-    margin: 4rem 2rem 0rem 2rem;
-  }
-  @media (max-width: 700px) {
-    margin: 4rem 1rem 0rem 1rem;
-  }
-  @media (min-width: 1200px) {
-    width: 1170px;
-    margin: 4rem auto 1rem auto;
-  }
+// const Headline = styled.h1`
+//   text-align: center;
+//   text-transform: uppercase;
+//   color: #262a2e;
+//   font-size: 28px;
+//   font-weight: 600;
+//   border-bottom: 1px solid #e5e5e5;
+//   margin: 4rem 0rem 0rem 4rem;
+//   @media (max-width: 1000px) {
+//     margin: 4rem 2rem 0rem 2rem;
+//   }
+//   @media (max-width: 700px) {
+//     margin: 4rem 1rem 0rem 1rem;
+//   }
+//   @media (min-width: 1200px) {
+//     width: 1170px;
+//     margin: 4rem auto 1rem auto;
+//   }
 
-  line-height: 0.1em;
-  width: 100%;
+//   line-height: 0.1em;
+//   width: 100%;
 
-  & span {
-    background: #fff;
-    padding: 0 30px;
-  }
-`
+//   & span {
+//     background: #fff;
+//     padding: 0 30px;
+//   }
+// `
 
 const ButtonWrapper = styled.div`
   display: flex;
@@ -139,42 +139,10 @@ const Index = ({ data }) => {
   const categories = [...tagSet]
 
   // Set state for manipulating displayed posts after searching or sorting
-  const emptyQuery = ''
   const [state, setState] = useState({
     categorizedData: edges,
     currentCategory: 'all',
-    filteredData: [],
-    query: emptyQuery,
   })
-
-  const handleInputChange = event => {
-    const query = event.target.value || ''
-    const posts = edges || []
-
-    // return all filtered posts
-    const filteredData = posts.filter(post => {
-      // destructure data from post frontmatter
-      const { title, tags } = post.node.frontmatter
-      return (
-        // standardize data with .toLowerCase()
-        // return true if the description, title or tags
-        // contains the query string
-        title.toLowerCase().includes(query.toLowerCase()) ||
-        (tags &&
-          tags
-            .join('') // convert tags from an array to string
-            .toLowerCase()
-            .includes(query.toLowerCase()))
-      )
-    })
-    // update state according to the latest query and results
-    setState({
-      query, // with current query string from the `Input` event
-      filteredData, // with filtered data from posts.filter(post => (//filteredData)) above
-      categorizedData,
-      currentCategory,
-    })
-  }
 
   const categoryPressed = category => {
     const posts = edges || []
@@ -187,18 +155,13 @@ const Index = ({ data }) => {
       categorizedData,
       currentCategory: category,
     })
-    console.log(tagSet)
   }
 
-  const { filteredData, query, categorizedData, currentCategory } = state
-  const hasSearchResults = filteredData && query !== emptyQuery
-  // if we have a search query then return filtered data instead of all posts; else return allPosts
-  const posts = hasSearchResults ? filteredData : null
+  const { categorizedData, currentCategory } = state
 
   return (
     <Layout>
       <Helmet title="Home | ImpressionistArts.com" />
-      {/* <SearchBar onChange={handleInputChange} searchResults={posts} /> */}
       <Hero></Hero>
       {/* <Headline>
         <span>Our Top Pages</span>
@@ -217,6 +180,7 @@ const Index = ({ data }) => {
             <TagButton
               onClick={() => categoryPressed(tag)}
               className={`${currentCategory === tag ? 'active' : ''}`}
+              key={tag}
             >
               {tag}
             </TagButton>
@@ -261,7 +225,6 @@ const Index = ({ data }) => {
 export default Index
 
 Index.propTypes = {
-  // eslint-disable-next-line react/forbid-prop-types
   data: PropTypes.object.isRequired,
 }
 

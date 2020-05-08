@@ -1,6 +1,6 @@
-import React from 'react'
-import { graphql, Link } from 'gatsby'
-import Headroom from 'react-headroom'
+import React, { useState } from 'react'
+import { useStaticQuery, graphql, Link } from 'gatsby'
+import { SearchResults } from 'layouts'
 import logo from '../../static/logo/logo.png'
 import styled from '@emotion/styled'
 import { stack as Menu } from 'react-burger-menu'
@@ -53,7 +53,7 @@ const Search = styled.input`
   &::placeholder {
     color: #fff;
   }
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 730px) {
     display: none;
   }
 `
@@ -116,6 +116,80 @@ const NavLink = styled(Link)`
 `
 
 const Navbar = () => {
+  const data = useStaticQuery(graphql`
+    query {
+      allMarkdownRemark(
+        filter: { fileAbsolutePath: { regex: "/posts/" } }
+        sort: { order: DESC, fields: [frontmatter___date] }
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              title
+              path
+              tags
+              cover {
+                childImageSharp {
+                  fluid(
+                    maxWidth: 200
+                    quality: 80
+                    traceSVG: { color: "#2B2B2F" }
+                  ) {
+                    ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  `)
+
+  // Store posts
+  const { edges } = data.allMarkdownRemark
+
+  // Declare emptyState
+  const emptyQuery = ''
+  const [state, setState] = useState({
+    filteredData: [],
+    query: emptyQuery,
+  })
+
+  // fired when user searches through posts
+  const handleInputChange = event => {
+    const query = event.target.value || ''
+    const posts = edges || []
+
+    // return all filtered posts
+    const filteredData = posts.filter(post => {
+      // destructure data from post frontmatter
+      const { title, tags } = post.node.frontmatter
+      return (
+        // standardize data with .toLowerCase()
+        // return true if the description, title or tags
+        // contains the query string
+        title.toLowerCase().includes(query.toLowerCase()) ||
+        (tags &&
+          tags
+            .join('') // convert tags from an array to string
+            .toLowerCase()
+            .includes(query.toLowerCase()))
+      )
+    })
+    // update state according to the latest query and results
+    setState({
+      query, // with current query string from the `Input` event
+      filteredData, // with filtered data from posts.filter(post => (//filteredData)) above
+    })
+  }
+
+  const { filteredData, query } = state
+  const hasSearchResults = filteredData && query !== emptyQuery
+  // if we have a search query then return filtered data instead of all posts; else return allPosts
+  const posts = hasSearchResults ? filteredData : null
+
   return (
     // <Headroom calcHeightOnResize disableInlineStyles>
     <Wrapper>
@@ -123,18 +197,29 @@ const Navbar = () => {
         <StyledLink to="/">
           <img src={logo} alt="Impressionist Arts" />
         </StyledLink>
-        <Search placeholder="Search..." />
+        <Search placeholder="Search..." onChange={handleInputChange} />
+        <SearchResults searchResults={posts} />
         <Menu
           styles={styles}
           pageWrapId={'childWrapper'}
           outerContainerId={'gatsby-focus-wrapper'}
           right
         >
-          <NavLink className="menu-item">Home</NavLink>
-          <NavLink className="menu-item">The Painters</NavLink>
-          <NavLink className="menu-item">Gallery</NavLink>
-          <NavLink className="menu-item">Quiz</NavLink>
-          <NavLink className="menu-item">More</NavLink>
+          <NavLink className="menu-item" to="/">
+            Home
+          </NavLink>
+          <NavLink className="menu-item" to="/">
+            The Painters
+          </NavLink>
+          <NavLink className="menu-item" to="/gallery">
+            Gallery
+          </NavLink>
+          <NavLink className="menu-item" to="/impressionism-quiz">
+            Quiz
+          </NavLink>
+          <NavLink className="menu-item" to="/">
+            More
+          </NavLink>
         </Menu>
         {/* </Headroom> */}
       </Container>
