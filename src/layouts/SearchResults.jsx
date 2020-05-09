@@ -69,7 +69,7 @@ const SearchResults = ({ searchResults }) => (
             <StyledLink to={path} key={`result-${id}`}>
               <PostTitle>{title}</PostTitle>
               <Img
-                fluid={cover.childImageSharp.fluid}
+                fixed={cover.childImageSharp.fixed}
                 style={{
                   width: '80px',
                   height: '50px',

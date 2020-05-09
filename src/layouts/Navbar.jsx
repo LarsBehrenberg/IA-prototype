@@ -131,12 +131,13 @@ const Navbar = () => {
               tags
               cover {
                 childImageSharp {
-                  fluid(
-                    maxWidth: 200
+                  fixed(
+                    width: 80
+                    height: 50
                     quality: 80
                     traceSVG: { color: "#2B2B2F" }
                   ) {
-                    ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                    ...GatsbyImageSharpFixed_withWebp_tracedSVG
                   }
                 }
               }
