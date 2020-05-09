@@ -7,6 +7,7 @@ import Img from 'gatsby-image'
 import PropTypes from 'prop-types'
 import { SEO, TextSection, Header, Suggestion, Video } from 'components'
 import { Newsletter, Layout } from 'layouts'
+import { Helmet } from 'react-helmet'
 
 let slideIndex = 1
 
@@ -149,6 +150,11 @@ const Post = ({ data, pageContext }) => {
 
   return (
     <>
+      <Helmet
+        bodyAttributes={{
+          class: 'post-page',
+        }}
+      />
       <Layout>
         <SEO
           title={title}

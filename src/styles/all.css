@@ -56,8 +56,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   color: #333;
-  background-color: #fafafa);
-  ;
+  background-color: #fafafa;
 }
 
 body>svg {
@@ -1696,3 +1695,11 @@ img.hover-shadow {
 }
 
 /* LIGHTBOX CSS END */
+
+.nav-image {
+  display: none;
+}
+
+.post-page .nav-image {
+  display: block;
+}

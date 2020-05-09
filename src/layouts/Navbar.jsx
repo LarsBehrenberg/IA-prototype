@@ -4,6 +4,7 @@ import { SearchResults } from 'layouts'
 import logo from '../../static/logo/logo.png'
 import styled from '@emotion/styled'
 import { stack as Menu } from 'react-burger-menu'
+import Img from 'gatsby-image'
 
 const Wrapper = styled.div`
   width: 100%;
@@ -11,6 +12,13 @@ const Wrapper = styled.div`
   position: fixed;
   z-index: 30;
   height: 60px;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
+`
+
+const BackgroundImage = styled.div`
+  height: 60px;
+  width: 100%;
+  position: fixed;
 `
 
 const Container = styled.div`
@@ -19,7 +27,6 @@ const Container = styled.div`
   align-items: center;
   padding: 10px 0;
   height: '100%';
-  /* background-image: url('./assets/claude-monet-nympheas.jpg'); */
   margin: 0 4rem;
 
   @media (max-width: 1000px) {
@@ -118,6 +125,13 @@ const NavLink = styled(Link)`
 const Navbar = () => {
   const data = useStaticQuery(graphql`
     query {
+      file(relativePath: { eq: "claude-monet-nympheas.jpg" }) {
+        childImageSharp {
+          fluid(maxHeight: 500, quality: 80) {
+            ...GatsbyImageSharpFluid_withWebp_tracedSVG
+          }
+        }
+      }
       allMarkdownRemark(
         filter: { fileAbsolutePath: { regex: "/posts/" } }
         sort: { order: DESC, fields: [frontmatter___date] }
@@ -193,7 +207,16 @@ const Navbar = () => {
 
   return (
     // <Headroom calcHeightOnResize disableInlineStyles>
-    <Wrapper>
+    <Wrapper id="nav-wrapper">
+      <BackgroundImage>
+        <Img
+          fluid={data.file.childImageSharp.fluid}
+          style={{
+            height: '100%',
+          }}
+          className="nav-image"
+        />
+      </BackgroundImage>
       <Container>
         <StyledLink to="/">
           <img src={logo} alt="Impressionist Arts" />
