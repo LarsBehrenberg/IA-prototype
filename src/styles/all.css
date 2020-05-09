@@ -1696,10 +1696,43 @@ img.hover-shadow {
 
 /* LIGHTBOX CSS END */
 
+
+/* Navbar background image display */
 .nav-image {
   display: none;
 }
 
 .post-page .nav-image {
   display: block;
+}
+
+/* Navbar end */
+
+
+@-webkit-keyframes fadeInHero {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInHero {
+  0% {
+    opacity: 0.1;
+  }
+
+  30% {
+    opacity: 1;
+  }
+
+  85% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0.7;
+  }
 }
