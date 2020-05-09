@@ -52,7 +52,9 @@ const Post = ({ data, pageContext }) => {
   }
 
   function closeModal() {
-    document.getElementById('myModal').style.display = 'none'
+    if (document.getElementById('myModal')) {
+      document.getElementById('myModal').style.display = 'none'
+    }
     document.getElementsByTagName('body')[0].style.overflow = 'auto'
   }
 
@@ -110,8 +112,10 @@ const Post = ({ data, pageContext }) => {
   }
 
   function plusSlides(n) {
-    slideIndex += n
-    showSlides(slideIndex)
+    if (document.getElementById('myModal')) {
+      slideIndex += n
+      showSlides(slideIndex)
+    }
   }
 
   function handleGesture() {
