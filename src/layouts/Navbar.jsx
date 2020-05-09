@@ -116,9 +116,15 @@ var styles = {
 
 const NavLink = styled(Link)`
   color: #fefefe;
-  padding: 0.8rem;
+  padding: 0;
   &:visited {
     color: #fefefe;
+  }
+  &:after {
+    content: '';
+    display: block;
+    margin: 1rem 0;
+    border-bottom: 1px solid #fefefe80;
   }
 `
 
@@ -206,7 +212,6 @@ const Navbar = () => {
   const posts = hasSearchResults ? filteredData : null
 
   return (
-    // <Headroom calcHeightOnResize disableInlineStyles>
     <Wrapper id="nav-wrapper">
       <BackgroundImage>
         <Img
@@ -232,8 +237,13 @@ const Navbar = () => {
           <NavLink className="menu-item" to="/">
             Home
           </NavLink>
+
           <NavLink className="menu-item" to="/">
             The Painters
+            <span
+              className="caret"
+              style={{ marginTop: '9px', float: 'right' }}
+            />
           </NavLink>
           <NavLink className="menu-item" to="/gallery">
             Gallery
@@ -243,9 +253,12 @@ const Navbar = () => {
           </NavLink>
           <NavLink className="menu-item" to="/">
             More
+            <span
+              className="caret"
+              style={{ marginTop: '9px', float: 'right' }}
+            />
           </NavLink>
         </Menu>
-        {/* </Headroom> */}
       </Container>
     </Wrapper>
   )
