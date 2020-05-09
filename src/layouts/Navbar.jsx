@@ -40,7 +40,7 @@ const StyledLink = styled(Link)`
 `
 
 const Search = styled.input`
-  padding: 2px 0px 2px !important;
+  padding: 8px 0px 2px !important;
   line-height: 1 !important;
   color: #ffffff;
   width: 33%;
