@@ -2,8 +2,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Img from 'gatsby-image'
-// import { adsenseId } from '../../config/site'
-// import AdSense from 'react-adsense'
+import { adsenseId } from '../../config/site'
+import AdSense from 'react-adsense'
 
 const TextSection = ({
   title,
@@ -102,15 +102,25 @@ const TextSection = ({
           </div>
         </div>
       </div>
-      {/* {index % 2 === 0 ? (
-        <AdSense.Google
-          client={adsenseId}
-          slot="7806394673"
-          style={{ display: 'block' }}
-          layout="in-article"
-          format="fluid"
-        />
-      ) : null} */}
+      {index % 2 === 0 && adsenseId !== '' ? (
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-9">
+              <div class="related-wrp">
+                <div class="adsbygoogle-wrp">
+                  <AdSense.Google
+                    client={adsenseId}
+                    slot="7806394673"
+                    style={{ display: 'block' }}
+                    layout="in-article"
+                    format="fluid"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      ) : null}
     </>
   )
 }
