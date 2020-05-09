@@ -27,6 +27,11 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
                     links
                     cover {
                       relativePath
+                      childImageSharp {
+                        resize(width: 600) {
+                          src
+                        }
+                      }
                     }
                   }
                 }

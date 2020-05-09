@@ -27,8 +27,8 @@ const Suggestion = ({ previousNeighbor, nextNeighbor }) => (
                           alt={previousNeighbor.frontmatter.title}
                           className="loaded"
                           src={
-                            'assets/' +
-                            previousNeighbor.frontmatter.cover.relativePath
+                            previousNeighbor.frontmatter.cover.childImageSharp
+                              .resize.src
                           }
                           data-was-processed="true"
                         />
@@ -71,8 +71,8 @@ const Suggestion = ({ previousNeighbor, nextNeighbor }) => (
                           alt={nextNeighbor.frontmatter.title}
                           className="loaded"
                           src={
-                            'assets/' +
-                            nextNeighbor.frontmatter.cover.relativePath
+                            nextNeighbor.frontmatter.cover.childImageSharp
+                              .resize.src
                           }
                           data-was-processed="true"
                         />

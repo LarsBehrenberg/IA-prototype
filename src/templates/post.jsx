@@ -3,6 +3,7 @@
 /* eslint-disable no-undef */
 import React from 'react'
 import { graphql } from 'gatsby'
+import Img from 'gatsby-image'
 import PropTypes from 'prop-types'
 import { SEO, TextSection, Header, Suggestion, Video } from 'components'
 import { Newsletter, Layout } from 'layouts'
@@ -182,7 +183,6 @@ const Post = ({ data, pageContext }) => {
                 />
               )
             })}
-
             <Suggestion previousNeighbor={prev} nextNeighbor={next} />
           </main>
         </div>
