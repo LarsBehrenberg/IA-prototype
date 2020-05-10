@@ -126,6 +126,65 @@ const NavLink = styled(Link)`
     margin: 1rem 0;
     border-bottom: 1px solid #fefefe80;
   }
+  &:hover {
+    color: #e53132;
+  }
+  &:focus {
+    outline: none;
+  }
+`
+const DropDownButton = styled.button`
+  color: #fefefe;
+  padding: 0;
+  border: none;
+  width: 100%;
+  font-size: 1em;
+  text-align: left;
+  background: none;
+  cursor: pointer;
+  &:visited {
+    color: #fefefe;
+  }
+  &:after {
+    content: '';
+    display: block;
+    margin: 1rem 0;
+    border-bottom: 1px solid #fefefe90;
+  }
+
+  &:hover {
+    color: #e53132;
+  }
+  &:focus {
+    outline: none;
+  }
+  &.active {
+    color: #e53132;
+  }
+`
+
+const DropdownContainer = styled.div`
+  display: none;
+  padding-left: 20px;
+  &:last-child {
+  }
+  & a {
+    font-size: 0.9em;
+    &:after {
+      content: '';
+      display: block;
+      margin: 0.5rem 0;
+      border-bottom: 1px solid #fefefe80;
+    }
+  }
+  & a:last-child {
+    &:after {
+      content: '';
+      display: block;
+      margin: 0.5rem 0 0.8rem;
+      border-bottom: none;
+    }
+  }
 `
 
 const Navbar = () => {
@@ -211,6 +270,20 @@ const Navbar = () => {
   // if we have a search query then return filtered data instead of all posts; else return allPosts
   const posts = hasSearchResults ? filteredData : null
 
+  const dropDownPressed = button => {
+    const dropdown = document.getElementsByClassName('dropdown-btn')
+
+    dropdown[button].classList.toggle('active')
+
+    const dropdownContent = dropdown[button].nextElementSibling
+
+    if (dropdownContent.style.display === 'block') {
+      dropdownContent.style.display = 'none'
+    } else {
+      dropdownContent.style.display = 'block'
+    }
+  }
+
   return (
     <Wrapper id="nav-wrapper">
       <BackgroundImage>
@@ -233,31 +306,52 @@ const Navbar = () => {
           pageWrapId={'childWrapper'}
           outerContainerId={'gatsby-focus-wrapper'}
           right
+          disableAutoFocus
         >
           <NavLink className="menu-item" to="/">
             Home
           </NavLink>
-
-          <NavLink className="menu-item" to="/">
+          <DropDownButton
+            className="dropdown-btn"
+            onClick={() => dropDownPressed(0)}
+          >
             The Painters
             <span
               className="caret"
               style={{ marginTop: '9px', float: 'right' }}
             />
-          </NavLink>
+          </DropDownButton>
+          <DropdownContainer
+            className="dropdown-container"
+            style={{ display: 'none' }}
+          >
+            <NavLink to="#">Paul Cezanne</NavLink>
+            <NavLink to="#">Edgar Degas</NavLink>
+            <NavLink to="#">Edouard Manet</NavLink>
+            <NavLink to="#">Claude Monet</NavLink>
+          </DropdownContainer>
           <NavLink className="menu-item" to="/gallery">
             Gallery
           </NavLink>
           <NavLink className="menu-item" to="/impressionism-quiz">
             Quiz
           </NavLink>
-          <NavLink className="menu-item" to="/">
+          <DropDownButton
+            className="dropdown-btn"
+            onClick={() => dropDownPressed(1)}
+          >
             More
             <span
               className="caret"
               style={{ marginTop: '9px', float: 'right' }}
             />
-          </NavLink>
+          </DropDownButton>
+          <DropdownContainer
+            className="dropdown-container"
+            style={{ display: 'none' }}
+          >
+            <NavLink to="/about-us">About us</NavLink>
+          </DropdownContainer>
         </Menu>
       </Container>
     </Wrapper>
