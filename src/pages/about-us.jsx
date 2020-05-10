@@ -17,7 +17,7 @@ const AboutUs = ({ data }) => {
     <Layout>
       <Helmet title="About Us | ImpressionistArts.com" />
       {/* <Header title={} subTitleText= intro bodyTitles images showGallery openGallery prevNeighbor nextNeighbor></Header> */}
-      <div className="container">
+      <div className="container" style={{ paddingTop: '40px' }}>
         <div className="row">
           <div className="col-sm-9">
             <section className="site-block top">
