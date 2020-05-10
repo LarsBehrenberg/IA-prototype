@@ -93,7 +93,7 @@ const Info = styled.div`
   }
   @media (min-width: 1200px) {
     width: 1150px;
-    margin: 6rem auto 1rem auto;
+    margin: 8rem auto 1rem auto;
   }
 `
 
@@ -140,44 +140,109 @@ const Hero = () => {
   //   ).style.animationPlayState = 'paused'
   // }
 
-  console.log(nodes)
   return (
-    <Carousel className="carousel">
-      <Wrapper className="carousel-slides">
-        <Image>
-          <Img fluid={data.file.childImageSharp.fluid} />
-        </Image>
-        <StyledLink to="/about-us">
-          <Info>
-            {/* <span>{date}</span> */}
-            <Title>About us</Title>
-            <span>
-              I don't like art. Not most of it. <br />
-              But I have always loved
-              <br />
-              <span style={{ color: '#e53132' }}>impressionism</span>. Always.
-            </span>
-          </Info>
-        </StyledLink>
-      </Wrapper>
-      {nodes.map((node, index) => {
-        return (
-          <Wrapper className="carousel-slides">
-            <Image>
-              <Img fluid={node.childImageSharp.fluid} />
-            </Image>
-            <StyledLink to={index === 0 ? '/impressionism-quiz' : '/gallery'}>
+    // <Carousel className="carousel">
+    //   <Wrapper className="carousel-slides">
+    //     <Image>
+    //       <Img fluid={data.file.childImageSharp.fluid} />
+    //     </Image>
+    //     <StyledLink to="/about-us">
+    //       <Info>
+    //         {/* <span>{date}</span> */}
+    //         <Title>About us</Title>
+    //         <span>
+    //           I don't like art. Not most of it. <br />
+    //           But I have always loved
+    //           <br />
+    //           <span style={{ color: '#e53132' }}>impressionism</span>. Always.
+    //         </span>
+    //       </Info>
+    //     </StyledLink>
+    //   </Wrapper>
+    //   {nodes.map((node, index) => {
+    //     return (
+    //       <Wrapper className="carousel-slides">
+    //         <Image>
+    //           <Img fluid={node.childImageSharp.fluid} />
+    //         </Image>
+    //         <StyledLink to={index === 0 ? '/impressionism-quiz' : '/gallery'}>
+    // <Info>
+    //   {/* <span>{date}</span> */}
+    //   <Title>{index === 0 ? 'Our Quiz' : ' The Gallery'}</Title>
+    //   <span>Text Here</span>
+    // </Info>
+    //         </StyledLink>
+    //       </Wrapper>
+    //     )
+    //   })}
+    //   {/* <StopButton onClick={stopAnimation}>Stop animation</StopButton> */}
+    // </Carousel>
+    <div id="slider">
+      <div id="mask">
+        <ul>
+          <li id="first" class="firstanimation">
+            <a href="#">
+              <Img
+                fluid={data.file.childImageSharp.fluid}
+                style={{ height: '100%' }}
+              />
+            </a>
+            <div class="tooltip">
               <Info>
-                {/* <span>{date}</span> */}
-                <Title>{index === 0 ? 'Our Quiz' : ' The Gallery'}</Title>
-                <span>Text Here</span>
+                <Title>About us</Title>
+                <span>
+                  I don't like art. Not most of it. <br />
+                  But I have always loved <br />
+                  <span style={{ color: '#e53132' }}>impressionism</span>.
+                  Always.
+                </span>
               </Info>
-            </StyledLink>
-          </Wrapper>
-        )
-      })}
-      {/* <StopButton onClick={stopAnimation}>Stop animation</StopButton> */}
-    </Carousel>
+            </div>
+          </li>
+
+          <li id="second" class="secondanimation">
+            <a href="#">
+              <Img
+                fluid={data.allFile.nodes[0].childImageSharp.fluid}
+                style={{ height: '100%' }}
+              />
+            </a>
+            <div class="tooltip">
+              <Info>
+                <Title>Our Quiz</Title>
+                <span>
+                  I don't like art. Not most of it. <br />
+                  But I have always loved <br />
+                  <span style={{ color: '#e53132' }}>impressionism</span>.
+                  Always.
+                </span>
+              </Info>
+            </div>
+          </li>
+
+          <li id="third" class="thirdanimation">
+            <a href="#">
+              <Img
+                fluid={data.allFile.nodes[1].childImageSharp.fluid}
+                style={{ height: '100%' }}
+              />
+            </a>
+            <div class="tooltip">
+              <Info>
+                <Title>The Gallery</Title>
+                <span>
+                  I don't like art. Not most of it. <br />
+                  But I have always loved <br />
+                  <span style={{ color: '#e53132' }}>impressionism</span>.
+                  Always.
+                </span>
+              </Info>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="progress-bar"></div>
+    </div>
   )
 }
 
