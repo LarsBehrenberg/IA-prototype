@@ -101,7 +101,7 @@ const ImageCarousel = () => {
       ) {
         nodes {
           frontmatter {
-            imageCarousel {
+            carouselImages {
               title
               text
               url
@@ -121,6 +121,7 @@ const ImageCarousel = () => {
 
   const { nodes } = data.allMarkdownRemark
 
+  console.log(nodes)
   return (
     <div>
       <Carousel
@@ -130,7 +131,7 @@ const ImageCarousel = () => {
         infinite // Loops through side indefinitely
         stopAutoPlayOnHover // Stop loop on hovering
       >
-        {nodes[0].frontmatter.imageCarousel.map(image => {
+        {nodes[0].frontmatter.carouselImages.map(image => {
           return (
             <StyledLink to={image.url} key={image.title}>
               <Info>
