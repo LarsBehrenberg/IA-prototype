@@ -180,7 +180,7 @@ collections:
             fields:
               - { label: Image, name: imageUrl, widget: image }
               - { label: 'Title & Alt', name: imageTitle, widget: string }
-  - label: 'Static Pages'
+  - label: 'Static Files'
     name: 'pages'
     files:
       - label: 'About Us'
@@ -274,13 +274,36 @@ collections:
                       widget: string,
                       required: true,
                     }
-  - name: 'maps'
-    label: 'Maps'
-    folder: '/content/maps/'
-    create: false
-    description: 'The list of custom created maps for TTDE.'
-    fields:
-      - { name: 'path', label: 'Path' }
-      - { name: 'title', label: 'Title' }
-      - { name: 'googleApi', label: 'Google API URL' }
-      - { name: 'tags', label: 'Tags', widget: 'list' }
+      - label: 'Image Carousel'
+        name: 'imageCarousel'
+        file: '/content/pages/image-carousel.md'
+        fields:
+          - label: 'Carousel Images'
+            name: 'carouselImages'
+            widget: 'list'
+            hint: 'Add the carousel images with text and url to link to'
+            allow_add: true
+            collapsed: false
+            fields:
+              - { label: Image, name: image, widget: image, required: true }
+              - { label: Title, name: title, widget: string }
+              - { label: Text, name: text, widget: text }
+              - label: 'Url'
+                name: 'url'
+                widget: 'relation'
+                collection: 'posts'
+                hint: This field searches all posts
+                searchFields: ['title', 'tags', 'path']
+                displayFields: ['title', 'tags']
+                valueField: 'path'
+                required: true
+  # - name: 'maps'
+  #   label: 'Maps'
+  #   folder: '/content/maps/'
+  #   create: false
+  #   description: 'The list of custom created maps for TTDE.'
+  #   fields:
+  #     - { name: 'path', label: 'Path' }
+  #     - { name: 'title', label: 'Title' }
+  #     - { name: 'googleApi', label: 'Google API URL' }
+  #     - { name: 'tags', label: 'Tags', widget: 'list' }

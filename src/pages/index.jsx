@@ -5,7 +5,7 @@ import { graphql } from 'gatsby'
 import { Helmet } from 'react-helmet'
 import styled from '@emotion/styled'
 import { Layout, Newsletter } from 'layouts'
-import { PostList, SearchBar, Hero } from 'components'
+import { PostList, ImageCarousel } from 'components'
 
 const PostWrapper = styled.div`
   display: flex;
@@ -170,7 +170,7 @@ const Index = ({ data }) => {
   return (
     <Layout>
       <Helmet title="Home | ImpressionistArts.com" />
-      <Hero></Hero>
+      <ImageCarousel />
       {/* <Headline>
         <span>Our Top Pages</span>
       </Headline> */}

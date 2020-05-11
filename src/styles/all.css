@@ -1708,372 +1708,76 @@ img.hover-shadow {
 
 /* Navbar end */
 
+/* CMS image carousel */
 
-@-webkit-keyframes fadeInHero {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-}
-
-@keyframes fadeInHero {
-  0% {
-    opacity: 0.1;
-  }
-
-  30% {
-    opacity: 1;
-  }
-
-  85% {
-    opacity: 1;
-  }
-
-  100% {
-    opacity: 0.7;
-  }
-}
-
-/* SLIDESHOW CSS */
-
-/* Define the total number of images to use in the slider 5
-Define the length of animation for each image 5 seconds
-Define the total duration of the animation Multiply the total number of images
-by the duration of each image: 5 images × 5 seconds = 25 seconds
-
-Calculate how many keyframes equals one second Divide the total number of keyframes by
-the total duration of the animation.
-100 keyframes / 25 seconds = 4 keyframes 4 keyframes = 1 second */
-
-.divAnimationAppliedTo {
-  animation: moveSlider 1s ease-in-out 0.5s 2 alternate;
-  -moz-animation: moveSlider 1s ease-in-out 0.5s 2 alternate;
-  -webkit-animation: moveSlider 1s ease-in-out 0.5s 2 alternate;
-}
-
-@keyframes moveSlider {
-  from {
-    transform: translateX(0);
-  }
-
-  to {
-    transform: translateX(100px);
-  }
-}
-
-@-moz-keyframes moveSlider {
-  from {
-    -moz-transform: translateX(0);
-  }
-
-  to {
-    -moz-transform: translateX(100px);
-  }
-}
-
-@-webkit-keyframes moveSlider {
-  from {
-    -webkit-transform: translateX(0);
-  }
-
-  to {
-    -webkit-transform: translateX(100px);
-  }
-}
-
-/* SLIDER STRUCTURE */
-#slider {
-  height: 450px;
+.CMSImageContainer {
   width: 100%;
-  margin: 25px auto 0;
-  overflow: visible;
-  position: relative;
-}
-
-/* HIDE ALL OUTSIDE OF THE SLIDER; Height must be equal to #slider */
-#mask {
-  overflow: hidden;
   height: 450px;
 }
 
-/* IMAGE LIST */
-#slider ul {
-  margin: 0;
-  padding: 0;
-  position: relative;
-}
+.CMSinfo {
+  color: #f0f0f0;
+  z-index: 15;
 
-#slider li {
-  width: 100%;
-  /* Width Image */
-  height: 450px;
-  /* Height Image */
   position: absolute;
-  right: -400px;
-  /* Original Position - Outside of the Slider */
-  list-style: none;
-}
-
-
-#slider li a {
+  left: 50px;
   width: 100%;
-  height: 100%;
-  z-index: 100;
-}
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 
-#slider li.firstanimation {
-  animation: cycle 15s linear infinite;
-}
-
-#slider li.secondanimation {
-  animation: cycletwo 15s linear infinite;
-}
-
-#slider li.thirdanimation {
-  animation: cyclethree 15s linear infinite;
-}
-
-/* ANIMATION */
-
-@keyframes cycle {
-  0% {
-    right: 0px;
+  @media (max-width: 1200px) {
+    margin: 0 2rem 0 4rem;
   }
 
-  /* When you start the slide, the first image is already visible */
-  4.16% {
-    right: 0px;
+  @media (max-width: 1000px) {
+    margin: 0 2rem 0 2rem;
   }
 
-  /* Original Position */
-  29.162% {
-    right: 0px;
-    opacity: 1;
-    z-index: 0;
+  @media (max-width: 700px) {
+    margin: 0 1rem 0 1rem;
+
+    span {
+      font-size: 2.3rem;
+    }
   }
 
-  /* From 4% to 16 % = for 3 seconds the image is visible */
-  33.322% {
-    right: 325px;
-    opacity: 0;
-    z-index: 0;
-  }
-
-  /* From 16% to 20% = for 1 second exit image */
-  34% {
-    right: -325px;
-    opacity: 0;
-    z-index: -1;
-  }
-
-  /* Return to Original Position */
-  91.68% {
-    right: -325px;
-    opacity: 0;
-    z-index: 0;
-  }
-
-  95.86% {
-    right: -325px;
-    opacity: 0;
-  }
-
-  /* From 96% to 100% = for 1 second enter image*/
-  100% {
-    right: 0px;
-    opacity: 1;
+  @media (min-width: 1200px) {
+    width: 1150px;
+    margin: 0 auto;
   }
 }
 
-@keyframes cycletwo {
-  0% {
-    right: -325px;
-    opacity: 0;
-  }
-
-  /* Original Position */
-  29.162% {
-    right: -325px;
-    opacity: 0;
-  }
-
-  /* Starts moving after image 1 starts fading - 7 seconds in */
-  33.328% {
-    right: 0px;
-    opacity: 1;
-  }
-
-  /* Fully there at 8 seconds */
-  37.488% {
-    right: 0px;
-    opacity: 1;
-  }
-
-  /* From 20% to 24% = for 1 second enter image*/
-  62.484% {
-    right: 0px;
-    opacity: 1;
-    z-index: 0;
-  }
-
-  /* From 24% to 36 % = for 3 seconds the image is visible */
-  66.644% {
-    right: 325px;
-    opacity: 0;
-    z-index: 0;
-  }
-
-  /* From 36% to 40% = for 1 second exit image */
-  67% {
-    right: -325px;
-    opacity: 0;
-    z-index: -1;
-  }
-
-  /* Return to Original Position */
-  100% {
-    right: -325px;
-    opacity: 0;
-    z-index: -1;
-  }
+.CMSinfo span {
+  font-size: 2.6rem;
+  max-width: 500px;
 }
 
-@keyframes cyclethree {
-  0% {
-    right: -325px;
-    opacity: 0;
-  }
-
-  62.484% {
-    right: -325px;
-    opacity: 0;
-  }
-
-  66.644% {
-    right: 0px;
-    opacity: 1;
-  }
-
-  70.8% {
-    right: 0px;
-    opacity: 1;
-  }
-
-  95.76% {
-    right: 0px;
-    opacity: 1;
-  }
-
-  98% {
-    right: 325px;
-    opacity: 0;
-    z-index: 0;
-  }
-
-  99% {
-    right: -325px;
-    opacity: 0;
-    z-index: -1;
-  }
-
-  100% {
-    right: -325px;
-    opacity: 0;
-    z-index: -1;
-  }
+.CMStitle {
+  margin-bottom: 0.6rem;
+  color: #f3f3f380;
+  font-weight: 400;
 }
 
-/* PROGRESS BAR */
-
-.progress-bar {
-  position: relative;
-  width: 680px;
-  height: 5px;
-  background: #000;
-  animation: fullexpand 25s ease-out infinite;
+.CMScarouselImage {
+  width: 100%;
+  height: 450px;
+  overflow: hidden;
+  object-fit: cover;
 }
 
-/* ANIMATION BAR */
-
-@keyframes fullexpand {
-
-  /* In these keyframes, the progress-bar is stationary */
-  0%,
-  20%,
-  40%,
-  60%,
-  80%,
-  100% {
-    width: 0%;
-    opacity: 0;
-  }
-
-  /* In these keyframes, the progress-bar starts to come alive */
-  4%,
-  24%,
-  44%,
-  64%,
-  84% {
-    width: 0%;
-    opacity: 0.3;
-  }
-
-  /* In these keyframes, the progress-bar moves forward for 3 seconds */
-  16%,
-  36%,
-  56%,
-  76%,
-  96% {
-    width: 100%;
-    opacity: 0.7;
-  }
-
-  /* In these keyframes, the progress-bar has finished his path */
-  17%,
-  37%,
-  57%,
-  77%,
-  97% {
-    width: 100%;
-    opacity: 0.3;
-  }
-
-  /* In these keyframes, the progress-bar will disappear and then resume the cycle */
-  18%,
-  38%,
-  58%,
-  78%,
-  98% {
-    width: 100%;
-    opacity: 0;
-  }
-}
-
-#slider .tooltip {
+.CMSoverlayBackground {
+  position: absolute;
+  width: 100%;
+  height: 450px;
+  left: 0;
+  right: 0;
   background: linear-gradient(to left,
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0.3) 50%,
       rgba(0, 0, 0, 0.7) 80%,
       rgba(0, 0, 0, 0.8) 100%);
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-  transition: all 0.3s ease-in-out;
 }
 
-#slider .tooltip h1 {
-  color: #fff;
-  font-size: 24px;
-  font-weight: 300;
-  padding: 0 0 0 10px;
-}
-
-#slider:hover li,
-#slider:hover .progress-bar {
-  animation-play-state: paused;
-}
+/* CMS Image Carousel End */

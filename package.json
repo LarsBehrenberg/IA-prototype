@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Lars Behrenberg <l.behrenberg@gmail.com>",
   "dependencies": {
+    "@brainhubeu/react-carousel": "^1.13.46",
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
     "emotion-theming": "^10.0.27",
