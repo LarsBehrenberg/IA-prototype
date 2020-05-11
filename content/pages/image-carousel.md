@@ -14,9 +14,4 @@ carouselImages:
     text: One of the principle Neo-Impressionists, developing a new form of
       expression...
     url: paul-signac-biography
-  - image: /assets/paul-signac-in-the-time-of-harmony.jpg
-    title: Paul Signac
-    text: One of the principle Neo-Impressionists, developing a new form of
-      expression...
-    url: paul-signac-biography
 ---
