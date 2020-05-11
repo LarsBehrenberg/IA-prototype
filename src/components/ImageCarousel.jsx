@@ -58,6 +58,13 @@ const Info = styled.div`
   span {
     font-size: 2.6rem;
     max-width: 500px;
+
+    @media (max-width: 500px) {
+      max-width: 350px;
+    }
+    @media (max-width: 350px) {
+      max-width: 300px;
+    }
   }
 
   @media (max-width: 1200px) {
