@@ -128,7 +128,6 @@ const ImageCarousel = () => {
 
   const { nodes } = data.allMarkdownRemark
 
-  console.log(nodes)
   return (
     <div>
       <Carousel
