@@ -199,14 +199,12 @@ const Navbar = () => {
       }
       markdownRemark(fileAbsolutePath: { regex: "/pages/menu-links.md/" }) {
         frontmatter {
-          menuLinks {
-            links {
+          menuLinkList {
+            label
+            path
+            dropdown {
               label
               path
-              dropdown {
-                label
-                path
-              }
             }
           }
         }
@@ -243,9 +241,8 @@ const Navbar = () => {
 
   // Store posts
   const { edges } = data.allMarkdownRemark
-  const { links } = data.markdownRemark.frontmatter.menuLinks
+  const { menuLinkList } = data.markdownRemark.frontmatter
 
-  console.log(links)
   // Declare emptyState
   const emptyQuery = ''
   const [state, setState] = useState({
@@ -324,8 +321,8 @@ const Navbar = () => {
           right
           disableAutoFocus
         >
-          {links.map(item => {
-            if (item.dropdown === null) {
+          {menuLinkList.map(item => {
+            if (item.dropdown === null || item.dropdown.length === 0) {
               return (
                 <NavLink className="menu-item" to={item.path}>
                   {item.label}
