@@ -1416,10 +1416,12 @@ p>a {
   justify-content: center;
   align-items: center;
   margin: 0 auto;
+  padding: 23rem 0;
 }
 
 .container2>* {
   width: 100%;
+  padding: 0 1rem;
 }
 
 .flex-column {
