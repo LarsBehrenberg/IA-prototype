@@ -11,6 +11,8 @@ menuLinkList:
         path: /paul-cezanne-biography
       - path: /van-gogh-biography
         label: Van Gogh
+      - label: Paul Signac
+        path: /paul-signac-biography
     path: /
   - label: Gallery
     path: /gallery
