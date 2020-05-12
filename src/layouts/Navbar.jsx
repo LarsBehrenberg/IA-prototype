@@ -197,6 +197,20 @@ const Navbar = () => {
           }
         }
       }
+      markdownRemark(fileAbsolutePath: { regex: "/pages/menu-links.md/" }) {
+        frontmatter {
+          menuLinks {
+            links {
+              label
+              path
+              dropdown {
+                label
+                path
+              }
+            }
+          }
+        }
+      }
       allMarkdownRemark(
         filter: { fileAbsolutePath: { regex: "/posts/" } }
         sort: { order: DESC, fields: [frontmatter___date] }
@@ -229,7 +243,9 @@ const Navbar = () => {
 
   // Store posts
   const { edges } = data.allMarkdownRemark
+  const { links } = data.markdownRemark.frontmatter.menuLinks
 
+  console.log(links)
   // Declare emptyState
   const emptyQuery = ''
   const [state, setState] = useState({
@@ -283,7 +299,7 @@ const Navbar = () => {
       dropdownContent.style.display = 'block'
     }
   }
-
+  let buttonCounter = 0
   return (
     <Wrapper id="nav-wrapper">
       <BackgroundImage>
@@ -308,50 +324,42 @@ const Navbar = () => {
           right
           disableAutoFocus
         >
-          <NavLink className="menu-item" to="/">
-            Home
-          </NavLink>
-          <DropDownButton
-            className="dropdown-btn"
-            onClick={() => dropDownPressed(0)}
-          >
-            The Painters
-            <span
-              className="caret"
-              style={{ marginTop: '9px', float: 'right' }}
-            />
-          </DropDownButton>
-          <DropdownContainer
-            className="dropdown-container"
-            style={{ display: 'none' }}
-          >
-            <NavLink to="#">Paul Cezanne</NavLink>
-            <NavLink to="#">Edgar Degas</NavLink>
-            <NavLink to="#">Edouard Manet</NavLink>
-            <NavLink to="#">Claude Monet</NavLink>
-          </DropdownContainer>
-          <NavLink className="menu-item" to="/gallery">
-            Gallery
-          </NavLink>
-          <NavLink className="menu-item" to="/impressionism-quiz">
-            Quiz
-          </NavLink>
-          <DropDownButton
-            className="dropdown-btn"
-            onClick={() => dropDownPressed(1)}
-          >
-            More
-            <span
-              className="caret"
-              style={{ marginTop: '9px', float: 'right' }}
-            />
-          </DropDownButton>
-          <DropdownContainer
-            className="dropdown-container"
-            style={{ display: 'none' }}
-          >
-            <NavLink to="/about-us">About us</NavLink>
-          </DropdownContainer>
+          {links.map(item => {
+            if (item.dropdown === null) {
+              return (
+                <NavLink className="menu-item" to={item.path}>
+                  {item.label}
+                </NavLink>
+              )
+            }
+            buttonCounter += 1
+            console.log(buttonCounter)
+            const currentButton = buttonCounter - 1
+            return (
+              <div>
+                <DropDownButton
+                  className="dropdown-btn"
+                  onClick={() => dropDownPressed(currentButton)}
+                >
+                  {item.label}
+                  <span
+                    className="caret"
+                    style={{ marginTop: '9px', float: 'right' }}
+                  />
+                </DropDownButton>
+                <DropdownContainer
+                  className="dropdown-container"
+                  style={{ display: 'none' }}
+                >
+                  {item.dropdown.map(dropdownItem => (
+                    <NavLink to={dropdownItem.path}>
+                      {dropdownItem.label}
+                    </NavLink>
+                  ))}
+                </DropdownContainer>
+              </div>
+            )
+          })}
         </Menu>
       </Container>
     </Wrapper>

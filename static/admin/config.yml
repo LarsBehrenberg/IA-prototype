@@ -12,6 +12,7 @@ media_folder: /static/assets/
 public_folder: /assets/
 
 publish_mode: editorial_workflow
+show_preview_links: false
 
 collections:
   - name: 'posts'
@@ -297,6 +298,22 @@ collections:
                 displayFields: ['title', 'tags']
                 valueField: 'path'
                 required: true
+      - label: 'Menu Links'
+        name: 'menuLinks'
+        file: '/content/pages/menu-links.md'
+        fields:
+          - label: Links
+            name: links
+            widget: list
+            fields:
+              - { label: Label, name: label, widget: string }
+              - { label: Path, name: path, widget: string }
+              - label: Dropdown List
+                name: dropdown
+                widget: list
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - { label: Path, name: path, widget: string }
   # - name: 'maps'
   #   label: 'Maps'
   #   folder: '/content/maps/'
