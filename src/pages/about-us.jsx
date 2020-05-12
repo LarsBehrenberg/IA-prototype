@@ -214,7 +214,7 @@ export default AboutUs
 
 export const query = graphql`
   query {
-    markdownRemark(fileAbsolutePath: { regex: "/pages/" }) {
+    markdownRemark(fileAbsolutePath: { regex: "/pages/about-us.md/" }) {
       html
       frontmatter {
         title
