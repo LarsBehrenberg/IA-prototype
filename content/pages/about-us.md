@@ -15,10 +15,9 @@ upperGalleryImages:
     rightImageUrl: /assets/berthe-morisot-jeune-fille-au-manteau.jpg
     rightImageTitle: extra alt tag here
 ---
+# I don't like art. Not most of it.
 
-## I don't like art. Not most of it.
-
-**_But I have always loved impressionism. Always. This isn't something that has developed as I approach my 40th birthday. I remember having posters of impressionist paintings on my childhood bedroom wall (Monet's Bordighera) and in my university dorm (more Monet, this time Impression Sunrise)._**
+## **But I have always loved impressionism. Always. This isn't something that has developed as I approach my 40th birthday. I remember having posters of impressionist paintings on my childhood bedroom wall (Monet's Bordighera) and in my university dorm (more Monet, this time Impression Sunrise).**
 
 Sad, I know.
 
@@ -32,7 +31,7 @@ They were ridiculed for the best part of the 1860s and 1870s, but they kept goin
 
 And so I've slowly put this website together ...
 
-Reading (Sue Roe's The Private Lives of the Impressionists is a good place to start), writing, reading some more, updating, learning some CSS and HTML, buying an impressionist reproduction from Hong Kong (for \$540, but it is 2 metres wide!), learning some javascript (I'm very proud of my quiz page!), checking my google rankings, reading (I've been throgh Rewald's The History of Impressionism, which should impress you--it is no page-turner!), and so on and so forth.
+Reading (Sue Roe's The Private Lives of the Impressionists is a good place to start), writing, reading some more, updating, learning some CSS and HTML, buying an impressionist reproduction from Hong Kong (for $540, but it is 2 metres wide!), learning some javascript (I'm very proud of my quiz page!), checking my google rankings, reading (I've been throgh Rewald's The History of Impressionism, which should impress you--it is no page-turner!), and so on and so forth.
 
 I hope you like the site.
 
