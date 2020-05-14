@@ -3,6 +3,7 @@ import { Layout } from 'layouts'
 import { Helmet } from 'react-helmet'
 import styled from '@emotion/styled'
 import Img from 'gatsby-image'
+import { graphql } from 'gatsby'
 
 const Container = styled.div`
   margin: 0 auto;
@@ -27,23 +28,16 @@ const ImageWrapper = styled.div`
 const FormWrapper = styled.div`
   max-width: 800px;
   margin: 0 auto;
+  padding: 3.5rem 1rem 2rem;
 
   @media (min-width: 900px) {
     width: 50%;
     padding: 3.5rem 4rem 2rem;
   }
-  padding: 3.5rem 1rem 2rem;
 `
 const IntroTextWrapper = styled.div`
   margin: 0 1%;
   max-width: 600px;
-  h2 {
-    font-weight: normal;
-
-    a {
-      color: gray;
-    }
-  }
 
   @media (max-width: 400px) {
     word-break: break-word;
@@ -117,7 +111,7 @@ const SubmitButton = styled.button`
   margin: 0 1% 1rem;
   border-radius: 60px;
   display: block;
-  background-color: #4b8cfb;
+  background-color: #e53132;
   color: white;
   font-size: 18px;
   cursor: pointer;
@@ -137,16 +131,24 @@ const SubmitButton = styled.button`
   }
 `
 
-const ContactUs = () => (
+const ContactUs = ({ data }) => (
   <Layout>
     <Helmet title="Contact Us | ImpressionistArts.com " />
     <Container>
       <ImageWrapper>
-        <img src="assets/berthe-morisot-grain-field.jpg" />
+        <Img
+          fluid={
+            data.markdownRemark.frontmatter.backgroundImage.childImageSharp
+              .fluid
+          }
+          style={{ objectFit: 'cover', height: '100%' }}
+        />
       </ImageWrapper>
       <FormWrapper>
-        <IntroTextWrapper>
-          <h1>Want To Get In Touch?</h1>
+        <IntroTextWrapper
+          dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
+        >
+          {/* <h1>Want To Get In Touch?</h1>
           <h2>
             Feel free to contact us using our contact form below or message us
             directly at{' '}
@@ -154,7 +156,7 @@ const ContactUs = () => (
               info@impressionistarts.com
             </a>
             .
-          </h2>
+          </h2> */}
         </IntroTextWrapper>
         <form method="post" netlify-honeypot="bot-field" data-netlify="true">
           <input type="hidden" name="bot-field" />
@@ -178,3 +180,20 @@ const ContactUs = () => (
 )
 
 export default ContactUs
+
+export const query = graphql`
+  query {
+    markdownRemark(fileAbsolutePath: { regex: "/pages/contact-us.md/" }) {
+      html
+      frontmatter {
+        backgroundImage {
+          childImageSharp {
+            fluid(maxWidth: 750, quality: 90, traceSVG: { color: "#2B2B2F" }) {
+              ...GatsbyImageSharpFluid_withWebp_tracedSVG
+            }
+          }
+        }
+      }
+    }
+  }
+`

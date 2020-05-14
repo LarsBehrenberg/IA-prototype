@@ -184,7 +184,7 @@ collections:
   - label: 'Static Files'
     name: 'pages'
     files:
-      - label: 'About Us Content'
+      - label: 'About page content'
         name: 'aboutUs'
         file: '/content/pages/about-us.md'
         fields:
@@ -275,7 +275,29 @@ collections:
                       widget: string,
                       required: true,
                     }
-      - label: 'Image Carousel'
+      - label: 'Contact page content'
+        name: 'contactUs'
+        file: '/content/pages/contact-us.md'
+        fields:
+          - label: Background Image
+            name: 'backgroundImage'
+            widget: image
+            hint: Image shows when resizing the preview container to >900px
+            required: true
+          - label: 'Body text'
+            name: 'text'
+            widget: markdown
+            required: true
+            default: 'Feel free to contact us using our contact form below or message us directly at info@impressionistarts.com.'
+      - label: 'Legal page content'
+        name: 'legal'
+        file: '/content/pages/legal.md'
+        fields:
+          - label: 'Body text'
+            name: 'text'
+            widget: markdown
+            required: true
+      - label: 'Image carousel'
         name: 'imageCarousel'
         file: '/content/pages/image-carousel.md'
         fields:
