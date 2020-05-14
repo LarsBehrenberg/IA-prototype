@@ -183,6 +183,7 @@ collections:
               - { label: 'Title & Alt', name: imageTitle, widget: string }
   - label: 'Static Files'
     name: 'pages'
+    description: 'The list of static files, pages & menus can be edited here.'
     files:
       - label: 'About page content'
         name: 'aboutUs'
