@@ -31,6 +31,18 @@ textSections:
       explain below.
 
 
+      #### May 2020
+
+
+      The Foundation Monet has launched an [online tour](https://fondation-monet.com/visite-virtuelle/) of Monet's House in Giverny.  Explore Monet's bedroom, his yellow kitchen adorned with Japanese art, and his blue-tiled kitchen.  
+
+
+      The house is also home to about 40 of Monet's works (including from the Rouen Cathedral, Haystacks, Westminster Bridge, Houses of Parliament and Venice series) as well as works by other artists (Cezanne in particular).  
+
+
+      Unfortunately, there is no virtual tour of the gardens (though you can check out some videos on The Foundation Monet's [vimeo channel](https://vimeo.com/fondationmonetgiverny)).  
+
+
       The Courtauld Institute is hosting a series of virtual mini-art festivals to help you get through lockdown.  [May 2020](https://www.eventbrite.co.uk/e/open-courtauld-hour-art-in-isolation-tickets-103139410754) sees evenings devoted to Women Artists, the Future of Art History and Art and Wellbeing.
 
 
@@ -43,13 +55,7 @@ textSections:
       In February 2020, the Boston Museum of Fine Arts marked its 150th anniversary.  It selected 15 key works for the occasion, including one of Monet's Haystacks (or Grainstacks).
 
 
-      <div class="interesting">
-
-      <h4><img src="logo/palette.png"> Interesting fact...</h4>
-
-      <p>On occasion Manet and Couture quarrelled. Once, Manet stormed out of Couture’s studio in protest about a critical remark and refused to return for a month! </p>
-
-      </div>
+      #### April 2020
 ---
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.
 
