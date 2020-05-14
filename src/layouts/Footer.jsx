@@ -50,7 +50,7 @@ const Footer = () => (
     <div className="container footer-link-container">
       <div className="col-sm-3">
         <Link
-          to="about-us"
+          to="/about-us"
           style={{
             lineHeight: '30px',
             color: 'white',
@@ -61,7 +61,7 @@ const Footer = () => (
       </div>
       <div className="col-sm-3">
         <Link
-          to="contact-us"
+          to="/contact-us"
           style={{
             lineHeight: '30px',
             color: 'white',
@@ -72,7 +72,7 @@ const Footer = () => (
       </div>
       <div className="col-sm-3">
         <Link
-          to="about-us"
+          to="/legal"
           style={{
             lineHeight: '30px',
             color: 'white',
@@ -83,7 +83,7 @@ const Footer = () => (
       </div>
       <div className="col-sm-3">
         <Link
-          to="about-us"
+          to="/"
           style={{
             lineHeight: '30px',
             color: 'white',
