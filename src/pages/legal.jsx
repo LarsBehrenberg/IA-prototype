@@ -3,6 +3,8 @@ import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
 import { Layout } from 'layouts'
 import styled from '@emotion/styled'
+import remark from 'remark'
+import remarkHTML from 'remark-html'
 
 const Container = styled.div`
   margin: 5rem 4rem 3rem;
@@ -19,19 +21,28 @@ const Container = styled.div`
   }
 `
 
-const Legal = ({ data }) => (
-  <Layout>
-    <Helmet title="Legal | ImpressionistArts.com" />
-    <Container dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
-  </Layout>
-)
+const Legal = ({ data }) => {
+  const toHTML = value => remark().use(remarkHTML).processSync(value).toString()
+  return (
+    <Layout>
+      <Helmet title="Legal | ImpressionistArts.com" />
+      <Container
+        dangerouslySetInnerHTML={{
+          __html: toHTML(data.markdownRemark.frontmatter.text),
+        }}
+      />
+    </Layout>
+  )
+}
 
 export default Legal
 
 export const query = graphql`
   query {
     markdownRemark(fileAbsolutePath: { regex: "/pages/legal.md/" }) {
-      html
+      frontmatter {
+        text
+      }
     }
   }
 `

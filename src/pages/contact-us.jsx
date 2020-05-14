@@ -4,6 +4,8 @@ import { Helmet } from 'react-helmet'
 import styled from '@emotion/styled'
 import Img from 'gatsby-image'
 import { graphql } from 'gatsby'
+import remark from 'remark'
+import remarkHTML from 'remark-html'
 
 const Container = styled.div`
   margin: 0 auto;
@@ -131,24 +133,28 @@ const SubmitButton = styled.button`
   }
 `
 
-const ContactUs = ({ data }) => (
-  <Layout>
-    <Helmet title="Contact Us | ImpressionistArts.com " />
-    <Container>
-      <ImageWrapper>
-        <Img
-          fluid={
-            data.markdownRemark.frontmatter.backgroundImage.childImageSharp
-              .fluid
-          }
-          style={{ objectFit: 'cover', height: '100%' }}
-        />
-      </ImageWrapper>
-      <FormWrapper>
-        <IntroTextWrapper
-          dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
-        >
-          {/* <h1>Want To Get In Touch?</h1>
+const ContactUs = ({ data }) => {
+  const toHTML = value => remark().use(remarkHTML).processSync(value).toString()
+  return (
+    <Layout>
+      <Helmet title="Contact Us | ImpressionistArts.com " />
+      <Container>
+        <ImageWrapper>
+          <Img
+            fluid={
+              data.markdownRemark.frontmatter.backgroundImage.childImageSharp
+                .fluid
+            }
+            style={{ objectFit: 'cover', height: '100%' }}
+          />
+        </ImageWrapper>
+        <FormWrapper>
+          <IntroTextWrapper
+            dangerouslySetInnerHTML={{
+              __html: toHTML(data.markdownRemark.frontmatter.text),
+            }}
+          >
+            {/* <h1>Want To Get In Touch?</h1>
           <h2>
             Feel free to contact us using our contact form below or message us
             directly at{' '}
@@ -157,27 +163,28 @@ const ContactUs = ({ data }) => (
             </a>
             .
           </h2> */}
-        </IntroTextWrapper>
-        <form method="post" netlify-honeypot="bot-field" data-netlify="true">
-          <input type="hidden" name="bot-field" />
-          <InputWrapper>
-            <input type="text" name="name" required />
-            <label>Name</label>
-          </InputWrapper>
-          <InputWrapper>
-            <input type="text" name="name" required />
-            <label>Email</label>
-          </InputWrapper>
-          <InputWrapper style={{ width: '98%', marginTop: '0' }}>
-            <textarea type="text" name="message" required />
-            <label>Message</label>
-          </InputWrapper>
-          <SubmitButton type="submit">Send Message</SubmitButton>
-        </form>
-      </FormWrapper>
-    </Container>
-  </Layout>
-)
+          </IntroTextWrapper>
+          <form method="post" netlify-honeypot="bot-field" data-netlify="true">
+            <input type="hidden" name="bot-field" />
+            <InputWrapper>
+              <input type="text" name="name" required />
+              <label>Name</label>
+            </InputWrapper>
+            <InputWrapper>
+              <input type="text" name="name" required />
+              <label>Email</label>
+            </InputWrapper>
+            <InputWrapper style={{ width: '98%', marginTop: '0' }}>
+              <textarea type="text" name="message" required />
+              <label>Message</label>
+            </InputWrapper>
+            <SubmitButton type="submit">Send Message</SubmitButton>
+          </form>
+        </FormWrapper>
+      </Container>
+    </Layout>
+  )
+}
 
 export default ContactUs
 
@@ -186,6 +193,7 @@ export const query = graphql`
     markdownRemark(fileAbsolutePath: { regex: "/pages/contact-us.md/" }) {
       html
       frontmatter {
+        text
         backgroundImage {
           childImageSharp {
             fluid(maxWidth: 750, quality: 90, traceSVG: { color: "#2B2B2F" }) {
