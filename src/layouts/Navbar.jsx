@@ -330,7 +330,6 @@ const Navbar = () => {
               )
             }
             buttonCounter += 1
-            console.log(buttonCounter)
             const currentButton = buttonCounter - 1
             return (
               <div>
