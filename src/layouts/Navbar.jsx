@@ -324,7 +324,7 @@ const Navbar = () => {
           {menuLinkList.map(item => {
             if (item.dropdown === null || item.dropdown.length === 0) {
               return (
-                <NavLink className="menu-item" to={item.path}>
+                <NavLink className="menu-item" to={item.path} key={item.label}>
                   {item.label}
                 </NavLink>
               )
@@ -332,7 +332,7 @@ const Navbar = () => {
             buttonCounter += 1
             const currentButton = buttonCounter - 1
             return (
-              <div>
+              <div key={item.label}>
                 <DropDownButton
                   className="dropdown-btn"
                   onClick={() => dropDownPressed(currentButton)}
@@ -348,7 +348,7 @@ const Navbar = () => {
                   style={{ display: 'none' }}
                 >
                   {item.dropdown.map(dropdownItem => (
-                    <NavLink to={dropdownItem.path}>
+                    <NavLink to={dropdownItem.path} key={dropdownItem.label}>
                       {dropdownItem.label}
                     </NavLink>
                   ))}
