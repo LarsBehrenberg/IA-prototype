@@ -1,8 +1,9 @@
 ---
+id: post-eDpyJwzAF
 path: first-impressionist-exhibition
 date: 2020-04-15T04:32:37.229Z
-title: First Impressionist Exhibition
 subTitle: THE 1874
+title: First Impressionist Exhibition
 tags:
   - Exhibitions
 cover: /assets/postcard-of-paris-boulevard-des-capucines.jpg
@@ -66,8 +67,11 @@ textSections:
       But Monet would not be persuaded. Both he and Degas (who needed money because his family business had recently failed) both saw the exhibition as an opportunity to show their works to a wider audience and to drum-up some lucrative sales.
     sideGalleryImages:
       - imageUrl: /assets/manet-a-good-glass-of-beer-1873.jpg
+        imageTitle: First Impressionist Exhibition
       - imageUrl: /assets/cezanne-portrait-of-anthony-valabregue-1866.jpg
+        imageTitle: First Impressionist Exhibition
       - imageUrl: /assets/monet-olympia-1863.jpg
+        imageTitle: First Impressionist Exhibition
   - textTitle: Organisation
     text: >-
       ### The main organisers of the first exhibition were Monet, Pissarro,
@@ -142,8 +146,11 @@ textSections:
       The exhibition ran from 15 April 1874 (two weeks before the start of the Salon) until 15 May 1874.
     sideGalleryImages:
       - imageUrl: /assets/nadar-atelier-in-1860.jpg
+        imageTitle: First Impressionist Exhibition
       - imageUrl: /assets/cham-caricature-in-1874.jpg
+        imageTitle: First Impressionist Exhibition
       - imageUrl: /assets/catalog-cover-impressionist-exhibition-1874.jpg
+        imageTitle: First Impressionist Exhibition
   - textTitle: Paintings on display
     text: >-
       ### The most famous painting to be displayed was Claude Monet’s Impression
@@ -168,8 +175,11 @@ textSections:
       Sales were not good. Sisley was the most successful of the group, earning 1000 francs. Monet and Renoir made just under 200 francs each; Pissarro earned 130 francs; and Degas and Berthe Morisot sold nothing whatsoever.
     sideGalleryImages:
       - imageUrl: /assets/pissarro-chestnut-trees-at-osny-1873.jpg
+        imageTitle: First Impressionist Exhibition
       - imageUrl: /assets/renoir-the-dancer-1874.jpg
+        imageTitle: First Impressionist Exhibition
       - imageUrl: /assets/cezanne-the-hanged-man-s-house-in-auvers-1873.jpg
+        imageTitle: First Impressionist Exhibition
   - textTitle: What happened next?
     text: >-
       ### Though the exhibition was a bust commercially, Monet managed to sell
@@ -189,8 +199,9 @@ textSections:
       In December 1874, Renoir chaired a meeting of the company’s shareholders. It had liabilities of 3,713 francs and cash in hand of a mere 278 francs. Each exhibitor owed 184 francs 50 centimes. The group made the unanimous decision to liquidate the company.
     sideGalleryImages:
       - imageUrl: /assets/manet-railway.jpg
+        imageTitle: First Impressionist Exhibition
       - imageUrl: /assets/manet-boating.jpg
-      - imageUrl: /assets/manet-luncheon-on-the-grass.jpg
+        imageTitle: First Impressionist Exhibition
 ---
 
 ### The First Impressionist Exhibition took place in April-May 1874 in a gallery on Rue du Capucines in Paris.
