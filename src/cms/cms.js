@@ -1,4 +1,5 @@
 import CMS from 'netlify-cms-app'
+import { Widget as IdWidget } from '@ncwidgets/id'
 
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import AboutUsPreview from './preview-templates/AboutUsPreview'
@@ -13,3 +14,6 @@ CMS.registerPreviewTemplate('contactUs', ContactUsPreview)
 CMS.registerPreviewTemplate('imageCarousel', ImageCarouselPreview)
 CMS.registerPreviewTemplate('legal', LegalPreview)
 CMS.registerPreviewTemplate('footerLinks', FooterPreview)
+
+CMS.registerWidget(IdWidget)
+CMS.init()

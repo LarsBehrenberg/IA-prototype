@@ -22,6 +22,14 @@ collections:
     description: 'The list of biographies, events and etc. that are uploaded onto the website.'
     fields:
       - {
+          label: ID,
+          name: id,
+          widget: ncw-id,
+          prefix: post, # will generate post-124hfkjas
+          timestamp: false, # will generate 1245119112-post-124hfkjas
+          hint: This widget generates a unique read-only id to filter posts for sidebar links without issues,
+        }
+      - {
           name: 'path',
           label: 'Slug',
           hint: 'This slug has to be unique. Example: paul-signac-biography',
