@@ -1,4 +1,5 @@
 ---
+id: post-cNFydDO8b
 path: paul-cezanne-biography
 date: 2020-05-07T00:00:13.738Z
 subTitle: Biography of
