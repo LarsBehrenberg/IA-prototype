@@ -1,4 +1,5 @@
 ---
+id: post-JcdFACMUe
 path: impressionism-news
 date: 2020-05-05T06:45:19.751Z
 subTitle: "2020"
