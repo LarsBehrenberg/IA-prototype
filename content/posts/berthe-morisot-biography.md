@@ -1,4 +1,5 @@
 ---
+id: post-Uj7WapQkL
 path: berthe-morisot-biography
 date: 2020-04-12T04:32:37.229Z
 subTitle: Biography of
@@ -79,11 +80,16 @@ textSections:
       However, to say that she was merely a painter of domestic subjects is to reduce her work to a stereotype; she has a number of paintings that show the energy and movement of the public sphere as well, including vibrant boatyards, harbours and the banks of the River Seine.
     sideGalleryImages:
       - imageUrl: /assets/berthe-morisot-mother-and-sister.jpg
+        imageTitle: Berthe Morisot's
       - imageUrl: /assets/berthe-morisot-the-artists-daughter-julie-with-her-nanny.jpg
+        imageTitle: Berthe Morisot's
       - imageUrl: /assets/berthe-morisot-the-sisters.jpg
+        imageTitle: Berthe Morisot's
   - textTitle: The Impressionist exhibitions
     text: >-
-      The Impressionist exhibitions were first conceived as a reaction to the [Paris Salon](https://en.wikipedia.org/wiki/Salon_(Paris)) and its restrictive judging process for artworks.
+      The Impressionist exhibitions were first conceived as a reaction to the
+      [Paris Salon](https://en.wikipedia.org/wiki/Salon_(Paris)) and its
+      restrictive judging process for artworks.
 
 
       Though many of the Impressionists had their paintings rejected from the [Salon](https://en.wikipedia.org/wiki/Salon_(Paris)) time and time again, this was something that Morisot never struggled with. From the age of just 23, two of her landscape paintings were chosen for the 1864 Salon and critics praised her style and ability. This was an outstanding achievement for a young woman at this time.
@@ -152,8 +158,11 @@ textSections:
       > “This woman’s work is exceptional. Too bad she’s not a man.”
     sideGalleryImages:
       - imageUrl: /assets/berthe-morisot-jeune-fille-au-manteau.jpg
+        imageTitle: Berthe Morisot's
       - imageUrl: /assets/berthe-morisot-la-coiffure.jpg
+        imageTitle: Berthe Morisot's
       - imageUrl: /assets/berthe-morisot-the-dining-room.jpg
+        imageTitle: Berthe Morisot's
   - textTitle: Garden paintings
     text: >-
       Morisot’s wealthy upbringing meant that she was not as reliant on making
@@ -200,8 +209,11 @@ textSections:
       In all her works, there is a freedom to her painting style. Much of her brushwork is loose and unkept, making it extremely dynamic. It almost vibrates before the viewer’s eyes as in a painting of her husband and daughter - [‘Eugene Manet and His Daughter in the Garden’](https://www.wikiart.org/en/berthe-morisot/eugene-manet-with-his-daughter-at-bougival) - from 1883.
     sideGalleryImages:
       - imageUrl: /assets/berthe-morisot-grain-field.jpg
+        imageTitle: Berthe Morisot's
       - imageUrl: /assets/berthe-morisot-laundry.jpg
+        imageTitle: Berthe Morisot's
       - imageUrl: /assets/berthe-morisot-reading.jpg
+        imageTitle: Berthe Morisot's
   - textTitle: Morisot’s later works
     text: >-
       Whilst Morisot’s work was firmly Impressionist in style for much of her
@@ -222,13 +234,16 @@ textSections:
       As she grew more confident in her abilities, Morisot became freer with her style and experimentation. There is a sense of fearlessness that comes through in many of her later paintings that is missing from the more restrained work of the mid-1800s. She pursued her own distinctly radical path, setting herself apart from the other Impressionists and pushing further towards abstraction.
     sideGalleryImages:
       - imageUrl: /assets/berthe-morisot-le-berceau.jpg
+        imageTitle: Berthe Morisot's
       - imageUrl: /assets/berthe-morisot-le-repos-edouard-manet.jpg
+        imageTitle: Berthe Morisot's
       - imageUrl: /assets/berthe-morisot-woman-with-a-muff.jpg
+        imageTitle: Berthe Morisot's
   - textTitle: Morisot’s legacy
     text: >-
       Morisot’s death came suddenly and as a great shock to the [Impressionist
-      community](/). The result of an
-      attack of Influenza in 1895, she passed at the age of 54.
+      community](/). The result of an attack of Influenza in 1895, she passed at
+      the age of 54.
 
 
       The movement mourned the loss of her talent and her friendship. In 1896, [Renoir](/pierre-auguste-renoir-biography), [Monet](/claude-monet-biography) and [Degas](/edgar-degas-biography) organised a memorial exhibition to mark a year of her death. Some 400 of Morisot’s works were hung. This exhibition is still the largest exhibition of her works to this day.
@@ -252,8 +267,11 @@ textSections:
       This quote is still painfully poignant to this day.
     sideGalleryImages:
       - imageUrl: /assets/berthe-morisot-au-soulier-rose-edouard-manet.jpg
+        imageTitle: Berthe Morisot's
       - imageUrl: /assets/berthe-morisot-with-a-fan-edouard-manet.jpg
+        imageTitle: Berthe Morisot's
       - imageUrl: /assets/berthe-morisot-photo.jpg
+        imageTitle: Berthe Morisot's
 ---
 
 ### In many ways, Berthe Morisot captured the essence of Impressionism.
