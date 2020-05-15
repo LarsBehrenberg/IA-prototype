@@ -1,7 +1,8 @@
 ---
+id: post-NNI__t3v1
 path: second-impressionist-exhibition
 date: 2020-04-17T05:31:30.767Z
-subTitle: '1876'
+subTitle: "1876"
 title: Second Impressionist Exhibition
 tags:
   - Exhibitions
@@ -9,7 +10,7 @@ cover: /assets/caillebotte-the-floor-scrapers.jpg
 links:
   - First Impressionist Exhibition
   - Berthe Morisot
-videoUrl: ''
+videoUrl: ""
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/caillebotte-the-floor-scrapers.jpg
@@ -281,8 +282,7 @@ textSections:
       The Third Impressionist Exhibition would open the following year, in 1877, thanks once again to the generosity of Caillebotte. After the modest financial success of the Second Impressionist Exhibition, the Impressionists reserved the space in Durand-Ruel’s gallery once more. This exhibition would see Cézanne return to the group and be marked by many more rivalries and disputes as the pressures on the group mounted.
     sideGalleryImages:
       - imageUrl: /assets/claude-monet-arrival-of-the-normandy-train.jpg
-        imageTitle:
-          Claude Monet's Arrival of the Normandy Train, one of his Gare St
+        imageTitle: Claude Monet's Arrival of the Normandy Train, one of his Gare St
           Lazare series.
       - imageUrl: /assets/alfred-sisley-flood-on-the-road-to-saint-germain.jpg
         imageTitle: Alfred Sisley's Flood on the Road to Saint Germain
