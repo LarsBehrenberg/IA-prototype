@@ -337,6 +337,65 @@ collections:
                 fields:
                   - { label: Label, name: label, widget: string }
                   - { label: Path, name: path, widget: string }
+      - label: 'Footer Links'
+        name: 'footerLinks'
+        file: '/content/pages/footer-links.md'
+        fields:
+          - label: Button Links
+            name: buttonLinkObject
+            widget: object
+            fields:
+              - label: Left Button
+                name: leftButton
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - { label: Path, name: path, widget: string }
+              - label: Center Button
+                name: centerButton
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - { label: Path, name: path, widget: string }
+              - label: Right Button
+                name: rightButton
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - { label: Path, name: path, widget: string }
+          - label: Page Links
+            name: pageLinkObject
+            widget: object
+            fields:
+              - label: Left String
+                name: leftString
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - { label: Path, name: path, widget: string }
+              - label: Center Left String
+                name: centerLeftString
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - { label: Path, name: path, widget: string }
+              - label: Center Right String
+                name: centerRightString
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - { label: Path, name: path, widget: string }
+              - label: Right String
+                name: rightString
+                widget: object
+                fields:
+                  - { label: Label, name: label, widget: string }
+                  - { label: Path, name: path, widget: string }
+          - label: Social Buttons
+            name: socialButtons
+            widget: list
+            fields:
+              - { label: Url, name: url, widget: string, required: true }
   # - name: 'maps'
   #   label: 'Maps'
   #   folder: '/content/maps/'
