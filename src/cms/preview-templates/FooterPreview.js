@@ -93,8 +93,8 @@ const FooterPreview = ({ entry }) => {
         <div className="col-sm-3">
           <a
             href={
-              data.pageLinkObject.leftButton.path !== undefined
-                ? data.pageLinkObject.leftButton.path
+              data.pageLinkObject.leftString.path !== undefined
+                ? data.pageLinkObject.leftString.path
                 : ''
             }
             style={{
@@ -102,16 +102,16 @@ const FooterPreview = ({ entry }) => {
               color: 'white',
             }}
           >
-            {data.pageLinkObject.leftButton.label !== undefined
-              ? data.pageLinkObject.leftButton.label
+            {data.pageLinkObject.leftString.label !== undefined
+              ? data.pageLinkObject.leftString.label
               : 'fillin'}
           </a>
         </div>
         <div className="col-sm-3">
           <a
             href={
-              data.pageLinkObject.centerLeftButton.path !== undefined
-                ? data.pageLinkObject.centerLeftButton.path
+              data.pageLinkObject.centerLeftString.path !== undefined
+                ? data.pageLinkObject.centerLeftString.path
                 : ''
             }
             style={{
@@ -119,16 +119,16 @@ const FooterPreview = ({ entry }) => {
               color: 'white',
             }}
           >
-            {data.pageLinkObject.centerLeftButton.label !== undefined
-              ? data.pageLinkObject.centerLeftButton.label
+            {data.pageLinkObject.centerLeftString.label !== undefined
+              ? data.pageLinkObject.centerLeftString.label
               : 'fillin'}
           </a>
         </div>
         <div className="col-sm-3">
           <a
             href={
-              data.pageLinkObject.centerRightButton.path !== undefined
-                ? data.pageLinkObject.centerRightButton.path
+              data.pageLinkObject.centerRightString.path !== undefined
+                ? data.pageLinkObject.centerRightString.path
                 : ''
             }
             style={{
@@ -136,16 +136,16 @@ const FooterPreview = ({ entry }) => {
               color: 'white',
             }}
           >
-            {data.pageLinkObject.centerRightButton.label !== undefined
-              ? data.pageLinkObject.centerRightButton.label
+            {data.pageLinkObject.centerRightString.label !== undefined
+              ? data.pageLinkObject.centerRightString.label
               : 'fillin'}
           </a>
         </div>
         <div className="col-sm-3">
           <a
             href={
-              data.pageLinkObject.rightButton.path !== undefined
-                ? data.pageLinkObject.rightButton.path
+              data.pageLinkObject.rightString.path !== undefined
+                ? data.pageLinkObject.rightString.path
                 : ''
             }
             style={{
@@ -153,8 +153,8 @@ const FooterPreview = ({ entry }) => {
               color: 'white',
             }}
           >
-            {data.pageLinkObject.rightButton.label !== undefined
-              ? data.pageLinkObject.rightButton.label
+            {data.pageLinkObject.rightString.label !== undefined
+              ? data.pageLinkObject.rightString.label
               : 'fillin'}
           </a>
         </div>
