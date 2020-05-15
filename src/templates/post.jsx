@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/click-events-have-key-events */
 /* eslint-disable jsx-a11y/no-static-element-interactions */
 /* eslint-disable no-undef */
-import React from 'react'
+import React, { useEffect } from 'react'
 import { graphql } from 'gatsby'
 import Img from 'gatsby-image'
 import PropTypes from 'prop-types'
@@ -47,6 +47,15 @@ const Post = ({ data, pageContext }) => {
     }
   }
 
+  // React Hook to initiate and clean up eventlisteners after mounting
+  useEffect(() => {
+    window.addEventListener('keydown', keyListener)
+    // Specify how to clean up after this effect:
+    return function cleanup() {
+      window.removeEventListener('keydown', keyListener)
+    }
+  })
+
   function openModal() {
     document.getElementById('myModal').style.display = 'block'
     document.getElementsByTagName('body')[0].style.overflow = 'hidden'
@@ -83,10 +92,6 @@ const Post = ({ data, pageContext }) => {
     numberText.innerHTML = `${slideIndex} / ${
       document.getElementsByClassName('gallery-image').length
     }`
-    if (keyBoardListen === false) {
-      window.addEventListener('keydown', event => keyListener(event))
-      keyBoardListen = true
-    }
 
     if (touchListen === false) {
       Array.from(slides).forEach(slide => {
