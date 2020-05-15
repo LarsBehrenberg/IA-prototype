@@ -139,7 +139,7 @@ const ImageCarousel = () => {
       >
         {nodes[0].frontmatter.carouselImages.map(image => {
           return (
-            <StyledLink to={image.url} key={image.title}>
+            <StyledLink to={`/${image.url}`} key={image.title}>
               <Info>
                 <Title>{image.title}</Title>
                 <span>

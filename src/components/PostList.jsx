@@ -185,7 +185,7 @@ const Title = styled.h2`
 `
 
 const PostList = ({ date, cover, path, title, excerpt, view }) => (
-  <Wrapper className={`${view}-view`} to={path}>
+  <Wrapper className={`${view}-view`} to={`/${path}`}>
     <Image className={`${view}-view`}>
       <Img fluid={cover} />
     </Image>

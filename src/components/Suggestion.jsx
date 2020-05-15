@@ -16,7 +16,7 @@ const Suggestion = ({ previousNeighbor, nextNeighbor }) => (
                       {' '}
                       <Link
                         className="ttde-gallery-url"
-                        to={previousNeighbor.frontmatter.path}
+                        to={`/${previousNeighbor.frontmatter.path}`}
                         data-gallery=""
                         title={previousNeighbor.frontmatter.title}
                       >
@@ -40,7 +40,7 @@ const Suggestion = ({ previousNeighbor, nextNeighbor }) => (
                       {' '}
                       <Link
                         className="ttde-gallery-url"
-                        to="impressionism-quiz"
+                        to="/impressionism-quiz"
                         title="Try our 100 question impressionism quiz"
                       >
                         <span className="ttde-gallery-open-btn">
@@ -60,7 +60,7 @@ const Suggestion = ({ previousNeighbor, nextNeighbor }) => (
                       {' '}
                       <Link
                         className="ttde-gallery-url"
-                        to={nextNeighbor.frontmatter.path}
+                        to={`/${nextNeighbor.frontmatter.path}`}
                         data-gallery=""
                         title={nextNeighbor.frontmatter.title}
                       >

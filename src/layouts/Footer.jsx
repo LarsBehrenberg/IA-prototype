@@ -6,17 +6,17 @@ const Footer = () => (
   <footer className="site-footer">
     <div className="container">
       <div className="col-md-4">
-        <a className="btn btn-white-outline" href="#top">
+        <Link className="btn btn-white-outline" to="/">
           Dearest impressionist paintings
-        </a>
+        </Link>
       </div>
       <div className="col-md-4">
-        <a className="btn btn-white-outline" href="#top">
+        <Link className="btn btn-white-outline" to="/">
           Impressionist Timeline
-        </a>
+        </Link>
       </div>
       <div className="col-md-4">
-        <Link className="btn btn-white-outline" to="impressionism-quiz">
+        <Link className="btn btn-white-outline" to="/impressionism-quiz">
           Impressionist Quiz
         </Link>
       </div>

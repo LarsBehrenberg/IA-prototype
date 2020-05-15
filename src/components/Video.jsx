@@ -15,9 +15,9 @@ const Video = ({ url }) => {
                 height="475"
                 title="Youtube"
                 src={url}
-                frameborder="0"
+                frameBorder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen=""
+                allowFullScreen=""
               />
             </div>
           </section>

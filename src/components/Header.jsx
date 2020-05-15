@@ -191,9 +191,9 @@ const Header = ({
                         </a>
                       )
                     })}
-                    {sideLinks.map((link, index) => (
+                    {sideLinks.map(link => (
                       <Link
-                        to={link.frontmatter.path}
+                        to={`/${link.frontmatter.path}`}
                         className="list-group-item active"
                         key={link.frontmatter.path}
                       >

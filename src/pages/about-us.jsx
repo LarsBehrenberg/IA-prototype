@@ -46,7 +46,6 @@ const AboutUs = ({ data }) => {
                           <Img
                             fluid={topImage.topImageUrl.childImageSharp.fluid}
                             alt={topImage.topImageTitle}
-                            loading="lazy"
                           />
                         </a>
                       </figure>
@@ -67,7 +66,6 @@ const AboutUs = ({ data }) => {
                                 leftImage.leftImageUrl.childImageSharp.fluid
                               }
                               alt={leftImage.leftImageTitle}
-                              loading="lazy"
                             />
                           </a>
                         </figure>
@@ -87,7 +85,6 @@ const AboutUs = ({ data }) => {
                                 middleImage.middleImageUrl.childImageSharp.fluid
                               }
                               alt={middleImage.middleImageTitle}
-                              loading="lazy"
                             />
                           </a>
                         </figure>
@@ -110,7 +107,6 @@ const AboutUs = ({ data }) => {
                                 rightImage.rightImageUrl.childImageSharp.fluid
                               }
                               alt={rightImage.rightImageTitle}
-                              loading="lazy"
                             />
                           </a>
                         </figure>
@@ -174,8 +170,9 @@ const AboutUs = ({ data }) => {
                       </a>
                       {artists.map(artist => (
                         <Link
-                          to={artist.frontmatter.path}
+                          to={`/${artist.frontmatter.path}`}
                           className="list-group-item"
+                          key={artist.frontmatter.title}
                         >
                           <h5 className="list-group-item-heading">
                             {artist.frontmatter.title}
@@ -183,14 +180,14 @@ const AboutUs = ({ data }) => {
                         </Link>
                       ))}
                       <Link
-                        to="impressionism-quiz"
+                        to="/impressionism-quiz"
                         className="list-group-item active"
                       >
                         <h4 className="list-group-item-heading">
                           Impressionism Quiz
                         </h4>
                       </Link>
-                      <Link to="gallery" className="list-group-item active">
+                      <Link to="/gallery" className="list-group-item active">
                         <h4 className="list-group-item-heading">Our Gallery</h4>
                       </Link>
                       <Link to="/" className="list-group-item active">

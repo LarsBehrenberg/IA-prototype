@@ -131,8 +131,11 @@ const Post = ({ data, pageContext }) => {
 
   function fillModals(arr) {
     return arr !== null
-      ? arr.map(modalImage => (
-          <div className="mySlides" key="modalImage">
+      ? arr.map((modalImage, index) => (
+          <div
+            className="mySlides"
+            key={modalImage.imageUrl.childImageSharp.fluid.src}
+          >
             <img
               src={modalImage.imageUrl.childImageSharp.fluid.src}
               className="gallery-image"
@@ -183,7 +186,7 @@ const Post = ({ data, pageContext }) => {
             {fields.bodyTitle.map((value, index) => {
               return (
                 <TextSection
-                  key="Textsection"
+                  key={`section-${index}`}
                   showGallery={showSlides}
                   openGallery={openModal}
                   index={index}
@@ -208,7 +211,7 @@ const Post = ({ data, pageContext }) => {
           &times;
         </button>
         <div className="modal-content">
-          <div className="mySlides" key="1">
+          <div className="mySlides" key="slide-1">
             <img
               src={topImage.topImageUrl.childImageSharp.fluid.src}
               className="gallery-image"
@@ -220,7 +223,7 @@ const Post = ({ data, pageContext }) => {
               style={{ width: '100%' }}
             />
           </div>
-          <div className="mySlides" key="2">
+          <div className="mySlides" key="slide-2">
             <img
               src={leftImage.leftImageUrl.childImageSharp.fluid.src}
               className="gallery-image"
@@ -232,7 +235,7 @@ const Post = ({ data, pageContext }) => {
               style={{ width: '100%' }}
             />
           </div>
-          <div className="mySlides" key="3">
+          <div className="mySlides" key="slide-3">
             <img
               src={middleImage.middleImageUrl.childImageSharp.fluid.src}
               className="gallery-image"
@@ -244,7 +247,7 @@ const Post = ({ data, pageContext }) => {
               style={{ width: '100%' }}
             />
           </div>
-          <div className="mySlides" key="4">
+          <div className="mySlides" key="slide-4">
             <img
               src={rightImage.rightImageUrl.childImageSharp.fluid.src}
               className="gallery-image"
