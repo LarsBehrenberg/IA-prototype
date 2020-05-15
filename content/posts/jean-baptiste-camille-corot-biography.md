@@ -1,4 +1,5 @@
 ---
+id: post-25IuqVVcE
 path: jean-baptiste-camille-corot-biography
 date: 2020-04-16T09:41:19.738Z
 subTitle: Biography of
@@ -6,11 +7,11 @@ title: Jean-Baptiste-Camille Corot
 tags:
   - Pre-Impressionists
 cover: /assets/camille-corot-venise-la-piazetta.jpg
-videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 links:
   - Berthe Morisot
   - First Impressionist Exhibition
   - Jean-Baptiste-Camille Corot
+videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/camille-corot-venise-la-piazetta.jpg
@@ -66,8 +67,11 @@ textSections:
       That is not to say, however, that Corot was not sensitive to public taste throughout his career. In the early 19th century, landscapes featuring figures were preferred, particularly with characters from myth, legend or the Bible. Hence, Corot endeavoured to please his audience with paintings such as [‘Hagar in the Wilderness’](https://www.wikiart.org/en/camille-corot/hagar-in-the-wilderness) from 1835 and [‘Homer and the Shepherds’](https://www.wikiart.org/en/camille-corot/homer-and-the-shepherds-in-a-landscape-1845) from 1845.
     sideGalleryImages:
       - imageUrl: /assets/camille-corot-homer-and-the-shepherds-in-a-landscape-1845.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
       - imageUrl: /assets/camille-corot-a-woman-reading.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
       - imageUrl: /assets/camille-corot-hagar-in-the-wilderness.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
   - textTitle: Corot’s landscape paintings
     text: >-
       ### Where Corot truly excelled was in his depiction of landscapes.
@@ -136,8 +140,11 @@ textSections:
       As well as his landscape paintings, it should be noted that Corot also invented his own genre which he called ‘Souvenirs’. These works generally depicted figures in a generic landscape such as a lake or clearing in the woods. In doing so, Corot pulled threads of inspiration from his own imagination, whilst continuing to use his characteristic sensitivity and tonality to make the works convincing. Many of these paintings have a sense of mystery and solace to them and they were very popular, exhibited numerous times.
     sideGalleryImages:
       - imageUrl: /assets/camille-corot-the-roman-campagna-la-cervara.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
       - imageUrl: /assets/camille-corot-bridge-at-narni.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
       - imageUrl: /assets/camille-corot-ville-davray.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
   - textTitle: Corot and the Impressionists
     text: >-
       ### As Corot’s fame grew, he was awarded with an increasing number of
@@ -198,8 +205,11 @@ textSections:
       In conjunction, Corot inspired many of the Impressionists with his figure paintings, despite his reputation as a landscape painter. Edgar Degas praised Corot in 1883, after his death as, “still the strongest. He anticipated everything.” When some of his figure works were shown posthumously in 1909, they were highly praised by [Cézanne](/paul-cezanne-biography) and Picasso, demonstrating his enduring relevance for the Impressionists, the Post-Impressionists and onwards.
     sideGalleryImages:
       - imageUrl: /assets/camille-corot-bornova-izmir.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
       - imageUrl: /assets/camille-corot-peasants-under-the-trees-at-dawn.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
       - imageUrl: /assets/camille-corot-stormy-weather.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
   - textTitle: Corot’s legacy
     text: >-
       ### On February 22 1875 at the age of 78, Corot died.
@@ -232,8 +242,11 @@ textSections:
       Despite his fame, Corot chose to live quietly and conservatively. He remained passionately devoted to his painting until the end of his life and his artistic legacy as one of the greatest landscapists in French history is now firmly established.
     sideGalleryImages:
       - imageUrl: /assets/camille-corot-photograph-taken-by-felix-nadar.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
       - imageUrl: /assets/camille-corot-plaque-in-paris.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
       - imageUrl: /assets/camille-corot-grave-in-pere-lachaise.jpg
+        imageTitle: Jean-Baptiste-Camille Corot
 ---
 
 ### Born in Paris in the late 1700s, Jean-Baptiste-Camille Corot was crucial for establishing landscape painting as a valued genre in France.
