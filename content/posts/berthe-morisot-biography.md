@@ -8,9 +8,8 @@ tags:
   - Impressionists
 cover: /assets/berthe-morisot-with-a-bouquet-edouard-manet.jpg
 links:
-  - Berthe Morisot
-  - First Impressionist Exhibition
-  - Jean-Baptiste-Camille Corot
+  - post-eDpyJwzAF
+  - post-25IuqVVcE
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/berthe-morisot-the-harbor-at-lorient.jpg

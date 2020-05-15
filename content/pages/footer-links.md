@@ -1,8 +1,4 @@
 ---
-footerLinkObject:
-  - leftButton:
-      - label: Home
-        path: /
 buttonLinkObject:
   leftButton:
     label: First Impressionist Exhibition

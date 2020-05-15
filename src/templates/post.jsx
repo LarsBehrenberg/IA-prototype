@@ -310,9 +310,7 @@ Post.propTypes = {
 
 export const query = graphql`
   query($pathSlug: String!, $sideBarLinks: [String]) {
-    allMarkdownRemark(
-      filter: { frontmatter: { title: { in: $sideBarLinks } } }
-    ) {
+    allMarkdownRemark(filter: { frontmatter: { id: { in: $sideBarLinks } } }) {
       nodes {
         frontmatter {
           title

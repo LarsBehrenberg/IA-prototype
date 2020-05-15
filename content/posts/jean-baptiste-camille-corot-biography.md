@@ -8,9 +8,8 @@ tags:
   - Pre-Impressionists
 cover: /assets/camille-corot-venise-la-piazetta.jpg
 links:
-  - Berthe Morisot
-  - First Impressionist Exhibition
-  - Jean-Baptiste-Camille Corot
+  - post-Uj7WapQkL
+  - post-eDpyJwzAF
 videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:

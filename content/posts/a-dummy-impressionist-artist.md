@@ -8,10 +8,10 @@ tags:
   - Impressionists
 cover: /assets/berthe-morisot-au-soulier-rose-edouard-manet.jpg
 links:
-  - Berthe Morisot
-  - First Impressionist Exhibition
-  - Jean-Baptiste-Camille Corot
-videoUrl: ""
+  - post-Uj7WapQkL
+  - post-eDpyJwzAF
+  - post-25IuqVVcE
+videoUrl: ''
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/berthe-morisot-eugene-manet.jpg
@@ -26,7 +26,7 @@ upperGalleryImages:
     rightImageUrl: /assets/berthe-morisot-jeune-fille-au-manteau.jpg
     rightImageTitle: extra alt tag here
 textSections:
-  - textTitle: "Cezanne: The Card Players"
+  - textTitle: 'Cezanne: The Card Players'
     text: >-
       ### In early 2002, the tiny oil-rich State of Qatar purchased one of
       Cezanne's five Card Players for a reported price of $259 million.

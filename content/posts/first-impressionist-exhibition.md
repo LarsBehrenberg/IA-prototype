@@ -8,9 +8,8 @@ tags:
   - Exhibitions
 cover: /assets/postcard-of-paris-boulevard-des-capucines.jpg
 links:
-  - Berthe Morisot
-  - First Impressionist Exhibition
-  - Jean-Baptiste-Camille Corot
+  - post-Uj7WapQkL
+  - post-25IuqVVcE
 videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:

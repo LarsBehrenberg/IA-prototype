@@ -2,15 +2,15 @@
 id: post-JcdFACMUe
 path: impressionism-news
 date: 2020-05-05T06:45:19.751Z
-subTitle: "2020"
+subTitle: '2020'
 title: Impressionism News
 tags:
   - more
 cover: /assets/berthe-morisot-grain-field.jpg
 links:
-  - First Impressionist Exhibition
-  - Second Impressionist Exhibition
-  - Vincent Van Gogh
+  - post-eDpyJwzAF
+  - post-25IuqVVcE
+  - post-xFeKEyxoY
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/berthe-morisot-grain-field.jpg
@@ -58,10 +58,11 @@ textSections:
 
       #### April 2020
 ---
+
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.
 
-Learn about the latest impressionist exhibitions, auctions and research.  Highlights from the past six months include:
+Learn about the latest impressionist exhibitions, auctions and research. Highlights from the past six months include:
 
-* Various museums putting on virtual tours, galleries and other activities to help you cope with Covid-19 lockdown.
-* Bid on impressionist works and writings at a number of online auctions.
-* The Boston Museum of Fine Arts marked its 150th anniversary in February 2020.
+- Various museums putting on virtual tours, galleries and other activities to help you cope with Covid-19 lockdown.
+- Bid on impressionist works and writings at a number of online auctions.
+- The Boston Museum of Fine Arts marked its 150th anniversary in February 2020.

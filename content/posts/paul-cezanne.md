@@ -8,8 +8,8 @@ tags:
   - Impressionists
 cover: /assets/camille-corot-forest-of-fontainebleau.jpg
 links:
-  - Vincent Van Gogh
-  - Jean-Baptiste-Camille Corot
+  - post-xFeKEyxoY
+  - post-25IuqVVcE
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/paul-cezanne-houses-at-estaque.jpg
@@ -89,13 +89,14 @@ textSections:
       - imageUrl: /assets/berthe-morisot-grain-field.jpg
         imageTitle: Morisot's grain field
 ---
+
 ## Paul Cezanne was born in 1839 in Aix-en-Provence, southern France. He studied in Aix before joining the other impressionists in Paris in the early 1860s.
 
 Cezanne struggled for the first two decades of his career: he was only once accepted by the [Salon](https://impressionistarts.com/paul-cezanne-biography.html#1) of the Academy des Beaux Arts (the exhibition of France's Fine Arts Academy that was critical to the success of new painters); and the critics tore his work to shreds when he exhibited with the other impressionists in [1874 and 1877](https://impressionistarts.com/paul-cezanne-biography.html#2).
 
 Cezanne returned to Aix from Paris in the late 1870s with his tail between his legs. But he continued to paint works of his beloved Provence, most famously of [Mont Saint-Victoire](https://impressionistarts.com/paul-cezanne-biography.html#3) and of Provencal labourers in his five-painting series entitled [Card Players](https://impressionistarts.com/paul-cezanne-biography.html#5).
 
-Cezanne did not achieve recognition until 1895, when the dealer Ambroise Vollard put on a [solo exhibition](https://impressionistarts.com/paul-cezanne-biography.html#5) of 160 of his works. Thereafter, prices for Cezannes skyrocketed, more solo-exhibitions followed, and Cezannes started being acquired by the world's leading galleries. Indeed, Cezanne holds the record for the most expensive impressionist painting ever sold ($259 million for one of the Card Players).
+Cezanne did not achieve recognition until 1895, when the dealer Ambroise Vollard put on a [solo exhibition](https://impressionistarts.com/paul-cezanne-biography.html#5) of 160 of his works. Thereafter, prices for Cezannes skyrocketed, more solo-exhibitions followed, and Cezannes started being acquired by the world's leading galleries. Indeed, Cezanne holds the record for the most expensive impressionist painting ever sold (\$259 million for one of the Card Players).
 
 Cezanne was not a happy man: he spent much of his adult life trying to please and placate his [pushy father](https://impressionistarts.com/paul-cezanne-biography.html#4) (from whom Cezanne concealed the fact that he had a son for over a decade!); he [severed ties](https://impressionistarts.com/paul-cezanne-biography.html#4) with his childhood friend, [Emile Zola](https://impressionistarts.com/emile-zola-biography.html), in 1886 after Zola wrote a novel seemingly based on Cezanne's life; and he was prone to depression and self-doubt.
 

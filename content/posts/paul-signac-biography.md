@@ -8,9 +8,9 @@ tags:
   - Post-Impressionists
 cover: /assets/paul-signac-in-the-time-of-harmony.jpg
 links:
-  - Berthe Morisot
-  - First Impressionist Exhibition
-  - Jean-Baptiste-Camille Corot
+  - post-Uj7WapQkL
+  - post-eDpyJwzAF
+  - post-25IuqVVcE
 videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:
