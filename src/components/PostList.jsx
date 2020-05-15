@@ -50,18 +50,18 @@ const Wrapper = styled(Link)`
 
     @media (max-width: 700px) {
       flex-direction: column;
-      height: 20rem;
+      height: auto;
+      max-height: 23rem;
     }
 
     &:hover h2 {
       color: #e53132;
     }
 
-    &:hover {
-      div > img,
-      img {
-        box-shadow: 0 40px 45px rgba(0, 0, 0, 0.5);
-      }
+    &:hover .list-image-container {
+      box-shadow: 0 40px 45px rgba(0, 0, 0, 0.37);
+      transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      transform: scale(1.003);
     }
   }
 `
@@ -142,7 +142,7 @@ const Image = styled.div`
 
     @media (max-width: 700px) {
       width: 100%;
-      height: 24rem;
+      height: auto;
     }
   }
 `
@@ -186,7 +186,7 @@ const Title = styled.h2`
 
 const PostList = ({ date, cover, path, title, excerpt, view }) => (
   <Wrapper className={`${view}-view`} to={`/${path}`}>
-    <Image className={`${view}-view`}>
+    <Image className={`${view}-view list-image-container`}>
       <Img fluid={cover} />
     </Image>
     <StyledLink className={`${view}-view`}>
