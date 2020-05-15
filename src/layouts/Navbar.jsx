@@ -187,6 +187,12 @@ const DropdownContainer = styled.div`
   }
 `
 
+const DropdownWrapper = styled.div`
+  &:focus {
+    outline: none;
+  }
+`
+
 const Navbar = () => {
   const data = useStaticQuery(graphql`
     query {
@@ -332,7 +338,7 @@ const Navbar = () => {
             buttonCounter += 1
             const currentButton = buttonCounter - 1
             return (
-              <div key={item.label}>
+              <DropdownWrapper key={item.label}>
                 <DropDownButton
                   className="dropdown-btn"
                   onClick={() => dropDownPressed(currentButton)}
@@ -353,7 +359,7 @@ const Navbar = () => {
                     </NavLink>
                   ))}
                 </DropdownContainer>
-              </div>
+              </DropdownWrapper>
             )
           })}
         </Menu>
