@@ -1,4 +1,5 @@
 ---
+id: post-iv1a-tVAy
 path: most-expensive-impressionist-paintings
 date: 2020-04-23T00:24:58.763Z
 subTitle: Biography
@@ -10,7 +11,7 @@ links:
   - Berthe Morisot
   - First Impressionist Exhibition
   - Jean-Baptiste-Camille Corot
-videoUrl: ''
+videoUrl: ""
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/berthe-morisot-eugene-manet.jpg
@@ -25,9 +26,10 @@ upperGalleryImages:
     rightImageUrl: /assets/berthe-morisot-jeune-fille-au-manteau.jpg
     rightImageTitle: extra alt tag here
 textSections:
-  - textTitle: 'Cezanne: The Card Players'
+  - textTitle: "Cezanne: The Card Players"
     text: >-
-      ### In early 2002, the tiny oil-rich State of Qatar purchased one of Cezanne's five Card Players for a reported price of $259 million.
+      ### In early 2002, the tiny oil-rich State of Qatar purchased one of
+      Cezanne's five Card Players for a reported price of $259 million.
 
 
       | Sale Price: | Adjusted Price: | Date of Sale: | Buyer/Seller:                    |
