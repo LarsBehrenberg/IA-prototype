@@ -25,6 +25,7 @@ collections:
           name: 'path',
           label: 'Slug',
           hint: 'This slug has to be unique. Example: paul-signac-biography',
+          pattern: ['^[a-z0-9-]+$', "This slug doens't fit the right format"],
         }
       - { name: 'date', label: 'Published Date', widget: 'datetime' }
       - {
@@ -330,13 +331,28 @@ collections:
             widget: list
             fields:
               - { label: Label, name: label, widget: string }
-              - { label: Path, name: path, widget: string }
+              - {
+                  label: Path,
+                  name: path,
+                  widget: string,
+                  pattern:
+                    ['^[a-z0-9-]+$', "This slug doens't fit the right format"],
+                }
               - label: Dropdown List
                 name: dropdown
                 widget: list
                 fields:
                   - { label: Label, name: label, widget: string }
-                  - { label: Path, name: path, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doens't fit the right format",
+                        ],
+                    }
       - label: 'Footer Links'
         name: 'footerLinks'
         file: '/content/pages/footer-links.md'
@@ -350,19 +366,46 @@ collections:
                 widget: object
                 fields:
                   - { label: Label, name: label, widget: string }
-                  - { label: Path, name: path, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doens't fit the right format",
+                        ],
+                    }
               - label: Center Button
                 name: centerButton
                 widget: object
                 fields:
                   - { label: Label, name: label, widget: string }
-                  - { label: Path, name: path, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doens't fit the right format",
+                        ],
+                    }
               - label: Right Button
                 name: rightButton
                 widget: object
                 fields:
                   - { label: Label, name: label, widget: string }
-                  - { label: Path, name: path, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doens't fit the right format",
+                        ],
+                    }
           - label: Page Links
             name: pageLinkObject
             widget: object
@@ -372,25 +415,61 @@ collections:
                 widget: object
                 fields:
                   - { label: Label, name: label, widget: string }
-                  - { label: Path, name: path, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doens't fit the right format",
+                        ],
+                    }
               - label: Center Left String
                 name: centerLeftString
                 widget: object
                 fields:
                   - { label: Label, name: label, widget: string }
-                  - { label: Path, name: path, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doens't fit the right format",
+                        ],
+                    }
               - label: Center Right String
                 name: centerRightString
                 widget: object
                 fields:
                   - { label: Label, name: label, widget: string }
-                  - { label: Path, name: path, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doens't fit the right format",
+                        ],
+                    }
               - label: Right String
                 name: rightString
                 widget: object
                 fields:
                   - { label: Label, name: label, widget: string }
-                  - { label: Path, name: path, widget: string }
+                  - {
+                      label: Path,
+                      name: path,
+                      widget: string,
+                      pattern:
+                        [
+                          '^[a-z0-9-]+$',
+                          "This slug doens't fit the right format",
+                        ],
+                    }
           - label: Social Buttons
             name: socialButtons
             widget: list
