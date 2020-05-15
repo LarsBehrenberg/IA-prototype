@@ -1,16 +1,17 @@
 ---
+id: post-t3sSOp3QH
 path: paul-signac-biography
 date: 2020-04-15T04:07:58.887Z
-title: Paul Signac
 subTitle: Biography of
+title: Paul Signac
 tags:
   - Post-Impressionists
 cover: /assets/paul-signac-in-the-time-of-harmony.jpg
-videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 links:
   - Berthe Morisot
   - First Impressionist Exhibition
   - Jean-Baptiste-Camille Corot
+videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/paul-signac-in-the-time-of-harmony.jpg
@@ -61,8 +62,11 @@ textSections:
       This influence is evident from his depictions of the town of Port-en-Bessin from 1883, which clearly echoes [Claude Monet’s](/claude-monet-biography) distinctive style. During a summer spent in the coastal town, Signac painted a number of studies that demonstrate his keenness to master the Impressionist technique. The works are painted with forceful, long brushstrokes and bright colours, which give his studies a feeling of energy and vitality.
     sideGalleryImages:
       - imageUrl: /assets/paul-signac-photograph-ca-1883.jpg
+        imageTitle: Paul Signac
       - imageUrl: /assets/paul-signac-still-life-with-a-book-1883.jpg
+        imageTitle: Paul Signac
       - imageUrl: /assets/paul-signac-paris-ponton-des-bains-bailet-1885.jpg
+        imageTitle: Paul Signac
   - textTitle: Signac and the Impressionists
     text: >-
       ### Unlike earlier Impressionist artists, Signac grew up in a Paris that
@@ -102,8 +106,11 @@ textSections:
       In his personal life, Signac also became closer to Pissarro when he married his cousin, Berthe Roblès, in 1892. The pair met in Le Chat Noir and she is painted into one of Signac’s earliest paintings, ‘The Red Stocking’ from 1883. She was a milliner by trade and she also features in one of his most famous works - ‘The Milliners’ from 1885-86. There is evidence that the two became lovers shortly after meeting and began living together.
     sideGalleryImages:
       - imageUrl: /assets/paul-signac-red-silk-stockings-1935.jpg
+        imageTitle: Paul Signac
       - imageUrl: /assets/paul-signac-the-milliner-1885.jpg
+        imageTitle: Paul Signac
       - imageUrl: /assets/paul-signac-sunday-1888.jpg
+        imageTitle: Paul Signac
   - textTitle: Signac and Neo-Impressionism
     text: >-
       ### Early into his painting career, in 1884, Signac helped to found the
@@ -159,8 +166,11 @@ textSections:
       Similarly, Signac’s interest in the musicality of colour and art shines through in these later works. He began giving his paintings musical subtitles, such as [‘Evening Calm, Concarneau, Opus 220 (Allegro Maestoso)’ from 1891](https://www.metmuseum.org/art/collection/search/459119). This work, depicting fishing boats near the French town of Concarneau, is part of a series focussing on harmony. Signac is quoted as saying that color has “in some ways elements of mathematics and music”.
     sideGalleryImages:
       - imageUrl: /assets/paul-signac-gasometers-at-clichy-1886.jpg
+        imageTitle: Paul Signac
       - imageUrl: /assets/paul-signac-woman-with-a-parasol-1893.jpg
+        imageTitle: Paul Signac
       - imageUrl: /assets/paul-signac-antibes-the-pink-cloud-1916.jpg
+        imageTitle: Paul Signac
   - textTitle: Signac’s legacy
     text: >-
       ### The energetic artist eventually died in 1935 from septicemia. During
@@ -192,8 +202,11 @@ textSections:
       The autodidactic artist opened up a new wave of highly expressive, colour-centred art utilising bright and harmonious colours. In doing so, he was able to create a visual vocabulary that was more about enjoyment than rigorous academic practice and this was a crucial beginning for the avant-garde art to come.
     sideGalleryImages:
       - imageUrl: /assets/paul-signac-by-georges-seurat-in-1890.jpg
+        imageTitle: Paul Signac
       - imageUrl: /assets/paul-signac-in-1923.jpg
+        imageTitle: Paul Signac
       - imageUrl: /assets/paul-signac-grave-in-paris.jpg
+        imageTitle: Paul Signac
 ---
 
 ### One of the principle Neo-Impressionists, Paul Signac worked alongside Georges Seurat to develop a new form of expression, combining the Impressionist technique with scientific accuracy and colour theory.
