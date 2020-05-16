@@ -22,7 +22,7 @@ const Gallery = ({ data }) => {
   return (
     <Layout>
       <Helmet title="Gallery | ImpressionistArts.com " />
-      <div classNameName="gallery-wrapper">
+      <div className="gallery-wrapper">
         <div className="gallery-container">
           <div className="profile">
             <div className="profile-image">
@@ -76,11 +76,12 @@ const Gallery = ({ data }) => {
                   href={`${nodeURL}/${node.id}`}
                   target="_blank"
                   rel="noopener noreferrer"
+                  key={node.id}
                 >
                   <Img
                     fixed={node.localFile.childImageSharp.fixed}
                     loading="lazy"
-                    classNameName="gallery-image"
+                    className="gallery-image"
                   />
 
                   <div className="gallery-item-info">
