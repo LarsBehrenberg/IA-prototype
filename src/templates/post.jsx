@@ -3,7 +3,6 @@
 /* eslint-disable no-undef */
 import React, { useEffect } from 'react'
 import { graphql } from 'gatsby'
-import Img from 'gatsby-image'
 import PropTypes from 'prop-types'
 import { SEO, TextSection, Header, Suggestion, Video } from 'components'
 import { Newsletter, Layout } from 'layouts'
@@ -18,7 +17,6 @@ const Post = ({ data, pageContext }) => {
     title,
     subTitle,
     path,
-    description,
     textSections,
     upperGalleryImages,
     videoUrl,
@@ -26,7 +24,6 @@ const Post = ({ data, pageContext }) => {
   const image = frontmatter.cover.childImageSharp.fluid.src
   const { topImage, leftImage, middleImage, rightImage } = upperGalleryImages
 
-  let keyBoardListen = false
   let touchListen = false
 
   let touchstartX = 0
@@ -166,7 +163,7 @@ const Post = ({ data, pageContext }) => {
       <Layout>
         <SEO
           title={title}
-          description={description || excerpt || ' '}
+          description={excerpt || 'Welcome to ImpressionistArts.com'}
           banner={image}
           pathname={path}
           article
@@ -320,6 +317,7 @@ export const query = graphql`
     }
     markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
       html
+      excerpt
       fields {
         bodyTitle
         bodyText
