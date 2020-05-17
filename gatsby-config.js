@@ -22,40 +22,28 @@ module.exports = {
       },
     },
     'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
           {
             resolve: `gatsby-remark-relative-images`,
+            options: {
+              name: 'images', // Must match the source name ^
+            },
           },
           {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 1500,
-              quality: 90,
-              linkImagesToOriginal: true,
+              linkImagesToOriginal: false,
             },
           },
         ],
       },
     },
     'gatsby-plugin-emotion',
-    // {
-    //   resolve: 'gatsby-plugin-emotion',
-    //   options: {
-    //     autoLabel: process.env.NODE_ENV !== 'production',
-    //     // eslint-disable-next-line
-    //     labelFormat: `[filename]--[local]`,
-    //   },
-    // },
-    // {
-    //   resolve: 'gatsby-plugin-typography',
-    //   options: {
-    //     pathToConfigModule: 'config/typography.js',
-    //   },
-    // },
-    'gatsby-plugin-sharp',
     'gatsby-plugin-sitemap',
     {
       // Sourcing Instagram Images - 12 images max
