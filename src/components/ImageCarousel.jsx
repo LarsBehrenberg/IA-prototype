@@ -1,6 +1,6 @@
 import React from 'react'
 import Carousel, { Dots } from '@brainhubeu/react-carousel'
-import '@brainhubeu/react-carousel/lib/style.css'
+import '../styles/imagecarousel.css'
 import { Link } from 'gatsby'
 import styled from '@emotion/styled'
 import { graphql, useStaticQuery } from 'gatsby'
@@ -114,8 +114,12 @@ const ImageCarousel = () => {
               url
               image {
                 childImageSharp {
-                  resize(width: 1200) {
-                    src
+                  fluid(
+                    maxWidth: 800
+                    quality: 90
+                    traceSVG: { color: "#2B2B2F" }
+                  ) {
+                    ...GatsbyImageSharpFluid_withWebp_tracedSVG
                   }
                 }
               }
@@ -142,15 +146,9 @@ const ImageCarousel = () => {
             <StyledLink to={`/${image.url}`} key={image.title}>
               <Info>
                 <Title>{image.title}</Title>
-                <span>
-                  {/* I don't like art. Not most of it. <br />
-                  But I have always loved <br />
-                  <span style={{ color: '#e53132' }}>impressionism</span>.
-                  Always. */}
-                  {image.text}
-                </span>
+                <span>{image.text}</span>
               </Info>
-              <CarouselImage src={image.image.childImageSharp.resize.src} />
+              <CarouselImage src={image.image.childImageSharp.fluid.srcWebp} />
               <OverlayBackground />
             </StyledLink>
           )
