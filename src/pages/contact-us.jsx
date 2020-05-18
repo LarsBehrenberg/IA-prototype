@@ -1,11 +1,11 @@
 import React from 'react'
 import { Layout } from 'layouts'
-import { Helmet } from 'react-helmet'
 import styled from '@emotion/styled'
 import Img from 'gatsby-image'
 import { graphql } from 'gatsby'
 import remark from 'remark'
 import remarkHTML from 'remark-html'
+import { SEO } from 'components'
 
 const Container = styled.div`
   margin: 0 auto;
@@ -137,7 +137,14 @@ const ContactUs = ({ data }) => {
   const toHTML = value => remark().use(remarkHTML).processSync(value).toString()
   return (
     <Layout>
-      <Helmet title="Contact Us | ImpressionistArts.com " />
+      <SEO
+        title="Contact Us | ImpressionistArts.com"
+        description="Want To Get In Touch? Feel free to contact us using our contact form below or message us directly at info@impressionistarts.com..."
+        banner={
+          data.markdownRemark.frontmatter.backgroundImage.childImageSharp.fluid
+            .src
+        }
+      />
       <Container>
         <ImageWrapper>
           <Img

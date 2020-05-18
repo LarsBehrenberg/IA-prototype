@@ -1,10 +1,9 @@
 import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
-import { Helmet } from 'react-helmet'
 import styled from '@emotion/styled'
 import { Layout, Newsletter } from 'layouts'
-import { PostList, ImageCarousel } from 'components'
+import { PostList, ImageCarousel, SEO } from 'components'
 
 const PostWrapper = styled.div`
   display: flex;
@@ -140,7 +139,11 @@ const Index = ({ data }) => {
 
   return (
     <Layout>
-      <Helmet title="Home | ImpressionistArts.com" />
+      <SEO
+        title="Home | ImpressionistArts.com"
+        description="Today, impressionism is the most popular artistic movement. But when the impressionists were trying to establish themselves in Paris in the 1860s and 1870s..."
+        banner={edges[0].node.frontmatter.cover.childImageSharp.src}
+      />
       <ImageCarousel />
       <ButtonWrapper>
         <CategoryWrapper>

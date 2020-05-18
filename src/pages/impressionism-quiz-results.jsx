@@ -1,10 +1,9 @@
 /* eslint-disable no-undef */
 import React from 'react'
-import { Helmet } from 'react-helmet'
 import styled from '@emotion/styled'
 import { Link } from 'gatsby'
-
 import { Layout } from 'layouts'
+import { SEO } from 'components'
 
 const ResultWrapper = styled.div`
   background-color: #ecf5ff;
@@ -73,7 +72,10 @@ class ImpressionismQuizResult extends React.Component {
   render() {
     return (
       <Layout>
-        <Helmet title="ImpressionistArts.com | Quiz - Results" />
+        <SEO
+          title="Your Results | ImpressionistArts.com"
+          description={`Welcome to the ImpressionistArts Quiz || Our quiz has a database of over 70 questions, make sure to stop by and test your impressionist knowledge!`}
+        />
         <ResultWrapper>
           <div id="end" className="justify-center flex-column">
             <h3>You scored:</h3>

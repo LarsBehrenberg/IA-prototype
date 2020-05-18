@@ -3,9 +3,9 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Img from 'gatsby-image'
-import { Helmet } from 'react-helmet'
 import { Layout, Newsletter } from 'layouts'
 import '../styles/gallery.css'
+import { SEO } from 'components'
 
 const Gallery = ({ data }) => {
   const { edges } = data.allInstaNode
@@ -21,7 +21,11 @@ const Gallery = ({ data }) => {
 
   return (
     <Layout>
-      <Helmet title="Gallery | ImpressionistArts.com " />
+      <SEO
+        title="Gallery | ImpressionistArts.com"
+        description={`Welcome to the ImpressionistArts Gallery || ${biography} ...`}
+        banner={edges[0].node.localFile.childImageSharp.fixed.src}
+      />
       <div className="gallery-wrapper">
         <div className="gallery-container">
           <div className="profile">

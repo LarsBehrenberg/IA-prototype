@@ -67,6 +67,7 @@ module.exports = {
         short_name: config.shortName,
         description: config.description,
         start_url: config.pathPrefix,
+        banner: config.banner,
         background_color: config.backgroundColor,
         theme_color: config.themeColor,
         display: 'standalone',

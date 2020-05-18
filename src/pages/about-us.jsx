@@ -1,8 +1,8 @@
 import React from 'react'
-import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Img from 'gatsby-image'
 import { Layout, Newsletter } from 'layouts'
+import { SEO } from 'components'
 
 const AboutUs = ({ data }) => {
   const { title, subTitle } = data.markdownRemark.frontmatter
@@ -15,7 +15,11 @@ const AboutUs = ({ data }) => {
   const artists = data.allMarkdownRemark.nodes
   return (
     <Layout>
-      <Helmet title="About Us | ImpressionistArts.com" />
+      <SEO
+        title="About Us | ImpressionistArts.com"
+        description="I don't like art. Not most of it. But I have always loved impressionism. Always. I remember having posters of impressionist paintings on my childhood bedroom..."
+        banner={topImage.topImageUrl.childImageSharp.fixed.src}
+      />
       <div className="container" style={{ paddingTop: '40px' }}>
         <div className="row">
           <div className="col-sm-9">

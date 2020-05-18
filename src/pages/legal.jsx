@@ -1,7 +1,7 @@
 import React from 'react'
-import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
 import { Layout } from 'layouts'
+import { SEO } from 'components'
 import styled from '@emotion/styled'
 import remark from 'remark'
 import remarkHTML from 'remark-html'
@@ -25,7 +25,10 @@ const Legal = ({ data }) => {
   const toHTML = value => remark().use(remarkHTML).processSync(value).toString()
   return (
     <Layout>
-      <Helmet title="Legal | ImpressionistArts.com" />
+      <SEO
+        title="Legal | ImpressionistArts.com"
+        description={`Welcome to the ImpressionistArts.com || Find out about the TOA and other information behind ImpressionistArts.com`}
+      />
       <Container
         dangerouslySetInnerHTML={{
           __html: toHTML(data.markdownRemark.frontmatter.text),

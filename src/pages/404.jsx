@@ -1,9 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import { Helmet } from 'react-helmet'
 import PropTypes from 'prop-types'
 import styled from '@emotion/styled'
 import { Layout } from 'layouts'
+import { SEO } from 'components'
 
 const Wrapper = styled.section`
   text-align: center;
@@ -17,7 +17,10 @@ const Wrapper = styled.section`
 
 const ErrorPage = center => (
   <Layout>
-    <Helmet title="404" />
+    <SEO
+      title="Not found | ImpressionistArts.com"
+      description="Woops, something went wrong. This page does not exist or is no longer reachable. You seem to have hit a dead end."
+    />
     <Wrapper>
       <h1>Woops, something went wrong.</h1>
       <h3>This page does not exist or is no longer reachable.</h3>
