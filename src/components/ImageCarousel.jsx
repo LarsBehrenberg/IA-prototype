@@ -1,6 +1,5 @@
 import React from 'react'
-import Carousel, { Dots } from '@brainhubeu/react-carousel'
-import '../styles/imagecarousel.css'
+import Carousel from '@brainhubeu/react-carousel'
 import { Link } from 'gatsby'
 import styled from '@emotion/styled'
 import { graphql, useStaticQuery } from 'gatsby'
