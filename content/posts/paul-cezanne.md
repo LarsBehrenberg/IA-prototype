@@ -98,6 +98,18 @@ textSections:
 
 
       It was not until about 1870 that, encouraged by Pissarro, Cezanne adopted the impressionist style by lightning and brightening his colour schemes and painting with broader brush-strokes.
+
+
+      <div class="interesting">
+
+
+      <h4><img src="logo/palette.png"> Interesting fact...</h4>
+
+
+      <p>On occasion Manet and Couture quarrelled. Once, Manet stormed out of Couture’s studio in protest about a critical remark and refused to return for a month! </p>
+
+
+      </div>
     sideGalleryImages:
       - imageUrl: /assets/camille-corot-forest-of-fontainebleau.jpg
         imageTitle: Camille Corot's 'forest au montainebleau'
