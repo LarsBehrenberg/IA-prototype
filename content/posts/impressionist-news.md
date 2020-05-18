@@ -2,7 +2,7 @@
 id: post-JcdFACMUe
 path: impressionism-news
 date: 2020-05-05T06:45:19.751Z
-subTitle: '2020'
+subTitle: "2020"
 title: Impressionism News
 tags:
   - more
@@ -57,6 +57,12 @@ textSections:
 
 
       #### April 2020
+
+
+      Unfortunately, there is no virtual tour of the gardens (though you can check out some videos on The Foundation Monet's [vimeo channel](https://vimeo.com/fondationmonetgiverny)).  
+
+
+      The Courtauld Institute is hosting a series of virtual mini-art festivals to help you get through lockdown.  [May 2020](https://www.eventbrite.co.uk/e/open-courtauld-hour-art-in-isolation-tickets-103139410754) sees evenings devoted to Women Artists, the Future of Art History and Art and Wellbeing.
 ---
 
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.
