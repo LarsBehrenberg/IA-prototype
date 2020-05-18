@@ -7,8 +7,6 @@ const remarkHTML = require('remark-html')
 exports.createPages = ({ graphql, actions: { createPage } }) => {
   return new Promise((resolve, reject) => {
     const postTemplate = path.resolve('src/templates/post.jsx')
-    // const tagPage = path.resolve('src/pages/tags.jsx');
-    // const tagPosts = path.resolve('src/templates/tag.jsx')
 
     resolve(
       graphql(
@@ -28,8 +26,13 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
                     cover {
                       relativePath
                       childImageSharp {
-                        resize(width: 600) {
+                        fixed(width: 300) {
+                          aspectRatio
                           src
+                          srcSet
+                          base64
+                          width
+                          height
                         }
                       }
                     }
@@ -45,44 +48,6 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
         }
 
         const posts = result.data.allMarkdownRemark.edges
-
-        // const postsByTag = {};
-        // // create tags page
-        // posts.forEach(({ node }) => {
-        //   if (node.frontmatter.tags) {
-        //     node.frontmatter.tags.forEach(tag => {
-        //       if (!postsByTag[tag]) {
-        //         postsByTag[tag] = [];
-        //       }
-
-        //       postsByTag[tag].push(node);
-        //     });
-        //   }
-        // });
-
-        // const tags = Object.keys(postsByTag);
-
-        // createPage({
-        //   path: '/tags',
-        //   component: tagPage,
-        //   context: {
-        //     tags: tags.sort(),
-        //   },
-        // });
-
-        // create tags
-        // tags.forEach(tagName => {
-        //   const posts = postsByTag[tagName];
-
-        //   createPage({
-        //     path: `/tags/${tagName}`,
-        //     component: tagPosts,
-        //     context: {
-        //       posts,
-        //       tagName,
-        //     },
-        //   });
-        // });
 
         // create posts
         posts.forEach(({ node }, index) => {

@@ -198,8 +198,8 @@ const Navbar = () => {
     query {
       file(relativePath: { eq: "claude-monet-nympheas.jpg" }) {
         childImageSharp {
-          fluid(maxHeight: 500, quality: 80) {
-            ...GatsbyImageSharpFluid_withWebp_tracedSVG
+          fixed(height: 60, width: 800, quality: 80) {
+            ...GatsbyImageSharpFixed
           }
         }
       }
@@ -228,13 +228,8 @@ const Navbar = () => {
               tags
               cover {
                 childImageSharp {
-                  fixed(
-                    width: 80
-                    height: 50
-                    quality: 80
-                    traceSVG: { color: "#2B2B2F" }
-                  ) {
-                    ...GatsbyImageSharpFixed_withWebp_tracedSVG
+                  fixed(width: 80, height: 50, quality: 60) {
+                    ...GatsbyImageSharpFixed_withWebp
                   }
                 }
               }
@@ -307,9 +302,10 @@ const Navbar = () => {
     <Wrapper id="nav-wrapper">
       <BackgroundImage>
         <Img
-          fluid={data.file.childImageSharp.fluid}
+          fixed={data.file.childImageSharp.fixed}
           style={{
             height: '100%',
+            width: '100%',
           }}
           className="nav-image"
         />

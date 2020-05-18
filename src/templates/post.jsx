@@ -23,7 +23,6 @@ const Post = ({ data, pageContext }) => {
   } = frontmatter
   const image = frontmatter.cover.childImageSharp.fluid.src
   const { topImage, leftImage, middleImage, rightImage } = upperGalleryImages
-
   let touchListen = false
 
   let touchstartX = 0
@@ -331,7 +330,7 @@ export const query = graphql`
             topImageTitle
             topImageUrl {
               childImageSharp {
-                fluid(maxWidth: 900) {
+                fluid(maxWidth: 800, quality: 90) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -341,7 +340,7 @@ export const query = graphql`
             leftImageTitle
             leftImageUrl {
               childImageSharp {
-                fluid(maxWidth: 450) {
+                fluid(maxWidth: 800, quality: 90) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -351,7 +350,7 @@ export const query = graphql`
             middleImageTitle
             middleImageUrl {
               childImageSharp {
-                fluid(maxWidth: 450) {
+                fluid(maxWidth: 800, quality: 90) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -361,7 +360,7 @@ export const query = graphql`
             rightImageTitle
             rightImageUrl {
               childImageSharp {
-                fluid(maxWidth: 450) {
+                fluid(maxWidth: 800, quality: 90) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -373,7 +372,7 @@ export const query = graphql`
           sideGalleryImages {
             imageUrl {
               childImageSharp {
-                fluid(maxWidth: 800) {
+                fluid(maxWidth: 800, quality: 90) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -384,14 +383,11 @@ export const query = graphql`
         cover {
           childImageSharp {
             fluid(
-              maxWidth: 1920
+              maxWidth: 800
               quality: 90
               duotone: { highlight: "#386eee", shadow: "#d3d3d3", opacity: 20 }
             ) {
-              ...GatsbyImageSharpFluid_withWebp
-            }
-            resize(width: 1200, quality: 90) {
-              src
+              ...GatsbyImageSharpFluid
             }
           }
         }

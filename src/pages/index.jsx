@@ -1,4 +1,3 @@
-/* eslint-disable no-use-before-define */
 import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
@@ -39,34 +38,6 @@ const PostWrapper = styled.div`
     }
   }
 `
-
-// const Headline = styled.h1`
-//   text-align: center;
-//   text-transform: uppercase;
-//   color: #262a2e;
-//   font-size: 28px;
-//   font-weight: 600;
-//   border-bottom: 1px solid #e5e5e5;
-//   margin: 4rem 0rem 0rem 4rem;
-//   @media (max-width: 1000px) {
-//     margin: 4rem 2rem 0rem 2rem;
-//   }
-//   @media (max-width: 700px) {
-//     margin: 4rem 1rem 0rem 1rem;
-//   }
-//   @media (min-width: 1200px) {
-//     width: 1170px;
-//     margin: 4rem auto 1rem auto;
-//   }
-
-//   line-height: 0.1em;
-//   width: 100%;
-
-//   & span {
-//     background: #fff;
-//     padding: 0 30px;
-//   }
-// `
 
 const ButtonWrapper = styled.div`
   display: flex;
@@ -171,9 +142,6 @@ const Index = ({ data }) => {
     <Layout>
       <Helmet title="Home | ImpressionistArts.com" />
       <ImageCarousel />
-      {/* <Headline>
-        <span>Our Top Pages</span>
-      </Headline> */}
       <ButtonWrapper>
         <CategoryWrapper>
           <TagButton
@@ -277,7 +245,7 @@ export const query = graphql`
             cover {
               childImageSharp {
                 fluid(
-                  maxWidth: 750
+                  maxWidth: 450
                   quality: 90
                   traceSVG: { color: "#2B2B2F" }
                 ) {

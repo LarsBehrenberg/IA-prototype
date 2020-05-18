@@ -864,10 +864,6 @@ img[data-srcset] {
   transition: 0.4s all;
 }
 
-.youtube-player img:hover {
-  -webkit-filter: brightness(75%);
-}
-
 .youtube-player .play {
   height: 72px;
   width: 72px;
@@ -1599,7 +1595,7 @@ p>a {
   }
 
   .mySlides img {
-    height: 52vh;
+    height: 52.3vh;
   }
 }
 
@@ -1615,6 +1611,10 @@ p>a {
 
   .mySlides img {
     height: 550px;
+    max-width: 800px;
+    width: auto;
+    margin: 0 auto;
+    display: block;
   }
 }
 
@@ -1700,11 +1700,11 @@ img.hover-shadow {
 
 
 /* Navbar background image display */
-.nav-image {
+.nav-image img {
   display: none;
 }
 
-.post-page .nav-image {
+.post-page .nav-image img {
   display: block;
 }
 

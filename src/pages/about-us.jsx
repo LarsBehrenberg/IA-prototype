@@ -16,7 +16,6 @@ const AboutUs = ({ data }) => {
   return (
     <Layout>
       <Helmet title="About Us | ImpressionistArts.com" />
-      {/* <Header title={} subTitleText= intro bodyTitles images showGallery openGallery prevNeighbor nextNeighbor></Header> */}
       <div className="container" style={{ paddingTop: '40px' }}>
         <div className="row">
           <div className="col-sm-9">
@@ -44,8 +43,9 @@ const AboutUs = ({ data }) => {
                           data-index="0"
                         >
                           <Img
-                            fluid={topImage.topImageUrl.childImageSharp.fluid}
+                            fixed={topImage.topImageUrl.childImageSharp.fixed}
                             alt={topImage.topImageTitle}
+                            style={{ height: '100%', width: '100%' }}
                           />
                         </a>
                       </figure>
@@ -62,10 +62,11 @@ const AboutUs = ({ data }) => {
                             data-index="1"
                           >
                             <Img
-                              fluid={
-                                leftImage.leftImageUrl.childImageSharp.fluid
+                              fixed={
+                                leftImage.leftImageUrl.childImageSharp.fixed
                               }
                               alt={leftImage.leftImageTitle}
+                              style={{ height: '100%', width: '100%' }}
                             />
                           </a>
                         </figure>
@@ -81,10 +82,11 @@ const AboutUs = ({ data }) => {
                             data-index="2"
                           >
                             <Img
-                              fluid={
-                                middleImage.middleImageUrl.childImageSharp.fluid
+                              fixed={
+                                middleImage.middleImageUrl.childImageSharp.fixed
                               }
                               alt={middleImage.middleImageTitle}
+                              style={{ height: '100%', width: '100%' }}
                             />
                           </a>
                         </figure>
@@ -103,10 +105,11 @@ const AboutUs = ({ data }) => {
                               <span>More images 20+</span>
                             </span>
                             <Img
-                              fluid={
-                                rightImage.rightImageUrl.childImageSharp.fluid
+                              fixed={
+                                rightImage.rightImageUrl.childImageSharp.fixed
                               }
                               alt={rightImage.rightImageTitle}
+                              style={{ height: '100%', width: '100%' }}
                             />
                           </a>
                         </figure>
@@ -126,12 +129,9 @@ const AboutUs = ({ data }) => {
                     itemScope=""
                     itemType="http://schema.org/ListItem"
                   >
-                    <a
-                      itemProp="item"
-                      href="https://impressionistarts.com/index.html"
-                    >
+                    <Link to="/">
                       <span itemProp="name">Home</span>
-                    </a>
+                    </Link>
                     <meta itemProp="position" content="1" />
                   </li>
                   <li
@@ -139,12 +139,7 @@ const AboutUs = ({ data }) => {
                     itemScope=""
                     itemType="http://schema.org/ListItem"
                   >
-                    <a
-                      itemProp="item"
-                      href="https://impressionistarts.com/paul-signac-biography.html"
-                    >
-                      <span itemProp="name">About Us</span>
-                    </a>
+                    <span itemProp="name">About Us</span>
                     <meta itemProp="position" content="3" />
                   </li>
                 </ul>
@@ -220,8 +215,8 @@ export const query = graphql`
           topImage {
             topImageUrl {
               childImageSharp {
-                fluid(maxWidth: 900) {
-                  ...GatsbyImageSharpFluid
+                fixed(width: 900, height: 436, quality: 90) {
+                  ...GatsbyImageSharpFixed
                 }
               }
             }
@@ -229,8 +224,8 @@ export const query = graphql`
           leftImage {
             leftImageUrl {
               childImageSharp {
-                fluid(maxWidth: 450) {
-                  ...GatsbyImageSharpFluid
+                fixed(width: 300, height: 300, quality: 90) {
+                  ...GatsbyImageSharpFixed
                 }
               }
             }
@@ -238,8 +233,8 @@ export const query = graphql`
           middleImage {
             middleImageUrl {
               childImageSharp {
-                fluid(maxWidth: 450) {
-                  ...GatsbyImageSharpFluid
+                fixed(width: 300, height: 300, quality: 90) {
+                  ...GatsbyImageSharpFixed
                 }
               }
             }
@@ -247,8 +242,8 @@ export const query = graphql`
           rightImage {
             rightImageUrl {
               childImageSharp {
-                fluid(maxWidth: 450) {
-                  ...GatsbyImageSharpFluid
+                fixed(width: 300, height: 300, quality: 90) {
+                  ...GatsbyImageSharpFixed
                 }
               }
             }
