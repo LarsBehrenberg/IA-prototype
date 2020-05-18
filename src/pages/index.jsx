@@ -137,7 +137,6 @@ const Index = ({ data }) => {
   }
   const { categorizedData, currentCategory, currentView } = state
 
-  console.log(edges[0].node.frontmatter)
   return (
     <Layout>
       <SEO
