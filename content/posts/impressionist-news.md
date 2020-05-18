@@ -2,7 +2,7 @@
 id: post-JcdFACMUe
 path: impressionism-news
 date: 2020-05-05T06:45:19.751Z
-subTitle: '2020'
+subTitle: "2020"
 title: Impressionism News
 tags:
   - more
@@ -56,7 +56,7 @@ textSections:
       In February 2020, the Boston Museum of Fine Arts marked its 150th anniversary.  It selected 15 key works for the occasion, including one of Monet's Haystacks (or Grainstacks).
 
 
-      #### April 2020
+      #### April 202
 ---
 
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.
