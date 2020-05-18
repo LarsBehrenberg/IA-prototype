@@ -88,6 +88,19 @@ textSections:
     sideGalleryImages:
       - imageUrl: /assets/berthe-morisot-grain-field.jpg
         imageTitle: Morisot's grain field
+  - textTitle: Cezanne's dark period
+    text: >-
+      The period 1861-70 represents Cezanne’s so-called "dark period": his
+      palette was dark; his themes were violent or erotic; and he often applied
+      paint using a palette knife and not a brush. A typical work was Cezanne’s
+      shocking painting entitled The Murder (1870, pictured). Another, from
+      1867, was called The Abduction.
+
+
+      It was not until about 1870 that, encouraged by Pissarro, Cezanne adopted the impressionist style by lightning and brightening his colour schemes and painting with broader brush-strokes.
+    sideGalleryImages:
+      - imageUrl: /assets/camille-corot-forest-of-fontainebleau.jpg
+        imageTitle: Camille Corot's 'forest au montainebleau'
 ---
 
 ## Paul Cezanne was born in 1839 in Aix-en-Provence, southern France. He studied in Aix before joining the other impressionists in Paris in the early 1860s.
