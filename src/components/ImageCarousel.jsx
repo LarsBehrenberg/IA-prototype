@@ -113,12 +113,8 @@ const ImageCarousel = () => {
               url
               image {
                 childImageSharp {
-                  fluid(
-                    maxWidth: 800
-                    quality: 90
-                    traceSVG: { color: "#2B2B2F" }
-                  ) {
-                    ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                  fluid(maxWidth: 800, quality: 90) {
+                    ...GatsbyImageSharpFluid_withWebp
                   }
                 }
               }
