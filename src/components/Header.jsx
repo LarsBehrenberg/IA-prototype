@@ -143,7 +143,9 @@ const Header = ({
                   itemType="http://schema.org/ListItem"
                 >
                   <Link itemProp="item" to="/">
-                    <span itemProp="name">Home</span>
+                    <span itemProp="name" style={{ color: '#737373' }}>
+                      Home
+                    </span>
                   </Link>
                   <meta itemProp="position" content="1" />
                 </li>
