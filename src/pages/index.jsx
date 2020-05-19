@@ -249,7 +249,7 @@ export const query = graphql`
               childImageSharp {
                 fluid(
                   maxWidth: 450
-                  quality: 90
+                  quality: 50
                   traceSVG: { color: "#2B2B2F" }
                 ) {
                   ...GatsbyImageSharpFluid_withWebp_tracedSVG
