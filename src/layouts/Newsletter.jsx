@@ -160,7 +160,8 @@ const Newsletter = () => {
           <input
             placeholder="Email address"
             name="email"
-            type="text"
+            type="email"
+            aria-label="email"
             // onChange={handleEmailChange}
           />
           <button type="submit">Subscribe</button>

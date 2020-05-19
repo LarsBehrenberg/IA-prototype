@@ -314,7 +314,14 @@ const Navbar = () => {
         <StyledLink to="/">
           <img src={logo} alt="Impressionist Arts" />
         </StyledLink>
-        <Search placeholder="Search..." onChange={handleInputChange} />
+        <Search
+          type="search"
+          placeholder="Search..."
+          onChange={handleInputChange}
+          id="nav_search"
+          aria-label="Search"
+          name="navSearch"
+        />
         <SearchResults searchResults={posts} />
         <Menu
           styles={styles}
