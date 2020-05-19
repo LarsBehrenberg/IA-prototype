@@ -143,7 +143,10 @@ const ImageCarousel = () => {
                 <Title>{image.title}</Title>
                 <span>{image.text}</span>
               </Info>
-              <CarouselImage src={image.image.childImageSharp.fluid.srcWebp} />
+              <CarouselImage
+                src={image.image.childImageSharp.fluid.srcWebp}
+                alt={image.title}
+              />
               <OverlayBackground />
             </StyledLink>
           )
