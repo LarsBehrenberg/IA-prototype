@@ -87,11 +87,7 @@ const Header = ({
                           showGallery(3)
                         }}
                       >
-                        <span
-                          className="ttde-gallery-url"
-                          href="#top"
-                          data-index="2"
-                        >
+                        <span className="ttde-gallery-url" data-index="2">
                           <Img
                             fluid={{
                               ...middleImage.middleImageUrl.childImageSharp
@@ -114,11 +110,7 @@ const Header = ({
                           showGallery(4)
                         }}
                       >
-                        <a
-                          className="ttde-gallery-url"
-                          href="#top"
-                          data-index="3"
-                        >
+                        <span className="ttde-gallery-url" data-index="3">
                           <span className="ttde-gallery-open-btn">
                             <span>More images 20+</span>
                           </span>
@@ -129,7 +121,7 @@ const Header = ({
                             }}
                             alt={rightImage.rightImageTitle}
                           />
-                        </a>
+                        </span>
                       </figure>
                     </div>
                   </div>
