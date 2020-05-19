@@ -56,7 +56,6 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   color: #333;
-  background-color: #fafafa;
 }
 
 body>svg {
@@ -421,7 +420,7 @@ a.btn {
   display: block;
   margin-bottom: 5px;
   color: #dd3030;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: bold;
   text-transform: uppercase;
 }
