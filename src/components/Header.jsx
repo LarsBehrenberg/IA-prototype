@@ -44,9 +44,11 @@ const Header = ({
                     >
                       <span className="ttde-gallery-url" data-index="0">
                         <Img
-                          fluid={topImage.topImageUrl.childImageSharp.fluid}
+                          fluid={{
+                            ...topImage.topImageUrl.childImageSharp.fluid,
+                            sizes: '(max-width: 700px) 100vw, 700px',
+                          }}
                           alt={topImage.topImageTitle}
-                          loading="lazy"
                         />
                       </span>
                     </figure>
@@ -65,9 +67,11 @@ const Header = ({
                       >
                         <span className="ttde-gallery-url" data-index="1">
                           <Img
-                            fluid={leftImage.leftImageUrl.childImageSharp.fluid}
+                            fluid={{
+                              ...leftImage.leftImageUrl.childImageSharp.fluid,
+                              sizes: '(max-width: 400px) 100vw, 400px',
+                            }}
                             alt={leftImage.leftImageTitle}
-                            loading="lazy"
                           />
                         </span>
                       </figure>
@@ -89,11 +93,12 @@ const Header = ({
                           data-index="2"
                         >
                           <Img
-                            fluid={
-                              middleImage.middleImageUrl.childImageSharp.fluid
-                            }
+                            fluid={{
+                              ...middleImage.middleImageUrl.childImageSharp
+                                .fluid,
+                              sizes: '(max-width: 400px) 100vw, 400px',
+                            }}
                             alt={middleImage.middleImageTitle}
-                            loading="lazy"
                           />
                         </span>
                       </figure>
@@ -118,11 +123,11 @@ const Header = ({
                             <span>More images 20+</span>
                           </span>
                           <Img
-                            fluid={
-                              rightImage.rightImageUrl.childImageSharp.fluid
-                            }
+                            fluid={{
+                              ...rightImage.rightImageUrl.childImageSharp.fluid,
+                              sizes: '(max-width: 400px) 100vw, 400px',
+                            }}
                             alt={rightImage.rightImageTitle}
-                            loading="lazy"
                           />
                         </a>
                       </figure>

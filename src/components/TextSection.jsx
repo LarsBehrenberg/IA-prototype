@@ -61,10 +61,12 @@ const TextSection = ({
                               >
                                 <span className="smallery-item-uri">
                                   <Img
-                                    fluid={image.imageUrl.childImageSharp.fluid}
+                                    fluid={{
+                                      ...image.imageUrl.childImageSharp.fluid,
+                                      sizes: '(max-width: 200px) 100vw, 200px',
+                                    }}
                                     alt={image.imageTitle}
                                     className="smallery-item-img"
-                                    loading="lazy"
                                   />
                                 </span>
                               </figure>
