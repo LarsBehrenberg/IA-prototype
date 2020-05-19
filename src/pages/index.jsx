@@ -73,7 +73,7 @@ const TagButton = styled.span`
   z-index: 5;
   font-size: 14px;
   line-height: 35px;
-  color: #929497;
+  color: #757575;
   text-transform: uppercase;
   border-width: 1px;
   border-style: solid;
