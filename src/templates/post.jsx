@@ -330,7 +330,7 @@ export const query = graphql`
             topImageTitle
             topImageUrl {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 60) {
+                fluid(srcSetBreakpoints: [400]) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -340,7 +340,7 @@ export const query = graphql`
             leftImageTitle
             leftImageUrl {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 60) {
+                fluid(srcSetBreakpoints: [200]) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -350,7 +350,7 @@ export const query = graphql`
             middleImageTitle
             middleImageUrl {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 60) {
+                fluid(srcSetBreakpoints: [200]) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -360,7 +360,7 @@ export const query = graphql`
             rightImageTitle
             rightImageUrl {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 60) {
+                fluid(srcSetBreakpoints: [200]) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -372,7 +372,7 @@ export const query = graphql`
           sideGalleryImages {
             imageUrl {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 60) {
+                fluid(srcSetBreakpoints: [200]) {
                   ...GatsbyImageSharpFluid
                 }
               }

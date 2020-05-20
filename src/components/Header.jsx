@@ -44,9 +44,9 @@ const Header = ({
                     >
                       <span className="ttde-gallery-url" data-index="0">
                         <Img
-                          fluid={{
+                          sizes={{
                             ...topImage.topImageUrl.childImageSharp.fluid,
-                            sizes: '(max-width: 700px) 100vw, 700px',
+                            sizes: '(max-width: 800px) 100vw, 800px',
                           }}
                           alt={topImage.topImageTitle}
                         />
@@ -67,9 +67,9 @@ const Header = ({
                       >
                         <span className="ttde-gallery-url" data-index="1">
                           <Img
-                            fluid={{
+                            sizes={{
                               ...leftImage.leftImageUrl.childImageSharp.fluid,
-                              sizes: '(max-width: 400px) 100vw, 400px',
+                              sizes: '(max-width: 200px) 100vw, 200px',
                             }}
                             alt={leftImage.leftImageTitle}
                           />
@@ -89,10 +89,10 @@ const Header = ({
                       >
                         <span className="ttde-gallery-url" data-index="2">
                           <Img
-                            fluid={{
+                            sizes={{
                               ...middleImage.middleImageUrl.childImageSharp
                                 .fluid,
-                              sizes: '(max-width: 400px) 100vw, 400px',
+                              sizes: '(max-width: 200px) 100vw, 200px',
                             }}
                             alt={middleImage.middleImageTitle}
                           />
@@ -115,9 +115,9 @@ const Header = ({
                             <span>More images 20+</span>
                           </span>
                           <Img
-                            fluid={{
+                            sizes={{
                               ...rightImage.rightImageUrl.childImageSharp.fluid,
-                              sizes: '(max-width: 400px) 100vw, 400px',
+                              sizes: '(max-width: 200px) 100vw, 200px',
                             }}
                             alt={rightImage.rightImageTitle}
                           />
