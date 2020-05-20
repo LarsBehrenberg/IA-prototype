@@ -113,8 +113,8 @@ const ImageCarousel = () => {
               url
               image {
                 childImageSharp {
-                  fluid(maxWidth: 800, quality: 90) {
-                    ...GatsbyImageSharpFluid_withWebp
+                  fluid(maxWidth: 800, quality: 70) {
+                    ...GatsbyImageSharpFluid
                   }
                 }
               }
@@ -135,6 +135,7 @@ const ImageCarousel = () => {
         autoPlay="7000" // Slide change interval in milliseconds
         infinite // Loops through side indefinitely
         stopAutoPlayOnHover // Stop loop on hovering
+        keepDirectionWhenDragging // While dragging, it doesn't matter which slide is the nearest one, but in what direction you dragged
       >
         {nodes[0].frontmatter.carouselImages.map(image => {
           return (
@@ -144,7 +145,7 @@ const ImageCarousel = () => {
                 <span>{image.text}</span>
               </Info>
               <CarouselImage
-                src={image.image.childImageSharp.fluid.srcWebp}
+                src={image.image.childImageSharp.fluid.src}
                 alt={image.title}
               />
               <OverlayBackground />
