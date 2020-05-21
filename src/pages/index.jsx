@@ -115,6 +115,14 @@ const Index = ({ data }) => {
   const tagSet = new Set([].concat(...tagArray))
   const categories = [...tagSet]
 
+  const orderedCategories = {
+    IMPRESSIONISTS: 1,
+    'PRE-IMPRESSIONISTS': 2,
+    'POST-IMPRESSIONISTS': 3,
+    EXHIBITIONS: 4,
+    MORE: 5,
+  }
+
   // Set state for manipulating displayed posts after searching or sorting
   const [state, setState] = useState({
     categorizedData: edges,
@@ -158,15 +166,22 @@ const Index = ({ data }) => {
           >
             All Posts
           </TagButton>
-          {categories.map(tag => (
-            <TagButton
-              onClick={() => categoryPressed(tag)}
-              className={`${currentCategory === tag ? 'active' : ''}`}
-              key={tag}
-            >
-              {tag}
-            </TagButton>
-          ))}
+          {categories
+            .sort(function (a, b) {
+              return (
+                orderedCategories[a.toUpperCase()] -
+                orderedCategories[b.toUpperCase()]
+              )
+            })
+            .map(tag => (
+              <TagButton
+                onClick={() => categoryPressed(tag)}
+                className={`${currentCategory === tag ? 'active' : ''}`}
+                key={tag}
+              >
+                {tag}
+              </TagButton>
+            ))}
         </CategoryWrapper>
         <ViewButtonWrapper>
           <TagButton
