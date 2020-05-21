@@ -61,12 +61,13 @@ const TextSection = ({
                               >
                                 <span className="smallery-item-uri">
                                   <Img
-                                    sizes={{
-                                      ...image.imageUrl.childImageSharp.fluid,
-                                      sizes: '(max-width: 200px) 100vw, 200px',
-                                    }}
+                                    fixed={image.imageUrl.thumbImage.fixed}
                                     alt={image.imageTitle}
                                     className="smallery-item-img"
+                                    style={{
+                                      width: '100%',
+                                      height: '100%',
+                                    }}
                                   />
                                 </span>
                               </figure>

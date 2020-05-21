@@ -135,10 +135,10 @@ const Post = ({ data, pageContext }) => {
       ? arr.map((modalImage, index) => (
           <div
             className="mySlides"
-            key={modalImage.imageUrl.childImageSharp.fluid.src}
+            key={modalImage.imageUrl.expandedImage.fluid.src}
           >
             <img
-              src={modalImage.imageUrl.childImageSharp.fluid.src}
+              src={modalImage.imageUrl.expandedImage.fluid.src}
               className="gallery-image"
               alt={
                 modalImage.imageTitle == null
@@ -214,7 +214,7 @@ const Post = ({ data, pageContext }) => {
         <div className="modal-content">
           <div className="mySlides" key="slide-1">
             <img
-              src={topImage.topImageUrl.childImageSharp.fluid.src}
+              src={topImage.topImageUrl.expandedImage.fluid.src}
               className="gallery-image"
               alt={
                 topImage.topImageTitle == null
@@ -226,7 +226,7 @@ const Post = ({ data, pageContext }) => {
           </div>
           <div className="mySlides" key="slide-2">
             <img
-              src={leftImage.leftImageUrl.childImageSharp.fluid.src}
+              src={leftImage.leftImageUrl.expandedImage.fluid.src}
               className="gallery-image"
               alt={
                 leftImage.leftImageTitle == null
@@ -238,7 +238,7 @@ const Post = ({ data, pageContext }) => {
           </div>
           <div className="mySlides" key="slide-3">
             <img
-              src={middleImage.middleImageUrl.childImageSharp.fluid.src}
+              src={middleImage.middleImageUrl.expandedImage.fluid.src}
               className="gallery-image"
               alt={
                 middleImage.middleImageTitle == null
@@ -250,7 +250,7 @@ const Post = ({ data, pageContext }) => {
           </div>
           <div className="mySlides" key="slide-4">
             <img
-              src={rightImage.rightImageUrl.childImageSharp.fluid.src}
+              src={rightImage.rightImageUrl.expandedImage.fluid.src}
               className="gallery-image"
               alt={
                 rightImage.rightImageTitle == null
@@ -329,8 +329,13 @@ export const query = graphql`
           topImage {
             topImageTitle
             topImageUrl {
-              childImageSharp {
-                fluid(srcSetBreakpoints: [400]) {
+              thumbImage: childImageSharp {
+                fixed(width: 700) {
+                  ...GatsbyImageSharpFixed
+                }
+              }
+              expandedImage: childImageSharp {
+                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -339,8 +344,13 @@ export const query = graphql`
           leftImage {
             leftImageTitle
             leftImageUrl {
-              childImageSharp {
-                fluid(srcSetBreakpoints: [200]) {
+              thumbImage: childImageSharp {
+                fixed(width: 400) {
+                  ...GatsbyImageSharpFixed
+                }
+              }
+              expandedImage: childImageSharp {
+                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -349,8 +359,13 @@ export const query = graphql`
           middleImage {
             middleImageTitle
             middleImageUrl {
-              childImageSharp {
-                fluid(srcSetBreakpoints: [200]) {
+              thumbImage: childImageSharp {
+                fixed(width: 400) {
+                  ...GatsbyImageSharpFixed
+                }
+              }
+              expandedImage: childImageSharp {
+                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -359,8 +374,13 @@ export const query = graphql`
           rightImage {
             rightImageTitle
             rightImageUrl {
-              childImageSharp {
-                fluid(srcSetBreakpoints: [200]) {
+              thumbImage: childImageSharp {
+                fixed(width: 400) {
+                  ...GatsbyImageSharpFixed
+                }
+              }
+              expandedImage: childImageSharp {
+                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -371,8 +391,13 @@ export const query = graphql`
           textTitle
           sideGalleryImages {
             imageUrl {
-              childImageSharp {
-                fluid(srcSetBreakpoints: [200]) {
+              thumbImage: childImageSharp {
+                fixed(width: 200) {
+                  ...GatsbyImageSharpFixed
+                }
+              }
+              expandedImage: childImageSharp {
+                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
                   ...GatsbyImageSharpFluid
                 }
               }

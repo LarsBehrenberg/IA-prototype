@@ -44,11 +44,12 @@ const Header = ({
                     >
                       <span className="ttde-gallery-url" data-index="0">
                         <Img
-                          sizes={{
-                            ...topImage.topImageUrl.childImageSharp.fluid,
-                            sizes: '(max-width: 800px) 100vw, 800px',
-                          }}
+                          fixed={topImage.topImageUrl.thumbImage.fixed}
                           alt={topImage.topImageTitle}
+                          style={{
+                            width: '100%',
+                            height: '100%',
+                          }}
                         />
                       </span>
                     </figure>
@@ -67,11 +68,12 @@ const Header = ({
                       >
                         <span className="ttde-gallery-url" data-index="1">
                           <Img
-                            sizes={{
-                              ...leftImage.leftImageUrl.childImageSharp.fluid,
-                              sizes: '(max-width: 200px) 100vw, 200px',
-                            }}
+                            fixed={leftImage.leftImageUrl.thumbImage.fixed}
                             alt={leftImage.leftImageTitle}
+                            style={{
+                              width: '100%',
+                              height: '100%',
+                            }}
                           />
                         </span>
                       </figure>
@@ -89,12 +91,12 @@ const Header = ({
                       >
                         <span className="ttde-gallery-url" data-index="2">
                           <Img
-                            sizes={{
-                              ...middleImage.middleImageUrl.childImageSharp
-                                .fluid,
-                              sizes: '(max-width: 200px) 100vw, 200px',
-                            }}
+                            fixed={middleImage.middleImageUrl.thumbImage.fixed}
                             alt={middleImage.middleImageTitle}
+                            style={{
+                              width: '100%',
+                              height: '100%',
+                            }}
                           />
                         </span>
                       </figure>
@@ -115,11 +117,12 @@ const Header = ({
                             <span>More images 20+</span>
                           </span>
                           <Img
-                            sizes={{
-                              ...rightImage.rightImageUrl.childImageSharp.fluid,
-                              sizes: '(max-width: 200px) 100vw, 200px',
-                            }}
+                            fixed={rightImage.rightImageUrl.thumbImage.fixed}
                             alt={rightImage.rightImageTitle}
+                            style={{
+                              width: '100%',
+                              height: '100%',
+                            }}
                           />
                         </span>
                       </figure>
