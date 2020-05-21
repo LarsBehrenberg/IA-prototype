@@ -196,7 +196,7 @@ const PostList = ({ date, cover, path, title, excerpt, view }) => (
         <span>
           {view === 'grid' ? `${excerpt.substring(0, 75)}...` : excerpt}
         </span>
-        <span>{new Date(date).toDateString()}</span>
+        <span>{date}</span>
       </Info>
     </StyledLink>
   </Wrapper>
