@@ -85,7 +85,8 @@ const Info = styled.div`
 `
 const Title = styled.h2`
   margin-bottom: 0.6rem;
-  color: #f3f3f380;
+  /* color: #f3f3f380; */
+  color: #dd3030;
   font-weight: 400;
 `
 
