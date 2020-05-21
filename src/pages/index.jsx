@@ -142,7 +142,6 @@ const Index = ({ data }) => {
       <SEO
         title="Home | ImpressionistArts.com"
         description="Today, impressionism is the most popular artistic movement. But when the impressionists were trying to establish themselves in Paris in the 1860s and 1870s..."
-        banner={edges[0].node.frontmatter.cover.childImageSharp.fluid.src}
       />
       <ImageCarousel />
       <ButtonWrapper>
