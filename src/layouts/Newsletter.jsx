@@ -105,7 +105,6 @@ const TextWrapper = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
   padding-right: 3rem;
   color: #fff;
   & h2 {
@@ -119,6 +118,7 @@ const TextWrapper = styled.div`
 
   @media (max-width: 700px) {
     padding-right: 0;
+    margin-top: 0.3em;
   }
 `
 const Newsletter = () => {
