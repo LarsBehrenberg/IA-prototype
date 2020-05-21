@@ -105,6 +105,7 @@ const TextWrapper = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   padding-right: 3rem;
   color: #fff;
   & h2 {
