@@ -2,7 +2,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Img from 'gatsby-image'
-import { adsenseId } from '../../config/site'
+import { adsenseId } from '../../../config/site'
 import AdSense from 'react-adsense'
 
 const TextSection = ({

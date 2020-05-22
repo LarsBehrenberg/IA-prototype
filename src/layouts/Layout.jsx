@@ -1,13 +1,12 @@
 import React from 'react'
 import { Footer, Navbar } from 'layouts'
 import SEO from '../components/SEO'
-import '../styles/all.css'
 
 import { ThemeProvider } from 'emotion-theming'
 import theme from '../../config/theme'
 import { css, Global } from '@emotion/core'
 import styled from '@emotion/styled'
-import headroom from '../styles/headroom'
+import styles from '../styles/styles'
 
 const ChildWrapper = styled.div`
   padding-top: 2rem;
@@ -18,7 +17,7 @@ const Layout = ({ children }) => (
     <>
       <Global
         styles={css`
-          ${headroom}
+          ${styles}
         `}
       />
       <SEO />
