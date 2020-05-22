@@ -1587,9 +1587,13 @@ const styles = css`
     background-color: rgba(0, 0, 0, 0.98);
   }
 
-  .mySlides img {
+  .gallery-image-container {
     height: 77vh;
     object-fit: contain;
+
+    position: relative;
+    display: block;
+    margin: 0 auto;
   }
 
   @media only screen and (max-width: 992px) {
@@ -1602,8 +1606,9 @@ const styles = css`
       max-height: 55vh;
     }
 
-    .mySlides img {
+    .gallery-image-container {
       height: 52.3vh;
+      max-height: 52.3vh;
     }
   }
 
@@ -1617,7 +1622,7 @@ const styles = css`
       max-height: 600px;
     }
 
-    .mySlides img {
+    .gallery-image-container {
       height: 550px;
       max-width: 800px;
       width: auto;

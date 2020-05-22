@@ -7,6 +7,7 @@ import PropTypes from 'prop-types'
 import { SEO, TextSection, Header, Suggestion, Video } from 'components'
 import { Newsletter, Layout } from 'layouts'
 import { Helmet } from 'react-helmet'
+import Img from 'gatsby-image'
 
 let slideIndex = 1
 
@@ -81,9 +82,14 @@ const Post = ({ data, pageContext }) => {
       slides[i].style.display = 'none'
     }
     slides[slideIndex - 1].style.display = 'block'
-    captionText.innerHTML = document.getElementsByClassName('gallery-image')[
-      slideIndex - 1
-    ].alt
+
+    captionText.innerHTML = document
+      .getElementsByClassName('gallery-image')
+      [slideIndex - 1].querySelectorAll('img')[1].alt
+      ? document
+          .getElementsByClassName('gallery-image')
+          [slideIndex - 1].querySelectorAll('img')[1].alt
+      : 'An image description is missing'
 
     numberText.innerHTML = `${slideIndex} / ${
       document.getElementsByClassName('gallery-image').length
@@ -137,20 +143,31 @@ const Post = ({ data, pageContext }) => {
             className="mySlides"
             key={modalImage.imageUrl.expandedImage.fluid.src}
           >
-            <img
-              src={modalImage.imageUrl.expandedImage.fluid.src}
-              className="gallery-image"
-              alt={
-                modalImage.imageTitle == null
-                  ? 'An image title is missing'
-                  : modalImage.imageTitle
-              }
-              style={{ width: '100%' }}
-            />
+            {returnModalImage(
+              modalImage.imageUrl.expandedImage.fluid,
+              modalImage.imageTitle
+            )}
           </div>
         ))
       : null
   }
+
+  const returnModalImage = (image, alt) => (
+    <div className="gallery-image-container">
+      <Img
+        fluid={image}
+        className="gallery-image"
+        alt={alt === null ? 'An image title is missing' : alt}
+        style={{
+          width: '100%',
+          height: '100%',
+        }}
+        imgStyle={{
+          objectFit: 'contain',
+        }}
+      />
+    </div>
+  )
 
   return (
     <>
@@ -213,52 +230,28 @@ const Post = ({ data, pageContext }) => {
         </button>
         <div className="modal-content">
           <div className="mySlides" key="slide-1">
-            <img
-              src={topImage.topImageUrl.expandedImage.fluid.src}
-              className="gallery-image"
-              alt={
-                topImage.topImageTitle == null
-                  ? 'An image title is missing'
-                  : topImage.topImageTitle
-              }
-              style={{ width: '100%' }}
-            />
+            {returnModalImage(
+              topImage.topImageUrl.expandedImage.fluid,
+              topImage.topImageTitle
+            )}
           </div>
           <div className="mySlides" key="slide-2">
-            <img
-              src={leftImage.leftImageUrl.expandedImage.fluid.src}
-              className="gallery-image"
-              alt={
-                leftImage.leftImageTitle == null
-                  ? 'An image title is missing'
-                  : leftImage.leftImageTitle
-              }
-              style={{ width: '100%' }}
-            />
+            {returnModalImage(
+              leftImage.leftImageUrl.expandedImage.fluid,
+              leftImage.leftImageTitle
+            )}
           </div>
           <div className="mySlides" key="slide-3">
-            <img
-              src={middleImage.middleImageUrl.expandedImage.fluid.src}
-              className="gallery-image"
-              alt={
-                middleImage.middleImageTitle == null
-                  ? 'An image title is missing'
-                  : middleImage.middleImageTitle
-              }
-              style={{ width: '100%' }}
-            />
+            {returnModalImage(
+              middleImage.middleImageUrl.expandedImage.fluid,
+              middleImage.middleImageTitle
+            )}
           </div>
           <div className="mySlides" key="slide-4">
-            <img
-              src={rightImage.rightImageUrl.expandedImage.fluid.src}
-              className="gallery-image"
-              alt={
-                rightImage.rightImageTitle == null
-                  ? 'An image title is missing'
-                  : rightImage.rightImageTitle
-              }
-              style={{ width: '100%' }}
-            />
+            {returnModalImage(
+              rightImage.rightImageUrl.expandedImage.fluid,
+              rightImage.rightImageTitle
+            )}
           </div>
 
           {textSections.map(section => {

@@ -74,9 +74,14 @@ const AboutUs = ({ data }) => {
       slides[i].style.display = 'none'
     }
     slides[slideIndex - 1].style.display = 'block'
-    captionText.innerHTML = document.getElementsByClassName('gallery-image')[
-      slideIndex - 1
-    ].alt
+
+    captionText.innerHTML = document
+      .getElementsByClassName('gallery-image')
+      [slideIndex - 1].querySelectorAll('img')[1].alt
+      ? document
+          .getElementsByClassName('gallery-image')
+          [slideIndex - 1].querySelectorAll('img')[1].alt
+      : 'An image description is missing'
 
     numberText.innerHTML = `${slideIndex} / ${
       document.getElementsByClassName('gallery-image').length
@@ -123,13 +128,30 @@ const AboutUs = ({ data }) => {
     }
   }
 
+  const returnModalImage = (image, alt) => (
+    <div className="gallery-image-container">
+      <Img
+        fluid={image}
+        className="gallery-image"
+        alt={alt === null ? 'An image title is missing' : alt}
+        style={{
+          width: '100%',
+          height: '100%',
+        }}
+        imgStyle={{
+          objectFit: 'contain',
+        }}
+      />
+    </div>
+  )
+
   return (
     <>
       <Layout>
         <SEO
           title="About Us | ImpressionistArts.com"
           description="I don't like art. Not most of it. But I have always loved impressionism. Always. I remember having posters of impressionist paintings on my childhood bedroom..."
-          banner={topImage.topImageUrl.childImageSharp.fixed.src}
+          banner={topImage.topImageUrl.expandedImage.fluid.src}
         />
         <div className="container" style={{ paddingTop: '40px' }}>
           <div className="row">
@@ -160,7 +182,7 @@ const AboutUs = ({ data }) => {
                         >
                           <span className="ttde-gallery-url" data-index="0">
                             <Img
-                              fixed={topImage.topImageUrl.childImageSharp.fixed}
+                              fixed={topImage.topImageUrl.thumbImage.fixed}
                               alt={topImage.topImageTitle}
                               style={{ height: '100%', width: '100%' }}
                             />
@@ -181,9 +203,7 @@ const AboutUs = ({ data }) => {
                           >
                             <span className="ttde-gallery-url" data-index="1">
                               <Img
-                                fixed={
-                                  leftImage.leftImageUrl.childImageSharp.fixed
-                                }
+                                fixed={leftImage.leftImageUrl.thumbImage.fixed}
                                 alt={leftImage.leftImageTitle}
                                 style={{ height: '100%', width: '100%' }}
                               />
@@ -204,8 +224,7 @@ const AboutUs = ({ data }) => {
                             <span className="ttde-gallery-url" data-index="2">
                               <Img
                                 fixed={
-                                  middleImage.middleImageUrl.childImageSharp
-                                    .fixed
+                                  middleImage.middleImageUrl.thumbImage.fixed
                                 }
                                 alt={middleImage.middleImageTitle}
                                 style={{ height: '100%', width: '100%' }}
@@ -234,7 +253,7 @@ const AboutUs = ({ data }) => {
                               </span>
                               <Img
                                 fixed={
-                                  rightImage.rightImageUrl.childImageSharp.fixed
+                                  rightImage.rightImageUrl.thumbImage.fixed
                                 }
                                 alt={rightImage.rightImageTitle}
                                 style={{ height: '100%', width: '100%' }}
@@ -340,52 +359,28 @@ const AboutUs = ({ data }) => {
         </button>
         <div className="modal-content">
           <div className="mySlides" key="slide-1">
-            <img
-              src={topImage.topImageUrl.childImageSharp.fixed.src}
-              className="gallery-image"
-              alt={
-                topImage.topImageTitle == null
-                  ? 'An image title is missing'
-                  : topImage.topImageTitle
-              }
-              style={{ width: '100%' }}
-            />
+            {returnModalImage(
+              topImage.topImageUrl.expandedImage.fluid,
+              topImage.topImageTitle
+            )}
           </div>
           <div className="mySlides" key="slide-2">
-            <img
-              src={leftImage.leftImageUrl.childImageSharp.fixed.src}
-              className="gallery-image"
-              alt={
-                leftImage.leftImageTitle == null
-                  ? 'An image title is missing'
-                  : leftImage.leftImageTitle
-              }
-              style={{ width: '100%' }}
-            />
+            {returnModalImage(
+              leftImage.leftImageUrl.expandedImage.fluid,
+              leftImage.leftImageTitle
+            )}
           </div>
           <div className="mySlides" key="slide-3">
-            <img
-              src={middleImage.middleImageUrl.childImageSharp.fixed.src}
-              className="gallery-image"
-              alt={
-                middleImage.middleImageTitle == null
-                  ? 'An image title is missing'
-                  : middleImage.middleImageTitle
-              }
-              style={{ width: '100%' }}
-            />
+            {returnModalImage(
+              middleImage.middleImageUrl.expandedImage.fluid,
+              middleImage.middleImageTitle
+            )}
           </div>
           <div className="mySlides" key="slide-4">
-            <img
-              src={rightImage.rightImageUrl.childImageSharp.fixed.src}
-              className="gallery-image"
-              alt={
-                rightImage.rightImageTitle == null
-                  ? 'An image title is missing'
-                  : rightImage.rightImageTitle
-              }
-              style={{ width: '100%' }}
-            />
+            {returnModalImage(
+              rightImage.rightImageUrl.expandedImage.fluid,
+              rightImage.rightImageTitle
+            )}
           </div>
 
           <div className="caption-container">
@@ -425,37 +420,61 @@ export const query = graphql`
         subTitle
         upperGalleryImages {
           topImage {
+            topImageTitle
             topImageUrl {
-              childImageSharp {
-                fixed(width: 800) {
+              thumbImage: childImageSharp {
+                fixed(width: 700) {
                   ...GatsbyImageSharpFixed
+                }
+              }
+              expandedImage: childImageSharp {
+                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
           }
           leftImage {
+            leftImageTitle
             leftImageUrl {
-              childImageSharp {
-                fixed(width: 800) {
+              thumbImage: childImageSharp {
+                fixed(width: 400) {
                   ...GatsbyImageSharpFixed
+                }
+              }
+              expandedImage: childImageSharp {
+                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
           }
           middleImage {
+            middleImageTitle
             middleImageUrl {
-              childImageSharp {
-                fixed(width: 800) {
+              thumbImage: childImageSharp {
+                fixed(width: 400) {
                   ...GatsbyImageSharpFixed
+                }
+              }
+              expandedImage: childImageSharp {
+                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
           }
           rightImage {
+            rightImageTitle
             rightImageUrl {
-              childImageSharp {
-                fixed(width: 800) {
+              thumbImage: childImageSharp {
+                fixed(width: 400) {
                   ...GatsbyImageSharpFixed
+                }
+              }
+              expandedImage: childImageSharp {
+                fluid(sizes: "800px", srcSetBreakpoints: [800]) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
