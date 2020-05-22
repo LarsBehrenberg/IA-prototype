@@ -6,6 +6,26 @@
   </strong>
 </p>
 
+## How to install
+
+1. Navigate in your terminal to this folder
+
+```bash
+  cd ../IA\ -\ Final\ Build
+```
+
+2. Install necessary packages
+
+```bash
+  yarn install || npm install
+```
+
+3. Run the development server
+
+```bash
+  yarn develop || npm develop
+```
+
 ## Features
 
 - Gatsby v2
