@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import '../../styles/all.css'
+import '../preview-styles/preview-styles.css'
 import { SocialIcon } from 'react-social-icons'
 
 const FooterPreview = ({ entry }) => {

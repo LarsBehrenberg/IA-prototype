@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import '../../styles/all.css'
+import '../preview-styles/preview-styles.css'
 
 const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
   const data = entry.getIn(['data']).toJS()

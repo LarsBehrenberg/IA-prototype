@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import '../../styles/all.css'
+import '../preview-styles/preview-styles.css'
 import '../preview-styles/contact-preview.css'
 
 const ContactUsPreview = ({ entry, widgetFor, getAsset }) => {
