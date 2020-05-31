@@ -15,6 +15,6 @@ module.exports = {
   themeColor: '#161C2E',
   backgroundColor: '#ffffff',
   twitter: '@natgeophotos', // Twitter Username
-  instagram: 'natgeoyourshot', // Instagram Username - creates the Gallery page
+  instagram: 'impressionismart', // Instagram Username - creates the Gallery page
   adsenseId: '', //eg: ca-pub-7292810486004926
 }
