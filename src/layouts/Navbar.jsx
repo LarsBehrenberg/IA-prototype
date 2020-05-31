@@ -196,7 +196,7 @@ const DropdownWrapper = styled.div`
 const Navbar = () => {
   const data = useStaticQuery(graphql`
     query {
-      file(relativePath: { eq: "claude-monet-nympheas.jpg" }) {
+      file(absolutePath: { regex: "/backgrounds/claude-monet-nympheas.jpg/" }) {
         childImageSharp {
           fixed(height: 60, width: 800, quality: 80) {
             ...GatsbyImageSharpFixed

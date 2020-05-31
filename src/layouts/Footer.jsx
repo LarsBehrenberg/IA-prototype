@@ -138,7 +138,7 @@ const Footer = () => {
         </div>
         <div className="col-sm-3">
           <Link
-            to={`/${rightString.path}`}
+            to={rightString.path === 'index' ? '/' : `/${rightString.path}`}
             style={{
               lineHeight: '30px',
               color: 'white',

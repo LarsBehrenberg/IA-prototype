@@ -9,3 +9,5 @@ export { default as Header } from './Posts/Header'
 export { default as Suggestion } from './Posts/Suggestion'
 
 export { default as Game } from './Game/Game'
+
+export { default as BackgroundImage } from './Contact/BackgroundImage'

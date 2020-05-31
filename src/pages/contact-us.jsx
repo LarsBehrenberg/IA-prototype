@@ -1,30 +1,15 @@
 import React from 'react'
 import { Layout } from 'layouts'
 import styled from '@emotion/styled'
-import Img from 'gatsby-image'
 import { graphql } from 'gatsby'
 import remark from 'remark'
 import remarkHTML from 'remark-html'
-import { SEO } from 'components'
+import { SEO, BackgroundImage } from 'components'
 
 const Container = styled.div`
   margin: 0 auto;
   width: 100vw;
   display: flex;
-`
-
-const ImageWrapper = styled.div`
-  display: none;
-  @media (min-width: 900px) {
-    display: inline-block;
-    width: 50%;
-
-    img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-  }
 `
 
 const FormWrapper = styled.div`
@@ -77,22 +62,23 @@ const InputWrapper = styled.div`
     pointer-events: none;
   }
 
-  & input:focus ~ span,
-  textarea:focus ~ span {
-    width: 94%;
-    -webkit-transition: all 0.075s ease;
-    transition: all 0.075s ease;
-  }
-
   input:focus ~ label,
   textarea:focus ~ label,
   input:valid ~ label,
+  input[type='email']:placeholder-shown ~ label,
   textarea:valid ~ label {
     font-size: 0.75em;
     color: #999;
     top: -13px;
     -webkit-transition: all 0.225s ease;
     transition: all 0.225s ease;
+  }
+
+  & input:focus ~ span,
+  textarea:focus ~ span {
+    width: 94%;
+    -webkit-transition: all 0.075s ease;
+    transition: all 0.075s ease;
   }
 
   @media (max-width: 650px) {
@@ -140,51 +126,36 @@ const ContactUs = ({ data }) => {
       <SEO
         title="Contact Us | ImpressionistArts.com"
         description="Want To Get In Touch? Feel free to contact us using our contact form below or message us directly at info@impressionistarts.com..."
-        banner={
-          data.markdownRemark.frontmatter.backgroundImage.childImageSharp.fluid
-            .src
-        }
       />
       <Container>
-        <ImageWrapper>
-          <Img
-            fluid={
-              data.markdownRemark.frontmatter.backgroundImage.childImageSharp
-                .fluid
-            }
-            style={{ objectFit: 'cover', height: '100%' }}
-          />
-        </ImageWrapper>
+        <BackgroundImage />
         <FormWrapper>
           <IntroTextWrapper
             dangerouslySetInnerHTML={{
               __html: toHTML(data.markdownRemark.frontmatter.text),
             }}
+          ></IntroTextWrapper>
+          <form
+            name="Contact Form"
+            method="POST"
+            data-netlify="true"
+            data-netlify-recaptcha="true"
+            action="/thank-you"
           >
-            {/* <h1>Want To Get In Touch?</h1>
-          <h2>
-            Feel free to contact us using our contact form below or message us
-            directly at{' '}
-            <a href="mailto:info@impressionistarts.com">
-              info@impressionistarts.com
-            </a>
-            .
-          </h2> */}
-          </IntroTextWrapper>
-          <form method="post" netlify-honeypot="bot-field" data-netlify="true">
-            <input type="hidden" name="bot-field" />
+            <input type="hidden" name="form-name" value="Contact Form" />
             <InputWrapper>
               <input type="text" name="name" required />
               <label>Name</label>
             </InputWrapper>
             <InputWrapper>
-              <input type="text" name="name" required />
+              <input type="email" name="email" placeholder="" required />
               <label>Email</label>
             </InputWrapper>
             <InputWrapper style={{ width: '98%', marginTop: '0' }}>
               <textarea type="text" name="message" required />
               <label>Message</label>
             </InputWrapper>
+            <div data-netlify-recaptcha="true"></div>
             <SubmitButton type="submit">Send Message</SubmitButton>
           </form>
         </FormWrapper>
@@ -201,13 +172,6 @@ export const query = graphql`
       html
       frontmatter {
         text
-        backgroundImage {
-          childImageSharp {
-            fluid(maxWidth: 750, quality: 90, traceSVG: { color: "#2B2B2F" }) {
-              ...GatsbyImageSharpFluid_withWebp_tracedSVG
-            }
-          }
-        }
       }
     }
   }

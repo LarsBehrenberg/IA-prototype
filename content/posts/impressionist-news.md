@@ -2,7 +2,7 @@
 id: post-JcdFACMUe
 path: impressionism-news
 date: 2020-05-05T06:45:19.751Z
-subTitle: '2020'
+subTitle: "2020"
 title: Impressionism News
 tags:
   - more
@@ -19,7 +19,7 @@ upperGalleryImages:
     leftImageUrl: /assets/claude-monet-nympheas.jpg
     leftImageTitle: Claude Monet's Nympheas (Water Lilies)
   middleImage:
-    middleImageUrl: /assets/manet-bar-at-folies-bergere.jpg
+    middleImageUrl: /assets/camille-corot-forest-of-fontainebleau.jpg
     middleImageTitle: Edouard Manet's Bar at the Folies Bergere
   rightImage:
     rightImageUrl: /assets/renoir-the-dancer-1874.jpg
@@ -32,7 +32,16 @@ textSections:
       explain below.
 
 
+      #### June 2020
+
+
+      On 1 June 2020 the Boston Museum of Fine Arts is delivering an online course for children in grades 1-5 entitled [Exploring Impressionism: The Art of Claude Monet](https://mfa.org/event/distance-learning/exploring-impressionism-the-art-of-claude-monet?event=62431).
+
+
       #### May 2020
+
+
+      The UK's Guardian has produced this fun online [art quiz](https://www.theguardian.com/culture/2020/may/15/how-do-we-know-monet-painted-this-outdoors-the-great-british-art-quiz), including a question about Claude Monet.
 
 
       The Foundation Monet has launched an [online tour](https://fondation-monet.com/visite-virtuelle/) of Monet's House in Giverny.  Explore Monet's bedroom, his yellow kitchen adorned with Japanese art, and his blue-tiled kitchen.  
@@ -57,6 +66,9 @@ textSections:
 
 
       #### April 2020
+    sideGalleryImages:
+      - imageUrl: /assets/manet-railway.jpg
+        imageTitle: Manet's At the Railway Station
 ---
 
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.

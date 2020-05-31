@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import styled from '@emotion/styled'
 import Img from 'gatsby-image'
 import { useStaticQuery, graphql } from 'gatsby'
+import addToMailchimp from 'gatsby-plugin-mailchimp'
 
 const Wrapper = styled.div`
   margin-top: 4rem;
@@ -121,20 +122,31 @@ const TextWrapper = styled.div`
     margin-top: 0.3em;
   }
 `
+
+const NewsletterResponse = styled.h2`
+  color: white;
+  font-weight: 500;
+`
+
 const Newsletter = () => {
-  // const [email, setEmail] = useState('');
+  const [state, setState] = useState({
+    email: '',
+    result: { result: '', msg: '' },
+  })
 
-  // const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
-  // e.preventDefault();
-  // };
+  const _handleSubmit = async e => {
+    e.preventDefault()
+    const result = await addToMailchimp(state.email)
+    setState({ email: state.email, result: result })
+  }
 
-  // const handleEmailChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-  // setEmail(event.currentTarget.value);
-  // };
+  const handleEmailChange = event => {
+    setState({ email: event.currentTarget.value, result: state.result })
+  }
 
   const data = useStaticQuery(graphql`
     query {
-      file(relativePath: { eq: "claude-monet-nympheas.jpg" }) {
+      file(absolutePath: { regex: "/backgrounds/claude-monet-nympheas.jpg/" }) {
         childImageSharp {
           fluid(maxWidth: 600, quality: 90) {
             ...GatsbyImageSharpFluid_withWebp_tracedSVG
@@ -149,7 +161,7 @@ const Newsletter = () => {
       <Image>
         <Img fluid={data.file.childImageSharp.fluid} />
       </Image>
-      <Form /* onSubmit={handleSubmit} */>
+      <Form onSubmit={_handleSubmit}>
         <TextWrapper>
           <h2>Join The Monthly Newsletter!</h2>
           <p>
@@ -158,14 +170,32 @@ const Newsletter = () => {
           </p>
         </TextWrapper>
         <InputWrapper>
-          <input
-            placeholder="Email address"
-            name="email"
-            type="email"
-            aria-label="email"
-            // onChange={handleEmailChange}
-          />
-          <button type="submit">Subscribe</button>
+          {state.result.result === 'success' ? (
+            <NewsletterResponse>
+              Thank you for subscribing to our newsletter!
+            </NewsletterResponse>
+          ) : state.result.msg.includes('already') ? (
+            <NewsletterResponse>
+              This email is already subscribed to our newsletter.
+            </NewsletterResponse>
+          ) : state.result.msg.includes('valid') ? (
+            <NewsletterResponse>
+              The email you entered is not valid.
+            </NewsletterResponse>
+          ) : (
+            <>
+              <input
+                placeholder="Email address"
+                name="email"
+                type="email"
+                aria-label="email"
+                onChange={handleEmailChange}
+              />
+              <button type="submit" label="Submit">
+                Subscribe
+              </button>
+            </>
+          )}
         </InputWrapper>
       </Form>
     </Wrapper>

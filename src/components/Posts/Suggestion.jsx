@@ -6,7 +6,7 @@ import { graphql, useStaticQuery } from 'gatsby'
 const Suggestion = ({ previousNeighbor, nextNeighbor }) => {
   const data = useStaticQuery(graphql`
     query {
-      file(relativePath: { eq: "impressionism-quiz.jpg" }) {
+      file(absolutePath: { regex: "/backgrounds/impressionism-quiz.jpg/" }) {
         childImageSharp {
           fixed(width: 300, quality: 80) {
             ...GatsbyImageSharpFixed
