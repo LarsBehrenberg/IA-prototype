@@ -170,10 +170,16 @@ const ContactUs = ({ data }) => {
             method="POST"
             data-netlify="true"
             // data-netlify-recaptcha="true"
+            netlify-honeypot="bot-field"
             action="/thank-you"
             onSubmit={handleSubmit}
           >
             <input type="hidden" name="form-name" value="contact-us" />
+            <p class="hidden">
+              <label>
+                Don’t fill this out if you're human: <input name="bot-field" />
+              </label>
+            </p>
             <InputWrapper>
               <input type="text" name="name" onChange={handleChange} required />
               <label>Name</label>
