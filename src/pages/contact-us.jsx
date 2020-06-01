@@ -2,6 +2,7 @@ import React from 'react'
 import { Layout } from 'layouts'
 import styled from '@emotion/styled'
 import { graphql } from 'gatsby'
+import { navigate } from 'gatsby-link'
 import remark from 'remark'
 import remarkHTML from 'remark-html'
 import { SEO, BackgroundImage } from 'components'
@@ -121,6 +122,34 @@ const SubmitButton = styled.button`
 
 const ContactUs = ({ data }) => {
   const toHTML = value => remark().use(remarkHTML).processSync(value).toString()
+
+  const [state, setState] = React.useState({})
+
+  function encode(data) {
+    return Object.keys(data)
+      .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
+      .join('&')
+  }
+
+  const handleChange = e => {
+    setState({ ...state, [e.target.name]: e.target.value })
+  }
+
+  const handleSubmit = e => {
+    e.preventDefault()
+    const form = e.target
+    fetch('/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: encode({
+        'form-name': form.getAttribute('name'),
+        ...state,
+      }),
+    })
+      .then(() => navigate(form.getAttribute('action')))
+      .catch(error => alert(error))
+  }
+
   return (
     <Layout>
       <SEO
@@ -141,18 +170,30 @@ const ContactUs = ({ data }) => {
             data-netlify="true"
             data-netlify-recaptcha="true"
             action="/thank-you"
+            onSubmit={handleSubmit}
           >
             <input type="hidden" name="form-name" value="Contact Form" />
             <InputWrapper>
-              <input type="text" name="name" required />
+              <input type="text" name="name" onChange={handleChange} required />
               <label>Name</label>
             </InputWrapper>
             <InputWrapper>
-              <input type="email" name="email" placeholder="" required />
+              <input
+                type="email"
+                name="email"
+                placeholder=""
+                onChange={handleChange}
+                required
+              />
               <label>Email</label>
             </InputWrapper>
             <InputWrapper style={{ width: '98%', marginTop: '0' }}>
-              <textarea type="text" name="message" required />
+              <textarea
+                type="text"
+                name="message"
+                onChange={handleChange}
+                required
+              />
               <label>Message</label>
             </InputWrapper>
             <div data-netlify-recaptcha="true"></div>
