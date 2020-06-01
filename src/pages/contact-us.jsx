@@ -146,6 +146,7 @@ const ContactUs = ({ data }) => {
         ...state,
       }),
     })
+      .then(data => console.log(data))
       .then(() => navigate(form.getAttribute('action')))
       .catch(error => alert(error))
   }
@@ -165,14 +166,14 @@ const ContactUs = ({ data }) => {
             }}
           ></IntroTextWrapper>
           <form
-            name="Contact Form"
+            name="contact-us"
             method="POST"
             data-netlify="true"
-            data-netlify-recaptcha="true"
+            // data-netlify-recaptcha="true"
             action="/thank-you"
             onSubmit={handleSubmit}
           >
-            <input type="hidden" name="form-name" value="Contact Form" />
+            <input type="hidden" name="form-name" value="contact-us" />
             <InputWrapper>
               <input type="text" name="name" onChange={handleChange} required />
               <label>Name</label>
@@ -196,7 +197,7 @@ const ContactUs = ({ data }) => {
               />
               <label>Message</label>
             </InputWrapper>
-            <div data-netlify-recaptcha="true"></div>
+            {/* <div data-netlify-recaptcha="true"></div> */}
             <SubmitButton type="submit">Send Message</SubmitButton>
           </form>
         </FormWrapper>
