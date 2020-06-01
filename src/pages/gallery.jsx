@@ -9,20 +9,20 @@ import { css } from '@emotion/core'
 import galleryStyles from '../styles/galleryStyles'
 
 const Gallery = ({ data }) => {
-  const { edges } = data.allInstaNode
-  const nodeURL = 'https://www.instagram.com/p'
-  // const {
-  //   full_name,
-  //   username,
-  //   biography,
-  //   profile_pic_url_hd,
-  //   edge_follow,
-  //   edge_followed_by,
-  // } = data.instaUserNode
+  // const { edges } = data.allInstaNode
+  // const nodeURL = 'https://www.instagram.com/p'
+  // // const {
+  // //   full_name,
+  // //   username,
+  // //   biography,
+  // //   profile_pic_url_hd,
+  // //   edge_follow,
+  // //   edge_followed_by,
+  // // } = data.instaUserNode
 
   return (
     <Layout>
-      <SEO
+      {/* <SEO
         title="Gallery | ImpressionistArts.com"
         banner={edges[0].node.localFile.childImageSharp.fixed.src}
       />
@@ -32,7 +32,7 @@ const Gallery = ({ data }) => {
           ${galleryStyles}
         `}
       >
-        {/* <div className="gallery-container">
+        <div className="gallery-container">
           <div className="profile">
             <div className="profile-image">
               <img src={profile_pic_url_hd} alt="Instagram profile" />
@@ -74,7 +74,7 @@ const Gallery = ({ data }) => {
               </p>
             </div>
           </div>
-        </div> */}
+        </div>
         <div className="gallery-container" style={{ paddingTop: '80px' }}>
           <div className="gallery">
             {edges.map(({ node }) => {
@@ -138,7 +138,7 @@ const Gallery = ({ data }) => {
             })}
           </div>
         </div>
-      </div>
+      </div> */}
       <Newsletter />
     </Layout>
   )
@@ -146,23 +146,23 @@ const Gallery = ({ data }) => {
 
 export default Gallery
 
-export const query = graphql`
-  query {
-    allInstaNode(sort: { fields: timestamp, order: DESC }, limit: 12) {
-      edges {
-        node {
-          id
-          likes
-          comments
-          localFile {
-            childImageSharp {
-              fixed(width: 300, height: 300) {
-                ...GatsbyImageSharpFixed
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-`
+// export const query = graphql`
+//   query {
+//     allInstaNode(sort: { fields: timestamp, order: DESC }, limit: 12) {
+//       edges {
+//         node {
+//           id
+//           likes
+//           comments
+//           localFile {
+//             childImageSharp {
+//               fixed(width: 300, height: 300) {
+//                 ...GatsbyImageSharpFixed
+//               }
+//             }
+//           }
+//         }
+//       }
+//     }
+//   }
+// `
