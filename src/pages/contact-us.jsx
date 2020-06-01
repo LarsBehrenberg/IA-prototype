@@ -169,7 +169,7 @@ const ContactUs = ({ data }) => {
             name="contact-us"
             method="POST"
             data-netlify="true"
-            data-netlify-recaptcha="true"
+            // data-netlify-recaptcha="true"
             action="/thank-you"
             onSubmit={handleSubmit}
           >
@@ -197,7 +197,7 @@ const ContactUs = ({ data }) => {
               />
               <label>Message</label>
             </InputWrapper>
-            <div data-netlify-recaptcha="true"></div>
+            {/* <div data-netlify-recaptcha="true"></div> */}
             <SubmitButton type="submit">Send Message</SubmitButton>
           </form>
         </FormWrapper>
