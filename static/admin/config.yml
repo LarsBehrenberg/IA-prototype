@@ -51,12 +51,13 @@ collections:
           widget: 'markdown',
           hint: 'The introduction text shown below the upper gallery',
         }
-      - {
-          name: 'tags',
-          label: 'Tags',
-          widget: 'list',
-          hint: 'Tags will be a way to sort/organize articles',
-        }
+      - name: 'tags'
+        label: 'Tags'
+        widget: 'select'
+        options: [ 'Impressionists', 'Pre-Impressionists', 'Post-Impressionists', 'Exhibitions', 'More']
+        default: 'Impressionists'
+        required: true
+        hint: 'Tags will be a way to sort/organize articles'
       - {
           name: 'cover',
           label: 'Featured Image',
