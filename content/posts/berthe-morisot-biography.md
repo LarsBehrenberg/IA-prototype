@@ -4,8 +4,7 @@ path: berthe-morisot-biography
 date: 2020-04-12T04:32:37.229Z
 subTitle: Biography of
 title: Berthe Morisot
-tags:
-  - Impressionists
+tags: Impressionists
 cover: /assets/berthe-morisot-with-a-bouquet-edouard-manet.jpg
 links:
   - post-eDpyJwzAF
