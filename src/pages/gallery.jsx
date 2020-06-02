@@ -11,19 +11,20 @@ import galleryStyles from '../styles/galleryStyles'
 const Gallery = ({ data }) => {
   // const { edges } = data.allInstaNode
   // const nodeURL = 'https://www.instagram.com/p'
-  // // const {
-  // //   full_name,
-  // //   username,
-  // //   biography,
-  // //   profile_pic_url_hd,
-  // //   edge_follow,
-  // //   edge_followed_by,
-  // // } = data.instaUserNode
+  // const {
+  //   full_name,
+  //   username,
+  //   biography,
+  //   profile_pic_url_hd,
+  //   edge_follow,
+  //   edge_followed_by,
+  // } = data.instaUserNode
 
   return (
     <Layout>
       {/* <SEO
         title="Gallery | ImpressionistArts.com"
+        description={`Welcome to the ImpressionistArts Gallery || ${biography} ...`}
         banner={edges[0].node.localFile.childImageSharp.fixed.src}
       />
       <div
@@ -75,7 +76,7 @@ const Gallery = ({ data }) => {
             </div>
           </div>
         </div>
-        <div className="gallery-container" style={{ paddingTop: '80px' }}>
+        <div className="gallery-container">
           <div className="gallery">
             {edges.map(({ node }) => {
               return (
@@ -97,7 +98,7 @@ const Gallery = ({ data }) => {
                     <ul>
                       <li className="gallery-item-likes">
                         <span role="img" aria-label="heart">
-                          <svg
+                         <svg
                             width="1em"
                             height="1em"
                             viewBox="0 0 24 24"
@@ -148,6 +149,18 @@ export default Gallery
 
 // export const query = graphql`
 //   query {
+//     instaUserNode {
+//       full_name
+//       username
+//       biography
+//       profile_pic_url_hd
+//       edge_follow {
+//         count
+//       }
+//       edge_followed_by {
+//         count
+//       }
+//     }
 //     allInstaNode(sort: { fields: timestamp, order: DESC }, limit: 12) {
 //       edges {
 //         node {

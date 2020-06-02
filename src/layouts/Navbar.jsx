@@ -265,11 +265,7 @@ const Navbar = () => {
         // return true if the description, title or tags
         // contains the query string
         title.toLowerCase().includes(query.toLowerCase()) ||
-        (tags &&
-          tags
-            .join('') // convert tags from an array to string
-            .toLowerCase()
-            .includes(query.toLowerCase()))
+        (tags && tags.toLowerCase().includes(query.toLowerCase()))
       )
     })
     // update state according to the latest query and results

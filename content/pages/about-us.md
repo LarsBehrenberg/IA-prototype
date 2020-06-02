@@ -3,18 +3,23 @@ subTitle: Hear more
 title: About us
 upperGalleryImages:
   topImage:
-    topImageUrl: /assets/berthe-morisot-eugene-manet.jpg
-    topImageTitle: extra alt tag here
+    topImageTitle: Fanatics of Tangier (1838), painted by Eugene Delacroix,
+      Minneapolis Institute of Art
+    topImageUrl: /assets/eugene-delacroix-fanatics-of-tangier.jpg
   leftImage:
-    leftImageUrl: /assets/berthe-morisot-girl-with-greyhound.jpg
-    leftImageTitle: extra alt tag here
+    leftImageTitle:
+      Liberty Leading the People (1830), painted by Eugene Delacroix,
+      Louvre, Paris. Commemorating the French Revolution of 1830 (July
+      Revolution) on 28 July 1830.
+    leftImageUrl: /assets/eugene-delacroix-liberty-leading-the-people.jpg
   middleImage:
-    middleImageUrl: /assets/berthe-morisot-grain-field.jpg
-    middleImageTitle: extra alt tag here
+    middleImageTitle: Self-portrait, by Eugene Delacroix painted in 1837
+    middleImageUrl: /assets/eugene-delacroix-selfportrait.jpg
   rightImage:
-    rightImageUrl: /assets/berthe-morisot-jeune-fille-au-manteau.jpg
-    rightImageTitle: extra alt tag here
+    rightImageTitle: Christ on the Sea of Galilee, painted by Eugene Delacroix in 1854
+    rightImageUrl: /assets/eugene-delacroix-christ-on-the-sea-of-galilee.jpg
 ---
+
 # I don't like art. Not most of it.
 
 ## **But I have always loved impressionism. Always. This isn't something that has developed as I approach my 40th birthday. I remember having posters of impressionist paintings on my childhood bedroom wall (Monet's Bordighera) and in my university dorm (more Monet, this time Impression Sunrise).**
@@ -31,7 +36,7 @@ They were ridiculed for the best part of the 1860s and 1870s, but they kept goin
 
 And so I've slowly put this website together ...
 
-Reading (Sue Roe's The Private Lives of the Impressionists is a good place to start), writing, reading some more, updating, learning some CSS and HTML, buying an impressionist reproduction from Hong Kong (for $540, but it is 2 metres wide!), learning some javascript (I'm very proud of my quiz page!), checking my google rankings, reading (I've been throgh Rewald's The History of Impressionism, which should impress you--it is no page-turner!), and so on and so forth.
+Reading (Sue Roe's The Private Lives of the Impressionists is a good place to start), writing, reading some more, updating, learning some CSS and HTML, buying an impressionist reproduction from Hong Kong (for \$540, but it is 2 metres wide!), learning some javascript (I'm very proud of my quiz page!), checking my google rankings, reading (I've been throgh Rewald's The History of Impressionism, which should impress you--it is no page-turner!), and so on and so forth.
 
 I hope you like the site.
 

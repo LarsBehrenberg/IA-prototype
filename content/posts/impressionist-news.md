@@ -7,22 +7,21 @@ title: Impressionism News
 tags: More
 cover: /assets/berthe-morisot-grain-field.jpg
 links:
-  - post-eDpyJwzAF
-  - post-25IuqVVcE
+  - post-ugwaRKKHQ
   - post-xFeKEyxoY
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/berthe-morisot-grain-field.jpg
     topImageTitle: Berthe Morisot's Grain Field
   leftImage:
-    leftImageUrl: /assets/claude-monet-nympheas.jpg
-    leftImageTitle: Claude Monet's Nympheas (Water Lilies)
+    leftImageUrl: /assets/van-gogh-starry-night.jpg
+    leftImageTitle: Van Gogh's Starry Night
   middleImage:
-    middleImageUrl: /assets/camille-corot-forest-of-fontainebleau.jpg
-    middleImageTitle: Edouard Manet's Bar at the Folies Bergere
+    middleImageUrl: /assets/van-gogh-sunflowers.jpg
+    middleImageTitle: Van Gogh's Sunflowers
   rightImage:
-    rightImageUrl: /assets/renoir-the-dancer-1874.jpg
-    rightImageTitle: Pierre-Auguste Renoir's The Dancer
+    rightImageUrl: /assets/eugene-delacroix-fanatics-of-tangier.jpg
+    rightImageTitle: Eugene Delacroix' Fanatics of Tangier
 textSections:
   - textTitle: 2020 News Items
     text: >-
@@ -65,9 +64,6 @@ textSections:
 
 
       #### April 2020
-    sideGalleryImages:
-      - imageUrl: /assets/manet-railway.jpg
-        imageTitle: Manet's At the Railway Station
 ---
 
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.

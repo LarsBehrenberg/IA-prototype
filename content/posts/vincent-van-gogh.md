@@ -7,23 +7,21 @@ title: Vincent Van Gogh
 tags: Post-Impressionists
 cover: /assets/van-gogh-starry-night.jpg
 links:
-  - post-Uj7WapQkL
-  - post-eDpyJwzAF
-  - post-25IuqVVcE
+  - post-ugwaRKKHQ
 videoUrl: https://www.youtube.com/embed/JYFbpniHyJ8
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/van-gogh-starry-night.jpg
-    topImageTitle: alt tag here
+    topImageTitle: Vincent Van Gogh's famous 'The Starry Night', painted in June 1889. Museum of Modern Art, New York
   leftImage:
     leftImageUrl: /assets/van-gogh-the-yellow-house.jpg
-    leftImageTitle: alt tag here
+    leftImageTitle: The Yellow House by Vincent Van Gogh, 1888. Van Gogh Museum, Amsterdam
   middleImage:
     middleImageUrl: /assets/van-gogh-self-portrait.jpg
-    middleImageTitle: alt tag here
+    middleImageTitle: Self-Portrait by Vincent Van Gogh, 1887, Art Institute of Chicago
   rightImage:
     rightImageUrl: /assets/van-gogh-sunflowers.jpg
-    rightImageTitle: alt tag here
+    rightImageTitle: Sunflowers by Vincent Van Gogh, repetition of the 4th version (yellow background), August 1889. Van Gogh Museum, Amsterdam
 textSections:
   - textTitle: Van Gogh’s early years
     text: >-
@@ -60,11 +58,11 @@ textSections:
       After a brief time pursuing a career in the clergy, where Vincent donated all his possessions to coal-miners in South Belgium and was rejected from the church for being too extreme in his piety, he finally settled on becoming an artist. His reason for seeking out the career was a method of bringing him closer to God.
     sideGalleryImages:
       - imageUrl: /assets/van-gogh-1873.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: Vincent van Gogh in 1873, when he worked at the Goupil & Cie gallery in The Hague
       - imageUrl: /assets/van-gogh-home.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: Vincent Van Gogh's home in Cuesmes where he decided to become an artist
       - imageUrl: /assets/van-gogh-theo.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: Theo Van Gogh (in 1878) was a life-long supporter and friend to his brother.
   - textTitle: Vincent van Gogh and Theo
     text: >-
       ### Vincent’s younger brother, Theo, also became art dealer. Four years
@@ -119,11 +117,11 @@ textSections:
       This painting contrasts heavily with the airy, colourful scenes of the Monet, [Renoir](pierre-auguste-renoir-biography.html) and many other Impressionists. van Gogh’s deliberate shunning of the beauty and carefree style of the Impressionists showed his commitment to pursuing his own unique style. However, as a result of this individualist attitude, van Gogh was penniless. This canvas was unsellable, despite Theo’s stoic efforts.
     sideGalleryImages:
       - imageUrl: /assets/van-gogh-bleaching-ground-at-scheveningen.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: leachery at Scheveningen by Vincent Van Gogh, 1882
       - imageUrl: /assets/van-gogh-knotwilg-1882.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: Knotwilg by Vincent Van Gogh, 1882, Van Gogh Museum Amsterdam
       - imageUrl: /assets/van-gogh-the-hill-of-montmartre-with-stone-quarry.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: The hill of Montmartre with stone quarry' by Vincent Van Gogh, 1886, Van Gogh Museum Amsterdam
   - textTitle: Van Gogh and the Impressionists
     text: >-
       ### Theo has largely been credited with introducing his brother Vincent to
@@ -167,11 +165,11 @@ textSections:
       Similarly, many of van Gogh’s mature paintings have a linear quality to them that mimics Japanese artworks. He combined these strong lines with the loose brushwork of the Impressionists, whilst using his own distinct colour palette. In doing so, van Gogh began creating works that were highly unique and instantly recognisable, differing from any other artist painting at the time.
     sideGalleryImages:
       - imageUrl: /assets/van-gogh-flowering-plum-orchard.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: Flowering Plum Orchard by Vincent Van Gogh (after Hiroshige), 1887. Van Gogh Museum, Amsterdam
       - imageUrl: /assets/van-gogh-la-courtisane.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: Courtesan by Vincent Van Gogh (after Keisai Eisen), 1887. Van Gogh Museum, Amsterdam
       - imageUrl: /assets/van-gogh-portrait-of-pere-tanguy-1887.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: Portrait of Père Tanguy by Vincent Van Gogh, 1887. Musée Rodin, Paris
   - textTitle: Van Gogh’s later works
     text: >-
       ### Two years in Paris eventually wore him down and van Gogh decided to
@@ -238,11 +236,11 @@ textSections:
       Van Gogh died in his Theo’s arms two days later. He left him his entire collection of artworks.
     sideGalleryImages:
       - imageUrl: /assets/van-gogh-olive-trees.jpg
-        imageTitle: Van Gogh's Image Title
+        imageTitle: Olive Trees with the Alpilles in the Background by Vincent Van Gogh, 1889. Museum of Modern Art, New York
       - imageUrl: /assets/van-gogh-self-portrait-with-grey-felt-hat.jpg
-        imageTitle: Van Gogh's Title
+        imageTitle: Self-Portrait with Grey Felt Hat by Vincent Van Gogh, Winter 1887–88. Van Gogh Museum, Amsterdam
       - imageUrl: /assets/van-gogh-starry-night-over-the-rhone.jpg
-        imageTitle: Van Gogh's Title
+        imageTitle: Starry Night Over the Rhone by Vincent Van Gogh, 1888. Musée d'Orsay, Paris
   - textTitle: Van Gogh’s legacy
     text: >-
       ### Van Gogh is now an internationally recognised artist, revered for his
@@ -264,11 +262,11 @@ textSections:
       Over the course of his artistic career, van Gogh produced 900 paintings and over 1,100 drawings and sketches. Despite this, his talent went unnoticed by the French art market. He sold just one painting while he was alive.
     sideGalleryImages:
       - imageUrl: /assets/van-gogh-newspaper-article.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: Article on Van Gogh's death from L'Écho Pontoisien, 7 August 1890
       - imageUrl: /assets/van-gogh-graves.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: Vincent Van Gogh and his brother Theo's graves at Auvers-sur-Oise Cemetery (© Héric SAMSON, CC BY-SA 3.0)
       - imageUrl: /assets/van-gogh-museum-amsterdam.jpg
-        imageTitle: Van Gogh's Image
+        imageTitle: The Van Gogh Museum has the world's largest collection of Van Gogh artworks. (© Taxiarchos228, CC BY-SA 3.0)
 ---
 
 ### Perhaps the best-known artist of the Post-Impressionist movement, Vincent van Gogh reached new heights with his use of colour and expressive artworks. His paintings are instantly recognisable and tend to linger in the viewer’s mind long after the physical image has passed.
