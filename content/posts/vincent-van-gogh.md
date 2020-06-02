@@ -90,13 +90,13 @@ textSections:
       #### Theo and the Impressionists
 
 
-      Around this time, the Impressionists were beginning to gain more publicity. Their principal dealer, [Paul Durand-Ruel](paul-durand-ruel-biography.html) was struggling financially, however, and Theo was able to capitalise on the market for Impressionist paintings. The first Impressionist artwork he bought was a canvas by [Alfred Sisley](alfred-sisley-biography.html).
+      Around this time, the Impressionists were beginning to gain more publicity. Their principal dealer, [Paul Durand-Ruel](/paul-durand-ruel-biography) was struggling financially, however, and Theo was able to capitalise on the market for Impressionist paintings. The first Impressionist artwork he bought was a canvas by [Alfred Sisley](/alfred-sisley-biography).
 
 
-      This fortuitous turn of events then saw Theo purchase a large number of paintings by [Monet](claude-monet-biography.html), reaching about 70 artworks in total. He deliberately targeted and promoted Monet as the symbol of the [Impressionist movement](/), placing all the focus of his clients on one artist. This allowed him to distinguish Monet’s work from the others, providing a singular message for collectors new to the movement.
+      This fortuitous turn of events then saw Theo purchase a large number of paintings by [Monet](/claude-monet-biography), reaching about 70 artworks in total. He deliberately targeted and promoted Monet as the symbol of the [Impressionist movement](/), placing all the focus of his clients on one artist. This allowed him to distinguish Monet’s work from the others, providing a singular message for collectors new to the movement.
 
 
-      Theo also had a close relationship with Pissarro and [Degas](edgar-degas-biography.html), both of whom he showed using independent exhibitions. [Pissarro](camille-pissarro-biography.html) had a solo exhibition organised by Theo in 1890 and Degas in 1888 and 1889, a small, intimate exhibition of his nude paintings. It was this relationship with Pissarro that led to van Gogh’s initial introduction.
+      Theo also had a close relationship with Pissarro and [Degas](/edgar-degas-biography), both of whom he showed using independent exhibitions. [Pissarro](/camille-pissarro-biography) had a solo exhibition organised by Theo in 1890 and Degas in 1888 and 1889, a small, intimate exhibition of his nude paintings. It was this relationship with Pissarro that led to van Gogh’s initial introduction.
 
 
       #### Theo tries to sell van Gogh’s paintings
@@ -114,7 +114,7 @@ textSections:
       He deliberately used models who were uglier and more raw than classical artist’s models in an attempt to capture the reality of working-class hardships. The single light source in the painting, a lamp hung in the centre of the table, heightens the bleakness of the scene.
 
 
-      This painting contrasts heavily with the airy, colourful scenes of the Monet, [Renoir](pierre-auguste-renoir-biography.html) and many other Impressionists. van Gogh’s deliberate shunning of the beauty and carefree style of the Impressionists showed his commitment to pursuing his own unique style. However, as a result of this individualist attitude, van Gogh was penniless. This canvas was unsellable, despite Theo’s stoic efforts.
+      This painting contrasts heavily with the airy, colourful scenes of the Monet, [Renoir](/pierre-auguste-renoir-biography) and many other Impressionists. van Gogh’s deliberate shunning of the beauty and carefree style of the Impressionists showed his commitment to pursuing his own unique style. However, as a result of this individualist attitude, van Gogh was penniless. This canvas was unsellable, despite Theo’s stoic efforts.
     sideGalleryImages:
       - imageUrl: /assets/van-gogh-bleaching-ground-at-scheveningen.jpg
         imageTitle: leachery at Scheveningen by Vincent Van Gogh, 1882
@@ -135,7 +135,7 @@ textSections:
       #### Van Gogh and Pissarro
 
 
-      Van Gogh quickly found himself drawn into the world of [Camille Pissarro](camille-pissarro-biography.html), Seurat, Gauguin and other Neo-Impressionist painters, calling them the ‘Painters of the Petit Boulevarde’. These artists were less well established than the likes of Degas and Renoir but nonetheless they had a profound influence on van Gogh’s career. van Gogh particularly liked Pissarro, mentioning frequently in his letters how much he enjoyed their long talks together.
+      Van Gogh quickly found himself drawn into the world of [Camille Pissarro](/camille-pissarro-biography), Seurat, Gauguin and other Neo-Impressionist painters, calling them the ‘Painters of the Petit Boulevarde’. These artists were less well established than the likes of Degas and Renoir but nonetheless they had a profound influence on van Gogh’s career. van Gogh particularly liked Pissarro, mentioning frequently in his letters how much he enjoyed their long talks together.
 
 
       The hopeful artist’s first opinion of [Impressionism](/) was not as enthusiastic as one might think, however. He later reflected in a letter to his sister Willemien that people viewing the Impressionists’ work for the first time are often “bitterly, bitterly disappointed and find them careless, ugly, badly painted, badly drawn, bad in colour, everything that's miserable. That was my first impression, too, when I came to Paris”.
@@ -273,6 +273,6 @@ textSections:
 
 Van Gogh is best known for works such as Sunflowers, Starry Night and his Self-Portraits. He is perhaps equally famous for being the artist who, in late 1888 while [suffering from mental illness](#4), cut off his left ear and gave the blood-stained flesh to a brothel worker.
 
-After a short[](#2)in the company of many prominent [Impressionist artists](index.html), van Gogh embraced Impressionist painting techniques. However, he used the Impressionist style to create his own, unique form of artistic expression.
+After a short[](#2)in the company of many prominent [Impressionist artists](/), van Gogh embraced Impressionist painting techniques. However, he used the Impressionist style to create his own, unique form of artistic expression.
 
 At the same time, he diverged significantly from the path of other Post-Impressionists including [Georges Seurat](#3) and Paul Gauguin. He did not seek to present an idealised or scientific perspective of the world: he sought to show viewers the gritty reality, brought forth with bold, clashing colour palettes.

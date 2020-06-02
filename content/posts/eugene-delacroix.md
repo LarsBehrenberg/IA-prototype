@@ -130,10 +130,10 @@ textSections:
       Through this stylistic development, Delacroix left the work of Neo-Classicism firmly behind, focussing on colour effects rather than form and especially the clean, crisp outlines of the academic style.
 
 
-      This set him apart from many of his contemporaries, including [Jean-Auguste-Dominique Ingres](https://impressionistarts.com/jean-auguste-dominique-ingres-biography.html), with who he had a strong rivalry for much of his career. One of the best known examples of Delacroix’s flochetage technique is [‘Ovid Among the Scythians’](https://en.wikipedia.org/wiki/Ovid_among_the_Scythians) from 1859.
+      This set him apart from many of his contemporaries, including [Jean-Auguste-Dominique Ingres](/jean-auguste-dominique-ingres-biography), with who he had a strong rivalry for much of his career. One of the best known examples of Delacroix’s flochetage technique is [‘Ovid Among the Scythians’](https://en.wikipedia.org/wiki/Ovid_among_the_Scythians) from 1859.
 
 
-      Delacroix was one of the first artists to develop this technique and he experimented with weaving together ever more complex patterns of paint and tiny brushstrokes. Delacroix’s innovations were one of the central influences on the Post-Impressionist Pointillist movement and its figurehead [Georges Seurat](https://impressionistarts.com/georges-seurat-biography.html).
+      Delacroix was one of the first artists to develop this technique and he experimented with weaving together ever more complex patterns of paint and tiny brushstrokes. Delacroix’s innovations were one of the central influences on the Post-Impressionist Pointillist movement and its figurehead [Georges Seurat](/georges-seurat-biography).
 
 
       Seurat studied Delacroix’s method closely along with the writings of Chevreul, pushing the technique even further to create the Pointillist aesthetic. This highly scientific and methodical style of painting applied contrasting colours in precise spots or points of paint to create an optical mixture, leaving behind the fleeting nature of Impressionist painting that had come before.
@@ -154,7 +154,7 @@ textSections:
       The colours in the painting are rich and intense, adding to the mystique of the painting and the women lounging in the scene. He carefully noted the different colours of the women’s clothing on his watercolour sketches.
 
 
-      This palette would go on to inspire artists such as Auguste Renoir, Paul Cézanne and [Henri Matisse](https://impressionistarts.com/henri-matisse-biography.html) who drew on his sensuous portrayals of Orientalized female figures.
+      This palette would go on to inspire artists such as Auguste Renoir, Paul Cézanne and [Henri Matisse](/henri-matisse-biography) who drew on his sensuous portrayals of Orientalized female figures.
     sideGalleryImages:
       - imageTitle:
           Women of Algiers in their Apartment, by Eugene Delacroix in 1834,
@@ -202,7 +202,7 @@ textSections:
       In many ways, the Impressionist’s relationship with Delacroix can be seen in their repeated references and replications of Delacroix’s work. Renoir was commissioned to paint ‘The Jewish Wedding in Morocco (after Delacroix)’ in 1875, reproducing Delacroix’s earlier painting from 1839 of the same name.
 
 
-      [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) did so faithfully whilst also adding his own touches to the master’s work. His brushwork, use of light and his palette transform Delacroix’s artwork into a fully Impressionist piece. This work demonstrates not only Renoir’s abilities as a painter and an individualist but also how seamlessly many of Delacroix’s works could meld into the Impressionist style.
+      [Renoir](/pierre-auguste-renoir-biography) did so faithfully whilst also adding his own touches to the master’s work. His brushwork, use of light and his palette transform Delacroix’s artwork into a fully Impressionist piece. This work demonstrates not only Renoir’s abilities as a painter and an individualist but also how seamlessly many of Delacroix’s works could meld into the Impressionist style.
 
 
       Similarly, Renoir’s ‘Study: Torso, effect of sun’ from 1875-76, which gathered the infamous criticism from Albert Wolff that “a woman’s torso is not a mass of decomposing flesh with the purplish-green splotches that denote the final stages of putrefaction in a corpse”, also echoes Delacroix.
@@ -211,7 +211,7 @@ textSections:
       His painting ['Female Academy Figure: Seated, Front View (Mademoiselle Rose)’](https://www.metmuseum.org/art/collection/search/701823) from 1820-23 features the same bluish tints and dapples that create the impression of pale flesh.
 
 
-      Delacroix played with colour mixing in rendering natural forms, including bodies. The Impressionists took these experiments further, adding ever more expressive brushstrokes to their compositions to enhance the colours. [Cézanne](https://impressionistarts.com/paul-cezanne-biography.html) best summarised the influence of Delacroix in the words, “we all paint in Delacroix’s language”.
+      Delacroix played with colour mixing in rendering natural forms, including bodies. The Impressionists took these experiments further, adding ever more expressive brushstrokes to their compositions to enhance the colours. [Cézanne](/paul-cezanne-biography) best summarised the influence of Delacroix in the words, “we all paint in Delacroix’s language”.
 
 
       #### Still Lifes
@@ -232,7 +232,7 @@ textSections:
       At the same time, he focussed more on the overall effect than the individual, botanical detail of each flower, utilising colour harmonies to create an expressive scene.
 
 
-      This ‘impressionistic’ approach inspired the works of [Claude Monet](https://impressionistarts.com/claude-monet-biography.html),[Gustave Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html) and [Vincent van Gogh](https://impressionistarts.com/van-gogh-biography.html) among others.
+      This ‘impressionistic’ approach inspired the works of [Claude Monet](/claude-monet-biography),[Gustave Caillebotte](/gustave-caillebotte-biography) and [Vincent van Gogh](/van-gogh-biography) among others.
     sideGalleryImages:
       - imageTitle: Mademoiselle Rose, by Eugene Delacroix between 1817-1824, Louvre
         imageUrl: /assets/eugene-delacroix-mademoiselle-rose.jpg
@@ -262,7 +262,7 @@ textSections:
       Delacroix’s influence on the impressionists was hugely significant from his approach to emotion and expression to his interest in natural light and his obsessive studies of colour.
 
 
-      He was an instrumental figure in the development of the movement. His use of tones and understanding of complimentary colours went on to inspire the work of [Van Gogh](https://impressionistarts.com/van-gogh-biography.html),[Monet](https://impressionistarts.com/claude-monet-biography.html),[Camille Pissarro](https://impressionistarts.com/camille-pissarro-biography.html), Seurat and many more.
+      He was an instrumental figure in the development of the movement. His use of tones and understanding of complimentary colours went on to inspire the work of [Van Gogh](/van-gogh-biography),[Monet](/claude-monet-biography),[Camille Pissarro](/camille-pissarro-biography), Seurat and many more.
 
 
       Furthermore, his role as a figurehead for colour experimentation continued into later movements with later artists such as Pablo Picasso taking inspiration from his works. Indeed, Picasso's painting ‘The Women of Algiers, after Delacroix’ from 1955 is a direct homage to his work of the same name, employing a similar colour palette but rendering the bodies as abstracted, cubist forms.
@@ -311,8 +311,8 @@ textSections:
 
 ## A Romantic in every way, Eugène Delacroix devoted much of his career to portraying dramatic and intense scenes from mythology and orientalised scenes inspired by his travels to North Africa.
 
-He drove his paintings to ever greater levels of animation and passion through his [use of colour and optical effects](https://impressionistarts.com/eugene-delacroix-biography.html#2). It was this expressiveness that has led to his legacy as one of the most important romantic artists of the 19th century.
+He drove his paintings to ever greater levels of animation and passion through his [use of colour and optical effects](/eugene-delacroix-biography#2). It was this expressiveness that has led to his legacy as one of the most important romantic artists of the 19th century.
 
-One of [Delacroix’s greatest legacies](https://impressionistarts.com/eugene-delacroix-biography.html#4) was his rejection of neo-classicism, and the restrained perfection of classical painting, in favour of emotional, expressive painting. He focussed on the extremes of human life from terrible suffering to supple sensuality.
+One of [Delacroix’s greatest legacies](/eugene-delacroix-biography#4) was his rejection of neo-classicism, and the restrained perfection of classical painting, in favour of emotional, expressive painting. He focussed on the extremes of human life from terrible suffering to supple sensuality.
 
-As a result, he was criticised by many of his contemporaries but he also gathered [a loyal following of fans, the impressionists among them](https://impressionistarts.com/eugene-delacroix-biography.html#3). In this way, he is now regarded as a highly influential figure in the development of French art and the innovation of new ways of seeing light, colour and emotion.
+As a result, he was criticised by many of his contemporaries but he also gathered [a loyal following of fans, the impressionists among them](/eugene-delacroix-biography#3). In this way, he is now regarded as a highly influential figure in the development of French art and the innovation of new ways of seeing light, colour and emotion.

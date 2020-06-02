@@ -11,7 +11,8 @@ links:
   - post-ugwaRKKHQ
 upperGalleryImages:
   topImage:
-    topImageTitle: "'Boating on the Yerres', by Gustave Caillebotte (1848-1894) in
+    topImageTitle:
+      "'Boating on the Yerres', by Gustave Caillebotte (1848-1894) in
       1878, oil on canvas"
     topImageUrl: /assets/gustave-caillebotte-boating-on-the-yerres.jpg
   leftImage:
@@ -48,7 +49,7 @@ textSections:
       His studies began under [Léon Bonnat](https://en.wikipedia.org/wiki/L%C3%A9on_Bonnat) who was a Realist painter with a host of influential artistic connections. He then enrolled at the École des Beaux Arts in 1873.
 
 
-      Thanks to Bonnat, Caillebotte was introduced to [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html), [Claude Monet](https://impressionistarts.com/claude-monet-biography.html) and [Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) and others, which lead to him bringing a more impressionist visual vocabulary into his paintings.
+      Thanks to Bonnat, Caillebotte was introduced to [Edgar Degas](/edgar-degas-biography), [Claude Monet](/claude-monet-biography) and [Auguste Renoir](/pierre-auguste-renoir-biography) and others, which lead to him bringing a more impressionist visual vocabulary into his paintings.
 
 
       These connections were also instrumental in establishing his status in the Impressionist movement and the wider Parisian art scene. He became an influential figure and had close ties with many of the most important artists of the period.
@@ -64,10 +65,12 @@ textSections:
     sideGalleryImages:
       - imageTitle: A photo of Gustave Caillebotte, about age 30, c. 1878
         imageUrl: /assets/gustave-caillebotte-1878.jpg
-      - imageTitle: A photo of Gustave Caillebotte (1848-1894) in his greenhouse Petit
+      - imageTitle:
+          A photo of Gustave Caillebotte (1848-1894) in his greenhouse Petit
           Gennevilliers, in February 1892
         imageUrl: /assets/gustave-caillebotte-1892.jpg
-      - imageTitle: "'Yellow Roses in a Vase' by Gustave Caillebotte (1848-1894) in
+      - imageTitle:
+          "'Yellow Roses in a Vase' by Gustave Caillebotte (1848-1894) in
           1882, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-yellow-roses-in-a-vase.jpg
   - textTitle: Caillebotte’s patronage
@@ -76,13 +79,13 @@ textSections:
       collector and an artist.
 
 
-      His family fortune meant that he was able to purchase works by prominent Impressionists including [Monet](https://impressionistarts.com/claude-monet-biography.html), [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html), [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) and many more. In this role, he became one of the most important promoters and supporters of the Impressionist movement, providing considerable financial backing.
+      His family fortune meant that he was able to purchase works by prominent Impressionists including [Monet](/claude-monet-biography), [Renoir](/pierre-auguste-renoir-biography), [Pissarro](/camille-pissarro-biography) and many more. In this role, he became one of the most important promoters and supporters of the Impressionist movement, providing considerable financial backing.
 
 
       In many ways, Caillebotte’s collection of Impressionist art overshadowed his own artistic achievements. On top of the core group of Impressionist artists he patroned, Caillebotte also supported the Post-Impressionist, Fauvist and Symbolist movements.
 
 
-      However, he was also highly selective. He was extremely loyal to artists he respected but did not associate himself with many other prominent individuals including [Georges Seurat](https://impressionistarts.com/georges-seurat-biography.html) or [Paul Gauguin](https://impressionistarts.com/paul-gauguin-biography.html). Whether this was a personal or business-led decision is unknown.
+      However, he was also highly selective. He was extremely loyal to artists he respected but did not associate himself with many other prominent individuals including [Georges Seurat](/georges-seurat-biography) or [Paul Gauguin](/paul-gauguin-biography). Whether this was a personal or business-led decision is unknown.
 
 
       Whilst the funding Caillebotte provided was vital for sustaining many Impressionist artists, he also contributed in his organisation and guidance of the movement. He oversaw key exhibitions of the Impressionists’ works, carefully curating what he saw as the best examples of Impressionism, which included his own works.
@@ -90,14 +93,17 @@ textSections:
 
       In doing so, he sustained the movement and propelled it forward, even as the impressionists faced severe criticism from the Parisian mainstream.
     sideGalleryImages:
-      - imageTitle: "'Portraits in the Countryside'(Caillebotte's mother along with his
+      - imageTitle:
+          "'Portraits in the Countryside'(Caillebotte's mother along with his
           aunt, cousin, and a family friend) by Gustave Caillebotte (1848–1894)
           in 1876, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-portraits-a-la-campagne.jpg
-      - imageTitle: "'Homme portant une blouse', by Gustave Caillebotte (1848–1894),
+      - imageTitle:
+          "'Homme portant une blouse', by Gustave Caillebotte (1848–1894),
           date unkown, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-homme-portant-une-blouse.jpg
-      - imageTitle: "'Le jardin du Petit Gennevilliers en hiver', by Gustave Caillebotte
+      - imageTitle:
+          "'Le jardin du Petit Gennevilliers en hiver', by Gustave Caillebotte
           (1848–1894) in 1894, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-le-jardin-du-petit-gennevilliers-en-hiver.jpg
   - textTitle: Caillebotte’s Impressionist works
@@ -116,7 +122,7 @@ textSections:
       This was [Napeoleon III](https://en.wikipedia.org/wiki/Napoleon_III)’s ambitious plan to remodel Paris into a grand capital. Largely conceived and led by [Baron Georges-Eugène Haussmann](https://en.wikipedia.org/wiki/Georges-Eug%C3%A8ne_Haussmann), the redesign favoured a clean aesthetic and standardised apartment blocks.
 
 
-      In doing so, he laid waste to the medieval layout and buildings that had stood before, creating a confident, ordered city in its place. Many people mourned the loss of the old Paris but Impressionist artists including [Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html#) and [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) embraced the artistic views that the new city afforded. Caillebotte’s works use realism to show the viewer the orderly, grand city that Paris had become.
+      In doing so, he laid waste to the medieval layout and buildings that had stood before, creating a confident, ordered city in its place. Many people mourned the loss of the old Paris but Impressionist artists including [Caillebotte](/gustave-caillebotte-biography#) and [Pissarro](/camille-pissarro-biography) embraced the artistic views that the new city afforded. Caillebotte’s works use realism to show the viewer the orderly, grand city that Paris had become.
 
 
       #### The Pont de l'Europe
@@ -151,13 +157,16 @@ textSections:
 
       The colour of this fabric is the most radical aspect of the composition as the black-suited individual stands motionless and the buildings are fixed and formal. However, it also denotes the drama of the city’s redesign and the stark divide between the old and the new, the wealthy and the poor. The figure is both powerful and lonely, epitomising the Modern Man but his true emotions remain out of sight for the viewer.
     sideGalleryImages:
-      - imageTitle: "'The Yerres, Effect of Rain' by Gustave Caillebotte (1848–1894) in
+      - imageTitle:
+          "'The Yerres, Effect of Rain' by Gustave Caillebotte (1848–1894) in
           1875, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-l-yerres.jpg
-      - imageTitle: "'Le pont de l'Europe', by Gustave Caillebotte (1848–1894) in c.
+      - imageTitle:
+          "'Le pont de l'Europe', by Gustave Caillebotte (1848–1894) in c.
           1876, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-pont-de-l-europe-geneva.jpg
-      - imageTitle: "'Les raboteurs de parquet (The floor planers)', a controversial
+      - imageTitle:
+          "'Les raboteurs de parquet (The floor planers)', a controversial
           realist subject by Gustave Caillebotte (1848–1894) in 1875, oil on
           canvas"
         imageUrl: /assets/gustave-caillebotte-the-floor-planers.jpg
@@ -195,18 +204,21 @@ textSections:
       #### The Male Form
 
 
-      This work and others including [‘Man Drying His Leg’](https://www.wikiart.org/en/gustave-caillebotte/man-drying-his-leg) from 1884, are set apart from better known Impressionist nudes because they feature the male form. Though artists such as [Degas](https://impressionistarts.com/edgar-degas-biography.html), [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) and [Cassatt](https://impressionistarts.com/mary-cassatt-biography.html) painted nudes, these works only featured women, albeit in untraditional poses.
+      This work and others including [‘Man Drying His Leg’](https://www.wikiart.org/en/gustave-caillebotte/man-drying-his-leg) from 1884, are set apart from better known Impressionist nudes because they feature the male form. Though artists such as [Degas](/edgar-degas-biography), [Renoir](/pierre-auguste-renoir-biography) and [Cassatt](/mary-cassatt-biography) painted nudes, these works only featured women, albeit in untraditional poses.
 
 
       Images of nude men were extremely rare and marginalised during the 19th century and even now many scholarly works discuss the paintings with a conservative and self-conscious turn of phrase that is missing from analysis of similar female nudes. Caillebotte’s in-depth studies of the male form are considered unique in avant-garde art.
     sideGalleryImages:
-      - imageTitle: "'Nude Lying on a Couch' by Gustave Caillebotte (1848–1894) in 1873,
+      - imageTitle:
+          "'Nude Lying on a Couch' by Gustave Caillebotte (1848–1894) in 1873,
           oil on canvas"
         imageUrl: /assets/gustave-caillebotte-nude-lying-on-couch-1873.jpg
-      - imageTitle: "'Boulevard des Italiens' by Gustave Caillebotte (1848–1894) in
+      - imageTitle:
+          "'Boulevard des Italiens' by Gustave Caillebotte (1848–1894) in
           1880, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-boulevard-des-italiens.jpg
-      - imageTitle: "'Man at His Bath', by Gustave Caillebotte (1848–1894) in 1884, oil
+      - imageTitle:
+          "'Man at His Bath', by Gustave Caillebotte (1848–1894) in 1884, oil
           on canvas"
         imageUrl: /assets/gustave-caillebotte-man-at-his-bath.jpg
   - textTitle: Caillebotte’s later works
@@ -242,15 +254,18 @@ textSections:
       [‘Chrysanthemums in the Garden at Petit-Gennevilliers’](https://www.metmuseum.org/art/collection/search/671456) from 1893 demonstrates Caillebotte’s experimental style, both in the subjects he chose to focus on and his compositions. This still-life piece features a flurry of flowers, painted in a naturalistic palette and dusted by natural light entering the scene from above. However, the unusually flat composition is reminiscent of Japanese woodcuts.
 
 
-      By the 1890s, Caillebotte’s painting had tailed off considerably. He painted infrequently, choosing to focus more on gardening, collecting and building yachts. He died suddenly from a stroke in 1894, collapsing in his garden in Petit Gennevilliers. [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) was the executor of his estate.
+      By the 1890s, Caillebotte’s painting had tailed off considerably. He painted infrequently, choosing to focus more on gardening, collecting and building yachts. He died suddenly from a stroke in 1894, collapsing in his garden in Petit Gennevilliers. [Renoir](/pierre-auguste-renoir-biography) was the executor of his estate.
     sideGalleryImages:
-      - imageTitle: "'Paris Street in Rainy Weather' by Gustave Caillebotte (1848–1894)
+      - imageTitle:
+          "'Paris Street in Rainy Weather' by Gustave Caillebotte (1848–1894)
           in 1877, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-paris-street-rainy-day.jpg
-      - imageTitle: "'Rooftops in the Snow' by Gustave Caillebotte (1848–1894), oil on
+      - imageTitle:
+          "'Rooftops in the Snow' by Gustave Caillebotte (1848–1894), oil on
           canvas"
         imageUrl: /assets/gustave-caillebotte-rooftops-in-the-snow.jpg
-      - imageTitle: "'Halévy Street, View from the Sixth Floor' (La Rue Halévy, Vue Du
+      - imageTitle:
+          "'Halévy Street, View from the Sixth Floor' (La Rue Halévy, Vue Du
           Sixième Étage) by Gustave Caillebotte, 1878, oil on canvas, 23.5 by
           28.75 in.; 59.5 by 73 cm"
         imageUrl: /assets/gustave-caillebotte-rue-halevy-from-the-sixth-floor.jpg
@@ -269,7 +284,7 @@ textSections:
       Nevertheless, the Caillebotte Room at the [Luxembourg Palace](https://en.wikipedia.org/wiki/Luxembourg_Palace) in Paris opened in 1897. This was the first exhibition of Impressionist paintings in a French museum and represented a remarkable leap forward for public acceptance of the Impressionism.
 
 
-      Now famous works like the 1876 [‘Dance at Le Moulin de la Galette’](https://impressionistarts.com/most-expensive-impressionist-paintings.html#2) by Renoir were exhibited in an official space for the first time. However, it was still only a fraction of the total bequest.
+      Now famous works like the 1876 [‘Dance at Le Moulin de la Galette’](/most-expensive-impressionist-paintings#2) by Renoir were exhibited in an official space for the first time. However, it was still only a fraction of the total bequest.
 
 
       The collection was then added to and became the Impressionist collection at the [Musée d’Orsay in Paris](https://en.wikipedia.org/wiki/Mus%C3%A9e_d'Orsay). The majority of the unclaimed works were bought by Albert Barnes, an American art collector, and now form the [Barnes Foundation](https://www.barnesfoundation.org/) in Philadelphia in the U.S..
@@ -284,26 +299,28 @@ textSections:
       #### Road to Recognition
 
 
-      This lack of access meant that his considerable talent largely went unnoticed until the later 20th century. Re-evaluations of his paintings have led to many art historians highlighting the intersection between [realism](https://en.wikipedia.org/wiki/Realism_(arts)), [impressionism](https://impressionistarts.com/index.html) and [post-impressionism](https://impressionistarts.com/van-gogh-biography.html) in his works. Caillebotte’s art is now understood to epitomise the end of the 20th century in French art, combining the most prominent movements from the time.
+      This lack of access meant that his considerable talent largely went unnoticed until the later 20th century. Re-evaluations of his paintings have led to many art historians highlighting the intersection between [realism](https://en.wikipedia.org/wiki/Realism_(arts)), [impressionism](/) and [post-impressionism](/van-gogh-biography) in his works. Caillebotte’s art is now understood to epitomise the end of the 20th century in French art, combining the most prominent movements from the time.
 
 
       Despite his considerable wealth, Caillebotte is also notable for his unflinching depictions of the class divide in Paris. His unusual perspectives heightened the power of his works and went on to inspire other artists to do the same. Caillebotte is now regarded as a highly ambitious impressionist artist whose paintings we are still discovering in their unabashed and unusual entirety.
     sideGalleryImages:
       - imageTitle: Caillebotte (right) with friends between 1877 and 1878
         imageUrl: /assets/gustave-caillebotte-with-friends.jpg
-      - imageTitle: The garden of Gustave Caillebotte at Petit Gennevilliers (winter
+      - imageTitle:
+          The garden of Gustave Caillebotte at Petit Gennevilliers (winter
           1891-1892); on the right the big house, on the left, the little house
           and the workshop with the greenhouse in front.
         imageUrl: /assets/gustave-caillebotte-petit-gennevilliers.jpg
       - imageTitle: Gustave Caillebotte (right) with his brother, Martial before 1895
         imageUrl: /assets/gustave-caillebotte-with-brother.jpg
 ---
-## A collector, patron and painter, Gustave Caillebotte played a number of roles in the Impressionist movement. His support of [impressionism](https://impressionistarts.com/index.html) came not just from his art but also his financial backing. Sadly, his career was short lived and he died at the age of just 45.
 
-Born into a wealthy Parisian family in 1848, Caillebotte grew up in a life of privilege and commerce. Art came much later in his life and when it did, he embraced a classic, academic style before gradually incorporating [impressionist themes](https://impressionistarts.com/gustave-caillebotte-biography.html#3) into his works.
+## A collector, patron and painter, Gustave Caillebotte played a number of roles in the Impressionist movement. His support of [impressionism](/) came not just from his art but also his financial backing. Sadly, his career was short lived and he died at the age of just 45.
 
-As a result, he is a liminal figure in the movement, remaining relatively unknown outside of his close circle of friends and associates whilst playing an instrumental role in the support and promotion of [impressionist art](https://impressionistarts.com/index.html).
+Born into a wealthy Parisian family in 1848, Caillebotte grew up in a life of privilege and commerce. Art came much later in his life and when it did, he embraced a classic, academic style before gradually incorporating [impressionist themes](/gustave-caillebotte-biography#3) into his works.
 
-In his own paintings—most famously [Floor Scrapers](https://impressionistarts.com/gustave-caillebotte-biography.html#3), [Pont de l'Europe](https://impressionistarts.com/gustave-caillebotte-biography.html#3), [Man at His Bath](https://impressionistarts.com/gustave-caillebotte-biography.html#4), and [Paris Street, Rainy Day](https://impressionistarts.com/gustave-caillebotte-biography.html#5)—Caillebotte’s distinct style presents a fresh combination of detailed drawing and vivid colours, created with short, animated brushstrokes. Like other Impressionist artists, he paid attention to natural light and introduced original, inventive perspectives into his works.
+As a result, he is a liminal figure in the movement, remaining relatively unknown outside of his close circle of friends and associates whilst playing an instrumental role in the support and promotion of [impressionist art](/).
 
-However, he also favoured realism. He experimented with a range of subjects, fearlessly pursuing themes that interested him rather than being led by the art market at the time. This is evident in his lesser-known [nude paintings](https://impressionistarts.com/gustave-caillebotte-biography.html#4) as well as the photorealistic works that are some of his most famous.
+In his own paintings—most famously [Floor Scrapers](/gustave-caillebotte-biography#3), [Pont de l'Europe](/gustave-caillebotte-biography#3), [Man at His Bath](/gustave-caillebotte-biography#4), and [Paris Street, Rainy Day](/gustave-caillebotte-biography#5)—Caillebotte’s distinct style presents a fresh combination of detailed drawing and vivid colours, created with short, animated brushstrokes. Like other Impressionist artists, he paid attention to natural light and introduced original, inventive perspectives into his works.
+
+However, he also favoured realism. He experimented with a range of subjects, fearlessly pursuing themes that interested him rather than being led by the art market at the time. This is evident in his lesser-known [nude paintings](/gustave-caillebotte-biography#4) as well as the photorealistic works that are some of his most famous.

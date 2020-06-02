@@ -12,7 +12,8 @@ links:
 upperGalleryImages:
   topImage:
     topImageUrl: /assets/emile-zola-cezanne-paul-alexis-reading-to-emile-zola.jpg
-    topImageTitle: Paul Cézanne, Paul Alexis Reading to Émile Zola, 1869–1870, São
+    topImageTitle:
+      Paul Cézanne, Paul Alexis Reading to Émile Zola, 1869–1870, São
       Paulo Museum of Art
   leftImage:
     leftImageTitle: Édouard Manet, Portrait of Émile Zola, 1868, Musée d'Orsay
@@ -108,12 +109,14 @@ textSections:
 
       It was Zola’s combination of visual detail and movement that has led critics to name him as an important forerunner of the motion picture. Indeed, a number of his novels have shown themselves to be well-suited to adaptation into films.
     sideGalleryImages:
-      - imageTitle: Emile Zola with his wife and two children Jacques and Denise sitting
+      - imageTitle:
+          Emile Zola with his wife and two children Jacques and Denise sitting
           in the garden
         imageUrl: /assets/emile-zola-with-his-family-in-the-garden.jpg
       - imageUrl: /assets/emile-zola-with-his-two-children.jpg
         imageTitle: Emile Zola with his children Jacques and Denise
-      - imageTitle: The 1892 and final tree, annotated by Zola and which published in
+      - imageTitle:
+          The 1892 and final tree, annotated by Zola and which published in
           1893 with his final novel Le Docteur Pascal
         imageUrl: /assets/emile-zola-rougon-family-tree.jpg
   - textTitle: Zola and the Impressionists
@@ -126,10 +129,10 @@ textSections:
       Throughout his life, Zola’s story interweaves with that of the Impressionist movement. He was one of the most closely connected French writers when it came to painters and artists.
 
 
-      The foundation for these relationships began at a young age. When he was just a student in Aix, Zola was classmates with [Paul Cézanne](https://impressionistarts.com/paul-cezanne-biography.html). This connection continued in Paris, where Cézanne introduced Zola to Impressionist painters like [Édouard Manet](https://impressionistarts.com/edouard-manet-biography.html).
+      The foundation for these relationships began at a young age. When he was just a student in Aix, Zola was classmates with [Paul Cézanne](/paul-cezanne-biography). This connection continued in Paris, where Cézanne introduced Zola to Impressionist painters like [Édouard Manet](/edouard-manet-biography).
 
 
-      Later, in the 1860s, he wrote articles on the work of the early Impressionists, including [Claude Monet](https://impressionistarts.com/claude-monet-biography.html), [Frédéric Bazille](https://impressionistarts.com/frederic-bazille-biography.html), [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html) and [Pierre-Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html). He heavily defended their work in his writing, becoming close friends of many painters in the studios and cafes of Paris. He further organised evening gatherings at his large country home from 1866 onwards. In these informal gatherings, art theory was frequently discussed and debated.
+      Later, in the 1860s, he wrote articles on the work of the early Impressionists, including [Claude Monet](/claude-monet-biography), [Frédéric Bazille](/frederic-bazille-biography), [Edgar Degas](/edgar-degas-biography) and [Pierre-Auguste Renoir](/pierre-auguste-renoir-biography). He heavily defended their work in his writing, becoming close friends of many painters in the studios and cafes of Paris. He further organised evening gatherings at his large country home from 1866 onwards. In these informal gatherings, art theory was frequently discussed and debated.
 
 
       The Impressionists served as a great source of creative inspiration for Zola, with Cézanne being the most prominent. In ‘The Belly of Paris’ from 1873 this influence is evident in Zola’s painterly descriptions of the markets of Les Halles in Paris.
@@ -153,7 +156,7 @@ textSections:
       Early on in the proceedings, Zola correctly deduced that Dreyfus was innocent. He published an open letter in L’Aurore newspaper in 1898, vehemently denouncing the War Office and many high-ranking military officers for their injustice. This letter has now become known by its first two words: “J’accuse” or “I accuse”.
 
 
-      The event divided the artistic community of Paris. [Monet](https://impressionistarts.com/claude-monet-biography.html) and [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html), who was also Jewish, sided with Zola and were staunchly pro-Dreyfus. Monet wrote to Zola following the publication of “J’accuse” to congratulate him on his courage. However, many more artists including [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html), Cézanne, Renoir and Degas were staunchly anti-Dreyfus. Both Renoir and Degas were openly anti-Semitic and Renoir spoke out against his old friend Pissarro, protesting against having his work shown alongside that of a Jew.
+      The event divided the artistic community of Paris. [Monet](/claude-monet-biography) and [Pissarro](/camille-pissarro-biography), who was also Jewish, sided with Zola and were staunchly pro-Dreyfus. Monet wrote to Zola following the publication of “J’accuse” to congratulate him on his courage. However, many more artists including [Mary Cassatt](/mary-cassatt-biography), Cézanne, Renoir and Degas were staunchly anti-Dreyfus. Both Renoir and Degas were openly anti-Semitic and Renoir spoke out against his old friend Pissarro, protesting against having his work shown alongside that of a Jew.
 
 
       Of all the Impressionists, Degas was by far the most anti-Semitic, however. In the years following the Dreyfus affair, he cut all ties with his boyhood friend, Ludovic Halévy, who was from a Jewish family. He only returned to his home briefly to pay his respects after his death. Degas further shunned fellow Impressionist Pissarro, dismissing his works as unworthy and ignoble, when once he had praised his works highly.
@@ -162,11 +165,12 @@ textSections:
       For his intervention in the Dreyfus affair, Zola was found guilty of libel and he fled to England in 1899. He returned to France the following summer as the Dreyfus case was being reopened. By speaking up about the affair, Zola helped to undermine French nationalism, militarism and anti-Semitism, encouraging scrutiny of the French military and swaying public opinion.
     sideGalleryImages:
       - imageUrl: /assets/emile-zola-article-in-laurore.jpg
-        imageTitle: Front page cover of the newspaper L'Aurore for Thursday 13 January
+        imageTitle:
+          Front page cover of the newspaper L'Aurore for Thursday 13 January
           1898, with the open letter J'Accuse…!, written by Émile Zola about the
           Dreyfus affair. The headline reads 'I Accuse...! Letter to the
           President of the Republic'—Paris Museum of Jewish Art and History
-      - imageTitle: "Zola, Francois Emile: Zola photographed in Bois de Boulogne"
+      - imageTitle: 'Zola, Francois Emile: Zola photographed in Bois de Boulogne'
         imageUrl: /assets/emile-zola-taking-a-photograph.jpg
       - imageTitle: A photograph of Emile Zola middle-aged (© e-periodica, CC BY-SA 4.0)
         imageUrl: /assets/emile-zola-photograph-middle-aged.jpg
@@ -198,7 +202,8 @@ textSections:
       He believed in the betterment of society through individual and collective action and his novels reflect this pursuit. Though many of his characters are ultimately tragic figures, they steadfastly stand by their ideals and are unwavering in their conviction. In this way, Zola wrote himself into his work and his legacy is one of immense bravery and belief in social justice.
     sideGalleryImages:
       - imageUrl: /assets/emile-zola-grave.jpg
-        imageTitle: Grave of the writer Émile Zola in Cimetière of Montmartre in Paris
+        imageTitle:
+          Grave of the writer Émile Zola in Cimetière of Montmartre in Paris
           18th district, France. The monument of Frantz Jourdain, surmounted by
           a bust of Philippe Solari (1840-1906) (© Donar Reiskoffer, CC BY-SA
           3.0)
@@ -209,8 +214,9 @@ textSections:
         imageTitle: The tomb of Émile Zola at the Panthéon in Paris. (© Lucas
           Werkmeister, CC BY 4.0)
 ---
+
 ## Émile Édouard Charles Antoine Zola is arguably one of the most influential and controversial figures in the history of French literature.
 
-He devoted his life to [literary theory](https://impressionistarts.com/emile-zola-biography.html#2) and in his novels, he drew a detailed portrait of modern industrial France, unflinchingly portraying the dark and desperate conditions of working class life. In doing so, he became one of the leaders of the Naturalist literary movement.
+He devoted his life to [literary theory](/emile-zola-biography#2) and in his novels, he drew a detailed portrait of modern industrial France, unflinchingly portraying the dark and desperate conditions of working class life. In doing so, he became one of the leaders of the Naturalist literary movement.
 
-As well as his significant contributions as a writer, Zola was also a close friend of many [Impressionist artists](https://impressionistarts.com/emile-zola-biography.html#3) during the early stages of his career. He championed the movement in his articles and spent much time with the group in the cafes and bars of Paris. Later, during the [Dreyfus affair](https://impressionistarts.com/emile-zola-biography.html#3), their paths would converge once more over issues of anti-Semitism and nationalism in France.
+As well as his significant contributions as a writer, Zola was also a close friend of many [Impressionist artists](/emile-zola-biography#3) during the early stages of his career. He championed the movement in his articles and spent much time with the group in the cafes and bars of Paris. Later, during the [Dreyfus affair](/emile-zola-biography#3), their paths would converge once more over issues of anti-Semitism and nationalism in France.
