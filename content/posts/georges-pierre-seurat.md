@@ -61,7 +61,7 @@ textSections:
       #### Seurat’s first studio
 
 
-      In spite of this, it was at the cottage in Le Rancy that Seurat first began to paint outdoors, and this was also the location of Seurat’s first studio. A number of small oil sketches from this time indicate his interest in country life and the everyday scenes in the suburbs surrounding Paris. [‘The Stone Breaker’](https://www.nga.gov/collection/art-object-page.164960.html) from 1882 is a slightly later work that demonstrates his interest in the labourers in Le Raincy. Critics have likened this focus on working-class people to the work of [Gustave Courbet](/gustave-courbet-biography.html).
+      In spite of this, it was at the cottage in Le Rancy that Seurat first began to paint outdoors, and this was also the location of Seurat’s first studio. A number of small oil sketches from this time indicate his interest in country life and the everyday scenes in the suburbs surrounding Paris. [‘The Stone Breaker’](https://www.nga.gov/collection/art-object-page.164960.html) from 1882 is a slightly later work that demonstrates his interest in the labourers in Le Raincy. Critics have likened this focus on working-class people to the work of [Gustave Courbet](/gustave-courbet-biography).
 
 
       Another artistic influence inherited from his father was Seurat’s interest in simplifying images to provide them with greater monumentality. Art historians have linked Seurat’s paintings emphasising the figures as motifs to his father’s collections of religious images.
@@ -70,7 +70,7 @@ textSections:
       Chrysostome-Antoine had a large number of illustrated broadsheets, intended for popular consumption, which featured religious subjects from Épinal. As a child, Seurat would have had a chance to study these simple works and this may have formed the base of his inspiration.
 
 
-      Overall, the young student’s early artistic education was fairly traditional. He enrolled in a local art school around 1875 before moving to the École des Beaux-Arts, which was at this time run by [Henri Lehmann](https://en.wikipedia.org/wiki/Henri_Lehmann). Lehmann was a student of [Jean-Auguste-Dominique Ingres](/jean-auguste-dominique-ingres-biography.html) and as such, the teaching was firmly Neo-Classical, placing weight on drawing and composition.
+      Overall, the young student’s early artistic education was fairly traditional. He enrolled in a local art school around 1875 before moving to the École des Beaux-Arts, which was at this time run by [Henri Lehmann](https://en.wikipedia.org/wiki/Henri_Lehmann). Lehmann was a student of [Jean-Auguste-Dominique Ingres](/jean-auguste-dominique-ingres-biography) and as such, the teaching was firmly Neo-Classical, placing weight on drawing and composition.
 
 
       This style of formal training set Seurat apart from many Impressionist artists as he had the opportunity to learn the techniques of Neo-Classicism. Generally, Seurat accepted the teaching he was given, as indicated in his early life drawings and copies of sculptures that were entirely in keeping with his art masters’ instructions.
@@ -99,7 +99,7 @@ textSections:
       #### The Fourth Impressionist Exhibition
 
 
-      In 1879, Seurat attended the Fourth Impressionist Exhibition where he had the opportunity to see works by artists such as [Claude Monet](/claude-monet-biography.html) and [Camille Pissarro](/camille-pissarro-biography.html). This was an important moment for him as he was confronted with a new form of artistic expression that shunned the academic rules enforced on artists at the time, including himself.
+      In 1879, Seurat attended the Fourth Impressionist Exhibition where he had the opportunity to see works by artists such as [Claude Monet](/claude-monet-biography) and [Camille Pissarro](/camille-pissarro-biography). This was an important moment for him as he was confronted with a new form of artistic expression that shunned the academic rules enforced on artists at the time, including himself.
 
 
       Like the Impressionists, Seurat was unsuccessful in his attempts to enter his work into the Paris Salon. He was rejected time and time again and was successful in having his work represented just once. This was in 1883, with a drawing of Aman-Jean. The Impressionists’ example of a school of artists set apart from the mainstream undoubtedly inspired Seurat to follow suit.
@@ -149,7 +149,7 @@ textSections:
       Seurat sought to exploit the expressive effects of colours in his paintings, as well as experimenting with angled lines. This was where [Chevreul’s](https://en.wikipedia.org/wiki/Michel_Eug%C3%A8ne_Chevreul) writings were enormously influential, providing Seurat with a guide to manipulating colour to greatest effect by taking a studied, academic approach to colour theory. Seurat even had the opportunity to meet the famous chemist himself, who was by then 100 years old.
 
 
-      As well as the work of Chevreul, Seurat also spent time studying the theories set forth by Charles Blanc in the ‘Grammaire des arts du dessin’ or ‘Grammar of the Art of Drawing’. Blanc acknowledged the important work of [Eugene Delacroix](/eugene-delacroix-biography.html) on expanding the use of colour theory in art. Delacroix was a key source of inspiration for the Impressionists thanks to his expressive, dynamic approach to painting and Seurat also studied his techniques.
+      As well as the work of Chevreul, Seurat also spent time studying the theories set forth by Charles Blanc in the ‘Grammaire des arts du dessin’ or ‘Grammar of the Art of Drawing’. Blanc acknowledged the important work of [Eugene Delacroix](/eugene-delacroix-biography) on expanding the use of colour theory in art. Delacroix was a key source of inspiration for the Impressionists thanks to his expressive, dynamic approach to painting and Seurat also studied his techniques.
 
 
       #### Grammar of the Art of Drawing
@@ -173,7 +173,7 @@ textSections:
       The palette of these paintings borrows from the bright, airy style of the Impressionists but the rigid approach to the application of paint sets it firmly apart from Impressionism. Similarly, Bathers at Asnières has the stately composition of a Neo-classical painting.
 
 
-      These paintings delivered almost a manifesto for the Neo-Impressionist technique, firmly laying out Seurat’s radical new style. Both works feature scenes from the banks of the Seine, depicting working-class figures at their leisure to deliver a dose of modernity to the paintings. This aspect further contrasted with the early works of prominent Impressionists like [Monet](/claude-monet-biography.html) and [Renoir](/pierre-auguste-renoir-biography.html), who preferred to paint bourgeois figures instead.
+      These paintings delivered almost a manifesto for the Neo-Impressionist technique, firmly laying out Seurat’s radical new style. Both works feature scenes from the banks of the Seine, depicting working-class figures at their leisure to deliver a dose of modernity to the paintings. This aspect further contrasted with the early works of prominent Impressionists like [Monet](/claude-monet-biography) and [Renoir](/pierre-auguste-renoir-biography), who preferred to paint bourgeois figures instead.
 
 
       #### Fame and fortune
@@ -197,7 +197,7 @@ textSections:
       Once again, the young artists demonstrated his innovative approach to painting, doing away with the statuesque stillness of his youth in favour of fluidity and movement. This is evident in works like [‘The Circus’](https://en.wikipedia.org/wiki/The_Circus_(Seurat)) from 1890-91, taken from an 1888 poster for the Nouveau Cirque, which depicts a horse mid-gallop and performers frozen during their acrobatic stunts.
 
 
-      This particular painting would be Seurat’s last. Indeed, it was unfinished at his death. Almost predicting his fate, Seurat chose to exhibit the work only partially completed in the Salon des Independants. His friend and fellow [Post-Impressionist Paul Signac](/paul-signac-biography.html) purchased the painting soon afterwards.
+      This particular painting would be Seurat’s last. Indeed, it was unfinished at his death. Almost predicting his fate, Seurat chose to exhibit the work only partially completed in the Salon des Independants. His friend and fellow [Post-Impressionist Paul Signac](/paul-signac-biography) purchased the painting soon afterwards.
 
 
       Upon his death, Signac took up the mantle of Neo-Impressionism and continued to develop the techniques further, building on his earliest works created as a disciple of Seurat. Signac enabled the momentum of the movement to continue, introducing the technique to an array of critics and writers and firmly establishing its reputation as an enduring art form.
@@ -237,13 +237,13 @@ textSections:
       Seurat’s untimely death meant that his artistic legacy was abruptly cut short. Despite producing just 40 odd paintings, only seven of which were monumental, he succeeded in pioneering a new artistic vocabulary at a time of great innovation and creativity in French art. The fact that this was accomplished in such a short space of time, when he was only in his twenties, further adds to the impressiveness of the feat.
 
 
-      Among his contemporaries, Seurat’s approach to painting sparked the work of Signac and a rapid development in the paintings of [Camille Pissarro](/camille-pissarro-biography.html) who made the shift to Neo-Impressionism following Seurat’s example. Many other Impressionist artists also began incorporating Neo-Impressionist techniques into their work.
+      Among his contemporaries, Seurat’s approach to painting sparked the work of Signac and a rapid development in the paintings of [Camille Pissarro](/camille-pissarro-biography) who made the shift to Neo-Impressionism following Seurat’s example. Many other Impressionist artists also began incorporating Neo-Impressionist techniques into their work.
 
 
       #### Influence on Van Gogh
 
 
-      Perhaps most important, however, was Seurat’s influence on [Vincent Van Gogh](/van-gogh-biography.html). Van Gogh would borrow from Seurat’s techniques to produce an entirely new form of Post-Impressionist expression. The echoes of Seurat’s work is most evident in many of Van Gogh’s self-portraits, which blend different spots of colour and short, quick brushstrokes to build up a whole image.
+      Perhaps most important, however, was Seurat’s influence on [Vincent Van Gogh](/van-gogh-biography). Van Gogh would borrow from Seurat’s techniques to produce an entirely new form of Post-Impressionist expression. The echoes of Seurat’s work is most evident in many of Van Gogh’s self-portraits, which blend different spots of colour and short, quick brushstrokes to build up a whole image.
 
 
       The legacy of Seurat and the techniques he developed are far-reaching to this day. The Pointillist movement inspired a great number of Impressionist and Post-Impressionist artists and continued to ripple through the art world long after his death. From Pop Art to today’s pixelated Digital Art, Seurat’s explorations into colour theory and his careful, dotted applications of paint were monumental. His short life only serves to make his legacy even more incredible.
@@ -264,8 +264,8 @@ textSections:
 
 ## Georges-Pierre Seurat was the founder of Neo-Impressionism and the pioneer of the Pointillist technique.
 
-This method of applying dots of paint to create cumulative colour effects was Seurat’s defining contribution to 19th century French art. At a time of great artistic innovation, Seurat forged [his own, novel path](/georges-seurat-biography.html#1).
+This method of applying dots of paint to create cumulative colour effects was Seurat’s defining contribution to 19th century French art. At a time of great artistic innovation, Seurat forged [his own, novel path](/georges-seurat-biography#1).
 
-Through his original approach to painting using colour theory, Seurat moved away from the foundations of the [Impressionist movement](/georges-seurat-biography.html#2). Rather than working to capture a fleeting moment in time, he chose to produce carefully considered and stately works, albeit in a similar colour palette to the Impressionists.
+Through his original approach to painting using colour theory, Seurat moved away from the foundations of the [Impressionist movement](/georges-seurat-biography#2). Rather than working to capture a fleeting moment in time, he chose to produce carefully considered and stately works, albeit in a similar colour palette to the Impressionists.
 
-In doing so, Seurat inspired a [new generation of artists](/georges-seurat-biography.html#3) to experiment with colour and particularly the technique of ‘mélange optique’ or optical mixing, to give their paintings greater vibrance and intensity. Before he reached the age of 30, Seurat had already established himself as the [new leader of the French avant-garde](/georges-seurat-biography.html#4).
+In doing so, Seurat inspired a [new generation of artists](/georges-seurat-biography#3) to experiment with colour and particularly the technique of ‘mélange optique’ or optical mixing, to give their paintings greater vibrance and intensity. Before he reached the age of 30, Seurat had already established himself as the [new leader of the French avant-garde](/georges-seurat-biography#4).
