@@ -4,7 +4,7 @@ path: emile-zola-biography
 date: 2020-06-02T12:26:14.817Z
 subTitle: Biography of
 title: Émile Zola
-tags: Impressionists
+tags: More
 cover: /assets/emile-zola-cezanne-paul-alexis-reading-to-emile-zola.jpg
 links:
   - post-ugwaRKKHQ
