@@ -112,8 +112,7 @@ const Index = ({ data }) => {
 
   // Get only tags from MD posts, store in an array, flatten array and remove duplicates
   const tagArray = edges.map(({ node }) => node.frontmatter.tags)
-  const tagSet = new Set([].concat(...tagArray))
-  const categories = [...tagSet]
+  const categories = [...new Set(tagArray)]
 
   const orderedCategories = {
     IMPRESSIONISTS: 1,

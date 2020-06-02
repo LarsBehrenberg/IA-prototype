@@ -4,8 +4,7 @@ path: jean-baptiste-camille-corot-biography
 date: 2020-04-16T09:41:19.738Z
 subTitle: Biography of
 title: Jean-Baptiste-Camille Corot
-tags:
-  - Pre-Impressionists
+tags: Pre-Impressionists
 cover: /assets/camille-corot-venise-la-piazetta.jpg
 links:
   - post-Uj7WapQkL

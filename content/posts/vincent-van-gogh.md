@@ -4,8 +4,7 @@ path: van-gogh-biography
 date: 2020-04-16T11:51:22.450Z
 subTitle: Biography of
 title: Vincent Van Gogh
-tags:
-  - Post-Impressionists
+tags: Post-Impressionists
 cover: /assets/van-gogh-starry-night.jpg
 links:
   - post-Uj7WapQkL

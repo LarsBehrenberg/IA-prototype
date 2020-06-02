@@ -4,8 +4,7 @@ path: paul-signac-biography
 date: 2020-04-15T04:07:58.887Z
 subTitle: Biography of
 title: Paul Signac
-tags:
-  - Post-Impressionists
+tags: Post-Impressionists
 cover: /assets/paul-signac-in-the-time-of-harmony.jpg
 links:
   - post-Uj7WapQkL

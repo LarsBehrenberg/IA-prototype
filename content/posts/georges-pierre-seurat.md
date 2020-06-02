@@ -4,8 +4,7 @@ path: georges-seurat-biography
 date: 2020-04-16T11:17:59.620Z
 subTitle: Biography of
 title: Georges-Pierre Seurat
-tags:
-  - Post-Impressionists
+tags: Post-Impressionists
 cover: /assets/georges-seurat-sunday-on-la-grande-jatte.jpg
 links:
   - post-Uj7WapQkL
