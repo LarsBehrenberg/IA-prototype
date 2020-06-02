@@ -71,7 +71,7 @@ collections:
         collection: 'posts'
         hint: This field searches all published articles and attaches the selected ones to the side menu. Articles can be searched by title & tags.
         searchFields: ['title', 'tags']
-        displayFields: ['title', 'tags']
+        displayFields: ["{{title}} - {{tags}}"]
         valueField: 'id'
         multiple: true
         required: true
