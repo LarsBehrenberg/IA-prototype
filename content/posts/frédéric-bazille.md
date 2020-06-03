@@ -25,7 +25,8 @@ upperGalleryImages:
       Institute of Chicago"
     middleImageUrl: /assets/frederic-bazille-self-portrait.jpg
   rightImage:
-    rightImageTitle: "'Frédéric Bazille Painting at his Easel', by Pierre-Auguste
+    rightImageTitle:
+      "'Frédéric Bazille Painting at his Easel', by Pierre-Auguste
       Renoir (1841–1919), c. 1867, Fabre Museum, Montpellier, deposit from the
       Musée d'Orsay"
     rightImageUrl: /assets/frederic-bazille-pierre-auguste-renoir.jpg
@@ -59,10 +60,12 @@ textSections:
     sideGalleryImages:
       - imageTitle: A rare photograph of Frédéric Bazille at the age of 26
         imageUrl: /assets/frederic-bazille-photo.jpg
-      - imageTitle: "'Studio in the Rue de Furstenberg', by Frédéric Bazille, c. 1865,
+      - imageTitle:
+          "'Studio in the Rue de Furstenberg', by Frédéric Bazille, c. 1865,
           Fogg Art Museum, Cambridge, Massachusetts"
         imageUrl: /assets/frederic-bazille-rue-de-furstenberg.jpg
-      - imageTitle: "'The Pink Dress (View of Castelnau-le-Lez, Hérault)', by Frédéric
+      - imageTitle:
+          "'The Pink Dress (View of Castelnau-le-Lez, Hérault)', by Frédéric
           Bazille, c. 1864, Musée d'Orsay"
         imageUrl: /assets/frederic-bazille-the-pink-dress.jpg
   - textTitle: Bazille’s painting style
@@ -72,7 +75,7 @@ textSections:
       Paris, funded by his substantial allowance from his parents.
 
 
-      His first was on the rue de Furstenberg, which he shared with [Monet](https://impressionistarts.com/claude-monet-biography.html) from 1864. The next studio he moved to in 1867 he shared with Renoir. Sisley and Monet often joined as well. The interplay and influence between these artists was vital for spurring the [Impressionist movement](https://impressionistarts.com/index.html) and forming the base for what it would become.
+      His first was on the rue de Furstenberg, which he shared with [Monet](/claude-monet-biography) from 1864. The next studio he moved to in 1867 he shared with Renoir. Sisley and Monet often joined as well. The interplay and influence between these artists was vital for spurring the [Impressionist movement](/) and forming the base for what it would become.
 
 
       Bazille admired Monet and Renoir’s paintings made ‘en plain air’ and Monet encouraged him to paint his own. He favoured the light in the South of France, where he was born and where his family still lived, and he visited home often, going back to paint.
@@ -109,10 +112,12 @@ textSections:
     sideGalleryImages:
       - imageTitle: "'The Family Reunion', by Frédéric Bazille, c. 1867, Musée d'Orsay"
         imageUrl: /assets/frederic-bazille-family-reunion.jpg
-      - imageTitle: "'Fisherman with a net', by Frédéric Bazille, c. 1868, Fondation Rau
+      - imageTitle:
+          "'Fisherman with a net', by Frédéric Bazille, c. 1868, Fondation Rau
           pour le Tiers-Monde"
         imageUrl: /assets/frederic-bazille-fisherman-with-a-net.jpg
-      - imageTitle: "'Summer Scene (Bathers)', by Frédéric Bazille, c. 1869, Harvard Art
+      - imageTitle:
+          "'Summer Scene (Bathers)', by Frédéric Bazille, c. 1869, Harvard Art
           Museums/Fogg Museum, Gift of Mr. and Mrs. F. Meynier de Salinelles"
         imageUrl: /assets/frederic-bazille-summer-scene.jpg
   - textTitle: Bazille’s legacy
@@ -127,7 +132,7 @@ textSections:
       Sadly, the young man was killed in fighting against the Prussian army on 28th November 1870. This was his first attack. His father travelled to the site of the battle, in Beaune-la-Rolande in the Val-de-Loir, to retrieve Frédéric’s body and take it home to the south.
 
 
-      When he died, Bazille left behind the small number of paintings that he had been able to create during his short lifetime. At the end of Franco-Prussian war, the other [Impressionists](https://impressionistarts.com/index.html) returned to Paris and resumed their work.
+      When he died, Bazille left behind the small number of paintings that he had been able to create during his short lifetime. At the end of Franco-Prussian war, the other [Impressionists](/) returned to Paris and resumed their work.
 
 
       This was when the movement truly began to take off, culminating in the First Impressionist exhibition of 1874. Bazille’s work was not shown in the exhibition or any of the following eight Impressionist exhibitions. As a result of his death, his artistic legacy was never fully realised.
@@ -140,11 +145,13 @@ textSections:
     sideGalleryImages:
       - imageTitle: A photo of Frédéric Bazille at the 3rd Zouaves light infantry regiment
         imageUrl: /assets/frederic-bazille-infantry.jpg
-      - imageTitle: A plaque commemorating the birth place of artist Frédéric Bazille at
+      - imageTitle:
+          A plaque commemorating the birth place of artist Frédéric Bazille at
           the l'Hôtel Périer in Montpellier (© Albertvillanovadelmoral, CC BY-SA
           3.0)
         imageUrl: /assets/frederic-bazille-plaque.jpg
-      - imageTitle: Tomb of Frédéric Bazille, made by the sculptor Baussan, in the
+      - imageTitle:
+          Tomb of Frédéric Bazille, made by the sculptor Baussan, in the
           Protestant cemetery of Montpellier (© Sapin88, CC BY-SA 4.0)
         imageUrl: /assets/frederic-bazille-grave.jpg
 ---

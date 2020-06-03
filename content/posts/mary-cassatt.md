@@ -18,11 +18,13 @@ upperGalleryImages:
     leftImageTitle: "'The Boating Party' painted by Mary Cassatt (1844-1926) in 1893-94"
     leftImageUrl: /assets/mary-cassatt-boating-party.jpg
   middleImage:
-    middleImageTitle: A photograph of Mary Cassatt facing Mrs. J.Durand-Ruel, 1910,
+    middleImageTitle:
+      A photograph of Mary Cassatt facing Mrs. J.Durand-Ruel, 1910,
       photographed by Joseph Durand-Ruel
     middleImageUrl: /assets/mary-cassatt-1910.jpg
   rightImage:
-    rightImageTitle: "'Summertime' by Mary Cassatt, c. 1894, oil on canvas, at the
+    rightImageTitle:
+      "'Summertime' by Mary Cassatt, c. 1894, oil on canvas, at the
       Terra Foundation for American Art, Chicago"
     rightImageUrl: /assets/mary-cassatt-summertime.jpg
 textSections:
@@ -62,14 +64,16 @@ textSections:
       By 1874, Cassatt had chosen Paris as her permanent residence, firmly aligning her future with the impressionist movement and making clear her aims to become a prominent artist in her own right.
 
 
-      Unfortunately, the outbreak of the [Franco-Prussian War](https://impressionistarts.com/impressionism-timeline.html#3) saw her return to the U.S. fairly quickly. She was not alone as fellow impressionists [Claude Monet](https://impressionistarts.com/claude-monet-biography.html) and [Alfred Sisley](https://impressionistarts.com/alfred-sisley-biography.html) fled to London.
+      Unfortunately, the outbreak of the [Franco-Prussian War](/impressionism-timeline#3) saw her return to the U.S. fairly quickly. She was not alone as fellow impressionists [Claude Monet](/claude-monet-biography) and [Alfred Sisley](/alfred-sisley-biography) fled to London.
     sideGalleryImages:
-      - imageTitle: "'The Child's Bath (The Bath)'' by Mary Cassatt, 1893, oil on
+      - imageTitle:
+          "'The Child's Bath (The Bath)'' by Mary Cassatt, 1893, oil on
           canvas, 39 × 26 in., Art Institute of Chicago"
         imageUrl: /assets/mary-cassatt-childs-bath.jpg
       - imageTitle: "'The caress' painted by Mary Cassatt (1844-1926) in 1902"
         imageUrl: /assets/mary-cassatt-the-caress.jpg
-      - imageTitle: A self-portrait by Mary Cassatt - 'Portrait of the Artist' c. 1878,
+      - imageTitle:
+          A self-portrait by Mary Cassatt - 'Portrait of the Artist' c. 1878,
           gouache on paper
         imageUrl: /assets/mary-cassatt-portrait-of-the-artist.jpg
   - textTitle: Cassatt’s Impressionism
@@ -78,7 +82,7 @@ textSections:
       exhibiting at the impressionist exhibitions.
 
 
-      She first premiered at the [fourth impressionist exhibition](https://impressionistarts.com/impressionism-timeline.html#4) held in 1879, also showing her work in the 1880 (fifth) and 1881 (sixth) exhibitions to follow.
+      She first premiered at the [fourth impressionist exhibition](/impressionism-timeline#4) held in 1879, also showing her work in the 1880 (fifth) and 1881 (sixth) exhibitions to follow.
 
 
       This acceptance into the movement had the effect of freeing her from stylistic constraints and she described how:
@@ -90,7 +94,7 @@ textSections:
       #### Cassatt and Degas
 
 
-      One of Cassatt’s earliest champions was [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html). He admired her drawing and her artistic eye, which he saw as similar to his own.
+      One of Cassatt’s earliest champions was [Edgar Degas](/edgar-degas-biography). He admired her drawing and her artistic eye, which he saw as similar to his own.
 
 
       Degas was the first to invite Cassatt to exhibit her work at the impressionist exhibition of 1879 and the two artists became friends thanks to their shared aesthetic, focussed on striking compositional structure and asymmetry.
@@ -108,7 +112,7 @@ textSections:
       #### Paintings of women
 
 
-      Whilst undoubtedly avant-garde, Cassatt’s works deviated from the other [impressionists](https://impressionistarts.com/index.html) in their imagery. She depicted modern women going about their daily lives, usually backed by blocks of colour or prints. The women in her artworks stand alone, as mothers and as individuals.
+      Whilst undoubtedly avant-garde, Cassatt’s works deviated from the other [impressionists](/) in their imagery. She depicted modern women going about their daily lives, usually backed by blocks of colour or prints. The women in her artworks stand alone, as mothers and as individuals.
 
 
       Referring to her mural titled ‘Modern Woman’ from 1893, one American friend asked Cassatt
@@ -125,24 +129,27 @@ textSections:
       It is thought that this focus on women and frequently mothers led to much of Cassatt’s work being passed over in later exhibitions of impressionist art in France. Her work was ignored due to its all-female subject matter and not recognised for her stylistic innovations.
 
 
-      The impressionism Cassatt embraced was partly influenced by the limitations imposed on her by French society. Like her friend and contemporary, [Berthe Morisot](https://impressionistarts.com/berthe-morisot-biography.html), Cassatt was not allowed to paint or even be in public spaces without a male chaperone. The consequence of such restrictions was that many of her paintings necessarily focussed on the domestic sphere. Nevertheless, she continued to experiment with painting [‘en plein air’](https://en.wikipedia.org/wiki/En_plein_air) (outdoors), characteristic of the impressionists, as much as she could.
+      The impressionism Cassatt embraced was partly influenced by the limitations imposed on her by French society. Like her friend and contemporary, [Berthe Morisot](/berthe-morisot-biography), Cassatt was not allowed to paint or even be in public spaces without a male chaperone. The consequence of such restrictions was that many of her paintings necessarily focussed on the domestic sphere. Nevertheless, she continued to experiment with painting [‘en plein air’](https://en.wikipedia.org/wiki/En_plein_air) (outdoors), characteristic of the impressionists, as much as she could.
 
 
       #### The colour black
 
 
-      Cassatt’s paintings often utilised a light colour palette and quick brushwork that was common to the impressionist movement. On the other hand, she did not shy away from black hues in many of her compositions, which set her apart from all of the other impressionists with the exceptions of Degas and [Edouard Manet](https://impressionistarts.com/edouard-manet-biography.html).
+      Cassatt’s paintings often utilised a light colour palette and quick brushwork that was common to the impressionist movement. On the other hand, she did not shy away from black hues in many of her compositions, which set her apart from all of the other impressionists with the exceptions of Degas and [Edouard Manet](/edouard-manet-biography).
 
 
       This is most evident in works like [‘A Woman in Black at the Opera’](https://www.wikiart.org/en/mary-cassatt/the-opera-1878) from 1880 where the solid black of the woman’s fashionable dress and bonnet dominates the painting and is set against the red background. She enjoyed the drama that black could create.
     sideGalleryImages:
-      - imageTitle: "'Woman with a Pearl Necklace in a Loge', 1879, oil on canvas, 81 x
+      - imageTitle:
+          "'Woman with a Pearl Necklace in a Loge', 1879, oil on canvas, 81 x
           60 cm, Philadelphia Museum of Art"
         imageUrl: /assets/mary-cassatt-woman-with-pearl-necklace.jpg
-      - imageTitle: "'Tea' painted by Mary Cassatt, 1880, oil on canvas, 25½ × 36¼ in.,
+      - imageTitle:
+          "'Tea' painted by Mary Cassatt, 1880, oil on canvas, 25½ × 36¼ in.,
           Museum of Fine Arts, Boston"
         imageUrl: /assets/mary-cassatt-the-tea.jpg
-      - imageTitle: "'Young Woman in a Black and Green Bonnet', painted by Mary Cassatt,
+      - imageTitle:
+          "'Young Woman in a Black and Green Bonnet', painted by Mary Cassatt,
           c. 1890, Princeton University Art Museum"
         imageUrl: /assets/mary-cassatt-young-woman-in-black-with-green-bonnet.jpg
   - textTitle: Cassatt’s drawings
@@ -168,7 +175,7 @@ textSections:
       #### Japanese influence
 
 
-      Cassatt and [Degas’s](https://impressionistarts.com/edgar-degas-biography.html) drawings were both influenced by [Japanese art](https://impressionistarts.com/mary-cassatt-biography.html#4). Parallels can be drawn between both artists’ vignettes of women washing, often nude or half-naked, and the bathing women common to Japanese prints. They diverge in the sensuality of their works, however. Degas built on the voyeuristic nature of Japanese art as evident in his [‘La Toilette’ series](https://www.metmuseum.org/art/collection/search/337064).
+      Cassatt and [Degas’s](/edgar-degas-biography) drawings were both influenced by [Japanese art](/mary-cassatt-biography#4). Parallels can be drawn between both artists’ vignettes of women washing, often nude or half-naked, and the bathing women common to Japanese prints. They diverge in the sensuality of their works, however. Degas built on the voyeuristic nature of Japanese art as evident in his [‘La Toilette’ series](https://www.metmuseum.org/art/collection/search/337064).
 
 
       In contrast, Cassatt’s works have a more linear quality that reduces the explicitly sexualised aspects of the works. Her abstract portrayals of unclothed women, as in [‘Woman Bathing’](https://www.metmuseum.org/art/collection/search/337064) from 1890-91, turn the nude bodies into studies of shapes and colour rather than seduction.
@@ -182,20 +189,23 @@ textSections:
 
       In this way, she was able to study the female form in a semi-respectable way, using the stylised technique of Japanese art to further remove herself from the European tradition. Whilst her male contemporaries studied women in brothels and bath houses, Cassatt brought the illusion of decorum to her nudes, allowing her to paint as she wanted.
     sideGalleryImages:
-      - imageTitle: "'Under the Horse Chestnut Tree' by Mary Cassatt, 1898, drypoint and
+      - imageTitle:
+          "'Under the Horse Chestnut Tree' by Mary Cassatt, 1898, drypoint and
           aquatint print, 19 x 15 in., Museum of Fine Arts, Houston"
         imageUrl: /assets/mary-cassatt-under-the-horse-chestnut-tree.jpg
-      - imageTitle: "'Mrs. Robert S. Cassatt, the Artist's Mother' painted by Mary
+      - imageTitle:
+          "'Mrs. Robert S. Cassatt, the Artist's Mother' painted by Mary
           Cassatt (1844-1926) in 1889"
         imageUrl: /assets/mary-cassatt-artists-mother.jpg
-      - imageTitle: "'A Woman and a Girl Driving' painted by Mary Cassatt (1844-1926) in
+      - imageTitle:
+          "'A Woman and a Girl Driving' painted by Mary Cassatt (1844-1926) in
           1881"
         imageUrl: /assets/mary-cassatt-woman-and-girl-driving.jpg
   - textTitle: Cassatt’s Japanese prints
     text: >-
       ### As well as being a painter, Cassatt was an accomplished printmaker
       having learnt the skill
-      from[](https://impressionistarts.com/edgar-degas-biography.html)Degas.
+      from[](/edgar-degas-biography)Degas.
 
 
       In 1890, she visited an exhibition of Japanese woodcut prints in Paris and the works she saw inspired her to make her own. Using the figures of the French women who were her regular subjects, Cassatt embarked on a new style of etching.
@@ -207,7 +217,7 @@ textSections:
       #### Women in their Homes
 
 
-      At the same time, she experimented with bringing her own distinct edge to her works, capturing women in their homes. The women in her prints possess the same independence as in her earlier paintings. In doing so, Cassatt was able to create a unique version of the popular Japanese prints. Her works from this period diverged from [Impressionism](https://impressionistarts.com/index.html) completely.
+      At the same time, she experimented with bringing her own distinct edge to her works, capturing women in their homes. The women in her prints possess the same independence as in her earlier paintings. In doing so, Cassatt was able to create a unique version of the popular Japanese prints. Her works from this period diverged from [Impressionism](/) completely.
 
 
       Cassatt’s enthusiastic embrace of Japanese artwork can be seen as part of a wider movement in Western art in the late 1800s, thanks to a flood of Japanese imports into the U.S. and Europe. A treaty signed in 1854 between the U.S. and Japan marked the end of Japanese isolation from the rest of the world. Consequently, Japanese culture became extremely fashionable and pervasive throughout Europe, so much so that the term [‘Japonisme’](https://en.wikipedia.org/wiki/Japonism) became used to describe its influence on Western art from the 1870s onwards.
@@ -230,7 +240,8 @@ textSections:
 
       Cassatt’s work shifts from a focus on form to pattern during this time. This is not only evident in her prints but also in paintings such as [‘The Child’s Bath’](https://www.wikiart.org/en/mary-cassatt/the-child-s-bath-1893-1) from 1893. The work combines different patterns, from the fabric of the mother’s clothing to the woven rug to the print on the wall, creating a patchwork of impressions. It also has the same flattened style that is characteristic of her etchings.
     sideGalleryImages:
-      - imageTitle: "'In the Omnibus' printed by Mary Cassatt in 1890 - Cleveland Museum
+      - imageTitle:
+          "'In the Omnibus' printed by Mary Cassatt in 1890 - Cleveland Museum
           of Art"
         imageUrl: /assets/mary-cassatt-in-the-omnibus.jpg
       - imageTitle: "'The Bath', printed by Mary Cassatt, 1890-1891"
@@ -272,18 +283,21 @@ textSections:
 
       Like her fellow female contemporaries, Cassatt’s works were largely passed over after her death thanks to the art establishment’s tendency to ignore the role of women in art. However, she enjoyed more recognition from the later 20th century onwards and is now considered to be one of the most important American expatriate artists from this era.
     sideGalleryImages:
-      - imageTitle: Cassatt seated in a chair with an umbrella. Verso reads 'The only
+      - imageTitle:
+          Cassatt seated in a chair with an umbrella. Verso reads 'The only
           photograph for which she ever posed. Courtesy of Durand-Ruel.'
         imageUrl: /assets/mary-cassatt-1913.jpg
       - imageTitle: A photograph of Mary Cassatt (1844-1926) in 1914
         imageUrl: /assets/mary-cassatt-1914.jpg
-      - imageTitle: The family grave of Mary Cassatt (1844-1926) (© Daniel Volpatti, CC
+      - imageTitle:
+          The family grave of Mary Cassatt (1844-1926) (© Daniel Volpatti, CC
           BY-SA 4.0)
         imageUrl: /assets/mary-cassatt-family-grave.jpg
 ---
+
 ## In 1904, Mary Cassatt was awarded the Légion d’honneur for her services to art.
 
-One of only a handful of women who achieved success during the Impressionist movement, Cassatt bought a new perspective to the scenes of ordinary life that the[impressionists](https://impressionistarts.com/index.html)sought to depict. Strong-willed and experimental, she focussed entirely on female figures, showing them as worthy subjects in their own right. Despite her achievements, however, her role in Impressionism has largely been forgotten in France and much of Europe.
+One of only a handful of women who achieved success during the Impressionist movement, Cassatt bought a new perspective to the scenes of ordinary life that the[impressionists](/)sought to depict. Strong-willed and experimental, she focussed entirely on female figures, showing them as worthy subjects in their own right. Despite her achievements, however, her role in Impressionism has largely been forgotten in France and much of Europe.
 
 During her life from 1844 to 1926, Cassatt challenged the expectations of what it meant to be a middle-class woman, moving to Paris and devoting her life to becoming a professional artist. She did away with the privileged, leisurely lifestyle of her family and friends, choosing not to marry in order to focus on her career. Of all the impressionists, she was the only American artist in the movement and she brought her own perspective and distinctive style to this era of French art.
 

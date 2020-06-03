@@ -14,11 +14,13 @@ upperGalleryImages:
     topImageTitle: "'Riders on the Beach' by Gauguin in 1902, Museum Folkwang"
     topImageUrl: /assets/gauguin-riders-on-the-beach-1902.jpg
   leftImage:
-    leftImageTitle: "'Vahine no te tiare (Woman with a Flower)' by Gauguin in 1891,
+    leftImageTitle:
+      "'Vahine no te tiare (Woman with a Flower)' by Gauguin in 1891,
       Ny Carlsberg Glyptotek"
     leftImageUrl: /assets/gauguin-woman-with-flower-1891.jpg
   middleImage:
-    middleImageTitle: "'Nave nave moe (Sacred spring, sweet dreams)' by Gauguin in
+    middleImageTitle:
+      "'Nave nave moe (Sacred spring, sweet dreams)' by Gauguin in
       1894, Hermitage Museum"
     middleImageUrl: /assets/gauguin-sacred-spring-sweet-dreams-1894.jpg
   rightImage:
@@ -93,7 +95,7 @@ textSections:
       Gauguin returned to Paris once more in 1871 and became a stockbroker, helped by his mother’s partner and his legal guardian, Gustave Arosa.
 
 
-      Arosa was the first person to introduce Gauguin to the world of art. He was a wealthy art patron and had a sizeable collection of paintings including pieces by [Camille Corot](https://impressionistarts.com/jean-baptiste-camille-corot-biography.html)and[Eugène Delacroix](https://impressionistarts.com/eugene-delacroix-biography.html). Historians have cited Arosa’s influence on Gauguin as the single most important source of artistic inspiration in the young man’s life.
+      Arosa was the first person to introduce Gauguin to the world of art. He was a wealthy art patron and had a sizeable collection of paintings including pieces by [Camille Corot](/jean-baptiste-camille-corot-biography)and[Eugène Delacroix](/eugene-delacroix-biography). Historians have cited Arosa’s influence on Gauguin as the single most important source of artistic inspiration in the young man’s life.
 
 
       A fellow stockbroker, Émile Schuffenecker, became Gauguin’s first informal painting tutor.
@@ -104,13 +106,15 @@ textSections:
 
       Eventually, he was forced to move back to Paris in 1885, leaving his wife and children behind. He lost all contact with them in 1891.
     sideGalleryImages:
-      - imageTitle: Self-portrait by Gauguin in 1875–1877, Fogg Museum, Cambridge,
+      - imageTitle:
+          Self-portrait by Gauguin in 1875–1877, Fogg Museum, Cambridge,
           Massachusetts
         imageUrl: /assets/gauguin-self-portrait-1875-7.jpg
       - imageTitle: "'Garden in Vaugirard (Painter's Family in the Garden in Rue
           Carcel)' by Gauguin in 1881, Ny Carlsberg Glyptotek, Copenhagen"
         imageUrl: /assets/gauguin-garden-in-vaugirard-1881.jpg
-      - imageTitle: "'Portrait of Madame Gauguin' by Gauguin c. 1880–81, Foundation E.G.
+      - imageTitle:
+          "'Portrait of Madame Gauguin' by Gauguin c. 1880–81, Foundation E.G.
           Bührle, Zürich"
         imageUrl: /assets/gauguin-portrait-of-madame-gauguin-1880.jpg
   - textTitle: Gauguin and the Impressionists
@@ -127,13 +131,13 @@ textSections:
       In the early stages of his career, the Impressionist movement had a significant impact on Gauguin.
 
 
-      He met [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) around 1874 and was initially schooled in the Impressionist technique by the fatherly painter. In 1880, he was invited to exhibit his work at the Fifth Impressionist Exhibition and again in 1881, 1882 and later in 1886 (the sixth to eight impressionist exhibitions).
+      He met [Pissarro](/camille-pissarro-biography) around 1874 and was initially schooled in the Impressionist technique by the fatherly painter. In 1880, he was invited to exhibit his work at the Fifth Impressionist Exhibition and again in 1881, 1882 and later in 1886 (the sixth to eight impressionist exhibitions).
 
 
-      It was during this period that he came to know several prominent Impressionist artists, including [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html),[Pierre-Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html)and[Edouard Manet](https://impressionistarts.com/edouard-manet-biography.html).
+      It was during this period that he came to know several prominent Impressionist artists, including [Edgar Degas](/edgar-degas-biography),[Pierre-Auguste Renoir](/pierre-auguste-renoir-biography)and[Edouard Manet](/edouard-manet-biography).
 
 
-      Some critics have compared Gauguin’s Impressionist works to the likes of [Alfred Sisley](https://impressionistarts.com/alfred-sisley-biography.html)and[Berthe Morisot](https://impressionistarts.com/berthe-morisot-biography.html), stating that his paintings were of similar quality. He was also an accomplished Impressionist sculptor, arguably worthy of competition with Degas.
+      Some critics have compared Gauguin’s Impressionist works to the likes of [Alfred Sisley](/alfred-sisley-biography)and[Berthe Morisot](/berthe-morisot-biography), stating that his paintings were of similar quality. He was also an accomplished Impressionist sculptor, arguably worthy of competition with Degas.
 
 
       #### Impressionist influence
@@ -183,10 +187,12 @@ textSections:
 
       It is here that his story takes another turn.
     sideGalleryImages:
-      - imageTitle: "'Where Do We Come From? What Are We? Where Are We Going?' by
+      - imageTitle:
+          "'Where Do We Come From? What Are We? Where Are We Going?' by
           Gauguin in 1897, Boston Museum of Fine Arts, Boston, MA"
         imageUrl: /assets/gauguin-where-do-we-come-from-1897.jpg
-      - imageTitle: "'Spirit of the Dead Watching' by Gauguin in 1892, Albright–Knox Art
+      - imageTitle:
+          "'Spirit of the Dead Watching' by Gauguin in 1892, Albright–Knox Art
           Gallery, Buffalo, NY"
         imageUrl: /assets/gauguin-spirit-of-the-dead-1892.jpg
       - imageTitle: "'O Taiti (Nevermore)' by Gauguin in 1897, Courtauld Institute"
@@ -206,7 +212,7 @@ textSections:
       #### Van Gogh and Gaugin
 
 
-      In the late 1880s,[Vincent Van Gogh](https://impressionistarts.com/van-gogh-biography.html)made contact with Gauguin. Both artists showed the influence of Impressionism in their work but were also distinctly different to examples from the movement, which suggested they held great potential.
+      In the late 1880s,[Vincent Van Gogh](/van-gogh-biography)made contact with Gauguin. Both artists showed the influence of Impressionism in their work but were also distinctly different to examples from the movement, which suggested they held great potential.
 
 
       In 1888, at Van Gogh’s invitation, Gauguin travelled to Arles to paint. He worked closely with Van Gogh, spending the summer living with him in the [infamous yellow house](https://en.wikipedia.org/wiki/The_Yellow_House).
@@ -280,7 +286,7 @@ textSections:
       Since his death, Gauguin has gone on to become one of the most controversial artists of the 19th century - a proud boast as he is up against some tough contenders.
 
 
-      He led an extremely compelling life and his biography is filled with episodes that are surprising, intriguing and horrifying in turns. By contrast, the stories of prominent Impressionists like [Monet](https://impressionistarts.com/claude-monet-biography.html) and [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) seem tame!
+      He led an extremely compelling life and his biography is filled with episodes that are surprising, intriguing and horrifying in turns. By contrast, the stories of prominent Impressionists like [Monet](/claude-monet-biography) and [Renoir](/pierre-auguste-renoir-biography) seem tame!
 
 
       Gauguin lived in a time of great change in France and Europe but also a time of exploitation for many indigenous populations of newly colonised lands. As a result, his works speak to some extremely problematic racial and sexual myths that were perpetuated in the 19th and early 20th century and which Gauguin helped to fuel.
@@ -319,27 +325,31 @@ textSections:
       Similarly, that exhibitions of his work continue to be shown with such regularity around the world, despite the questionable morals behind many of them, is evidence of the enduring interest in his unique style.
 
 
-      What is also notable about Gauguin’s legacy is that the vast majority of profiles and biographies written about him that entirely ignore his early Impressionist works. This period has largely been wiped from history and Gauguin’s life seems to start from his time in Brittany and [his Symbolist period](https://impressionistarts.com/paul-gauguin-biography.html#3).
+      What is also notable about Gauguin’s legacy is that the vast majority of profiles and biographies written about him that entirely ignore his early Impressionist works. This period has largely been wiped from history and Gauguin’s life seems to start from his time in Brittany and [his Symbolist period](/paul-gauguin-biography#3).
 
 
       In fact, his Impressionist work is extremely interesting and demonstrates his fearlessness as an artist. His most important legacy, however, was the pioneering approach to painting that focussed on bold, exotic colour palettes and paved the way for a new visual vocabulary in European art.
     sideGalleryImages:
-      - imageTitle: "Gauguin, c. 1895, playing a harmonium at Alphonse Mucha's studio at
+      - imageTitle:
+          "Gauguin, c. 1895, playing a harmonium at Alphonse Mucha's studio at
           rue de la Grande-Chaumière, Paris "
         imageUrl: /assets/gauguin-playing-a-harmonium-1895.jpg
-      - imageTitle: Thought to be Vincent van Gogh (third from the left, with pipe) in
+      - imageTitle:
+          Thought to be Vincent van Gogh (third from the left, with pipe) in
           conversation with Paul Gauguin, Émile Bernard, Félix Jobbé-Duval.
           André Antoine is standing between them. Anonymous photograph, 1887. (©
           L'artauprésent, CC BY-SA 4.0)
         imageUrl: /assets/gauguin-with-van-gogh-in-1887.jpg
-      - imageTitle: Jules Agostini's 1896 photograph of Gauguin's house in Puna'auia.
+      - imageTitle:
+          Jules Agostini's 1896 photograph of Gauguin's house in Puna'auia.
           Note the sculpture of a nude woman.
         imageUrl: /assets/gauguins-house-in-tahiti-in-1896.jpg
 ---
+
 ### Paul Gauguin’s biography is complex, surprising and unsettling.
 
-In many ways, it is impossible to separate the man from the art. Gauguin painted himself into his canvasses, creating a fantasy world that fed into his deeply held desires and [search for spiritual fulfilment](https://impressionistarts.com/paul-gauguin-biography.html#1).
+In many ways, it is impossible to separate the man from the art. Gauguin painted himself into his canvasses, creating a fantasy world that fed into his deeply held desires and [search for spiritual fulfilment](/paul-gauguin-biography#1).
 
 In under a decade, he transformed from a stockbroker and family man into a solitary figure searching for truths in a faraway land. His paintings tell the story of his personal quest for meaning.
 
-Throughout his painting career, Gauguin’s style shifted from [impressionism](https://impressionistarts.com/paul-gauguin-biography.html#2) to his own form of [symbolism and finally to primitivism](https://impressionistarts.com/paul-gauguin-biography.html#3). His body of work is broad and enigmatic and his paintings continue to [engage visitors today](https://impressionistarts.com/paul-gauguin-biography.html#4), for reasons both good and bad.
+Throughout his painting career, Gauguin’s style shifted from [impressionism](/paul-gauguin-biography#2) to his own form of [symbolism and finally to primitivism](/paul-gauguin-biography#3). His body of work is broad and enigmatic and his paintings continue to [engage visitors today](/paul-gauguin-biography#4), for reasons both good and bad.

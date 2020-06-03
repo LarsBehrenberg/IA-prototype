@@ -15,15 +15,18 @@ upperGalleryImages:
       National Gallery of Art"
     topImageUrl: /assets/berthe-morisot-the-harbor-at-lorient.jpg
   leftImage:
-    leftImageTitle: "'Eugène Manet on the Isle of Wight' painted by Berthe Morisot
+    leftImageTitle:
+      "'Eugène Manet on the Isle of Wight' painted by Berthe Morisot
       in 1875, Musée Marmottan Monet"
     leftImageUrl: /assets/berthe-morisot-eugene-manet.jpg
   middleImage:
-    middleImageTitle: Berthe Morisot with a Bouquet of Violets (in mourning for her
+    middleImageTitle:
+      Berthe Morisot with a Bouquet of Violets (in mourning for her
       father) painted by Édouard Manet in 1872
     middleImageUrl: /assets/berthe-morisot-with-a-bouquet-edouard-manet.jpg
   rightImage:
-    rightImageTitle: "'Julie Manet et son Lévrier Laerte' painted by Berthe Morisot
+    rightImageTitle:
+      "'Julie Manet et son Lévrier Laerte' painted by Berthe Morisot
       in 1893, Musée Marmottan Monet"
     rightImageUrl: /assets/berthe-morisot-girl-with-greyhound.jpg
 textSections:
@@ -54,7 +57,7 @@ textSections:
       </div>
 
 
-      Berthe and Edma were enrolled in the Ecole Des Beaux Arts for three years, from 1856 to 1859. Berthe decided from an early age that she wanted to be an artist and applied herself with great passion at art school. From 1862 to 1868, she worked with [Camille Corot](https://impressionistarts.com/jean-baptiste-camille-corot-biography.html) who provided guidance and informed her stylistic development.
+      Berthe and Edma were enrolled in the Ecole Des Beaux Arts for three years, from 1856 to 1859. Berthe decided from an early age that she wanted to be an artist and applied herself with great passion at art school. From 1862 to 1868, she worked with [Camille Corot](/jean-baptiste-camille-corot-biography) who provided guidance and informed her stylistic development.
 
 
       The rise of both women was disrupted in 1869 when Edma married a naval officer and stopped painting as avidly as she had done. At this point, Berthe vowed to focus on her career and remain single for the rest of her life.
@@ -63,7 +66,7 @@ textSections:
       #### Manet and Morisot
 
 
-      Working as a copyist at the Louvre in Paris, Morisot met Henri Fantin-Latour, a French painter who then introduced her to [Édouard Manet](https://impressionistarts.com/edouard-manet-biography.html).
+      Working as a copyist at the Louvre in Paris, Morisot met Henri Fantin-Latour, a French painter who then introduced her to [Édouard Manet](/edouard-manet-biography).
 
 
       From 1868, Morisot and Manet became very close friends. Persuaded to model for one of his artworks, Manet eventually painted 11 portraits of Morisot over the course of their friendship.
@@ -89,11 +92,13 @@ textSections:
 
       However, to say that she was merely a painter of domestic subjects is to reduce her work to a stereotype; she has a number of paintings that show the energy and movement of the public sphere as well, including vibrant boatyards, harbours and the banks of the River Seine.
     sideGalleryImages:
-      - imageTitle: Portrait de Mme Morisot et de sa fille Mme Pontillon ou La lecture
+      - imageTitle:
+          Portrait de Mme Morisot et de sa fille Mme Pontillon ou La lecture
           (The Mother and Sister of the Artist – Marie-Joséphine & Edma) by
           Berthe Morisot in 1869/70
         imageUrl: /assets/berthe-morisot-mother-and-sister.jpg
-      - imageTitle: "'The Artists' Daughter Julie With Her Nanny' painted by Berthe
+      - imageTitle:
+          "'The Artists' Daughter Julie With Her Nanny' painted by Berthe
           Morisot in c.1884, Minneapolis Institute of Art"
         imageUrl: /assets/berthe-morisot-the-artists-daughter-julie-with-her-nanny.jpg
       - imageTitle: The Sisters painted by Berthe Morisot in 1869, National Gallery of Art
@@ -114,7 +119,7 @@ textSections:
       Morisot enjoyed success in the Salon right up to 1873, when on hearing that the other impressionists were failing to have their paintings accepted, Morisot stated that she would not exhibit her work there again.
 
 
-      Instead, she aligned herself with the impressionist movement, participating in seven of the eight [impressionist exhibitions](https://impressionistarts.com/first-impressionist-exhibition.html) between 1874 and 1886. Her sole reason for missing the fourth exhibition in 1879 was due to the birth of her daughter. In addition to her submissions, she also contributed to the costs of staging the events.
+      Instead, she aligned herself with the impressionist movement, participating in seven of the eight [impressionist exhibitions](/first-impressionist-exhibition) between 1874 and 1886. Her sole reason for missing the fourth exhibition in 1879 was due to the birth of her daughter. In addition to her submissions, she also contributed to the costs of staging the events.
 
 
       <div class="interesting">
@@ -135,7 +140,7 @@ textSections:
       #### Misogyny?
 
 
-      The development of this particular painting is an interesting one. The story goes that prior to submitting it to the Salon in 1870, Morisot appealed to [Manet](https://impressionistarts.com/edouard-manet-biography.html) to give his opinion on the piece. Instead of giving the verbal critique she expected, Manet instead began painting over the black fabric of the Mother’s dress.
+      The development of this particular painting is an interesting one. The story goes that prior to submitting it to the Salon in 1870, Morisot appealed to [Manet](/edouard-manet-biography) to give his opinion on the piece. Instead of giving the verbal critique she expected, Manet instead began painting over the black fabric of the Mother’s dress.
 
 
       Many descriptions of this moment credit Manet with making the artwork into a success, negating Morisot’s role in painting every other aspect of the work.
@@ -162,10 +167,10 @@ textSections:
       Morisot was a determined and energetic figure in the the exhibitions but she was continually discredited due to being a woman.
 
 
-      Her name was omitted from the publicity posters for the fifth exhibition in 1880. [Degas](https://impressionistarts.com/edgar-degas-biography.html) stated that this was ‘Idiotic’ as all 16 of the male contributors were listed. Marie Braquemond and [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html), the two other female painters in the exhibition, were also missing from the poster.
+      Her name was omitted from the publicity posters for the fifth exhibition in 1880. [Degas](/edgar-degas-biography) stated that this was ‘Idiotic’ as all 16 of the male contributors were listed. Marie Braquemond and [Mary Cassatt](/mary-cassatt-biography), the two other female painters in the exhibition, were also missing from the poster.
 
 
-      The final Impressionist exhibition in 1886 was organised almost entirely by Morisot. Unfortunately, her influence is rarely recognised. A quote from [Manet](https://impressionistarts.com/edouard-manet-biography.html) is especially revealing:
+      The final Impressionist exhibition in 1886 was organised almost entirely by Morisot. Unfortunately, her influence is rarely recognised. A quote from [Manet](/edouard-manet-biography) is especially revealing:
 
 
       > “This woman’s work is exceptional. Too bad she’s not a man.”
@@ -174,7 +179,8 @@ textSections:
         imageUrl: /assets/berthe-morisot-jeune-fille-au-manteau.jpg
       - imageTitle: "'La Coiffure' painted by Berthe Morisot in 1894"
         imageUrl: /assets/berthe-morisot-la-coiffure.jpg
-      - imageTitle: "'The Dining Room' painted by Berthe Morisot in c. 1875, National
+      - imageTitle:
+          "'The Dining Room' painted by Berthe Morisot in c. 1875, National
           Gallery of Art"
         imageUrl: /assets/berthe-morisot-the-dining-room.jpg
   - textTitle: Garden paintings
@@ -184,7 +190,7 @@ textSections:
       impressionists were.
 
 
-      Unlike [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) and [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html), who had financial worries for much of their careers, Morisot was able to be more tactful in the way in which she exhibited and sold her artworks. She used fashions and the tastes of collectors to inform a lot of her compositions.
+      Unlike [Renoir](/pierre-auguste-renoir-biography) and [Pissarro](/camille-pissarro-biography), who had financial worries for much of their careers, Morisot was able to be more tactful in the way in which she exhibited and sold her artworks. She used fashions and the tastes of collectors to inform a lot of her compositions.
 
 
       Her garden paintings are one such example of this commercial aptitude. The most important collectors of the day recognised her works and purchased them. However, she often sold her paintings at a lower rate than many of her male contemporaries, a source of great annoyance to her throughout her life.
@@ -224,7 +230,8 @@ textSections:
     sideGalleryImages:
       - imageTitle: "'Grain field' painted by Berthe Morisot in c. 1875, Musée d'Orsay"
         imageUrl: /assets/berthe-morisot-grain-field.jpg
-      - imageTitle: "'Hanging the Laundry out to Dry' painted by Berthe Morisot in 1875,
+      - imageTitle:
+          "'Hanging the Laundry out to Dry' painted by Berthe Morisot in 1875,
           National Gallery of Art"
         imageUrl: /assets/berthe-morisot-laundry.jpg
       - imageTitle: "'Reading' painted by Berthe Morisot in 1873, Cleveland Museum of Art"
@@ -237,10 +244,10 @@ textSections:
       in her life.
 
 
-      The bright palette of [‘The Harbour at Nice’](https://www.wikiart.org/en/berthe-morisot/the-port-of-nice) from 1881-82, for instance, plays with juxtaposing colours using small brushstrokes to create contrast and intensity. This technique was taken to extremes in the works of [Seurat](https://impressionistarts.com/georges-seurat-biography.html) and [Van Gogh](https://impressionistarts.com/van-gogh-biography.html) to follow, who focussed heavily on colour contrast.
+      The bright palette of [‘The Harbour at Nice’](https://www.wikiart.org/en/berthe-morisot/the-port-of-nice) from 1881-82, for instance, plays with juxtaposing colours using small brushstrokes to create contrast and intensity. This technique was taken to extremes in the works of [Seurat](/georges-seurat-biography) and [Van Gogh](/van-gogh-biography) to follow, who focussed heavily on colour contrast.
 
 
-      Similarly, paintings like [‘Reclining Nude Shepherdess’](https://www.wikiart.org/en/berthe-morisot/the-reclining-shepherdess) from 1891 features vivid orange, violet and green colours that are very different to the muted tones of her earlier style, not to mention the contrast with her previously demure subject matter. The naked figure, unclothed except for a headdress, was extremely unconventional for female artists at the time. Morisot drew on the styles of[ Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) and [Monet](https://impressionistarts.com/claude-monet-biography.html) but innovated with her own form of expression, playing with the pose and the palette in this painting.
+      Similarly, paintings like [‘Reclining Nude Shepherdess’](https://www.wikiart.org/en/berthe-morisot/the-reclining-shepherdess) from 1891 features vivid orange, violet and green colours that are very different to the muted tones of her earlier style, not to mention the contrast with her previously demure subject matter. The naked figure, unclothed except for a headdress, was extremely unconventional for female artists at the time. Morisot drew on the styles of[ Renoir](/pierre-auguste-renoir-biography) and [Monet](/claude-monet-biography) but innovated with her own form of expression, playing with the pose and the palette in this painting.
 
 
       Many of Morisot’s works feature gestures and brushstrokes that border on abstract styles. Known as “the angel of the incomplete”, paintings that she displayed as finished often have the air of a sketch, giving them a sense of vitality and experimentation. She captured the essence of the scenes she depicted, painting faces in extreme detail and dispensing with unnecessary background details. Works like [‘Young Girl with a Vase’](https://www.apollo-magazine.com/berthe-morisot-comes-into-her-own/) from 1889 have a tactile feeling whilst the room around her is just a fleeting impression.
@@ -248,28 +255,30 @@ textSections:
 
       As she grew more confident in her abilities, Morisot became freer with her style and experimentation. There is a sense of fearlessness that comes through in many of her later paintings that is missing from the more restrained work of the mid-1800s. She pursued her own distinctly radical path, setting herself apart from the other Impressionists and pushing further towards abstraction.
     sideGalleryImages:
-      - imageTitle: "'Le Berceau (The Cradle)' painted by Berthe Morisot in 1872, Musée
+      - imageTitle:
+          "'Le Berceau (The Cradle)' painted by Berthe Morisot in 1872, Musée
           d'Orsay"
         imageUrl: /assets/berthe-morisot-le-berceau.jpg
       - imageTitle: Berthe Morisot posing for The Rest, 1870, By Édouard Manet
         imageUrl: /assets/berthe-morisot-le-repos-edouard-manet.jpg
-      - imageTitle: "'Winter aka Woman with a Muff' painted by Berthe Morisot in 1880,
+      - imageTitle:
+          "'Winter aka Woman with a Muff' painted by Berthe Morisot in 1880,
           Dallas Museum of Arts"
         imageUrl: /assets/berthe-morisot-woman-with-a-muff.jpg
   - textTitle: Morisot’s legacy
     text: >-
       ### Morisot’s death came suddenly and as a great shock to the
-      [Impressionist community](https://impressionistarts.com/index.html). The
+      [Impressionist community](/). The
       result of an attack of Influenza in 1895, she passed at the age of 54.
 
 
-      The movement mourned the loss of her talent and her friendship. In 1896, [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html), [Monet](https://impressionistarts.com/claude-monet-biography.html) and [Degas](https://impressionistarts.com/edgar-degas-biography.html) organised a memorial exhibition to mark a year of her death. Some 400 of Morisot’s works were hung. This exhibition is still the largest exhibition of her works to this day.
+      The movement mourned the loss of her talent and her friendship. In 1896, [Renoir](/pierre-auguste-renoir-biography), [Monet](/claude-monet-biography) and [Degas](/edgar-degas-biography) organised a memorial exhibition to mark a year of her death. Some 400 of Morisot’s works were hung. This exhibition is still the largest exhibition of her works to this day.
 
 
-      Unlike the well-known greats of the [Impressionist movement](https://impressionistarts.com/index.html), Morisot was largely unknown to the public during her lifetime and for more than a century after her death. Her paintings were not shown with anywhere close to the same frequency and excitement of her male contemporaries during the early 20th century. A 2012 solo exhibition of her work in Paris at the [Musée Marmottan Monet](https://en.wikipedia.org/wiki/Mus%C3%A9e_Marmottan_Monet) was the first in more than 50 years.
+      Unlike the well-known greats of the [Impressionist movement](/), Morisot was largely unknown to the public during her lifetime and for more than a century after her death. Her paintings were not shown with anywhere close to the same frequency and excitement of her male contemporaries during the early 20th century. A 2012 solo exhibition of her work in Paris at the [Musée Marmottan Monet](https://en.wikipedia.org/wiki/Mus%C3%A9e_Marmottan_Monet) was the first in more than 50 years.
 
 
-      It is only revisionist studies of the [Impressionist movement](https://impressionistarts.com/index.html) by feminist scholars that have led to her name slowly surfacing from the shadows. Even so, there is still a dearth of information and recognition for her artwork that was so highly praised by her fellow Impressionists.
+      It is only revisionist studies of the [Impressionist movement](/) by feminist scholars that have led to her name slowly surfacing from the shadows. Even so, there is still a dearth of information and recognition for her artwork that was so highly praised by her fellow Impressionists.
 
 
       During her life and after her death, Morisot was not treated as an equal to other artists in the Impressionist movement. Her work is only now becoming known to a wider audience, more than 10 decades later. She is recognised today as one of the most important female painters of the 19th century, along with fellow Impressionist [Mary Stevenson Cassatt](https://en.wikipedia.org/wiki/Mary_Cassatt), who she strongly encouraged in her career.
@@ -283,7 +292,8 @@ textSections:
 
       This quote is still painfully poignant to this day.
     sideGalleryImages:
-      - imageTitle: Berthe Morisot au soulier rose, 1872 By Édouard Manet. Hiroshima
+      - imageTitle:
+          Berthe Morisot au soulier rose, 1872 By Édouard Manet. Hiroshima
           Museum of Art
         imageUrl: /assets/berthe-morisot-au-soulier-rose-edouard-manet.jpg
       - imageTitle: Portrait of Berthe Morisot with a Fan, 1874 by Édouard Manet
@@ -291,14 +301,15 @@ textSections:
       - imageTitle: A picture of Berthe Morisot (1841-1895) taken by unknown
         imageUrl: /assets/berthe-morisot-photo.jpg
 ---
+
 ## In many ways, Berthe Morisot captured the essence of Impressionism.
 
 Critics, including Paul Mantz and Theodore Duret, described her as a ‘quintessential Impressionist’. This is evident in the way her works manipulate light and colour, exuding life and a sense of fleeting emotion.
 
-Throughout her life, from 1841-1895, Morisot innovated in her artwork, depicting figures and scenes that were otherwise ignored by many male artists at the time. She experimented with painting [‘en plein air’](https://impressionistarts.com/berthe-morisot-biography.html#2) (ie outdoors), characteristic of the Impressionist style, but the necessity of having a male chaperone impacted on her ability to paint in open spaces. Nevertheless, to reduce her to the ranks of a female painter focussing solely on feminine life is to ignore the diversity and experimentation in her work.
+Throughout her life, from 1841-1895, Morisot innovated in her artwork, depicting figures and scenes that were otherwise ignored by many male artists at the time. She experimented with painting [‘en plein air’](/berthe-morisot-biography#2) (ie outdoors), characteristic of the Impressionist style, but the necessity of having a male chaperone impacted on her ability to paint in open spaces. Nevertheless, to reduce her to the ranks of a female painter focussing solely on feminine life is to ignore the diversity and experimentation in her work.
 
-Born in [1841 in Bourges, France](https://impressionistarts.com/berthe-morisot-biography.html#1), Morisot grew to become a key figure in the Impressionist art movement without ever being fully recognised as one. She walked a thin line between being an upper-class society woman and a professional painter who could compete with any of her male contemporaries. Her own self-criticism is one reason given for her lack of fame during her life and posthumously. Another is her position as a woman in a world that was [firmly male-dominated](https://impressionistarts.com/berthe-morisot-biography.html#2).
+Born in [1841 in Bourges, France](/berthe-morisot-biography#1), Morisot grew to become a key figure in the Impressionist art movement without ever being fully recognised as one. She walked a thin line between being an upper-class society woman and a professional painter who could compete with any of her male contemporaries. Her own self-criticism is one reason given for her lack of fame during her life and posthumously. Another is her position as a woman in a world that was [firmly male-dominated](/berthe-morisot-biography#2).
 
-Morisot died suddenly in [1895](https://impressionistarts.com/berthe-morisot-biography.html#5) having championed the Impressionist movement both financially and in her own works.
+Morisot died suddenly in [1895](/berthe-morisot-biography#5) having championed the Impressionist movement both financially and in her own works.
 
 In spite of her significant contributions to one of the most important eras of French art, Morisot was never credited with the same successes of many of the male Impressionists she worked with side by side. To this day, she is a relative outsider in the canon of impressionist artists, exhibitions of her work are rare and revisionist scholars fight for her contribution to be recognised.

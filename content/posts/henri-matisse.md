@@ -17,7 +17,8 @@ upperGalleryImages:
     leftImageTitle: "'Nu (Carmelita)' by Matisse in 1904, Museum of Fine Arts, Boston"
     leftImageUrl: /assets/matisse-carmelita-1904.jpg
   middleImage:
-    middleImageTitle: "'Vase of Sunflowers' by Matisse in 1898, Hermitage Museum,
+    middleImageTitle:
+      "'Vase of Sunflowers' by Matisse in 1898, Hermitage Museum,
       St. Petersburg, Russia"
     middleImageUrl: /assets/matisse-vase-of-sunflowers-1898.jpg
   rightImage:
@@ -62,7 +63,7 @@ textSections:
       After persevering, Matisse was finally accepted to the École des Beaux Arts in 1895. Around this time, his lover Caroline Joblaud also gave birth to a daughter, Marguerite.
 
 
-      Matisse would go on to have two further children with his later wife Amelie Parayre, who he married in 1898. His family placed a significant financial burden on the artist, but he continued to firmly pursue a career in painting and amassed a significant collection of [Post-Impressionist artworks](https://impressionistarts.com/henri-matisse-biography.html#3).
+      Matisse would go on to have two further children with his later wife Amelie Parayre, who he married in 1898. His family placed a significant financial burden on the artist, but he continued to firmly pursue a career in painting and amassed a significant collection of [Post-Impressionist artworks](/henri-matisse-biography#3).
 
 
       The teenage Marguerite acted as a sitter in many of her father’s works. In later life, she would go on to become a leader of the French Resistance during World War II. She narrowly escaped death in a concentration camp when an Allied bombing raid disrupted the cargo train she was being transported in and she was able to flee to freedom.
@@ -79,13 +80,13 @@ textSections:
       brushwork of the impressionists.
 
 
-      His first painting experiments were fairly conservative. It was only when the young artist was introduced to the work of Post-Impressionist [Vincent Van Gogh](https://impressionistarts.com/van-gogh-biography.html) in 1897 that his work changed dramatically.
+      His first painting experiments were fairly conservative. It was only when the young artist was introduced to the work of Post-Impressionist [Vincent Van Gogh](/van-gogh-biography) in 1897 that his work changed dramatically.
 
 
       #### Experiments with colour
 
 
-      Like the Impressionists, Matisse believed in the expressiveness of colour and followed that it need not be a direct representation of the colours in nature. Following the example of Impressionist artists like [Claude Monet](https://impressionistarts.com/claude-monet-biography.html) and [Camille Pissarro](https://impressionistarts.com/camille-pissarro-biography.html), Matisse experimented with using colour to denote feeling in his work.
+      Like the Impressionists, Matisse believed in the expressiveness of colour and followed that it need not be a direct representation of the colours in nature. Following the example of Impressionist artists like [Claude Monet](/claude-monet-biography) and [Camille Pissarro](/camille-pissarro-biography), Matisse experimented with using colour to denote feeling in his work.
 
 
       In doing so, he moved further and further away from the need for realistic representation, experimenting instead with creating a sense of balance and pleasure in his paintings.
@@ -100,7 +101,7 @@ textSections:
       #### Japanese art
 
 
-      Matisse further drew inspiration from the influx of Japanese art into Europe, as seen in the works of Impressionists like [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html) and [Gustave Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html).
+      Matisse further drew inspiration from the influx of Japanese art into Europe, as seen in the works of Impressionists like [Mary Cassatt](/mary-cassatt-biography) and [Gustave Caillebotte](/gustave-caillebotte-biography).
 
 
       He borrowed from Japanese woodcuts in particular and ‘Joy of Life’ or ‘Le Bonheur de Vivre’ from 1905-06 is one such example of this style. The landscape is taken from a painting he made of Collioure in the south of France but the overriding impression is not of a realistic landscape but of the flatness of the work, in keeping with the Japanese style.
@@ -123,15 +124,18 @@ textSections:
 
       This moved away from the Impressionist focus on capturing individuals at work and leisure, stripping the figures of their individual interests altogether.
     sideGalleryImages:
-      - imageTitle: "'Self-Portrait in a Striped T-shirt' by Matisse in 1906, Statens
+      - imageTitle:
+          "'Self-Portrait in a Striped T-shirt' by Matisse in 1906, Statens
           Museum for Kunst, Copenhagen, Denmark"
         imageUrl: /assets/matisse-self-portrait.jpg
-      - imageTitle: "'Bathers by a River' is considered by Henri Matisse to be one of
+      - imageTitle:
+          "'Bathers by a River' is considered by Henri Matisse to be one of
           the five most 'pivotal' works of his career, and with good reason: it
           facilitated the evolution of the artist's style over the course of
           nearly a decade."
         imageUrl: /assets/matisse-bather-by-a-river.jpg
-      - imageTitle: "'Portrait of Madame Matisse (The green line)' by Matisse in 1905,
+      - imageTitle:
+          "'Portrait of Madame Matisse (The green line)' by Matisse in 1905,
           Statens Museum for Kunst, Copenhagen, Denmark"
         imageUrl: /assets/matisse-portrait-of-madame-matisse.jpg
   - textTitle: Matisse and Post-Impressionism
@@ -146,7 +150,7 @@ textSections:
       #### Unrealistic colours
 
 
-      The Fauvist experiments with colour drew on the works of [Vincent Van Gogh](https://impressionistarts.com/van-gogh-biography.html) and [Paul Gauguin](https://impressionistarts.com/paul-gauguin-biography.html), among other Post-Impressionists, combining with the Neo-Impressionist techniques developed by [Georges Seurat](https://impressionistarts.com/georges-seurat-biography.html). Matisse developed his technique during the summer of 1905, which he spent in Collioure with André Derain.
+      The Fauvist experiments with colour drew on the works of [Vincent Van Gogh](/van-gogh-biography) and [Paul Gauguin](/paul-gauguin-biography), among other Post-Impressionists, combining with the Neo-Impressionist techniques developed by [Georges Seurat](/georges-seurat-biography). Matisse developed his technique during the summer of 1905, which he spent in Collioure with André Derain.
 
 
       Over this period, Matisse began using bright light and pure colours in his work, even if they did not represent the subject he was painting. He became known as the “chief Fauve”, with the word Fauvism coming to define the eclectic collection of artists who adopted elements of Matisse’s style.
@@ -176,7 +180,7 @@ textSections:
       In 1905, Matisse was also introduced to Pablo Picasso through the studio of [Gertrude Stein](https://en.wikipedia.org/wiki/Gertrude_Stein).
 
 
-      The two artists quickly became friends. They parried to define the direction of French art after the death of [Paul Cézanne](https://impressionistarts.com/paul-cezanne-biography.html) and their rivalry was a key aspect of their relationship.
+      The two artists quickly became friends. They parried to define the direction of French art after the death of [Paul Cézanne](/paul-cezanne-biography) and their rivalry was a key aspect of their relationship.
 
 
       Where they aligned was in their experiments with the female figure and still life paintings, both of which were crucial elements of Matisse’s paintings throughout his career.
@@ -209,7 +213,7 @@ textSections:
       #### Matisse and the Pointilllists
 
 
-      Several of his earlier paintings also demonstrate the influence of Neo-Impressionist painters [Paul Signac](https://impressionistarts.com/paul-signac-biography.html) and Georges Seurat.
+      Several of his earlier paintings also demonstrate the influence of Neo-Impressionist painters [Paul Signac](/paul-signac-biography) and Georges Seurat.
 
 
       The painting ‘Luxe, Calme, et Volupte’ from 1904-05 follows the Pointillist technique of creating an image from distinct spots of paint. Where it differs from the Pointillist style is in the blocks of pure colour constructed by Matisse instead of building up colour through the technique of optical mixing.
@@ -241,12 +245,14 @@ textSections:
 
       The colour palette is restricted and there is something unsettling about the position of the faceless figures. Some critics have suggested that this darker work reflects the influence of the horrors of war on Matisse’s work as World War I was firmly underway by this point.
     sideGalleryImages:
-      - imageTitle: "'Woman with a Hat' by Matisse in 1905, San Francisco Museum of
+      - imageTitle:
+          "'Woman with a Hat' by Matisse in 1905, San Francisco Museum of
           Modern Art"
         imageUrl: /assets/matisse-woman-with-a-hat.jpg
       - imageTitle: "'Blue Nude' by Matisse in 1907, Baltimore Museum of Art"
         imageUrl: /assets/matisse-blue-nude.jpg
-      - imageTitle: "'Luxe, Calme et Volupté (Luxury, Calm and Pleasure)' by Matisse in
+      - imageTitle:
+          "'Luxe, Calme et Volupté (Luxury, Calm and Pleasure)' by Matisse in
           1904, Musée d'Orsay, Paris. This painting was first shown at the Salon
           des Indépendants, 1905"
         imageUrl: /assets/matisse-luxe-calme-et-volupte.jpg
@@ -295,7 +301,7 @@ textSections:
       Throughout his career, Matisse worked in tandem with fellow Post-Impressionist Picasso and the [Cubist movement](https://en.wikipedia.org/wiki/Cubism), borrowing from the style whilst reacting against it. Picasso and Matisse held a lifelong friendship and rivalry that would have a profound effect on both of their works.
 
 
-      Perhaps Matisse’s most prominent legacy, however, was his development and leadership of the [Fauvist movement](https://impressionistarts.com/henri-matisse-biography.html#3). The Fauvist artists were loosely aligned, each taking their own interpretation of the Fauvist emphasis on colour.
+      Perhaps Matisse’s most prominent legacy, however, was his development and leadership of the [Fauvist movement](/henri-matisse-biography#3). The Fauvist artists were loosely aligned, each taking their own interpretation of the Fauvist emphasis on colour.
 
 
       Nonetheless, they each shared an interest in intense, pure colour that would go on to drive Matisse’s work throughout his career.
@@ -305,21 +311,24 @@ textSections:
     sideGalleryImages:
       - imageTitle: A photograph of Henri Matisse in 1933 May 20 by Carl Van Vechten
         imageUrl: /assets/matisse-portrait-of-matisse-in-may-1933.jpg
-      - imageTitle: Henri Matisse, Jean Vincent de Crozals, Annelies Nelck (from right
+      - imageTitle:
+          Henri Matisse, Jean Vincent de Crozals, Annelies Nelck (from right
           to left), Villa La Jonque, Vence, 1953 (© Jean Vincent de Crozals, CC
           BY-SA 3.0)
         imageUrl: /assets/matisse-in-vence-1953.jpg
-      - imageTitle: Tombstone of Henri Matisse and his wife Amélie Noellie at the
+      - imageTitle:
+          Tombstone of Henri Matisse and his wife Amélie Noellie at the
           cemetery of the Monastère Notre Dame de Cimiez, Cimiez, France (©
           Jajabis, CC BY-SA 3.0)
         imageUrl: /assets/matisse-tomb-of-henri-matisse.jpg
 ---
+
 ### Henri-Emile-Benoit Matisse has been named the greatest colourist of the 20th century.
 
-He rejected Cubism in favour of a new form of artistic expression that became known as [Fauvism](https://impressionistarts.com/henri-matisse-biography.html#3). From there he went on to experiment with bold colour effects and flat dimensions, moving through several stylistic periods and ceaselessly forging a [new course for Modern Art](https://impressionistarts.com/henri-matisse-biography.html#4).
+He rejected Cubism in favour of a new form of artistic expression that became known as [Fauvism](/henri-matisse-biography#3). From there he went on to experiment with bold colour effects and flat dimensions, moving through several stylistic periods and ceaselessly forging a [new course for Modern Art](/henri-matisse-biography#4).
 
-Regarded as one of the most important [post-impressionist artists](https://impressionistarts.com/henri-matisse-biography.html#3), Matisse moved firmly away from the impressionist aesthetic, instead championing extreme, vivid colour and abstracted forms.
+Regarded as one of the most important [post-impressionist artists](/henri-matisse-biography#3), Matisse moved firmly away from the impressionist aesthetic, instead championing extreme, vivid colour and abstracted forms.
 
-Nonetheless, like all post-impressionists, he owed much of his artistic freedom to the [impressionists](https://impressionistarts.com/henri-matisse-biography.html#2), who first took the plunge in rejecting the firmly held norms imposed on French art in the late 1800s and early 1900s.
+Nonetheless, like all post-impressionists, he owed much of his artistic freedom to the [impressionists](/henri-matisse-biography#2), who first took the plunge in rejecting the firmly held norms imposed on French art in the late 1800s and early 1900s.
 
-Matisse cared little for critiques of his work, pioneering a radical new form of expression that would go on to [influence French art for several generations](https://impressionistarts.com/henri-matisse-biography.html#4).
+Matisse cared little for critiques of his work, pioneering a radical new form of expression that would go on to [influence French art for several generations](/henri-matisse-biography#4).

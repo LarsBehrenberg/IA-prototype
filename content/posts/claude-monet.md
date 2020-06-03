@@ -11,19 +11,22 @@ links:
   - post-YHib0YkbQ
 upperGalleryImages:
   topImage:
-    topImageTitle: Claude Monet spent the last 30 years of his life working on over
+    topImageTitle:
+      Claude Monet spent the last 30 years of his life working on over
       250 versions of the Water Lilies
     topImageUrl: /assets/claude-monet-water-lilies-panorama.jpg
   leftImage:
     leftImageTitle: Another series that Monet produced were his famous Haystacks
     leftImageUrl: /assets/claude-monet-haystacks-snow.jpg
   middleImage:
-    middleImageTitle: Monet added a Japanese Bridge to his Water Lily garden in the
+    middleImageTitle:
+      Monet added a Japanese Bridge to his Water Lily garden in the
       mid 1890s; it gave his compositions structure and he painted it a number
       of times.
     middleImageUrl: /assets/claude-monet-japanese-footbridge.jpg
   rightImage:
-    rightImageTitle: Another of Monet's series was of the Houes of Parliament. He
+    rightImageTitle:
+      Another of Monet's series was of the Houes of Parliament. He
       repeatedly returned to London to paint versions of both this subject and
       Westminster bridge.
     rightImageUrl: /assets/claude-monet-houses-of-parliament.jpg
@@ -55,7 +58,7 @@ textSections:
       > “if I became a painter, it was thanks to Boudin. He was a man of infinite kindness and took it upon himself to teach me.”
 
 
-      Although Monet’s father disapproved, he did not stand in the way when his maternal aunt produced a letter of introduction to one of her painter contacts in Paris. This soon led to Monet turning up at Suisse’s painting studio in 1859, where he met [Camille Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) (1830-1903).
+      Although Monet’s father disapproved, he did not stand in the way when his maternal aunt produced a letter of introduction to one of her painter contacts in Paris. This soon led to Monet turning up at Suisse’s painting studio in 1859, where he met [Camille Pissarro](/camille-pissarro-biography) (1830-1903).
 
 
       #### Paris, the army, back to Le Havre and Jongkind
@@ -76,10 +79,10 @@ textSections:
       #### Gleyre's studio
 
 
-      Monet ended up in the studio of [Charles Gleyre](https://en.wikipedia.org/wiki/Charles_Gleyre), an idealist painter who was happy to let students develop their own styles. It was here that he met [Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html), [Frederic Bazille](https://impressionistarts.com/frederic-bazille-biography.html) and [Alfred Sisley](https://impressionistarts.com/alfred-sisley-biography.html).
+      Monet ended up in the studio of [Charles Gleyre](https://en.wikipedia.org/wiki/Charles_Gleyre), an idealist painter who was happy to let students develop their own styles. It was here that he met [Auguste Renoir](/pierre-auguste-renoir-biography), [Frederic Bazille](/frederic-bazille-biography) and [Alfred Sisley](/alfred-sisley-biography).
 
 
-      He also encountered [Paul Cezanne](https://impressionistarts.com/paul-cezanne-biography.html), regarded by other students as an oddball.
+      He also encountered [Paul Cezanne](/paul-cezanne-biography), regarded by other students as an oddball.
 
 
       Monet was a cocky student. Good looking, witty and confident in his abilities, he was popular with the ladies. He once rebuffed an unwanted advance by saying:
@@ -90,16 +93,18 @@ textSections:
 
       On another occasion, Gleyre returned to find Monet on the model’s podium, rearranging the position of the nude female posing for the class.
     sideGalleryImages:
-      - imageTitle: This is a Monet caricature of a local dignatary called Leon Manchon,
+      - imageTitle:
+          This is a Monet caricature of a local dignatary called Leon Manchon,
           sketched in about 1855 (when Monet was 15).
         imageUrl: /assets/claude-monet-caricature-leon-manchon.jpg
-      - imageTitle: An early Monet work, from 1858, entitled View at Rouelles. This
+      - imageTitle:
+          An early Monet work, from 1858, entitled View at Rouelles. This
           painting of a bucolic scene (nb the Poplars) is influenced by Courbet
           and Corot.
         imageUrl: /assets/claude-monet-view-at-rouelles.jpg
       - imageTitle: A photograph of the rather dashing Claude Monet, aged 25.
         imageUrl: /assets/claude-monet-aged-25.jpg
-  - textTitle: "1865-70: Early successes and failures"
+  - textTitle: '1865-70: Early successes and failures'
     text: >-
       ### Monet was 25 in 1865. The next five years were mixed: he had success
       and failure with his work; he had a son; and he had major money worries.
@@ -108,7 +113,7 @@ textSections:
       #### Initial Salon success
 
 
-      The 1865 Salon* was overshadowed by Manet’s [infamous Olympia](https://impressionistarts.com/top-10-impressionist-paintings.html#2 "Edouard Manet's infamous Olympia"). This canvas of a nude prostitute, staring brazenly at the viewer, was found shocking by the establishment, critics and the public alike. It is surprising that it was accepted by the jury in the first place.
+      The 1865 Salon* was overshadowed by Manet’s [infamous Olympia](/top-10-impressionist-paintings#2 "Edouard Manet's infamous Olympia"). This canvas of a nude prostitute, staring brazenly at the viewer, was found shocking by the establishment, critics and the public alike. It is surprising that it was accepted by the jury in the first place.
 
 
       But 1865 also marked Monet’s Salon debut, with two landscape works: the Mouth of the Seine at Hornfleur (pictured) and The Bridge at Heve at low tide. They achieved some positive commentary, much to Manet’s fury: he thought the younger Monet was trading off his name!
@@ -120,7 +125,7 @@ textSections:
       #### Woman in the Green Dress
 
 
-      Worse was to come for Manet: Monet’s 1866 entry was a huge hit. Entitled Camille or The Woman in the Green Dress, the painting shows the green and black train of a silk dress. [Emile Zola](https://impressionistarts.com/emile-zola-biography.html), who was to become one of the impressionists’ biggest supporters, said that the dress was
+      Worse was to come for Manet: Monet’s 1866 entry was a huge hit. Entitled Camille or The Woman in the Green Dress, the painting shows the green and black train of a silk dress. [Emile Zola](/emile-zola-biography), who was to become one of the impressionists’ biggest supporters, said that the dress was
 
 
       > “both supple and firm. Softly it drags, it is alive, it tells us quite clearly something about the woman”.
@@ -189,16 +194,19 @@ textSections:
 
       Things go so bad that, in the summer of 1868, Monet made a rather half-hearted suicide attempt by throwing himself into the Seine. He was too good a swimmer to let himself drown, and he soon regained his senses. But the fact of his attempt shows how bad things were.
     sideGalleryImages:
-      - imageTitle: In 1865, Monet made his Salon debut with the Mouth of the Seine at
+      - imageTitle:
+          In 1865, Monet made his Salon debut with the Mouth of the Seine at
           Hornfleur. It achieved some positive reviews.
         imageUrl: /assets/claude-monet-mouth-of-the-seine.jpg
-      - imageTitle: Claude Monet's Woman in Green Dress was submitted to the Salon in
+      - imageTitle:
+          Claude Monet's Woman in Green Dress was submitted to the Salon in
           1866; it was a huge hit.
         imageUrl: /assets/claude-monet-woman-in-green-dress.jpg
-      - imageTitle: "By contrast, Monet's 1867 Salon entry, was a complete flop: it was
+      - imageTitle:
+          "By contrast, Monet's 1867 Salon entry, was a complete flop: it was
           probably rightly rejected by the jury."
         imageUrl: /assets/claude-monet-women-in-the-garden.jpg
-  - textTitle: "1870-76: War, London and the early impressionist exhibitions"
+  - textTitle: '1870-76: War, London and the early impressionist exhibitions'
     text: >-
       ### The early 1870s was an interesting time for Monet: he fled Paris for
       London to avoid the Prussian war; he met Durand-Ruel, who was to become
@@ -209,10 +217,10 @@ textSections:
       #### War and London
 
 
-      Napoleon III’s disastrous foreign policy came to a head in 1870 when he declared war on the Prussians. The French army was soon defeated and it became clear that Paris would be surrounded. Some — [Manet](https://impressionistarts.com/edouard-manet-biography.html#4 "Manet's defence of Paris in the Prussian war") and [Berthe Morisot](https://impressionistarts.com/berthe-morisot-biography.html) included—stayed. But Monet fled to London.
+      Napoleon III’s disastrous foreign policy came to a head in 1870 when he declared war on the Prussians. The French army was soon defeated and it became clear that Paris would be surrounded. Some — [Manet](/edouard-manet-biography#4 "Manet's defence of Paris in the Prussian war") and [Berthe Morisot](/berthe-morisot-biography) included—stayed. But Monet fled to London.
 
 
-      This turned out to be a real stroke of luck. Monet met art dealer [Paul Durand-Ruel](https://impressionistarts.com/paul-durand-ruel-biography.html "Paul Durand-Ruel wikipedia entry")in London, who had an interest in a gallery on Bond Street. Durand-Ruel had previously been a dealer and advocate for the Barbizon School, but he was quick to see the potential of the impressionists.
+      This turned out to be a real stroke of luck. Monet met art dealer [Paul Durand-Ruel](/paul-durand-ruel-biography "Paul Durand-Ruel wikipedia entry")in London, who had an interest in a gallery on Bond Street. Durand-Ruel had previously been a dealer and advocate for the Barbizon School, but he was quick to see the potential of the impressionists.
 
 
       Monet also took the opportunity to study the works of the English painters [John Constable](https://www.greatestbritons.com/john-constable-biography.html) and [J.M.W. Turner](https://greatestbritons.com/william-turner-biography.html).
@@ -224,7 +232,7 @@ textSections:
       The first of eight impressionist exhibitions was held in 1874 at the studio of the photographer known as Nadar on the Rue du Capucines. The lead-up to the exhibition saw wrangling amongst the artists about the articles of association for a company formed for the occasion called the Anonymous Society of Painters, Sculptors and Engravers etc.
 
 
-      Once the company was incorporated the exhibition came together. Thirty painters exhibited 165 works in all. The leading contributors were Monet, Renoir, Pissarro, [Degas](https://impressionistarts.com/edgar-degas-biography.html) and Berthe Morisot (Manet helped behind the scenes but refused to exhibit, focussing on the Salon).
+      Once the company was incorporated the exhibition came together. Thirty painters exhibited 165 works in all. The leading contributors were Monet, Renoir, Pissarro, [Degas](/edgar-degas-biography) and Berthe Morisot (Manet helped behind the scenes but refused to exhibit, focussing on the Salon).
 
 
       Degas, Renoir and Monet were the main organisers. Entrance was one franc and the exhibition ran for a month from 15 April.
@@ -259,7 +267,7 @@ textSections:
       The second impressionist exhibition, held two years later, did little to improve matters. Durand-Ruel lent the group his gallery on the Rue Le Pelletier.
 
 
-      [Gustave Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html) largely funded the exhibition and took over much of the organisation (much to Degas’ irritation). Manet again refused to be involved. And Caillebotte’s *The Floor Strippers* stole the show.
+      [Gustave Caillebotte](/gustave-caillebotte-biography) largely funded the exhibition and took over much of the organisation (much to Degas’ irritation). Manet again refused to be involved. And Caillebotte’s *The Floor Strippers* stole the show.
 
 
       Monet has some success too. His colourful *Japanese Girl*s old for 2,000 francs. And the press was not all bad. Henry James wrote a positive article in the New York Tribune. But Woolf again was implacably opposed to the movement. He wrote:
@@ -274,19 +282,22 @@ textSections:
 
       At least the show turned a (very small) profit!
     sideGalleryImages:
-      - imageTitle: Monet fled to London during the Prussian war of 1870, where he met
+      - imageTitle:
+          Monet fled to London during the Prussian war of 1870, where he met
           Paul Durand-Ruel--who was to become the impressionist's leading
           dealer.
         imageUrl: /assets/claude-monet-dealer-paul-durand-ruel.jpg
-      - imageTitle: "The first impressionist exhibition took place in 1874. One of
+      - imageTitle:
+          "The first impressionist exhibition took place in 1874. One of
           Claude Monet's submissions, particularly derided by critics, was
           Impression: Sunrise."
         imageUrl: /assets/art-thefts-monet-sunrise.jpg
-      - imageTitle: The second impressionist exhibition was held two years later in
+      - imageTitle:
+          The second impressionist exhibition was held two years later in
           1876. Whilst the reviews were again critical, he managed to sell
           Japanese Fans for 2,000 francs.
         imageUrl: /assets/claude-monet-camille-japanese-fans.jpg
-  - textTitle: "1876-1883: problems, tragedy and hope"
+  - textTitle: '1876-1883: problems, tragedy and hope'
     text: >-
       ### The late 1870s and early 1880s were difficult for Monet: he had money
       worries almost continually and lost his first wife, Camille, when she was
@@ -363,7 +374,7 @@ textSections:
       <h4><img src="logo/palette.png"> Dinner party conversation ...</h4>
 
 
-      The story of how Monet blagged his way into the [Gare Saint Lazare](https://impressionistarts.com/top-10-impressionist-paintings.html#5), by pretending that he was a famous artist (this would take another decade), is worth knowing.
+      The story of how Monet blagged his way into the [Gare Saint Lazare](/top-10-impressionist-paintings#5), by pretending that he was a famous artist (this would take another decade), is worth knowing.
 
 
       </div>
@@ -374,18 +385,21 @@ textSections:
 
       **Third**, the market for impressionist works improved in the early 1880s. Monet’s solo show at Durand-Ruel’s gallery in 1883 produced good reviews. And the dealer started to conquer the American market in the middle of the decade.
     sideGalleryImages:
-      - imageTitle: During the years 1876-83, Monet moved from Argenteuil to Vetheuil
+      - imageTitle:
+          During the years 1876-83, Monet moved from Argenteuil to Vetheuil
           and then to Poissy. Despite his nomadic lifestyle and other problems
           he managed to produce a number of striking landscapes.
         imageUrl: /assets/claude-monet-winter-at-vetheuil.jpg
-      - imageTitle: Camille, Monet's wife, died in 1879 aged just 32. The next morning
+      - imageTitle:
+          Camille, Monet's wife, died in 1879 aged just 32. The next morning
           Monet painted her in the morning sunlight.
         imageUrl: /assets/claude-monet-camilles-death-mask.jpg
-      - imageTitle: In 1877 Monet decided to paint fog and tricked the director of the
+      - imageTitle:
+          In 1877 Monet decided to paint fog and tricked the director of the
           Gare Saint Lazare into thinking he was an important artist (which in
           those days he wasn't!)
         imageUrl: /assets/claude-monet-gare-saint-lazare-1877.jpg
-  - textTitle: "1883-1926: Giverny and Water Lilies"
+  - textTitle: '1883-1926: Giverny and Water Lilies'
     text: >-
       ### The Water Lilies, paintings of Monet's garden at his home in Giverny,
       are the most famous impressionist works.
@@ -394,7 +408,7 @@ textSections:
       #### Giverny
 
 
-      Monet moved to Giverny, a small town 50 miles north-west of Paris, in 1883 (the year of [Manet’s death](https://impressionistarts.com/edouard-manet-biography.html#5)). He rented a large country house for himself, his two sons, Alice Hoschedé (the wife of Ernest, a Monet collector) and her six children.
+      Monet moved to Giverny, a small town 50 miles north-west of Paris, in 1883 (the year of [Manet’s death](/edouard-manet-biography#5)). He rented a large country house for himself, his two sons, Alice Hoschedé (the wife of Ernest, a Monet collector) and her six children.
 
 
       Monet set about turning Giverny into both his sanctuary and the horticultural paradise that he would spend most of the next 30 years painting.
@@ -477,7 +491,8 @@ textSections:
 
       Alice died in 1911, whereupon Blanche became Monet’s near invariable painting companion.
     sideGalleryImages:
-      - imageTitle: Monet installed the Japanese Bridge into his Giverny gardens in 1891
+      - imageTitle:
+          Monet installed the Japanese Bridge into his Giverny gardens in 1891
           and thereafter painted it a number of times.
         imageUrl: /assets/claude-monet-giverny-japanese-bridge.jpg
       - imageTitle: Monet's water lilies are perhaps the most famous impressionist work
@@ -530,13 +545,16 @@ textSections:
       He was referring to his attempts to capture the bright Mediterranean sunlight. His most famous work from this trip, simply entitled *Bordighera* (pictured), is of lush green vegetation and trees in the foreground and the terracotta town and deep blue sea in the background.
     sideGalleryImages:
       - imageUrl: /assets/claude-monet-haystacks-sunset.jpg
-        imageTitle: Monet painted a number of versions of Haystacks, at different times
+        imageTitle:
+          Monet painted a number of versions of Haystacks, at different times
           of the day and year.
-      - imageTitle: Monet produced 30 canvasses of Rouen Cathedral from spring 1892,
+      - imageTitle:
+          Monet produced 30 canvasses of Rouen Cathedral from spring 1892,
           renting a room overlooking the cathedral so that he could paint from
           exactly the same spot each day.
         imageUrl: /assets/claude-monet-rouen-cathedral.jpg
-      - imageTitle: Monet painted in London in 1891 and returned there a number of times
+      - imageTitle:
+          Monet painted in London in 1891 and returned there a number of times
           over the years to paint the Houses of Parliament and Waterloo Bridge.
         imageUrl: /assets/claude-monet-houses-of-parliament-sunset.jpg
   - textTitle: Legacy and resources
@@ -551,7 +569,7 @@ textSections:
       **Beauty**: Put simply, Monet's paintings are beautiful. The emotion they typically produce in the viewer is not one of awe at the technical proficiency, or intrigue at some hidden meaning, but unadulterated joy.
 
 
-      **Popularity**: Today, Monet exhibitions are big ticket or blockbuster events. And Monet works do exceptionally well at auction. Of the [20 most expensive](https://impressionistarts.com/most-expensive-impressionist-paintings.html) impressionist paintings, eleven are by Monet (the others are by Cezanne, Renoir and Manet). The most expensive Monet to go under the hammer is *Le Bassin aux Nymphéas*, sold by Christie's London in 2008 for £40.9 million (giving it an inflation-adjusted price of $113.2 million).
+      **Popularity**: Today, Monet exhibitions are big ticket or blockbuster events. And Monet works do exceptionally well at auction. Of the [20 most expensive](/most-expensive-impressionist-paintings) impressionist paintings, eleven are by Monet (the others are by Cezanne, Renoir and Manet). The most expensive Monet to go under the hammer is *Le Bassin aux Nymphéas*, sold by Christie's London in 2008 for £40.9 million (giving it an inflation-adjusted price of $113.2 million).
 
 
       **Involvement**: Though it might be argued that Manet was the first to take on the conservative art establishment, Monet was heavily involved in the impressionist movement. For instance, he exhibited at and played a large role in the organisation of the first two independent impressionist exhibitions. He also produced the painting, Impression Sunrise, that got the impressionists their name
@@ -567,12 +585,13 @@ textSections:
           and Westminster bridge.
         imageUrl: /assets/claude-monet-houses-of-parliament.jpg
 ---
+
 ## Claude Monet is probably the most famous impressionist today. If you asked a man on the street to name an impressionist painting he would probably reply “water lilies”.
 
 Unlike Edouard Manet who died young, Monet lived to the age of 86. That meant he lived to enjoy acclaim and the financial success of his works.
 
-But the road to recognition was anything but smooth: Monet was often rejected by the conservative [art establishment](https://impressionistarts.com/claude-monet-biography.html#2 "Monet's early years"); his [Impression Sunrise](https://impressionistarts.com/claude-monet-biography.html#3 "The impressionist exhibitions") was mocked when the impressionists first exhibited together in 1874; he often lived from hand to mouth and frequently had to beg his friends and supporters for money; his first wife, [Camille Doncieux](https://impressionistarts.com/claude-monet-biography.html#4 "Camille Doncieux"), died aged 32, leaving him with two young sons to care for; he almost died when he was swept into the sea trying to finish a painting; and he once even tried to commit suicide.
+But the road to recognition was anything but smooth: Monet was often rejected by the conservative [art establishment](/claude-monet-biography#2 "Monet's early years"); his [Impression Sunrise](/claude-monet-biography#3 'The impressionist exhibitions') was mocked when the impressionists first exhibited together in 1874; he often lived from hand to mouth and frequently had to beg his friends and supporters for money; his first wife, [Camille Doncieux](/claude-monet-biography#4 'Camille Doncieux'), died aged 32, leaving him with two young sons to care for; he almost died when he was swept into the sea trying to finish a painting; and he once even tried to commit suicide.
 
-Thank goodness he did not succeed. Monet may have been the best painter of light—perhaps the best painter—the world has ever seen: he produced sparkling seascapes, [modern scenes](https://impressionistarts.com/claude-monet-biography.html#4) (such as the Gare Saint-Lazare) and pictures of the Seine and Venice; he produced glimmering [water lilies](https://impressionistarts.com/claude-monet-biography.html#5 "Monet's water lilies"); and he produced collections of the same subject at different times of day—including [Haystacks](https://impressionistarts.com/claude-monet-biography.html#7), Poplars, [Rouen Cathedral](https://impressionistarts.com/claude-monet-biography.html#7), and the Houses of Parliament.
+Thank goodness he did not succeed. Monet may have been the best painter of light—perhaps the best painter—the world has ever seen: he produced sparkling seascapes, [modern scenes](/claude-monet-biography#4) (such as the Gare Saint-Lazare) and pictures of the Seine and Venice; he produced glimmering [water lilies](/claude-monet-biography#5 "Monet's water lilies"); and he produced collections of the same subject at different times of day—including [Haystacks](/claude-monet-biography#7), Poplars, [Rouen Cathedral](/claude-monet-biography#7), and the Houses of Parliament.
 
-Monet's art now sells for tens of millions of dollars (for example, a version of Haystacks sold in May 2019 for $110.7 million). He is rightly regarded as the greatest of the impressionists.
+Monet's art now sells for tens of millions of dollars (for example, a version of Haystacks sold in May 2019 for \$110.7 million). He is rightly regarded as the greatest of the impressionists.
