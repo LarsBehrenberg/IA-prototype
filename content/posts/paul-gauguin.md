@@ -103,6 +103,16 @@ textSections:
 
 
       Eventually, he was forced to move back to Paris in 1885, leaving his wife and children behind. He lost all contact with them in 1891.
+    sideGalleryImages:
+      - imageTitle: Self-portrait by Gauguin in 1875–1877, Fogg Museum, Cambridge,
+          Massachusetts
+        imageUrl: /assets/gauguin-self-portrait-1875-7.jpg
+      - imageTitle: "'Garden in Vaugirard (Painter's Family in the Garden in Rue
+          Carcel)' by Gauguin in 1881, Ny Carlsberg Glyptotek, Copenhagen"
+        imageUrl: /assets/gauguin-garden-in-vaugirard-1881.jpg
+      - imageTitle: "'Portrait of Madame Gauguin' by Gauguin c. 1880–81, Foundation E.G.
+          Bührle, Zürich"
+        imageUrl: /assets/gauguin-portrait-of-madame-gauguin-1880.jpg
   - textTitle: Gauguin and the Impressionists
     text: >-
       ### What Gauguin’s early biography amounts to is an intriguing foundation
@@ -172,6 +182,15 @@ textSections:
 
 
       It is here that his story takes another turn.
+    sideGalleryImages:
+      - imageTitle: "'Where Do We Come From? What Are We? Where Are We Going?' by
+          Gauguin in 1897, Boston Museum of Fine Arts, Boston, MA"
+        imageUrl: /assets/gauguin-where-do-we-come-from-1897.jpg
+      - imageTitle: "'Spirit of the Dead Watching' by Gauguin in 1892, Albright–Knox Art
+          Gallery, Buffalo, NY"
+        imageUrl: /assets/gauguin-spirit-of-the-dead-1892.jpg
+      - imageTitle: "'O Taiti (Nevermore)' by Gauguin in 1897, Courtauld Institute"
+        imageUrl: /assets/gauguin-o-taiti-nevermore-1897.jpg
   - textTitle: Gauguin and the Symbolist movement
     text: >-
       ### Determined to attempt a career painting professionally, Gauguin spent
@@ -233,6 +252,13 @@ textSections:
 
 
       This term is used to describe the Western romanticisation of less industrially-developed cultures and the belief that so-called ‘primitive’ peoples live closer to nature and are therefore more spiritually enlightened than Western society.
+    sideGalleryImages:
+      - imageTitle: "'Night Café at Arles (Mme Ginoux)' by Gauguin in 1888"
+        imageUrl: /assets/gauguin-night-cafe-at-arles-1888.jpg
+      - imageTitle: "'Tahitian Women on the Beach' by Gauguin in 1891"
+        imageUrl: /assets/gauguin-tahitian-women-on-the-beach-1891.jpg
+      - imageTitle: "'Two Tahitian Women' by Gauguin in 1899"
+        imageUrl: /assets/gauguin-two-tahitian-women-1899.jpg
   - textTitle: Gauguin’s legacy
     text: >-
       ### Gauguin’s career would be short lived as he died in 1903 at the age of
@@ -298,29 +324,6 @@ textSections:
 
       In fact, his Impressionist work is extremely interesting and demonstrates his fearlessness as an artist. His most important legacy, however, was the pioneering approach to painting that focussed on bold, exotic colour palettes and paved the way for a new visual vocabulary in European art.
     sideGalleryImages:
-      - imageTitle: Self-portrait by Gauguin in 1875–1877, Fogg Museum, Cambridge,
-          Massachusetts
-        imageUrl: /assets/gauguin-self-portrait-1875-7.jpg
-      - imageTitle: "'Garden in Vaugirard (Painter's Family in the Garden in Rue
-          Carcel)' by Gauguin in 1881, Ny Carlsberg Glyptotek, Copenhagen"
-        imageUrl: /assets/gauguin-garden-in-vaugirard-1881.jpg
-      - imageTitle: "'Portrait of Madame Gauguin' by Gauguin c. 1880–81, Foundation E.G.
-          Bührle, Zürich"
-        imageUrl: /assets/gauguin-portrait-of-madame-gauguin-1880.jpg
-      - imageTitle: "'Where Do We Come From? What Are We? Where Are We Going?' by
-          Gauguin in 1897, Boston Museum of Fine Arts, Boston, MA"
-        imageUrl: /assets/gauguin-where-do-we-come-from-1897.jpg
-      - imageTitle: "'Spirit of the Dead Watching' by Gauguin in 1892, Albright–Knox Art
-          Gallery, Buffalo, NY"
-        imageUrl: /assets/gauguin-spirit-of-the-dead-1892.jpg
-      - imageTitle: "'O Taiti (Nevermore)' by Gauguin in 1897, Courtauld Institute"
-        imageUrl: /assets/gauguin-o-taiti-nevermore-1897.jpg
-      - imageTitle: "'Night Café at Arles (Mme Ginoux)' by Gauguin in 1888"
-        imageUrl: /assets/gauguin-night-cafe-at-arles-1888.jpg
-      - imageTitle: "'Tahitian Women on the Beach' by Gauguin in 1891"
-        imageUrl: /assets/gauguin-tahitian-women-on-the-beach-1891.jpg
-      - imageTitle: "'Two Tahitian Women' by Gauguin in 1899"
-        imageUrl: /assets/gauguin-two-tahitian-women-1899.jpg
       - imageTitle: "Gauguin, c. 1895, playing a harmonium at Alphonse Mucha's studio at
           rue de la Grande-Chaumière, Paris "
         imageUrl: /assets/gauguin-playing-a-harmonium-1895.jpg
