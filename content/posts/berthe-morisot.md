@@ -45,10 +45,10 @@ textSections:
       <div class="interesting">
 
 
-      <h4><img src="logo/palette.png">Interesting fact...</h4>
+      <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      <p>Their mother also went to every exhibition of her daughters' work and reported back on the critiques she overheard from viewers in order to help them refine their art further.</p>
+      Their mother also went to every exhibition of her daughters' work and reported back on the critiques she overheard from viewers in order to help them refine their art further.
 
 
       </div>
@@ -72,16 +72,16 @@ textSections:
       <div class="interesting">
 
 
-      <h4><img src="logo/palette.png">Interesting fact...</h4>
+      <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      <p>Some suggest that Manet and Morisot were more than friends. It is true that Manet painted Morisot in what were at the time intimate positions (eg lying backwards over a couch in Le Repos). It is also true that Berthe had Edma destroy some of her letters referring to Manet. But we are unikely to ever know for sure.</p>
+      Some suggest that Manet and Morisot were more than friends. It is true that Manet painted Morisot in what were at the time intimate positions (eg lying backwards over a couch in Le Repos). It is also true that Berthe had Edma destroy some of her letters referring to Manet. But we are unikely to ever know for sure.
 
 
       </div>
 
 
-      She married Manet’s younger brother,[ Eugène](https://en.wikipedia.org/wiki/Eug%C3%A8ne_Manet), in 1874. Though Eugène was also an aspiring artist, he gave up his career so that she could pursue hers.
+      She married Manet’s younger brother, [Eugène](https://en.wikipedia.org/wiki/Eug%C3%A8ne_Manet), in 1874. Though Eugène was also an aspiring artist, he gave up his career so that she could pursue hers.
 
 
       Morisot’s style developed in parallel with Manet, both artists experimenting with the effects of light in their works and rough, expressive brushstrokes. Morisot largely focussed on painting women and children, often in the home. This private setting allowed her to depict the parts of ordinary life that many other Impressionists missed out on - her works are a snapshot into a personal sphere.
@@ -114,22 +114,22 @@ textSections:
       Morisot enjoyed success in the Salon right up to 1873, when on hearing that the other impressionists were failing to have their paintings accepted, Morisot stated that she would not exhibit her work there again.
 
 
-      Instead, she aligned herself with the impressionist movement, participating in seven of the eight[ impressionist exhibitions](https://impressionistarts.com/first-impressionist-exhibition.html) between 1874 and 1886. Her sole reason for missing the fourth exhibition in 1879 was due to the birth of her daughter. In addition to her submissions, she also contributed to the costs of staging the events.
+      Instead, she aligned herself with the impressionist movement, participating in seven of the eight [impressionist exhibitions](https://impressionistarts.com/first-impressionist-exhibition.html) between 1874 and 1886. Her sole reason for missing the fourth exhibition in 1879 was due to the birth of her daughter. In addition to her submissions, she also contributed to the costs of staging the events.
 
 
       <div class="interesting">
 
 
-      <h4><img src="logo/palette.png">Interesting fact...</h4>
+      <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      <p>Only [Camille Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) exhibited in more impressionist exhibitions than Morisot (he submitted to all eight).</p>
+      Only [Camille Pissarro](/camille-pissarro-biography) exhibited in more impressionist exhibitions than Morisot (he submitted to all eight).
 
 
       </div>
 
 
-      The progression evident in the works Morisot exhibited over the eight exhibitions is testament to her unceasingly experimental style. The first exhibition of 1874 featured 30 artists with 165 works. Here, Morisot displayed one of her largest works,[ ‘The Mother and Sister of the Artist’](https://www.artsy.net/artwork/berthe-morisot-the-mother-and-sister-of-the-artist) from 1869-70. She also chose to hang eight more paintings, watercolours and pastels including.
+      The progression evident in the works Morisot exhibited over the eight exhibitions is testament to her unceasingly experimental style. The first exhibition of 1874 featured 30 artists with 165 works. Here, Morisot displayed one of her largest works, [‘The Mother and Sister of the Artist’](https://www.artsy.net/artwork/berthe-morisot-the-mother-and-sister-of-the-artist) from 1869-70. She also chose to hang eight more paintings, watercolours and pastels including.
 
 
       #### Misogyny?
@@ -150,8 +150,6 @@ textSections:
       than exhibit this work at the Salon. The painting was well received but continued to cause her distress for many years onwards. The interaction offers a glimpse into the challenges Morisot faced throughout her career.
 
 
-
-
       #### Later exhibitions
 
 
@@ -162,8 +160,6 @@ textSections:
 
 
       Morisot was a determined and energetic figure in the the exhibitions but she was continually discredited due to being a woman.
-
-
 
 
       Her name was omitted from the publicity posters for the fifth exhibition in 1880. [Degas](https://impressionistarts.com/edgar-degas-biography.html) stated that this was ‘Idiotic’ as all 16 of the male contributors were listed. Marie Braquemond and [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html), the two other female painters in the exhibition, were also missing from the poster.
@@ -197,7 +193,7 @@ textSections:
       #### Women and Children
 
 
-      The so-called garden paintings feature mostly women and children, situated in gardens and in front of windows with dense greenery and flowers behind. These paintings mix a feeling of stillness and silence with energy and movement, both in the natural elements and the clothing of the figures. In paintings such as[ ‘Girl by the Window’](https://www.wikiart.org/en/berthe-morisot/young-girls-at-the-window-1892) from 1878, there is a sense of restlessness and even wildness that is conveyed, even whilst the sitter is seated serenely.
+      The so-called garden paintings feature mostly women and children, situated in gardens and in front of windows with dense greenery and flowers behind. These paintings mix a feeling of stillness and silence with energy and movement, both in the natural elements and the clothing of the figures. In paintings such as [‘Girl by the Window’](https://www.wikiart.org/en/berthe-morisot/young-girls-at-the-window-1892) from 1878, there is a sense of restlessness and even wildness that is conveyed, even whilst the sitter is seated serenely.
 
 
       #### Windows
@@ -241,10 +237,10 @@ textSections:
       in her life.
 
 
-      The bright palette of [‘The Harbour at Nice’](https://www.wikiart.org/en/berthe-morisot/the-port-of-nice) from 1881-82, for instance, plays with juxtaposing colours using small brushstrokes to create contrast and intensity. This technique was taken to extremes in the works of[Seurat](https://impressionistarts.com/georges-seurat-biography.html)and[Van Gogh](https://impressionistarts.com/van-gogh-biography.html)to follow, who focussed heavily on colour contrast.
+      The bright palette of [‘The Harbour at Nice’](https://www.wikiart.org/en/berthe-morisot/the-port-of-nice) from 1881-82, for instance, plays with juxtaposing colours using small brushstrokes to create contrast and intensity. This technique was taken to extremes in the works of [Seurat](https://impressionistarts.com/georges-seurat-biography.html) and [Van Gogh](https://impressionistarts.com/van-gogh-biography.html) to follow, who focussed heavily on colour contrast.
 
 
-      Similarly, paintings like[ ‘Reclining Nude Shepherdess’](https://www.wikiart.org/en/berthe-morisot/the-reclining-shepherdess) from 1891 features vivid orange, violet and green colours that are very different to the muted tones of her earlier style, not to mention the contrast with her previously demure subject matter. The naked figure, unclothed except for a headdress, was extremely unconventional for female artists at the time. Morisot drew on the styles of[ Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) and [Monet](https://impressionistarts.com/claude-monet-biography.html) but innovated with her own form of expression, playing with the pose and the palette in this painting.
+      Similarly, paintings like [‘Reclining Nude Shepherdess’](https://www.wikiart.org/en/berthe-morisot/the-reclining-shepherdess) from 1891 features vivid orange, violet and green colours that are very different to the muted tones of her earlier style, not to mention the contrast with her previously demure subject matter. The naked figure, unclothed except for a headdress, was extremely unconventional for female artists at the time. Morisot drew on the styles of[ Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) and [Monet](https://impressionistarts.com/claude-monet-biography.html) but innovated with her own form of expression, playing with the pose and the palette in this painting.
 
 
       Many of Morisot’s works feature gestures and brushstrokes that border on abstract styles. Known as “the angel of the incomplete”, paintings that she displayed as finished often have the air of a sketch, giving them a sense of vitality and experimentation. She captured the essence of the scenes she depicted, painting faces in extreme detail and dispensing with unnecessary background details. Works like [‘Young Girl with a Vase’](https://www.apollo-magazine.com/berthe-morisot-comes-into-her-own/) from 1889 have a tactile feeling whilst the room around her is just a fleeting impression.
