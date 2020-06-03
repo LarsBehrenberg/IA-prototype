@@ -49,7 +49,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      <p>At about this time, Cezanne and his father quarreled. The problem was that Cezanne Snr wanted his son to study law, forbidding him to follow Zola to Paris until he passed his law exams. And so Cezanne started his legal studies in 1858.</p>
+      At about this time, Cezanne and his father quarreled. The problem was that Cezanne Snr wanted his son to study law, forbidding him to follow Zola to Paris until he passed his law exams. And so Cezanne started his legal studies in 1858.
 
 
       </div>
@@ -76,8 +76,6 @@ textSections:
       In 1870 Cezanne submitted another portrait to no avail, this time of his dwarf friend [Achille Emperaire](https://en.wikipedia.org/wiki/Achille_Emperaire).
 
 
-
-
       Cezanne put on a brave face:
 
 
@@ -85,8 +83,6 @@ textSections:
 
 
       But the truth was that the rejections cut him to the quick.
-
-
 
 
       #### Cezanne's dark period
@@ -129,7 +125,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      <p>Part of the problem was that one of Cezanne’s three proposed submissions was downright bizarre. A Modern Olympia was meant to be a witty interpretation of [Manet’s Olympia](https://impressionistarts.com/top-10-impressionist-paintings.html#2) (a painting which shocked the art world in 1865). But Cezanne’s interpretation (pictured) is a mess of what appear to be partially melted plasticine figures.</p>
+      Part of the problem was that one of Cezanne’s three proposed submissions was downright bizarre. A Modern Olympia was meant to be a witty interpretation of [Manet’s Olympia](/top-10-impressionist-paintings#2) (a painting which shocked the art world in 1865). But Cezanne’s interpretation (pictured) is a mess of what appear to be partially melted plasticine figures.
 
 
       </div>
@@ -141,8 +137,6 @@ textSections:
 
 
       > “sort of madman, painting in a state of delirium tremens”.
-
-
 
 
       By contrast, his other entries—*The House of the Hanged Man at Auvers* and *Landscape: Auvers*, which are more traditional impressionist fare—got off relatively lightly.
@@ -163,7 +157,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      <p>When Chocquet bought a small Cezanne nude he was worried about what his wife would think and so Renoir pretended that it belonged to him!</p>
+      When Chocquet bought a small Cezanne nude he was worried about what his wife would think and so Renoir pretended that it belonged to him!
 
 
       </div>
@@ -199,11 +193,7 @@ textSections:
       In total, he produced 44 oil paintings and 43 watercolours of this impressive rock. Cezanne’s strong feelings for the mountain can be seen from the following quote (taken from Joachim Gasquet’s 1921 biography):
 
 
-
-
       > “Look at Ste-Victoire. What elan, what an imperious thirsting after the sun, and what melancholy, of an evening, when all this weightiness falls back to earth.”
-
-
 
 
       Cezanne’s paintings of Sainte-Victoire often use distinctive horizontal brush strokes and show the mountain from a number of viewpoints. They include vivid orange, green and blue colour patches and often also pine trees, the Chateau Noir and the quarry at Bibemus.
@@ -227,7 +217,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      <p>Cezanne did not use his father’s surname and described himself as a student of [Antoine Guillemet](https://en.wikipedia.org/wiki/Antoine_Guillemet) (a member of the jury). This was a ruse: the two men were friends, having studied at Suisse’s academy a decade previously! But it persuaded the Salon's jury to accept the painting.</p>
+      Cezanne did not use his father’s surname and described himself as a student of [Antoine Guillemet](https://en.wikipedia.org/wiki/Antoine_Guillemet) (a member of the jury). This was a ruse: the two men were friends, having studied at Suisse’s academy a decade previously! But it persuaded the Salon's jury to accept the painting.
 
 
       </div>
@@ -270,7 +260,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      <p>Cezanne’s father only found out about their child when he read a letter to Cezanne from one of his patrons, Victor Chocquet. Chocquet made the mistake of referring to Madame Cézanne and “little Paul”!</p>
+      Cezanne’s father only found out about their child when he read a letter to Cezanne from one of his patrons, Victor Chocquet. Chocquet made the mistake of referring to Madame Cézanne and “little Paul”!
 
 
       </div>
@@ -296,8 +286,7 @@ textSections:
 
       > “The break between Claude and his friends had slowly widened. His painting they found so disturbing ...."
 
-
-
+      >
 
       > "Claude had somehow lost his foothold and, as far as his art was concerned, was slipping into madness, heroic madness ....”
     sideGalleryImages:
@@ -337,8 +326,6 @@ textSections:
       4. The proportions of some of the figures seem distorted—check out the long arms and small heads of some of the participants in the two-player versions.
 
 
-
-
       One version of the Card Players was sold for a then world-record $259 million in 2011.
 
 
@@ -363,8 +350,6 @@ textSections:
       * 1904 even saw a whole room devoted to Cezanne's works at the Salon D’Automne, an annual art exhibition held in Paris. Thirty-one works were displayed, covering the full spectrum of Cezanne’s output (portraits, self-portraits, sill lifes, landscapes, and bathers).
 
 
-
-
       #### 1895 onwards: The Bathers
 
 
@@ -380,7 +365,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      <p>Remarkably, especially given the seemingly broad brush strokes used, it took Cezanne seven years to complete the Large Bathers (1900-1906). The other striking thing about the work is its huge size: 211 cm by 251 cms. Cezanne had to have a slit made in his studio wall to remove it!</p>
+      Remarkably, especially given the seemingly broad brush strokes used, it took Cezanne seven years to complete the Large Bathers (1900-1906). The other striking thing about the work is its huge size: 211 cm by 251 cms. Cezanne had to have a slit made in his studio wall to remove it!
 
 
       </div>
