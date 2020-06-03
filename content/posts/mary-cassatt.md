@@ -5,7 +5,7 @@ date: 2020-06-03T04:41:05.986Z
 subTitle: Biography of
 title: Mary Cassatt
 tags: Impressionists
-cover: /assets/mary-cassatt-childs-bath.jpg
+cover: /assets/mary-cassatt-boating-party.jpg
 links:
   - post-Dt7zCEYrK
   - post-9X0UT2vmK
@@ -63,6 +63,15 @@ textSections:
 
 
       Unfortunately, the outbreak of the [Franco-Prussian War](https://impressionistarts.com/impressionism-timeline.html#3) saw her return to the U.S. fairly quickly. She was not alone as fellow impressionists [Claude Monet](https://impressionistarts.com/claude-monet-biography.html) and [Alfred Sisley](https://impressionistarts.com/alfred-sisley-biography.html) fled to London.
+    sideGalleryImages:
+      - imageTitle: "'The Child's Bath (The Bath)'' by Mary Cassatt, 1893, oil on
+          canvas, 39 × 26 in., Art Institute of Chicago"
+        imageUrl: /assets/mary-cassatt-childs-bath.jpg
+      - imageTitle: "'The caress' painted by Mary Cassatt (1844-1926) in 1902"
+        imageUrl: /assets/mary-cassatt-the-caress.jpg
+      - imageTitle: A self-portrait by Mary Cassatt - 'Portrait of the Artist' c. 1878,
+          gouache on paper
+        imageUrl: /assets/mary-cassatt-portrait-of-the-artist.jpg
   - textTitle: Cassatt’s Impressionism
     text: >-
       ### Cassatt broke from the Salon in the late 1870s when she began
@@ -127,14 +136,6 @@ textSections:
 
       This is most evident in works like [‘A Woman in Black at the Opera’](https://www.wikiart.org/en/mary-cassatt/the-opera-1878) from 1880 where the solid black of the woman’s fashionable dress and bonnet dominates the painting and is set against the red background. She enjoyed the drama that black could create.
     sideGalleryImages:
-      - imageTitle: "'The Child's Bath (The Bath)'' by Mary Cassatt, 1893, oil on
-          canvas, 39 × 26 in., Art Institute of Chicago"
-        imageUrl: /assets/mary-cassatt-childs-bath.jpg
-      - imageTitle: "'The caress' painted by Mary Cassatt (1844-1926) in 1902"
-        imageUrl: /assets/mary-cassatt-the-caress.jpg
-      - imageTitle: A self-portrait by Mary Cassatt - 'Portrait of the Artist' c. 1878,
-          gouache on paper
-        imageUrl: /assets/mary-cassatt-portrait-of-the-artist.jpg
       - imageTitle: "'Woman with a Pearl Necklace in a Loge', 1879, oil on canvas, 81 x
           60 cm, Philadelphia Museum of Art"
         imageUrl: /assets/mary-cassatt-woman-with-pearl-necklace.jpg
@@ -144,30 +145,6 @@ textSections:
       - imageTitle: "'Young Woman in a Black and Green Bonnet', painted by Mary Cassatt,
           c. 1890, Princeton University Art Museum"
         imageUrl: /assets/mary-cassatt-young-woman-in-black-with-green-bonnet.jpg
-      - imageTitle: "'Under the Horse Chestnut Tree' by Mary Cassatt, 1898, drypoint and
-          aquatint print, 19 x 15 in., Museum of Fine Arts, Houston"
-        imageUrl: /assets/mary-cassatt-under-the-horse-chestnut-tree.jpg
-      - imageTitle: "'Mrs. Robert S. Cassatt, the Artist's Mother' painted by Mary
-          Cassatt (1844-1926) in 1889"
-        imageUrl: /assets/mary-cassatt-artists-mother.jpg
-      - imageTitle: "'A Woman and a Girl Driving' painted by Mary Cassatt (1844-1926) in
-          1881"
-        imageUrl: /assets/mary-cassatt-woman-and-girl-driving.jpg
-      - imageTitle: "'In the Omnibus' printed by Mary Cassatt in 1890 - Cleveland Museum
-          of Art"
-        imageUrl: /assets/mary-cassatt-in-the-omnibus.jpg
-      - imageTitle: "'The Bath', printed by Mary Cassatt, 1890-1891"
-        imageUrl: /assets/mary-cassatt-the-bath-1890.jpg
-      - imageTitle: "'Afternoon Tea Party', printed by Mary Cassatt in 1890-1891"
-        imageUrl: /assets/mary-cassatt-afternoon-tea-party-1890.jpg
-      - imageTitle: Cassatt seated in a chair with an umbrella. Verso reads 'The only
-          photograph for which she ever posed. Courtesy of Durand-Ruel.'
-        imageUrl: /assets/mary-cassatt-1913.jpg
-      - imageTitle: A photograph of Mary Cassatt (1844-1926) in 1914
-        imageUrl: /assets/mary-cassatt-1914.jpg
-      - imageTitle: The family grave of Mary Cassatt (1844-1926) (© Daniel Volpatti, CC
-          BY-SA 4.0)
-        imageUrl: /assets/mary-cassatt-family-grave.jpg
   - textTitle: Cassatt’s drawings
     text: >-
       ### Some of Cassatt’s finest works are her pastel drawings.
@@ -204,6 +181,16 @@ textSections:
 
 
       In this way, she was able to study the female form in a semi-respectable way, using the stylised technique of Japanese art to further remove herself from the European tradition. Whilst her male contemporaries studied women in brothels and bath houses, Cassatt brought the illusion of decorum to her nudes, allowing her to paint as she wanted.
+    sideGalleryImages:
+      - imageTitle: "'Under the Horse Chestnut Tree' by Mary Cassatt, 1898, drypoint and
+          aquatint print, 19 x 15 in., Museum of Fine Arts, Houston"
+        imageUrl: /assets/mary-cassatt-under-the-horse-chestnut-tree.jpg
+      - imageTitle: "'Mrs. Robert S. Cassatt, the Artist's Mother' painted by Mary
+          Cassatt (1844-1926) in 1889"
+        imageUrl: /assets/mary-cassatt-artists-mother.jpg
+      - imageTitle: "'A Woman and a Girl Driving' painted by Mary Cassatt (1844-1926) in
+          1881"
+        imageUrl: /assets/mary-cassatt-woman-and-girl-driving.jpg
   - textTitle: Cassatt’s Japanese prints
     text: >-
       ### As well as being a painter, Cassatt was an accomplished printmaker
@@ -242,6 +229,14 @@ textSections:
 
 
       Cassatt’s work shifts from a focus on form to pattern during this time. This is not only evident in her prints but also in paintings such as [‘The Child’s Bath’](https://www.wikiart.org/en/mary-cassatt/the-child-s-bath-1893-1) from 1893. The work combines different patterns, from the fabric of the mother’s clothing to the woven rug to the print on the wall, creating a patchwork of impressions. It also has the same flattened style that is characteristic of her etchings.
+    sideGalleryImages:
+      - imageTitle: "'In the Omnibus' printed by Mary Cassatt in 1890 - Cleveland Museum
+          of Art"
+        imageUrl: /assets/mary-cassatt-in-the-omnibus.jpg
+      - imageTitle: "'The Bath', printed by Mary Cassatt, 1890-1891"
+        imageUrl: /assets/mary-cassatt-the-bath-1890.jpg
+      - imageTitle: "'Afternoon Tea Party', printed by Mary Cassatt in 1890-1891"
+        imageUrl: /assets/mary-cassatt-afternoon-tea-party-1890.jpg
   - textTitle: Cassatt’s later works & legacy
     text: >-
       ### Due to her failing eyesight, Cassatt’s later works were somewhat
@@ -276,6 +271,15 @@ textSections:
 
 
       Like her fellow female contemporaries, Cassatt’s works were largely passed over after her death thanks to the art establishment’s tendency to ignore the role of women in art. However, she enjoyed more recognition from the later 20th century onwards and is now considered to be one of the most important American expatriate artists from this era.
+    sideGalleryImages:
+      - imageTitle: Cassatt seated in a chair with an umbrella. Verso reads 'The only
+          photograph for which she ever posed. Courtesy of Durand-Ruel.'
+        imageUrl: /assets/mary-cassatt-1913.jpg
+      - imageTitle: A photograph of Mary Cassatt (1844-1926) in 1914
+        imageUrl: /assets/mary-cassatt-1914.jpg
+      - imageTitle: The family grave of Mary Cassatt (1844-1926) (© Daniel Volpatti, CC
+          BY-SA 4.0)
+        imageUrl: /assets/mary-cassatt-family-grave.jpg
 ---
 ## In 1904, Mary Cassatt was awarded the Légion d’honneur for her services to art.
 
