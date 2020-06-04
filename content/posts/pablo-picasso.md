@@ -81,10 +81,10 @@ textSections:
       period, as trivial when referring to it in later interviews.
 
 
-      In fact, [Cézanne](https://impressionistarts.com/paul-cezanne-biography.html) was one of the most significant influences on Picasso from 1907 onwards. To Picasso, Cézanne was “my one and only master”. He became particularly interested by his technique after visiting a retrospective exhibition of his oeuvre shown in Paris in 1907, following the artist’s death the previous year.
+      In fact, [Cézanne](/paul-cezanne-biography) was one of the most significant influences on Picasso from 1907 onwards. To Picasso, Cézanne was “my one and only master”. He became particularly interested by his technique after visiting a retrospective exhibition of his oeuvre shown in Paris in 1907, following the artist’s death the previous year.
 
 
-      Though Cézanne was an Impressionist painter, he had an ambition to make Impressionist art more solid and enduring and this led him down a different path to fellow painters in the [Impressionist movement](https://impressionistarts.com/index.html). Cézanne carved out his own, distinctive reputation as a Post-Impressionist artist that led to many modernist artists retrospectively hailing him as their idol.
+      Though Cézanne was an Impressionist painter, he had an ambition to make Impressionist art more solid and enduring and this led him down a different path to fellow painters in the [Impressionist movement](/). Cézanne carved out his own, distinctive reputation as a Post-Impressionist artist that led to many modernist artists retrospectively hailing him as their idol.
 
 
       Most crucially, the work of this particular Impressionist inspired in Picasso the concept of giving his figures a certain geometric structure. Cézanne’s interest in visual perception led him to essentialise many of the forms in his paintings, transforming objects and figures into pure, geometric shapes.
@@ -93,7 +93,7 @@ textSections:
       He played with the flatness of the canvas in representing a three-dimensional space and in doing so created works that distilled nature into basic forms. This crucial aspect of his work was what fascinated Picasso the most.
 
 
-      Moreover, he borrowed from Cézanne’s brushwork and in particular his technique of painting in a faceted, fracturing way. In many of Cézanne’s paintings, the brushstrokes themselves are angular and fragmented. This structural approach to painting eventually led Picasso towards [Cubism](https://impressionistarts.com/pablo-picasso-biography.html#3) and in his words:
+      Moreover, he borrowed from Cézanne’s brushwork and in particular his technique of painting in a faceted, fracturing way. In many of Cézanne’s paintings, the brushstrokes themselves are angular and fragmented. This structural approach to painting eventually led Picasso towards [Cubism](/pablo-picasso-biography#3) and in his words:
 
 
       > "Cézanne's influence gradually flooded everything."
@@ -117,7 +117,7 @@ textSections:
       Around this time he was also experimenting with elements of African Negro sculpture and such art was becoming more popular among young painters in Paris during the early 1900s. However, this influence was dismissed by Picasso in an interview many years later and he stated that the inspiration came solely from Iberian sculpture. Many critics nevertheless dispute this claim.
 
 
-      As well as the influence of Cézanne, later analyses of the work have also cited the influence of [Édouard Manet](https://impressionistarts.com/edouard-manet-biography.html)’s painting [‘Olympia’ from 1865](https://www.wikiart.org/en/edouard-manet/olympia-1863). This Impressionist portrait portrays a nude courtesan, lying on a chaise and looking directly at the viewer in an unabashed manner.
+      As well as the influence of Cézanne, later analyses of the work have also cited the influence of [Édouard Manet](/edouard-manet-biography)’s painting [‘Olympia’ from 1865](https://www.wikiart.org/en/edouard-manet/olympia-1863). This Impressionist portrait portrays a nude courtesan, lying on a chaise and looking directly at the viewer in an unabashed manner.
 
 
       Manet rendered his sitter as a compressed and flattened form on his canvas. This painting prompted his friend Charles Baudelaire to prophetically state that, “you are only the first in the decrepitude of your art”. It is likely that this painting would have also had an important influence on Picasso’s work.
@@ -204,10 +204,10 @@ textSections:
       What is known for certain is that the styles that he adopted, invented and pioneered during his lifetime would have a lasting and monumental effect on modern art to follow.
 
 
-      Picasso’s legacy includes the [development of Cubism](https://impressionistarts.com/pablo-picasso-biography.html#3), which saw a revolutionary rewriting of the rules of perspective in art and would go on to have an earth-shattering impact on the development of Western art. He forged a new path for artists to experiment with the depiction of form in space, giving them the foundations to innovate in their own way for decades to come.
+      Picasso’s legacy includes the [development of Cubism](/pablo-picasso-biography#3), which saw a revolutionary rewriting of the rules of perspective in art and would go on to have an earth-shattering impact on the development of Western art. He forged a new path for artists to experiment with the depiction of form in space, giving them the foundations to innovate in their own way for decades to come.
 
 
-      However, in the inevitably breathless account of Picasso’s influence, it is also important to note the earlier impact of [the Impressionist artists](https://impressionistarts.com/impressionist-painters.html) who came before him. In particular, it is impossible to ignore the role of [Cézanne](https://impressionistarts.com/paul-cezanne-biography.html) in creating many of the visual techniques that Picasso would adopt and morph into his own works.
+      However, in the inevitably breathless account of Picasso’s influence, it is also important to note the earlier impact of [the Impressionist artists](/) who came before him. In particular, it is impossible to ignore the role of [Cézanne](/paul-cezanne-biography) in creating many of the visual techniques that Picasso would adopt and morph into his own works.
 
 
       From mask like faces to radically flattened planes, Cézanne was the first to experiment with the techniques that captured Picasso and the public’s imagination. It was Cézanne’s influence that gave Picasso the tools which would lead him to being responsible for “the birth of modern art”, as many critics have claimed. The Impressionists’ radical approach to painting was transformative in many ways and their profound influence on Western art in the 20th century should not be forgotten.
@@ -223,6 +223,6 @@ textSections:
 ---
 ## Pablo Picasso has been called many things by many people, from “the most famous artist of all time” to “a madman”.
 
-He was a painter, sculptor, ceramist, etcher, designer and more, during a career spanning more than seven decades. Most importantly, his [experiments with form, colour and perspective](https://impressionistarts.com/pablo-picasso-biography.html#3) made him one of the [most influential artists](https://impressionistarts.com/pablo-picasso-biography.html#4) of the 20th century.
+He was a painter, sculptor, ceramist, etcher, designer and more, during a career spanning more than seven decades. Most importantly, his [experiments with form, colour and perspective](/pablo-picasso-biography#3) made him one of the [most influential artists](/pablo-picasso-biography#4) of the 20th century.
 
-In his [pioneering approach to art](https://impressionistarts.com/pablo-picasso-biography.html#1), Picasso drew a great deal of inspiration from Impressionist artist [Paul Cézanne](https://impressionistarts.com/paul-cezanne-biography.html), who he has credited with being one of the primary influences in the development of [Cubism](https://impressionistarts.com/pablo-picasso-biography.html#3) and his work after 1907. The role of Cézanne in Picasso’s art is so profound that he described him as “the father of us all”. In this way, the legacy of[ the Impressionists](https://impressionistarts.com/pablo-picasso-biography.html#2) continued to resonate through the development of modern art.
+In his [pioneering approach to art](/pablo-picasso-biography#1), Picasso drew a great deal of inspiration from Impressionist artist [Paul Cézanne](/paul-cezanne-biography), who he has credited with being one of the primary influences in the development of [Cubism](/pablo-picasso-biography#3) and his work after 1907. The role of Cézanne in Picasso’s art is so profound that he described him as “the father of us all”. In this way, the legacy of[ the Impressionists](/pablo-picasso-biography#2) continued to resonate through the development of modern art.

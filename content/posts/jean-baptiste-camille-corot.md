@@ -161,7 +161,7 @@ textSections:
       As well as being a figure of support for the Impressionists, Corot was also a key source of inspiration for the movement. Corot’s dedication to painting [‘en plein air’](https://en.wikipedia.org/wiki/En_plein_air) was undoubtedly his greatest influence on the Impressionists. Following the tutelage of his early painting masters, Corot dedicated his life to painting outdoors in order to render his landscapes in the most sensitive way possible.
 
 
-      His focus on natural light was one of the most significant points of reference for the Impressionists’ obsession with light. This pioneering approach to painting was a key step in the development of the Impressionist Movement and the starting point for the innovations of artists like [Claude Monet](https://impressionistarts.com/claude-monet-biography.html),[Camille Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) and [Alfred Sisley](https://impressionistarts.com/alfred-sisley-biography.html).
+      His focus on natural light was one of the most significant points of reference for the Impressionists’ obsession with light. This pioneering approach to painting was a key step in the development of the Impressionist Movement and the starting point for the innovations of artists like [Claude Monet](/claude-monet-biography),[Camille Pissarro](/camille-pissarro-biography) and [Alfred Sisley](/alfred-sisley-biography).
 
 
       #### Subject matter
@@ -179,7 +179,7 @@ textSections:
       #### Corot, Pissarro and Morisot
 
 
-      Indeed, arguably Corot’s most notable relationship with the Impressionists was his tutelage of Camille Pissarro and [Berthe Morisot](https://impressionistarts.com/berthe-morisot-biography.html). He was keen to teach younger painters and enjoyed his time passing on his knowledge. The old man became known fondly as ‘Papa Corot’ thanks to his careful and generous approach to his pupils.
+      Indeed, arguably Corot’s most notable relationship with the Impressionists was his tutelage of Camille Pissarro and [Berthe Morisot](/berthe-morisot-biography). He was keen to teach younger painters and enjoyed his time passing on his knowledge. The old man became known fondly as ‘Papa Corot’ thanks to his careful and generous approach to his pupils.
 
 
       Like many Impressionists, Morisot began painting outdoors, drawing much of her artistic vocabulary from Corot. As well as his landscape paintings, Corot painted female figures later in his career, though these were less popular and less well-known. Morisot’s female figures were modern Parisian women, living in the changing world of Paris being remade and redrawn under Haussmann during the 1850s and 1860s.
@@ -203,7 +203,7 @@ textSections:
       #### Corot and Degas
 
 
-      In conjunction, Corot inspired many of the Impressionists with his figure paintings, despite his reputation as a landscape painter. Edgar Degas praised Corot in 1883, after his death as, “still the strongest. He anticipated everything.” When some of his figure works were shown posthumously in 1909, they were highly praised by [Cézanne](https://impressionistarts.com/paul-cezanne-biography.html) and Picasso, demonstrating his enduring relevance for the Impressionists, the Post-Impressionists and onwards.
+      In conjunction, Corot inspired many of the Impressionists with his figure paintings, despite his reputation as a landscape painter. Edgar Degas praised Corot in 1883, after his death as, “still the strongest. He anticipated everything.” When some of his figure works were shown posthumously in 1909, they were highly praised by [Cézanne](/paul-cezanne-biography) and Picasso, demonstrating his enduring relevance for the Impressionists, the Post-Impressionists and onwards.
     sideGalleryImages:
       - imageTitle: Bornova, İzmir, by Camille Corot 1873
         imageUrl: /assets/camille-corot-bornova-izmir.jpg
@@ -220,7 +220,7 @@ textSections:
       This was the year of the First Impressionist Exhibition. Though he was not alive to witness the success of the Impressionists, the legacy he left behind in their work was grand. He had successfully established landscape painting as a valued genre in French art.
 
 
-      At the same time, Corot paved the way for the appreciation of immediacy in painting through the veneration of his sketch-like works. This was hugely influential on the [Impressionist movement](https://impressionistarts.com/index.html), whose artists took this fleeting form of painting even further.
+      At the same time, Corot paved the way for the appreciation of immediacy in painting through the veneration of his sketch-like works. This was hugely influential on the [Impressionist movement](/), whose artists took this fleeting form of painting even further.
 
 
       Towards the end of his life, after he had achieved financial independence and widespread recognition for his works, Corot’s focus began to shift somewhat. He began painting a number of studies and portraits of women.
@@ -255,8 +255,8 @@ textSections:
 ---
 ### Born in Paris in the late 1700s, Jean-Baptiste-Camille Corot was crucial for establishing landscape painting as a valued genre in France.
 
-In doing so, he was a precursor of the [Impressionist Movement](https://impressionistarts.com/index.html "Impressionist Movement"). Corot’s use of natural light and soft [depictions of landscapes](https://impressionistarts.com/jean-baptiste-camille-corot-biography.html#2), sensitive to the colours and patterns of nature, were key drivers for the development of the Impressionist style.
+In doing so, he was a precursor of the [Impressionist Movement](/). Corot’s use of natural light and soft [depictions of landscapes](/jean-baptiste-camille-corot-biography#2), sensitive to the colours and patterns of nature, were key drivers for the development of the Impressionist style.
 
-In his dedication to landscape painting, Corot also transformed the way in which the landscape sketch was understood. Though he regularly painted large, monumental paintings, some of his best works are sketches made out of doors during [his travels through France and Europe](https://impressionistarts.com/jean-baptiste-camille-corot-biography.html#2).
+In his dedication to landscape painting, Corot also transformed the way in which the landscape sketch was understood. Though he regularly painted large, monumental paintings, some of his best works are sketches made out of doors during [his travels through France and Europe](/jean-baptiste-camille-corot-biography#2).
 
-Corot was one of the [first artists](https://impressionistarts.com/jean-baptiste-camille-corot-biography.html#3) to demonstrate the beauty in the spontaneity of sketches and their value as works of art in their own right. This was another crucial step towards the rise of the Impressionist movement, which took the fleeting style of the sketch to new heights.
+Corot was one of the [first artists](/jean-baptiste-camille-corot-biography#3) to demonstrate the beauty in the spontaneity of sketches and their value as works of art in their own right. This was another crucial step towards the rise of the Impressionist movement, which took the fleeting style of the sketch to new heights.

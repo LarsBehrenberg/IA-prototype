@@ -39,7 +39,7 @@ textSections:
       #### Durand-Ruel's parents
 
 
-      Jean exhibited works by [Eugene Delacroix](https://impressionistarts.com/eugene-delacroix-biography.html),[ Jean Baptiste Camille Corot](https://impressionistarts.com/jean-baptiste-camille-corot-biography.html) and [Théodore Géricault](https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault) in the shop, selling and renting pictures to his customers. Over time, the shop developed into a meeting point for artists and collectors, becoming a gallery in its own right.
+      Jean exhibited works by [Eugene Delacroix](/eugene-delacroix-biography),[ Jean Baptiste Camille Corot](/jean-baptiste-camille-corot-biography) and [Théodore Géricault](https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault) in the shop, selling and renting pictures to his customers. Over time, the shop developed into a meeting point for artists and collectors, becoming a gallery in its own right.
 
 
       As the gallery side of the business became more popular, the Durand-Ruel concept moved to a more elegant Parisian neighbourhood on the rue des Petits Champs, next to the Place Vendôme in 1839.
@@ -137,7 +137,7 @@ textSections:
       when he was in London.
 
 
-      The three men had fled to England to escape the outbreak of the Franco-Prussian war in France. In exile, [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) and [Monet](https://impressionistarts.com/claude-monet-biography.html) continued to paint and Durand-Ruel purchased a number of their paintings in London.
+      The three men had fled to England to escape the outbreak of the Franco-Prussian war in France. In exile, [Pissarro](/camille-pissarro-biography) and [Monet](/claude-monet-biography) continued to paint and Durand-Ruel purchased a number of their paintings in London.
 
 
       #### First meeting
@@ -158,7 +158,7 @@ textSections:
       These exhibitions continued in London until 1875. Some of the works exhibited at the gallery were Monet’s ‘Green Park’ and ‘The Thames Below Westminster’, both from 1871. These dreamy, hazy works of iconic London landscapes are some of Monet’s masterpieces, perfectly capturing the city in its fog-laden beauty.
 
 
-      Once again, Durand-Ruel bucked convention by purchasing works by [Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html), [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html), [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html) and other [impressionist artists](https://impressionistarts.com/index.html) when he returned to Paris. This was a bold move at a time when most critics, dealers and collectors were highly condemnatory of the movement.
+      Once again, Durand-Ruel bucked convention by purchasing works by [Auguste Renoir](/pierre-auguste-renoir-biography), [Mary Cassatt](/mary-cassatt-biography), [Edgar Degas](/edgar-degas-biography) and other [impressionist artists](/) when he returned to Paris. This was a bold move at a time when most critics, dealers and collectors were highly condemnatory of the movement.
 
 
       #### Cornering the impressionist market
@@ -173,7 +173,7 @@ textSections:
       #### Durand-Ruel and Manet
 
 
-      As well as his visionary approach to Impressionist artworks, Durand-Ruel was also an extremely patient, unshakeable individual. Many of the works took between 10 to 20 years to be sold as the market was highly resistant to the Impressionist style. This did not stop him. He bought 23 paintings from [Édouard Manet](https://impressionistarts.com/edouard-manet-biography.html) on the first day they met in 1872.
+      As well as his visionary approach to Impressionist artworks, Durand-Ruel was also an extremely patient, unshakeable individual. Many of the works took between 10 to 20 years to be sold as the market was highly resistant to the Impressionist style. This did not stop him. He bought 23 paintings from [Édouard Manet](/edouard-manet-biography) on the first day they met in 1872.
 
 
       Before then, Manet’s works had barely sold at all. Durand-Ruel spent the next 30 years selling pieces gradually as collectors emerged. Some of these works are now extremely well-known including ‘Moonlight at the Port of Boulogne’ from 1868 and ‘The Battle of the U.S.S. Kearsarge and the C.S.S. Alabama’ from 1864.
@@ -199,7 +199,7 @@ textSections:
       #### Too much power?
 
 
-      On the other hand, accounts from the time suggest that some artists were uncomfortable with Durand-Ruel’s power and his monopoly of their works. Concerns were raised by [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) and [Sisley](https://impressionistarts.com/alfred-sisley-biography.html) in particular. Similarly, the fiercely independent and wealthy [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html) was also less wedded to Durand-Ruel’s methods than many other Impressionists.
+      On the other hand, accounts from the time suggest that some artists were uncomfortable with Durand-Ruel’s power and his monopoly of their works. Concerns were raised by [Pissarro](/camille-pissarro-biography) and [Sisley](/alfred-sisley-biography) in particular. Similarly, the fiercely independent and wealthy [Mary Cassatt](/mary-cassatt-biography) was also less wedded to Durand-Ruel’s methods than many other Impressionists.
 
 
       #### Introducing the impressionists to the USA
@@ -238,10 +238,10 @@ textSections:
       Other portraits include one of Durand-Ruel’s oldest son, Joseph, and a portrait of his younger sons, Charles and Georges. His three sons followed him into the art business and Charles eventually ran the New York branch of the Durand-Ruel empire.
 
 
-      Durand-Ruel’s most important portrait was a solo painting created by [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) when he was already 69 years old. The elderly gentleman is seated, looking at ease and enjoying his success after many decades of hard work and precipitous risk. The portrait is understated but affectionate, reflecting Renoir’s friendship with Durand-Ruel.
+      Durand-Ruel’s most important portrait was a solo painting created by [Renoir](/pierre-auguste-renoir-biography) when he was already 69 years old. The elderly gentleman is seated, looking at ease and enjoying his success after many decades of hard work and precipitous risk. The portrait is understated but affectionate, reflecting Renoir’s friendship with Durand-Ruel.
 
 
-      Many of these portraits were hung in Durand-Ruel’s Parisian home, which also functioned as a gallery space. He would admit people to visit his home and allow them to view the works by Renoir, [Monet](https://impressionistarts.com/claude-monet-biography.html) and others displayed there.
+      Many of these portraits were hung in Durand-Ruel’s Parisian home, which also functioned as a gallery space. He would admit people to visit his home and allow them to view the works by Renoir, [Monet](/claude-monet-biography) and others displayed there.
 
 
       In doing so, he presented the paintings of his artists as they would appear in a bourgeois setting, cementing their validity in the minds of potential buyers.
@@ -263,10 +263,10 @@ textSections:
       Durand-Ruel.
 
 
-      As a supporter of the Barbizon School and the [impressionist movement](https://impressionistarts.com/index.html), Durand-Ruel was a key figure in the continuation and rise of both movements.
+      As a supporter of the Barbizon School and the [impressionist movement](/), Durand-Ruel was a key figure in the continuation and rise of both movements.
 
 
-      He bought over 5,000 Impressionist artworks in total including some [1,000 Monets](https://impressionistarts.com/claude-monet-biography.html), [1,500 Renoirs](https://impressionistarts.com/pierre-auguste-renoir-biography.html), [800 Pissarros](https://impressionistarts.com/camille-pissarro-biography.html), [400 Sisleys](https://impressionistarts.com/alfred-sisley-biography.html), [400 Cassatts](https://impressionistarts.com/mary-cassatt-biography.html), and about [200 Manets](https://impressionistarts.com/edouard-manet-biography.html). His fearlessness and determination, as well as his foresight, meant that he became the principal agent for Impressionism and a key vehicle for the success of its artwork.
+      He bought over 5,000 Impressionist artworks in total including some [1,000 Monets](/claude-monet-biography), [1,500 Renoirs](/pierre-auguste-renoir-biography), [800 Pissarros](/camille-pissarro-biography), [400 Sisleys](/alfred-sisley-biography), [400 Cassatts](/mary-cassatt-biography), and about [200 Manets](/edouard-manet-biography). His fearlessness and determination, as well as his foresight, meant that he became the principal agent for Impressionism and a key vehicle for the success of its artwork.
 
 
       Durand-Ruel devised creative solutions to market resistance and unceasingly sought to promote the Impressionist movement in every way possible. One of the pioneers of contemporary art dealers, he innovated in merging the economics and fashion of art in Paris. He promoted solo exhibitions, free and open access to exhibitions and created a global brand.
@@ -281,7 +281,7 @@ textSections:
       > "At last the impressionist masters triumphed \[…] My madness had been wisdom. To think that, had I passed away at 60, I would have died debt-ridden and bankrupt, surrounded by a wealth of underrated treasures.”
 
 
-      Instead, Durand-Ruel became the most important and successful dealer of both the Barbizon School and the [impressionist movement](https://impressionistarts.com/index.html), helping to grow and promote key artists and change artistic tastes forever.
+      Instead, Durand-Ruel became the most important and successful dealer of both the Barbizon School and the [impressionist movement](/), helping to grow and promote key artists and change artistic tastes forever.
     sideGalleryImages:
       - imageTitle: Paul Durand-Ruel in his gallery in 1910. Photograph by Paul Marsan,
           known as Dornac
@@ -292,12 +292,12 @@ textSections:
 ---
 ## A pioneering art dealer, Paul Durand-Ruel shaped how we consume art today.
 
-He married economics with artistic appreciation, changing the way in which audiences were introduced to new forms of expression in French art. From the introduction of solo exhibitions to the promotion of the biographies of [key artists](https://impressionistarts.com/paul-durand-ruel-biography.html#3), Durand-Ruel used entrepreneurial methods to turn art dealership into an international business.
+He married economics with artistic appreciation, changing the way in which audiences were introduced to new forms of expression in French art. From the introduction of solo exhibitions to the promotion of the biographies of [key artists](/paul-durand-ruel-biography#3), Durand-Ruel used entrepreneurial methods to turn art dealership into an international business.
 
-Durand-Ruel took enormous risks during his [career as an art dealer](https://impressionistarts.com/paul-durand-ruel-biography.html#1), supporting artists with no proven commercial successes and attracting his fair share of vehement critics. He put total faith in his artistic eye and worked to generate interest and acceptance where there was none.
+Durand-Ruel took enormous risks during his [career as an art dealer](/paul-durand-ruel-biography#1), supporting artists with no proven commercial successes and attracting his fair share of vehement critics. He put total faith in his artistic eye and worked to generate interest and acceptance where there was none.
 
-The impressionists, and Monet in particular, were the chief beneficiaries of Durand-Ruel's approach to businesss. A quote by his close friend and artist [Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html), describes his personality perfectly:
+The impressionists, and Monet in particular, were the chief beneficiaries of Durand-Ruel's approach to businesss. A quote by his close friend and artist [Auguste Renoir](/pierre-auguste-renoir-biography), describes his personality perfectly:
 
 > “This neat bourgeois, good husband and father, loyal monarchist, and practising Christian was also an out-and-out gambler.”
 
-Durand-Ruel was unafraid of risk and he became the one of the first art dealers to create the modern art market, single-handedly shaping the [impressionist movement](https://impressionistarts.com/index.html) into what it is today.
+Durand-Ruel was unafraid of risk and he became the one of the first art dealers to create the modern art market, single-handedly shaping the [impressionist movement](/) into what it is today.

@@ -40,10 +40,10 @@ textSections:
       His father, Jules Jean-Baptiste Signac, was a luxury saddle and harness maker, as his father had been before, and he owned a shop on the Rue Frochot. Along with his mother, Héloïse Anaïs-Eugénie Deudon, and grandfather, the family lived above the shop.
 
 
-      This dynamic artistic environment undoubtedly had an impact on young Signac, helped by his liberal parents. They encouraged their son to attend numerous exhibitions and immerse himself in the artistic community where they lived, including the work of the [Impressionists](https://impressionistarts.com/impressionist-painters.html). This included attending the [Fifth Impressionist Exhibition](http://www.visual-arts-cork.com/history-of-art/impressionist-exhibitions-paris.htm) at the age of 16.
+      This dynamic artistic environment undoubtedly had an impact on young Signac, helped by his liberal parents. They encouraged their son to attend numerous exhibitions and immerse himself in the artistic community where they lived, including the work of the [Impressionists](/). This included attending the [Fifth Impressionist Exhibition](http://www.visual-arts-cork.com/history-of-art/impressionist-exhibitions-paris.htm) at the age of 16.
 
 
-      For Signac, this particular event was also his first brush with an Impressionist artist and the experience was not entirely positive. As he was admiring the works in the show, [Paul Gauguin](https://impressionistarts.com/paul-gauguin-biography.html) approached him and scolded him sharply for sketching a work by [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html), which Gauguin interpreted as ‘copying’.
+      For Signac, this particular event was also his first brush with an Impressionist artist and the experience was not entirely positive. As he was admiring the works in the show, [Paul Gauguin](/paul-gauguin-biography) approached him and scolded him sharply for sketching a work by [Edgar Degas](/edgar-degas-biography), which Gauguin interpreted as ‘copying’.
 
 
       He was promptly thrown out of the gallery for disregarding the unwritten rules of the exhibition! Despite Gauguin’s ill-humoured introduction to the artists of the Impressionist movement, Signac went away with a feeling of fascination with this new style of painting.
@@ -61,7 +61,7 @@ textSections:
       Interestingly, Signac was almost entirely self-taught. He received a few painting lessons for free from Émile Bin, a portraitist and history painter, but otherwise he learnt how to paint by studying the paintings of some of the leading Impressionist artists.
 
 
-      This influence is evident from his depictions of the town of Port-en-Bessin from 1883, which clearly echoes [Claude Monet’s](https://impressionistarts.com/claude-monet-biography.html) distinctive style. During a summer spent in the coastal town, Signac painted a number of studies that demonstrate his keenness to master the Impressionist technique. The works are painted with forceful, long brushstrokes and bright colours, which give his studies a feeling of energy and vitality.
+      This influence is evident from his depictions of the town of Port-en-Bessin from 1883, which clearly echoes [Claude Monet’s](/claude-monet-biography) distinctive style. During a summer spent in the coastal town, Signac painted a number of studies that demonstrate his keenness to master the Impressionist technique. The works are painted with forceful, long brushstrokes and bright colours, which give his studies a feeling of energy and vitality.
     sideGalleryImages:
       - imageTitle: Paul Signac with his palette, ca. 1883 taken by an unidentified
           photographer
@@ -78,7 +78,7 @@ textSections:
       was already embracing non-academic, avant-garde art styles.
 
 
-      As Signac was developing in his career as an artist, one of the most talked about movements in French art was Impressionism. Artists like [Monet](https://impressionistarts.com/claude-monet-biography.html) and [Édouard Manet](https://impressionistarts.com/edouard-manet-biography.html) were by then becoming more popular and widely known, but their work was also still cutting edge.
+      As Signac was developing in his career as an artist, one of the most talked about movements in French art was Impressionism. Artists like [Monet](/claude-monet-biography) and [Édouard Manet](/edouard-manet-biography) were by then becoming more popular and widely known, but their work was also still cutting edge.
 
 
       It is unsurprising then, that he was drawn to the Impressionists as a young student and their innovative techniques had a significant effect on Signac’s own style.
@@ -90,13 +90,13 @@ textSections:
       As an ardent sailor - he named his first boat ‘Manet Zola Wagner’ and his second ‘Olympia’ after a painting by Manet - the sea is interwoven into his art. This ensures that much of his work has a sense of fluidity and energy, befitting of his watery subjects.
 
 
-      The most significant Impressionist artist for Signac was undoubtedly Monet, though [Gustave Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html) was also an important source of inspiration. Indeed, Signac credited Monet’s 1880 exhibition at the offices of the journal ‘La Vie moderne’ as being one of the principle motivations for him beginning a career in art. This was a pivotal moment for young Signac as he admired Monet’s methods of capturing the effects of natural light, with no subject too ordinary to grace his works.
+      The most significant Impressionist artist for Signac was undoubtedly Monet, though [Gustave Caillebotte](/gustave-caillebotte-biography) was also an important source of inspiration. Indeed, Signac credited Monet’s 1880 exhibition at the offices of the journal ‘La Vie moderne’ as being one of the principle motivations for him beginning a career in art. This was a pivotal moment for young Signac as he admired Monet’s methods of capturing the effects of natural light, with no subject too ordinary to grace his works.
 
 
       In addition to the evidence of Impressionism in his artworks, Signac also shared his political views with certain prominent Impressionists. He publicly endorsed anarchism in 1888 and he contributed to the pro-anarchist and communist newspaper ‘Les Temps Nouveaux’ or ‘The New Times’.
 
 
-      In doing so, he aligned himself with painters such as [Camille Pissarro](https://impressionistarts.com/camille-pissarro-biography.html), who was also a strong supporter of anarchism. During the Dreyfus affair, Signac signed a collective statement publicly supporting Zola, who was incidentally one of his literary idols.
+      In doing so, he aligned himself with painters such as [Camille Pissarro](/camille-pissarro-biography), who was also a strong supporter of anarchism. During the Dreyfus affair, Signac signed a collective statement publicly supporting Zola, who was incidentally one of his literary idols.
 
 
       Signac’s anarchism went one step further in 1893 when he named one of his paintings ‘In the Time of Anarchy’. It was a strong statement. He later changed the title to ‘In the Time of Harmony’, however, when the government began to persecute known anarchists.
@@ -127,13 +127,13 @@ textSections:
       It was through the [Salon des Indépendants](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_Artistes_Ind%C3%A9pendants) that Signac first met Seurat and the two emerging artists quickly became friends.
 
 
-      This crucial meeting would lead to the pair breaking away from the Impressionist movement to develop their own style. [Seurat](https://impressionistarts.com/georges-seurat-biography.html) was the first to do so with his work ‘Bathers at Asnieres’ from 1884, which granted him immediate fame.
+      This crucial meeting would lead to the pair breaking away from the Impressionist movement to develop their own style. [Seurat](/georges-seurat-biography) was the first to do so with his work ‘Bathers at Asnieres’ from 1884, which granted him immediate fame.
 
 
       Signac was slower to adopt the Neo-Impressionist technique, continuing to develop his style under the encouragement of Pissarro and Armand Guillaumin, another Impressionist artist. However, during frequent meetings between Seurat and Signac, in which they discussed colour theory and the work of [Michel-Eugène Chevreul](https://en.wikipedia.org/wiki/Michel_Eug%C3%A8ne_Chevreul), both artists began to refine and develop their unique style.
 
 
-      This crossover period is displayed in Signac’s 1886 work ‘Les Andelys, the Riverbank’. This painting has the air of a [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html), featuring the short, rapid brushstrokes characteristic of the Impressionist style. The attention to natural light and the bright, gentle palette is also typical of Impressionism.
+      This crossover period is displayed in Signac’s 1886 work ‘Les Andelys, the Riverbank’. This painting has the air of a [Pissarro](/camille-pissarro-biography), featuring the short, rapid brushstrokes characteristic of the Impressionist style. The attention to natural light and the bright, gentle palette is also typical of Impressionism.
 
 
       It was during this summer, in 1886, that Signac worked on developing his Neo-Impressionist approach. Whilst living in Les Andelys, he painted ten landscapes in close collaboration with Seurat. The technique the two friends developed was Divisionism, better known as [Pointillism](https://en.wikipedia.org/wiki/Pointillism).
@@ -198,10 +198,10 @@ textSections:
       As well as his paintings, he also generated an enormous body of writing, both fiction and non-fiction. Furthermore, Signac was an ardent supporter of anarchism, whilst being an outspoken anti-fascist.
 
 
-      Signac’s oeuvre is regarded as a pillar of modern art and his advocacy of the theories of colour formed an important base for 20th century greats like[ Henri Matisse](https://impressionistarts.com/henri-matisse-biography.html) and the Fauvists. Matisse spent time at Signac’s home in St Tropez and the influence of the Pointillist technique on his work from this period is evident.
+      Signac’s oeuvre is regarded as a pillar of modern art and his advocacy of the theories of colour formed an important base for 20th century greats like[ Henri Matisse](/henri-matisse-biography) and the Fauvists. Matisse spent time at Signac’s home in St Tropez and the influence of the Pointillist technique on his work from this period is evident.
 
 
-      Cubism also drew on Signac’s flattened and at times fragmented style, albeit less strongly than Fauvism. Earlier in his career, after an initial introduction in 1886, Signac also helped [Van Gogh](https://impressionistarts.com/van-gogh-biography.html) to learn how to paint in the Neo-Impressionist style, heavily influencing his unique form of Post-Impressionism that is still considered revolutionary today.
+      Cubism also drew on Signac’s flattened and at times fragmented style, albeit less strongly than Fauvism. Earlier in his career, after an initial introduction in 1886, Signac also helped [Van Gogh](/van-gogh-biography) to learn how to paint in the Neo-Impressionist style, heavily influencing his unique form of Post-Impressionism that is still considered revolutionary today.
 
 
       Though Signac has often been regarded as living in the shadow of his colleague Georges Seurat, his exuberant character enabled his influence to spread through the French avant-garde.
@@ -220,6 +220,6 @@ textSections:
 ---
 ## One of the principle Neo-Impressionists, Paul Signac worked alongside Georges Seurat to develop a new form of expression, combining the Impressionist technique with scientific accuracy and colour theory.
 
-He helped champion the movement among the [creative community of Paris](https://impressionistarts.com/paul-signac-biography.html#2) in the late 1800s, utilising his friends and acquaintances to publicise the [Neo-Impressionist’s](https://impressionistarts.com/paul-signac-biography.html#3) radical and original approach to painting.
+He helped champion the movement among the [creative community of Paris](/paul-signac-biography#2) in the late 1800s, utilising his friends and acquaintances to publicise the [Neo-Impressionist’s](/paul-signac-biography#3) radical and original approach to painting.
 
-Largely self-taught, Signac rose from [a young aspiring Impressionist artist](https://impressionistarts.com/paul-signac-biography.html#1) to become an extremely influential Neo-Impressionist painter, working with bright, expressive colour palettes and a harmoniousness in his paintings. Throughout much of his life, Signac approached painting with enthusiasm and energy. [His later works](https://impressionistarts.com/paul-signac-biography.html#4) would go on to inspire Fauvism and, to a certain extent, Cubism that followed.
+Largely self-taught, Signac rose from [a young aspiring Impressionist artist](/paul-signac-biography#1) to become an extremely influential Neo-Impressionist painter, working with bright, expressive colour palettes and a harmoniousness in his paintings. Throughout much of his life, Signac approached painting with enthusiasm and energy. [His later works](/paul-signac-biography#4) would go on to inspire Fauvism and, to a certain extent, Cubism that followed.

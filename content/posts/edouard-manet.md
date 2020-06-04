@@ -94,7 +94,7 @@ textSections:
       In a time where there were few private exhibitions, the Salon was critical to the success or failure of an aspiring artist. Acceptance by the jury and positive reviews in the papers would lead to commissions and sales. Rejection or negative commentary could stop a career in its tracks.
 
 
-      The 1859 jury did not take to The Absinthe Drinker, which received the approval of only one the twelve jurors (that of the romantic painter [Eugène Delacroix](https://impressionistarts.com/eugene-delacroix-biography.html)). When Manet turned to Couture for comfort he got none. Couture remarked that:
+      The 1859 jury did not take to The Absinthe Drinker, which received the approval of only one the twelve jurors (that of the romantic painter [Eugène Delacroix](/eugene-delacroix-biography)). When Manet turned to Couture for comfort he got none. Couture remarked that:
 
 
       > “the only drunk around here is you!"
@@ -132,7 +132,7 @@ textSections:
       #### The 1863 Salon: Luncheon on the Grass
 
 
-      Manet tried again in 1863, this time with a painting called [Dejuner Sur l'Herbe](https://impressionistarts.com/top-10-impressionist-paintings.html#1) (Luncheon on the Grass).
+      Manet tried again in 1863, this time with a painting called [Dejuner Sur l'Herbe](/top-10-impressionist-paintings#1) (Luncheon on the Grass).
 
 
       Even to a modern eye, this is an unusual work: the foreground shows two well-dressed Parisian men eating a picnic with a naked female. A partially dressed woman bathes in the mid-ground. And the four figures are pictured under a coarsely painted tree canopy.
@@ -204,7 +204,7 @@ textSections:
       and travelled to Spain to escape. But Olympia was not all bad: Manet had shown that he was willing to stand up to the establishment, which encouraged the other impressionists to do likewise; and now everybody in Paris knew his name.
 
 
-      Dejuner sur l'herbe and Olympia feature in our selection of the [best 10 impressionist paintings](https://impressionistarts.com/top-10-impressionist-paintings.html).
+      Dejuner sur l'herbe and Olympia feature in our selection of the [best 10 impressionist paintings](/top-10-impressionist-paintings).
 
 
       #### 1867: Manet’s own pavilion
@@ -222,7 +222,7 @@ textSections:
       > "The artist today is not saying 'Come and see my faultless work' but 'Come and see my sincere work'. ... Monsieur Manet has never wished to protest. Rather, people have protested against him. ... Monsieur Manet presumes neither to overthrow earlier painting nor to remake it. He has merely tried to be himself."
 
 
-      The venture was a failure in financial terms. The most that can be said about it is that it solidified Manet’s position as the leader of the impressionists, a man who was happy not to conform.[](https://impressionistarts.com/impressionism/world-exhibition-paris-1867-lg.jpg "The 1867 World Exhibition (Exhibition l'Universelle) was held in Paris.  But the jury rejected Manet's works so he built his own pavilion to display his works!")[](https://impressionistarts.com/impressionism/national-gallery-execution-of-maximilian-slashed-canvas-lg.jpg "Manet's second large-scale version of the Execution of Maximilian was cut into pieces and had to be reassembled by Degas after Manet's death.")[](https://impressionistarts.com/impressionism/execution-of-maximilian-final-work-manet-lg.jpg "The final version of Manet's Execution of Maximilian, produced between 1868-9")
+      The venture was a failure in financial terms. The most that can be said about it is that it solidified Manet’s position as the leader of the impressionists, a man who was happy not to conform.[](/impressionism/world-exhibition-paris-1867-lg.jpg "The 1867 World Exhibition (Exhibition l'Universelle) was held in Paris.  But the jury rejected Manet's works so he built his own pavilion to display his works!")[](/impressionism/national-gallery-execution-of-maximilian-slashed-canvas-lg.jpg "Manet's second large-scale version of the Execution of Maximilian was cut into pieces and had to be reassembled by Degas after Manet's death.")[](/impressionism/execution-of-maximilian-final-work-manet-lg.jpg "The final version of Manet's Execution of Maximilian, produced between 1868-9")
 
 
       #### The Execution of Maximilian
@@ -302,7 +302,7 @@ textSections:
       He adored people, people watching, debating political and artistic ideas, and making people laugh. The impressionists frequented two cafes in particular: the Cafe Guerbois and later the Cafe Nouvelle Athens.
 
 
-      It was here that a number of their members, Manet, Monet and [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) in particular, could be found in the early evening.
+      It was here that a number of their members, Manet, Monet and [Renoir](/pierre-auguste-renoir-biography) in particular, could be found in the early evening.
 
 
       #### Berthe Morisot
@@ -382,7 +382,7 @@ textSections:
       <h4><img src="logo/palette.png"> Did you know?</h4>
 
 
-      Not everyone stayed. Whilst Manet refused to leave, and indeed joined the army, Monet and other impressionist colleagues were not so patriotic. ([Cezanne](https://impressionistarts.com/paul-cezanne-biography.html) refused to be conscripted and hid from the authorities in a fishing village near Aix in southern France; and [Monet](https://impressionistarts.com/claude-monet-biography.html), [Sisley](https://impressionistarts.com/alfred-sisley-biography.html) and [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) moved to London.)
+      Not everyone stayed. Whilst Manet refused to leave, and indeed joined the army, Monet and other impressionist colleagues were not so patriotic. ([Cezanne](/paul-cezanne-biography) refused to be conscripted and hid from the authorities in a fishing village near Aix in southern France; and [Monet](/claude-monet-biography), [Sisley](/alfred-sisley-biography) and [Pissarro](/camille-pissarro-biography) moved to London.)
 
 
       </div>
@@ -415,7 +415,7 @@ textSections:
       Manet had been seen as the leader of the impressionists from the mid-1860s. He stood up to the establishment, socialised with and was admired by the rest of the group, and often doled out money when needed.
 
 
-      Manet was initially reluctant to paint en plein air (outdoors): even though his works use broad strokes, he was a perfectionist (often requiring models to sit on scores of occasions for a single work). But [Berthe Morisot](https://impressionistarts.com/berthe-morisot-biography.html) persuaded him to give it a go and in 1874, Manet painted with [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) and [Monet](https://impressionistarts.com/claude-monet-biography.html "Claude Monet's biography") at the latter’s house in Argenteuil.
+      Manet was initially reluctant to paint en plein air (outdoors): even though his works use broad strokes, he was a perfectionist (often requiring models to sit on scores of occasions for a single work). But [Berthe Morisot](/berthe-morisot-biography) persuaded him to give it a go and in 1874, Manet painted with [Renoir](/pierre-auguste-renoir-biography) and [Monet](/claude-monet-biography "Claude Monet's biography") at the latter’s house in Argenteuil.
 
 
       <div class="interesting">
@@ -559,7 +559,7 @@ textSections:
       In the end, his left foot became gangrenous and his left leg was amputated below the knee. He struggled on for another fortnight, dying on 30 April 1883 aged 51.
 
 
-      Manet’s pallbearers included Monet, the critic and writer [Émile Zola](https://impressionistarts.com/emile-zola-biography.html) and Manet's lifelong friend Antonin Proust. Following the procession, [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html) was heard to remark:
+      Manet’s pallbearers included Monet, the critic and writer [Émile Zola](/emile-zola-biography) and Manet's lifelong friend Antonin Proust. Following the procession, [Edgar Degas](/edgar-degas-biography) was heard to remark:
 
 
       > “he was even greater than we thought."
@@ -604,7 +604,7 @@ textSections:
       These days, most Manets are held in the world's leading art museums. But they occasionally come up for auction. In 2014, his Springtime (Le Printemps, 1881) was sold by Christie's in New York for $65.1 million. The previous best price, $33.1 million achieved by Sotheby's in London in 2010, was for Manet's Self Portrait with a Palette.
 
 
-      These two works are, respectively, the eighth and tenth most [expensive impressionist paintings](https://impressionistarts.com/most-expensive-impressionist-paintings.html) ever sold. But they languish far behind the sale value of works by Cezanne, Monet and Degas.
+      These two works are, respectively, the eighth and tenth most [expensive impressionist paintings](/most-expensive-impressionist-paintings) ever sold. But they languish far behind the sale value of works by Cezanne, Monet and Degas.
 
 
       #### Top 10 Manet paintings
@@ -665,8 +665,8 @@ textSections:
 
 He was, unlike many of the other impressionists, born into a wealthy bourgeois family: his father a senior civil servant and later a judge; his mother the goddaughter of the Swedish crown prince.
 
-Manet’s roots were a blessing and a burden: he did not have to worry about money, being left a substantial inheritance on his father’s death in 1862, and so could paint his way without having to worry about sales. But his desire to please his father and justify his career choice after his father’s death meant that he never stopped trying to impress the conservative art establishment—with only [limited success](https://impressionistarts.com/edouard-manet-biography.html#5).
+Manet’s roots were a blessing and a burden: he did not have to worry about money, being left a substantial inheritance on his father’s death in 1862, and so could paint his way without having to worry about sales. But his desire to please his father and justify his career choice after his father’s death meant that he never stopped trying to impress the conservative art establishment—with only [limited success](/edouard-manet-biography#5).
 
-Manet died when he was only 53. But his fascinating life saw him sail to Rio de Janeiro on a [merchant ship](https://impressionistarts.com/edouard-manet-biography.html#1), become a household name in France when he took on the conservative art establishment with a [painting of a prostitute](https://impressionistarts.com/edouard-manet-biography.html#2), defend Paris when the Prussians[ laid siege](https://impressionistarts.com/edouard-manet-biography.html#4) to it in 1870/1, and even fight a duel.
+Manet died when he was only 53. But his fascinating life saw him sail to Rio de Janeiro on a [merchant ship](/edouard-manet-biography#1), become a household name in France when he took on the conservative art establishment with a [painting of a prostitute](/edouard-manet-biography#2), defend Paris when the Prussians[ laid siege](/edouard-manet-biography#4) to it in 1870/1, and even fight a duel.
 
-These days [Claude Monet](https://impressionistarts.com/claude-monet-biography.html "Discover Claude Monet") is probably more famous than Manet. But the latter was seen as the father of Impressionism during his lifetime: he gave the other impressionists the confidence to take on the conservative art world. Indeed, Manet’s most controversial work—Olympia—was probably the first true work of modern art.
+These days [Claude Monet](/claude-monet-biography) is probably more famous than Manet. But the latter was seen as the father of Impressionism during his lifetime: he gave the other impressionists the confidence to take on the conservative art world. Indeed, Manet’s most controversial work—Olympia—was probably the first true work of modern art.

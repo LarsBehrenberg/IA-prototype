@@ -94,7 +94,7 @@ textSections:
       #### Delacroix
 
 
-      Like so many artists around this period, Courbet was heavily inspired by [Eugène Delacroix](https://impressionistarts.com/eugene-delacroix-biography.html). Delacroix experimented with optical illusions in his artworks. He played with simultaneous contrast, building up layers of complementary colours to lend his paintings greater vibrancy and drama. Delacroix’s studies of colour would also go on to inspire the Impressionists and Neo-Impressionism in particular.
+      Like so many artists around this period, Courbet was heavily inspired by [Eugène Delacroix](/eugene-delacroix-biography). Delacroix experimented with optical illusions in his artworks. He played with simultaneous contrast, building up layers of complementary colours to lend his paintings greater vibrancy and drama. Delacroix’s studies of colour would also go on to inspire the Impressionists and Neo-Impressionism in particular.
 
 
       #### The Desperate Man
@@ -158,7 +158,7 @@ textSections:
   - textTitle: Courbet and the Impressionists
     text: >-
       ### Courbet, along with his contemporaries like Camille_Corot"
-      [Corot](https://impressionistarts.com/jean-baptiste-camille-corot-biography.html)
+      [Corot](/jean-baptiste-camille-corot-biography)
       and the Barbizon School, exchanged radical ideas that paved the way for
       the impressionist movement.
 
@@ -187,7 +187,7 @@ textSections:
       The series portrays the seas of the English Channel at different times of the day, some with towering grey waves and others with blushing pink skies.
 
 
-      There can be no doubt that these seascapes inspired [Impressionist artists](https://impressionistarts.com/index.html) who sought to capture a fleeting moment in time, whilst privileging light and colour over form. The paintings themselves demonstrated Courbet’s inventive, spirited style, thick with impasto paint that made the physical works as dynamic as the seas they were based on.
+      There can be no doubt that these seascapes inspired [Impressionist artists](/) who sought to capture a fleeting moment in time, whilst privileging light and colour over form. The paintings themselves demonstrated Courbet’s inventive, spirited style, thick with impasto paint that made the physical works as dynamic as the seas they were based on.
 
 
       #### Realism vs Impressionism
@@ -199,7 +199,7 @@ textSections:
       His scenes of lakes covered in lilies, complete with wealthy French patrons enjoying their leisure time, gradually transitioned into blurs of reflections and colours on the water. These later images rejected form of any kind but ultimately came to represent the Impressionist movement.
 
 
-      Of course, [Monet](https://impressionistarts.com/claude-monet-biography.html)i s just one example of the Impressionist movement. Other artists followed Courbet’s example more closely, favouring Realist styles throughout their career. These artists included [Gustave Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html) and [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html).
+      Of course, [Monet](/claude-monet-biography)i s just one example of the Impressionist movement. Other artists followed Courbet’s example more closely, favouring Realist styles throughout their career. These artists included [Gustave Caillebotte](/gustave-caillebotte-biography) and [Edgar Degas](/edgar-degas-biography).
 
 
       Similarly, Henri Fantin-Latour was a student of Courbet for a short time in 1861, though ultimately his style of realism was more discreet than Courbet’s and the two artists parted ways.
@@ -211,10 +211,10 @@ textSections:
       Similarly, the neo-impressionists adopted scientific techniques in their form of impressionism, moving closer towards an objective reality that championed the importance of optical blending and human perception of colour.
 
 
-      Conversely, their paintings also became more abstracted in the process. The Pointillist techniques of [Georges Seurat](https://impressionistarts.com/georges-seurat-biography.html) and [Paul Signac](https://impressionistarts.com/paul-signac-biography.html) comprised of hundreds of tiny dots of colour which built up the image, eventually these gave way to looser and more garish paintings as the movement developed.
+      Conversely, their paintings also became more abstracted in the process. The Pointillist techniques of [Georges Seurat](/georges-seurat-biography) and [Paul Signac](/paul-signac-biography) comprised of hundreds of tiny dots of colour which built up the image, eventually these gave way to looser and more garish paintings as the movement developed.
 
 
-      One of the most important aspects of the[ Impressionist movement](https://impressionistarts.com/index.html) was the artists’ attempts to capture natural light and the variations therein. They were fascinated by light and colour, seeking to champion this aspect of their paintings above all else. It was this concept, partly inspired by Courbet, that saw the movement move towards abstraction as their subjects became ‘dematerialised’.
+      One of the most important aspects of the[ Impressionist movement](/) was the artists’ attempts to capture natural light and the variations therein. They were fascinated by light and colour, seeking to champion this aspect of their paintings above all else. It was this concept, partly inspired by Courbet, that saw the movement move towards abstraction as their subjects became ‘dematerialised’.
     sideGalleryImages:
       - imageTitle: "'Stream in the Jura Mountains (The Torrent)' by Gustave Courbet,
           1872–73, Honolulu Museum of Art"
@@ -279,8 +279,8 @@ textSections:
 ---
 ### Gustave Courbet was one of the principal artists of the 19th century realist movement. A divisive character, he revelled in the controversy he caused throughout his career, openly shunning the French art establishment.
 
-Over the course of his life, Courbet experimented with a [wide range of genres and styles](https://impressionistarts.com/gustave-courbet-biography.html#1). His works were as often met with criticism as they were with praise. Indeed, some of his artworks are still contentious to this day.
+Over the course of his life, Courbet experimented with a [wide range of genres and styles](/gustave-courbet-biography#1). His works were as often met with criticism as they were with praise. Indeed, some of his artworks are still contentious to this day.
 
-For example, in 2015 a Facebook user successfully sued the social media giant for censoring his photo of Courbet’s work ‘The Origin of the World’ from 1866, depicting a woman’s naked torso, open thighs and genitalia. This painting paved [the way for the realist](https://impressionistarts.com/gustave-courbet-biography.html#2), erotic works of many 20th century painters and continues to stir debates over propriety and objectivity today.
+For example, in 2015 a Facebook user successfully sued the social media giant for censoring his photo of Courbet’s work ‘The Origin of the World’ from 1866, depicting a woman’s naked torso, open thighs and genitalia. This painting paved [the way for the realist](/gustave-courbet-biography#2), erotic works of many 20th century painters and continues to stir debates over propriety and objectivity today.
 
-Courbet further laid the foundations for the [impressionist movement](https://impressionistarts.com/gustave-courbet-biography.html#3) to take hold and flourish, introducing a new artistic vocabulary of ordinary life and fleeting moments into French art. His portrayal of rural peasantry and the rugged landscape of his home in Ornans were key inspirations for the [impressionists](https://impressionistarts.com/index.html) and some of the greatest artists of the movement built on Courbet’s works.
+Courbet further laid the foundations for the [impressionist movement](/gustave-courbet-biography#3) to take hold and flourish, introducing a new artistic vocabulary of ordinary life and fleeting moments into French art. His portrayal of rural peasantry and the rugged landscape of his home in Ornans were key inspirations for the [impressionists](/) and some of the greatest artists of the movement built on Courbet’s works.

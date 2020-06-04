@@ -65,7 +65,7 @@ textSections:
       By the age of 21, Renoir has saved enough to further his further studies.
 
 
-      He enrolled at the Ecole des Beaux-Arts (though this was short-loved as he didn’t enjoy its rigid syllabus) and took evening courses at Gleyre’s studio. It was here that he met [Claude Monet](https://impressionistarts.com/claude-monet-biography.html), [Alfred Sisley](https://impressionistarts.com/alfred-sisley-biography.html) and [Frederic Bazille](https://impressionistarts.com/frederic-bazille-biography.html).
+      He enrolled at the Ecole des Beaux-Arts (though this was short-loved as he didn’t enjoy its rigid syllabus) and took evening courses at Gleyre’s studio. It was here that he met [Claude Monet](/claude-monet-biography), [Alfred Sisley](/alfred-sisley-biography) and [Frederic Bazille](/frederic-bazille-biography).
 
 
       Not that Renoir always got on with Gleyre. On one occasion, Gleyre said to Renoir “Young man, you are very skilful, but it looks like you only paint for your own enjoyment”, to which Renoir replied
@@ -92,7 +92,7 @@ textSections:
       #### Living with the other impressionists
 
 
-      To economise, Renoir shared lodgings with Monet in the early 1860s and subsisted on a diet of beans and lentils (a sack of beans lasted for a month, when they changed to lentils, and so on). [Monet](https://impressionistarts.com/claude-monet-biography.html) occasionally managed to get them an invitation to dinner, where they made sure to gorge themselves.
+      To economise, Renoir shared lodgings with Monet in the early 1860s and subsisted on a diet of beans and lentils (a sack of beans lasted for a month, when they changed to lentils, and so on). [Monet](/claude-monet-biography) occasionally managed to get them an invitation to dinner, where they made sure to gorge themselves.
 
 
       Renoir was still able to make some money by decorating porcelain and painting portraits of tradesmen.
@@ -116,13 +116,13 @@ textSections:
       #### The Cafe Guerbois and Fontainebleau
 
 
-      In 1863, Manet shocked the conservative art world with his painting [Dejuner Sur l'Herbe](https://impressionistarts.com/top-10-impressionist-paintings.html#1) (Lunch on the Grass).
+      In 1863, Manet shocked the conservative art world with his painting [Dejuner Sur l'Herbe](/top-10-impressionist-paintings#1) (Lunch on the Grass).
 
 
       Thereafter, Manet became the inspiration for the artists looking to move away from classical art. They start to meet at the Cafe Guerbois, together with writers sympathetic to their ideas, to discuss art, politics and their lives.
 
 
-      Over the years a group coalesced. Its artist members included [Manet](https://impressionistarts.com/edouard-manet-biography.html), Renoir, Monet, [Degas](https://impressionistarts.com/edgar-degas-biography.html), [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html), [Cezanne](https://impressionistarts.com/paul-cezanne-biography.html), Sisley and Bazille. Another prominent member of the group was writer, and close childhood friend of Cezanne, [Emile Zola](https://impressionistarts.com/emile-zola-biography.html).
+      Over the years a group coalesced. Its artist members included [Manet](/edouard-manet-biography), Renoir, Monet, [Degas](/edgar-degas-biography), [Pissarro](/camille-pissarro-biography), [Cezanne](/paul-cezanne-biography), Sisley and Bazille. Another prominent member of the group was writer, and close childhood friend of Cezanne, [Emile Zola](/emile-zola-biography).
 
 
       In the spring of 1863, Monet organised a trip to Fontainebleau to paint the landscape. The 62,000-acre Fontainebleau forest, about 30 miles from Paris, is full of pretty crags and had become a popular destination for those day-tripping from the capital. Though Renoir was predominantly a portraitist, he went along anyway.
@@ -167,7 +167,7 @@ textSections:
       Renoir’s plans were disrupted in 1862 and again in 1864 when he underwent two stints of military service. Taking up four months in all, Renoir lacked the means to buy his way out of military service by paying for a substitute.
 
 
-      In 1870, Emperor Napoleon III contrived to declare war on the Prussians following a series of political miscalculations. The war and the ensuing [Siege of Paris](https://impressionistarts.com/impressionism-timeline.html#3), which took place over the winter of 1870/1, involved a number of the impressionists in different ways.
+      In 1870, Emperor Napoleon III contrived to declare war on the Prussians following a series of political miscalculations. The war and the ensuing [Siege of Paris](/impressionism-timeline#3), which took place over the winter of 1870/1, involved a number of the impressionists in different ways.
 
 
       <div class="interesting">
@@ -185,7 +185,7 @@ textSections:
       Others were less patriotic: Cezanne hid out in Provence; and Monet moved to London with his new wife and young child.
 
 
-      Monet's time in London was important for the impressionist movement: it was here that he met [Paul Durand-Ruel](https://impressionistarts.com/paul-durand-ruel-biography.html), the gallery owner who became the impressionists' most important supporter.
+      Monet's time in London was important for the impressionist movement: it was here that he met [Paul Durand-Ruel](/paul-durand-ruel-biography), the gallery owner who became the impressionists' most important supporter.
     sideGalleryImages:
       - imageTitle: One of Renoir's paintings of the Fontainbleau forest.
         imageUrl: /assets/renoir-fontainbleau-jules-le-coeur.jpg
@@ -291,7 +291,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      Ball at the Moulin de la Galette is the [second most expensive](https://impressionistarts.com/most-expensive-impressionist-paintings.html) impressionist work ever sold, fetching $78 million when auctioned in 1990 (giving it an adjusted price of $187.8 million).
+      Ball at the Moulin de la Galette is the [second most expensive](/most-expensive-impressionist-paintings) impressionist work ever sold, fetching $78 million when auctioned in 1990 (giving it an adjusted price of $187.8 million).
 
 
       </div>
@@ -327,10 +327,10 @@ textSections:
       Last but not least comes *Lunch at the Boating Lake*, perhaps Renoir's most famous work.
 
 
-      Renoir and his girlfriend and later wife Aline courted at the Hotel Fournaise. Renoir chose an outdoor terrace to paint this picture of people having fun on a Sunday afternoon. The models for the picture include impressionist painters [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html) and [Gustave Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html).
+      Renoir and his girlfriend and later wife Aline courted at the Hotel Fournaise. Renoir chose an outdoor terrace to paint this picture of people having fun on a Sunday afternoon. The models for the picture include impressionist painters [Mary Cassatt](/mary-cassatt-biography) and [Gustave Caillebotte](/gustave-caillebotte-biography).
 
 
-      Lunch at the Boating Lake is one of our [10 best impressionist works](https://impressionistarts.com/top-10-impressionist-paintings.html#6).
+      Lunch at the Boating Lake is one of our [10 best impressionist works](/top-10-impressionist-paintings#6).
     sideGalleryImages:
       - imageTitle: Renoir had a unique ability to capture the female face, as shown in
           Girl with Watering Can.
@@ -346,7 +346,7 @@ textSections:
       Raphael masterpieces he saw in Florence and Rome.
 
 
-      On his return, he started questioning whether to continue painting in the impressionist style. Renoir’s so-called Dry Period (also known as his [Ingres Period](https://impressionistarts.com/jean-auguste-dominique-ingres-biography.html), after the French neo-classical painter) started two years later and lasted until about 1888.
+      On his return, he started questioning whether to continue painting in the impressionist style. Renoir’s so-called Dry Period (also known as his [Ingres Period](/jean-auguste-dominique-ingres-biography), after the French neo-classical painter) started two years later and lasted until about 1888.
 
 
       Renoir described his change in emphasis as follows
@@ -440,7 +440,7 @@ textSections:
       Renoir became a father late in life. His three children, Pierre, Jean and Claude were born in 1885, 1894 and 1901 (when Renoir was 44, 53 and 60 years old respectively).
 
 
-      The mother of Renoir’s children was Aline Charigot, Renoir’s long-term girlfriend (and one of the central characters in [Luncheon on the Boating Lake](https://impressionistarts.com/top-10-impressionist-paintings.html#6)), who he finally married in 1890.
+      The mother of Renoir’s children was Aline Charigot, Renoir’s long-term girlfriend (and one of the central characters in [Luncheon on the Boating Lake](/top-10-impressionist-paintings#6)), who he finally married in 1890.
 
 
       Aline died in 1915, at the age of 56, seemingly weakened as a result of serious injuries sustained by Pierre and Jean during the first world war.
@@ -493,7 +493,7 @@ textSections:
       body of paintings of pure joy.
 
 
-      Renoir would not have claimed to be the leader of the impressionist movement. That title fell to Manet in the early years and then to Monet and to some extent [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html).
+      Renoir would not have claimed to be the leader of the impressionist movement. That title fell to Manet in the early years and then to Monet and to some extent [Pissarro](/camille-pissarro-biography).
 
 
       #### Feminine Beauty
@@ -529,10 +529,10 @@ textSections:
       Renoir's body of work is found in the world's best museums, particularly those of northern Europe and the United States.
 
 
-      Though perhaps not as famous as Monet's Water Lilies or [Cezanne's Card Players](https://impressionistarts.com/paul-cezanne-biography.html#5), those with a little knowledge of art would recognise La Loge (The Theatre Box), the Frogpond, Moulin de la Galette and Luncheon on the Bating Lake. They would probably also recognise Renoir's distinctive colourful and glossy style.
+      Though perhaps not as famous as Monet's Water Lilies or [Cezanne's Card Players](/paul-cezanne-biography#5), those with a little knowledge of art would recognise La Loge (The Theatre Box), the Frogpond, Moulin de la Galette and Luncheon on the Bating Lake. They would probably also recognise Renoir's distinctive colourful and glossy style.
 
 
-      Renoir's paintings have, unsurprisingly, done well at auction. The [second most expensive](https://impressionistarts.com/most-expensive-impressionist-paintings.html) impressionist work is a version of Renoir's Moulin de la Galette, which sold for $78.8 million in 1990, giving it an adjusted price of almost $200 million.
+      Renoir's paintings have, unsurprisingly, done well at auction. The [second most expensive](/most-expensive-impressionist-paintings) impressionist work is a version of Renoir's Moulin de la Galette, which sold for $78.8 million in 1990, giving it an adjusted price of almost $200 million.
     sideGalleryImages:
       - imageTitle: Renoir's Boating at Chatou, produced in 1879, during his most
           important decade of work.
@@ -546,18 +546,18 @@ textSections:
 ---
 ## Pierre-Auguste Renoir was born in 1842 in Limoges, southern France.
 
-Unlike Manet and Degas, who came from wealthy families, Renoir was the son of a tailor and a seamstress and was set to work at a porcelain factory at the [age of 13](https://impressionistarts.com/pierre-auguste-renoir-biography.html#1).
+Unlike Manet and Degas, who came from wealthy families, Renoir was the son of a tailor and a seamstress and was set to work at a porcelain factory at the [age of 13](/pierre-auguste-renoir-biography#1).
 
-His natural talent for painting was soon obvious: he could paint beautiful motifs far faster than anyone else. Renoir enrolled at the Ecole des Beaux Arts and had a[ triumphant decade](https://impressionistarts.com/pierre-auguste-renoir-biography.html#4) of producing the most exquisite impressionist works between 1874 and 1883. Those works can be summarised in one word: 'joy'.
+His natural talent for painting was soon obvious: he could paint beautiful motifs far faster than anyone else. Renoir enrolled at the Ecole des Beaux Arts and had a[ triumphant decade](/pierre-auguste-renoir-biography#4) of producing the most exquisite impressionist works between 1874 and 1883. Those works can be summarised in one word: 'joy'.
 
 Renoir himself said that
 
 > "a picture has to be pleasant, delightful and pretty -- yes, pretty. There are enough unpleasant things in the world without us producing more."
 
-Amongst Renoir's most famous masterpieces are [Luncheon at the Boating Lake](https://impressionistarts.com/top-10-impressionist-paintings.html#6), La Grenouillere (The Frogpond), La Loge (The Theatre Box) and [Ball at the Moulin de la Galette](https://impressionistarts.com/most-expensive-impressionist-paintings.html#2)(the second most expensive impressionist painting ever sold).
+Amongst Renoir's most famous masterpieces are [Luncheon at the Boating Lake](/top-10-impressionist-paintings#6), La Grenouillere (The Frogpond), La Loge (The Theatre Box) and [Ball at the Moulin de la Galette](/most-expensive-impressionist-paintings#2)(the second most expensive impressionist painting ever sold).
 
-Renoir then had his[Dry Period](https://impressionistarts.com/pierre-auguste-renoir-biography.html#4), between 1883 and 1887, during which his style changed to become rather more conventional. Renoir became convinced that impressionism was a passing phase and painted cooler and more precise works which emphasised structure.
+Renoir then had his[Dry Period](/pierre-auguste-renoir-biography#4), between 1883 and 1887, during which his style changed to become rather more conventional. Renoir became convinced that impressionism was a passing phase and painted cooler and more precise works which emphasised structure.
 
-Renoir produced some important works (especially of nude women) during his [old age](https://impressionistarts.com/pierre-auguste-renoir-biography.html#5), bravely battling debilitating arthritis. But his heyday was the decade starting with the [first impressionist exhibition](https://impressionistarts.com/first-impressionist-exhibition.html) of 1874.
+Renoir produced some important works (especially of nude women) during his [old age](/pierre-auguste-renoir-biography#5), bravely battling debilitating arthritis. But his heyday was the decade starting with the [first impressionist exhibition](/first-impressionist-exhibition) of 1874.
 
 Renoir died in 1919, at the age of 78, and is buried in Essoyes.

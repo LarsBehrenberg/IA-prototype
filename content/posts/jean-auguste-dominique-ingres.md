@@ -104,7 +104,7 @@ textSections:
       He saw it as a disrupting force that pushed artists to consider monetary gain and commercial success over the pursuit of originality. Ingres strongly believed that [the Salon](https://en.wikipedia.org/wiki/Salon_(Paris)) was smothering the beauty in art in favour of achieving recognition and glory.
 
 
-      In doing so, he aligned himself with the more revolutionary artists among his colleagues. These artists paved the way for the [Impressionists](https://impressionistarts.com/index.html) to establish their own exhibitions, firmly breaking with the conventions of the Salon.
+      In doing so, he aligned himself with the more revolutionary artists among his colleagues. These artists paved the way for the [Impressionists](/) to establish their own exhibitions, firmly breaking with the conventions of the Salon.
 
 
       Nevertheless, Ingres continued to seek professional praise and recognition, choosing to pursue history painting. History painting was a highly respected genre at this time. Ingres’ paintings were [Neoclassical](https://en.wikipedia.org/wiki/Neoclassicism) in every way but he still tried to innovate in some respects. He deliberately chose more emotional and psychological subjects than many of his peers, hinting at the influence of Romanticism on his work.
@@ -131,10 +131,10 @@ textSections:
       In fact, Ingres’ art incorporated erotic styles from the Near East, combining them with western styles and the Romantic’s love of mythology.
 
 
-      In doing so, he was able to paint female nudes whilst remaining removed from outrage, focussing on exoticised figures from ‘the Orient’. It was only when [the Impressionists](https://impressionistarts.com/index.html) began painting nude women from France that people became outraged.
+      In doing so, he was able to paint female nudes whilst remaining removed from outrage, focussing on exoticised figures from ‘the Orient’. It was only when [the Impressionists](/) began painting nude women from France that people became outraged.
 
 
-      In his nudes, Ingres took inspiration from Botticelli and Italian Renaissance artists, whilst experimenting with his own colour palette. He used pure colours, described by [Henri Matisse](https://impressionistarts.com/henri-matisse-biography.html)as
+      In his nudes, Ingres took inspiration from Botticelli and Italian Renaissance artists, whilst experimenting with his own colour palette. He used pure colours, described by [Henri Matisse](/henri-matisse-biography)as
 
 
       > “outlining them without distorting them.”
@@ -151,7 +151,7 @@ textSections:
       One critic from 1832 described Ingres as “perhaps more of a sculptor than a painter; he occupies himself exclusively with line and form” stating that he “belongs in many respects to the heroic age of the Greeks”. As a result, Ingres can be understood as far more experimental than he has become known for, bridging the space between neoclassicism and romanticism.
 
 
-      Regardless of contemporary criticism, Ingres’ Dionysian works would go on to shape the radically candid nudes of the Impressionists, including [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html), [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html) and [Gustave Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html). ’The Valpinçon Bather’ (1808) would eventually become Renoir’s ‘Nude Seated on a Sofa’ (1876) and Degas’ ‘Woman Combing Her Hair’ (1888-1890), both of which echo the soft light and candid pose of Ingres’ work.
+      Regardless of contemporary criticism, Ingres’ Dionysian works would go on to shape the radically candid nudes of the Impressionists, including [Renoir](/pierre-auguste-renoir-biography), [Mary Cassatt](/mary-cassatt-biography) and [Gustave Caillebotte](/gustave-caillebotte-biography). ’The Valpinçon Bather’ (1808) would eventually become Renoir’s ‘Nude Seated on a Sofa’ (1876) and Degas’ ‘Woman Combing Her Hair’ (1888-1890), both of which echo the soft light and candid pose of Ingres’ work.
     sideGalleryImages:
       - imageTitle: L'Odalisque et l'esclave (1839) by Ingres, Fogg Art Museum
         imageUrl: /assets/ingres-odalisque-esclave.jpg
@@ -168,7 +168,7 @@ textSections:
       study to their pupils.
 
 
-      Perhaps the best example of this influence is Charles Gleyre, who taught [Claude Monet](https://impressionistarts.com/claude-monet-biography.html), [Frederic Bazille](https://impressionistarts.com/frederic-bazille-biography.html), [Alfred Sisley](https://impressionistarts.com/alfred-sisley-biography.html), and [Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html).
+      Perhaps the best example of this influence is Charles Gleyre, who taught [Claude Monet](/claude-monet-biography), [Frederic Bazille](/frederic-bazille-biography), [Alfred Sisley](/alfred-sisley-biography), and [Auguste Renoir](/pierre-auguste-renoir-biography).
 
 
       #### Scorn?
@@ -186,7 +186,7 @@ textSections:
       Ingres was known as a stern painting master with strong ideas about how an artist should behave and the courage needed to succeed. It was perhaps this philosophy that led Renoir to gravitate towards Ingres during the 1880s as he struggled to find his own form of artistic expression.
 
 
-      From 1883 to 1884, Renoir attempted to break from Impressionist styles and undertook a new form of painting. Scholars have now termed this period as the ‘Ingres period’ thanks to the drier style he adopted in his artworks, emphasising form and line. Nonetheless, he continued to use the bright colour palette that had been championed by the [Impressionist movement](https://impressionistarts.com/index.html).
+      From 1883 to 1884, Renoir attempted to break from Impressionist styles and undertook a new form of painting. Scholars have now termed this period as the ‘Ingres period’ thanks to the drier style he adopted in his artworks, emphasising form and line. Nonetheless, he continued to use the bright colour palette that had been championed by the [Impressionist movement](/).
 
 
       #### Renoir’s The Umbrellas
@@ -223,7 +223,7 @@ textSections:
       arguably had the strongest relationship with Ingres.
 
 
-      During their first introduction, [Degas](https://impressionistarts.com/edgar-degas-biography.html) became more fascinated with the artist than ever before. This meeting was highly influential for the young artist and he held Ingres’ advice in his head throughout his career.
+      During their first introduction, [Degas](/edgar-degas-biography) became more fascinated with the artist than ever before. This meeting was highly influential for the young artist and he held Ingres’ advice in his head throughout his career.
 
 
       He is reported to have said, “Draw lines \[…] Lots of lines, whether from memory or from life”. These simple words evidently stayed with Degas and can be seen in practice in paintings such as [‘The Bellelli Family’](https://en.wikipedia.org/wiki/The_Bellelli_Family) from 1858-1857, which echoes the clean, academic style of the great Ingres himself.
@@ -266,7 +266,7 @@ textSections:
       Art historians have pointed to the influence of Ingres in [Matisse’s ‘Joy of Life’ painting](https://en.wikipedia.org/wiki/Le_bonheur_de_vivre) from 1905 with the clean lines of the nude female figures echoing Ingres’ Neoclassical nudes. One of the best parallels is [Ingres’ ‘Turkish Bath’ painting](https://en.wikipedia.org/wiki/The_Turkish_Bath), produced between 1852 and 1859 and modified again in 1862. Similarly, this work can be seen echoed in Picasso’s later works from the 1920s depicting abstracted female nudes.
 
 
-      The post-impressionists further adopted a number of Ingres’ ideals, particularly his attention to architectural design and his clear, clean compositions. [Cezanne](https://impressionistarts.com/paul-cezanne-biography.html) was among the later admirers of Ingres. Whilst he was heavily rejected by many young artists, Ingres was also a key source of inspiration for some.
+      The post-impressionists further adopted a number of Ingres’ ideals, particularly his attention to architectural design and his clear, clean compositions. [Cezanne](/paul-cezanne-biography) was among the later admirers of Ingres. Whilst he was heavily rejected by many young artists, Ingres was also a key source of inspiration for some.
     sideGalleryImages:
       - imageTitle: The tomb of Ingres in the cemetery of Père Lachaise in Paris. (©
           Fernando González del Cueto, CC BY-SA 3.0)
@@ -279,6 +279,6 @@ textSections:
 ---
 ### In many ways Jean-Auguste-Dominique Ingres embodied the classical, academic style of painting that the impressionists sought to break away from. He was a key member of the old guard, painting religious and mythological subjects, while focusing on form and beauty.
 
-However, his paintings are not quite as straightforward as conventional analysis would make them. Ingres manipulated Classical painting to create an alternative, abstracted style. He developed his [own fusion of neoclassicism and romanticism](https://impressionistarts.com/jean-auguste-dominique-ingres-biography.html#2), mixed with psychologically complex subjects in many cases. In doing so, he would go on to inspire prominent impressionist figures like [Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) and [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html), as well as later post-impressionist, Fauvist and cubist artists.
+However, his paintings are not quite as straightforward as conventional analysis would make them. Ingres manipulated Classical painting to create an alternative, abstracted style. He developed his [own fusion of neoclassicism and romanticism](/jean-auguste-dominique-ingres-biography#2), mixed with psychologically complex subjects in many cases. In doing so, he would go on to inspire prominent impressionist figures like [Auguste Renoir](/pierre-auguste-renoir-biography) and [Edgar Degas](/edgar-degas-biography), as well as later post-impressionist, Fauvist and cubist artists.
 
-One explanation for Ingres’ mistaken identity in art history is his infamous rivalry with Eugene Delacroix. Delacroix was the ultimate Romantic painter and Ingres was placed in direct contrast to him. Consequently, Ingres gained a reputation for rigid artworks rooted in the academic style. Regardless of Salon politics, both artists were influential in the development of [Impressionism](https://impressionistarts.com/index.html) in different ways and each man played his part in progressing the visual vocabulary of French art.
+One explanation for Ingres’ mistaken identity in art history is his infamous rivalry with Eugene Delacroix. Delacroix was the ultimate Romantic painter and Ingres was placed in direct contrast to him. Consequently, Ingres gained a reputation for rigid artworks rooted in the academic style. Regardless of Salon politics, both artists were influential in the development of [Impressionism](/) in different ways and each man played his part in progressing the visual vocabulary of French art.
