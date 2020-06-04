@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import '../preview-styles/preview-styles.css'
 
-const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
+const BlogPostPreview = ({ entry, widgetFor, widgetsFor, getAsset }) => {
   const data = entry.getIn(['data']).toJS()
   console.log(data)
 
@@ -39,15 +39,13 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
                         {' '}
                         <a className="ttde-gallery-url">
                           <img
-                            src={
-                              data.upperGalleryImages != undefined
-                                ? data.upperGalleryImages.topImage
-                                    .topImageUrl != undefined
-                                  ? data.upperGalleryImages.topImage.topImageUrl.toString()
-                                  : ''
+                            src={getAsset(
+                              data.upperGalleryImages &&
+                                data.upperGalleryImages.topImage &&
+                                data.upperGalleryImages.topImage.topImageUrl
+                                ? data.upperGalleryImages.topImage.topImageUrl
                                 : ''
-                            }
-                            className="loading"
+                            )}
                             alt=""
                           />
                         </a>{' '}
@@ -62,15 +60,14 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
                           {' '}
                           <a className="ttde-gallery-url">
                             <img
-                              className="loaded"
-                              src={
-                                data.upperGalleryImages != undefined
+                              src={getAsset(
+                                data.upperGalleryImages &&
+                                  data.upperGalleryImages.leftImage &&
+                                  data.upperGalleryImages.leftImage.leftImageUrl
                                   ? data.upperGalleryImages.leftImage
-                                      .leftImageUrl != undefined
-                                    ? data.upperGalleryImages.leftImage.leftImageUrl.toString()
-                                    : ''
+                                      .leftImageUrl
                                   : ''
-                              }
+                              )}
                               alt=""
                             />
                           </a>
@@ -84,15 +81,15 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
                           {' '}
                           <a className="ttde-gallery-url">
                             <img
-                              className="loaded"
-                              src={
-                                data.upperGalleryImages != undefined
+                              src={getAsset(
+                                data.upperGalleryImages &&
+                                  data.upperGalleryImages.middleImage &&
+                                  data.upperGalleryImages.middleImage
+                                    .middleImageUrl
                                   ? data.upperGalleryImages.middleImage
-                                      .middleImageUrl != undefined
-                                    ? data.upperGalleryImages.middleImage.middleImageUrl.toString()
-                                    : ''
+                                      .middleImageUrl
                                   : ''
-                              }
+                              )}
                               alt=""
                             />
                           </a>
@@ -109,15 +106,15 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
                               <span>More images 20+</span>
                             </span>
                             <img
-                              className="loaded"
-                              src={
-                                data.upperGalleryImages != undefined
+                              src={getAsset(
+                                data.upperGalleryImages &&
+                                  data.upperGalleryImages.rightImage &&
+                                  data.upperGalleryImages.rightImage
+                                    .rightImageUrl
                                   ? data.upperGalleryImages.rightImage
-                                      .rightImageUrl != undefined
-                                    ? data.upperGalleryImages.rightImage.rightImageUrl.toString()
-                                    : ''
+                                      .rightImageUrl
                                   : ''
-                              }
+                              )}
                               alt=""
                             />
                           </a>
