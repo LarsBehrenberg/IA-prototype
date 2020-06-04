@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import '../preview-styles/preview-styles.css'
 
-const BlogPostPreview = ({ entry, widgetFor, widgetsFor, getAsset }) => {
+const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
   const data = entry.getIn(['data']).toJS()
   console.log(data)
 
@@ -39,13 +39,13 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor, getAsset }) => {
                         {' '}
                         <a className="ttde-gallery-url">
                           <img
-                            src={getAsset(
+                            src={
                               data.upperGalleryImages &&
-                                data.upperGalleryImages.topImage &&
-                                data.upperGalleryImages.topImage.topImageUrl
+                              data.upperGalleryImages.topImage &&
+                              data.upperGalleryImages.topImage.topImageUrl
                                 ? data.upperGalleryImages.topImage.topImageUrl
                                 : ''
-                            )}
+                            }
                             alt=""
                           />
                         </a>{' '}
@@ -60,14 +60,14 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor, getAsset }) => {
                           {' '}
                           <a className="ttde-gallery-url">
                             <img
-                              src={getAsset(
+                              src={
                                 data.upperGalleryImages &&
-                                  data.upperGalleryImages.leftImage &&
-                                  data.upperGalleryImages.leftImage.leftImageUrl
+                                data.upperGalleryImages.leftImage &&
+                                data.upperGalleryImages.leftImage.leftImageUrl
                                   ? data.upperGalleryImages.leftImage
                                       .leftImageUrl
                                   : ''
-                              )}
+                              }
                               alt=""
                             />
                           </a>
@@ -81,15 +81,15 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor, getAsset }) => {
                           {' '}
                           <a className="ttde-gallery-url">
                             <img
-                              src={getAsset(
+                              src={
                                 data.upperGalleryImages &&
-                                  data.upperGalleryImages.middleImage &&
-                                  data.upperGalleryImages.middleImage
-                                    .middleImageUrl
+                                data.upperGalleryImages.middleImage &&
+                                data.upperGalleryImages.middleImage
+                                  .middleImageUrl
                                   ? data.upperGalleryImages.middleImage
                                       .middleImageUrl
                                   : ''
-                              )}
+                              }
                               alt=""
                             />
                           </a>
@@ -106,15 +106,14 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor, getAsset }) => {
                               <span>More images 20+</span>
                             </span>
                             <img
-                              src={getAsset(
+                              src={
                                 data.upperGalleryImages &&
-                                  data.upperGalleryImages.rightImage &&
-                                  data.upperGalleryImages.rightImage
-                                    .rightImageUrl
+                                data.upperGalleryImages.rightImage &&
+                                data.upperGalleryImages.rightImage.rightImageUrl
                                   ? data.upperGalleryImages.rightImage
                                       .rightImageUrl
                                   : ''
-                              )}
+                              }
                               alt=""
                             />
                           </a>
