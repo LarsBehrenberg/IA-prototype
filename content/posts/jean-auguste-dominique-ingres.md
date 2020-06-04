@@ -152,6 +152,130 @@ textSections:
 
 
       Regardless of contemporary criticism, Ingres’ Dionysian works would go on to shape the radically candid nudes of the Impressionists, including [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html), [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html) and [Gustave Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html). ’The Valpinçon Bather’ (1808) would eventually become Renoir’s ‘Nude Seated on a Sofa’ (1876) and Degas’ ‘Woman Combing Her Hair’ (1888-1890), both of which echo the soft light and candid pose of Ingres’ work.
+    sideGalleryImages:
+      - imageTitle: L'Odalisque et l'esclave (1839) by Ingres, Fogg Art Museum
+        imageUrl: /assets/ingres-odalisque-esclave.jpg
+      - imageTitle: The Source (1856) by Ingres, Musée d'Orsay, Paris
+        imageUrl: /assets/ingres-the-source.jpg
+      - imageTitle: The Grande Baigneuse, also called The Valpinçon Bather (1808) by
+          Ingres, Louvre
+        imageUrl: /assets/ingres-the-grande-baigneuse.jpg
+  - textTitle: Ingres and the Impressionists
+    text: >-
+      ### The influence of Ingres on the Impressionists was often passed through
+      their early painting masters. Many French academic and Neoclassical
+      artists revered Ingres’ style and sought to emulate him, teaching this
+      study to their pupils.
+
+
+      Perhaps the best example of this influence is Charles Gleyre, who taught [Claude Monet](https://impressionistarts.com/claude-monet-biography.html), [Frederic Bazille](https://impressionistarts.com/frederic-bazille-biography.html), [Alfred Sisley](https://impressionistarts.com/alfred-sisley-biography.html), and [Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html).
+
+
+      #### Scorn?
+
+
+      However, the Impressionist movement was also a reaction against this formal training, instead seeking to represent everyday life in all its complexity, rather than emulate the stiff portraits of Ingres and his peers. As a result, Ingres was scorned by many young Impressionists.
+
+
+      The exception was Degas who was first introduced to the painter by [Louis Lamonthe](https://en.wikipedia.org/wiki/Louis_Lamothe) in 1854, whilst he was studying under Lamonthe. Degas’ father, an amateur artist himself, introduced the young painter to the Valpinçon family and it was likely through this prominent lineage of art collectors that Degas met Ingres. Other scholars have inferred that Lamonthe himself made the initial introduction.
+
+
+      #### Ingres and Renoir
+
+
+      Ingres was known as a stern painting master with strong ideas about how an artist should behave and the courage needed to succeed. It was perhaps this philosophy that led Renoir to gravitate towards Ingres during the 1880s as he struggled to find his own form of artistic expression.
+
+
+      From 1883 to 1884, Renoir attempted to break from Impressionist styles and undertook a new form of painting. Scholars have now termed this period as the ‘Ingres period’ thanks to the drier style he adopted in his artworks, emphasising form and line. Nonetheless, he continued to use the bright colour palette that had been championed by the [Impressionist movement](https://impressionistarts.com/index.html).
+
+
+      #### Renoir’s The Umbrellas
+
+
+      Renoir’s artistic shift and the influence of Ingres can be summarised in a single painting, [‘The Umbrellas’](https://en.wikipedia.org/wiki/The_Umbrellas_(Renoir)). First started in 1881 and eventually finished in 1885, this work shows the direct development of the artist’s stylistic tastes. It is a fascinating testament to his transformation, moving from the softer brushstrokes of the Impressionists to the harsher, linear styles of Ingres as the eye travels from right to left across the canvas.
+
+
+      The girl in the foreground has feathered ginger hair and blushing blues in her coat whilst the woman on the left, with her face angled directly towards the viewer, is far more definitive. Her face and black dress are solid and clean, lacking any of the dappling of his earlier style.
+
+
+      #### Ingres and Braquemond
+
+
+      Ingres similarly served as the painting master to the young Impressionist Marie Bracquemond from 1859. From Ingres, Bracquemond learnt how to paint in the academic style, as seen in many of her artworks which fuse Impressionist and academic influences.
+
+
+      Her time with Ingres was clouded by his biased approach to female painters who he believed lacked the perseverance and strength of character needed to be successful. He restricted them to painting still lifes and portraits, offering only his male pupils the chance to attempt more ambitious subjects.
+    sideGalleryImages:
+      - imageTitle: The Umbrellas is an oil-on-canvas painting by Pierre-Auguste Renoir,
+          painted in two phases in the 1880s. The painting is drawing
+          inspiration from classical art he had seen in Italy and the works of
+          Ingres and Cézanne
+        imageUrl: /assets/ingres-renoir-the-umbrellas.jpg
+      - imageTitle: Napoleon I on his Imperial Throne, 1806 by Ingres, Musée de l'Armée,
+          Paris
+        imageUrl: /assets/ingres-napoleon-on-his-throne.jpg
+      - imageTitle: The Betrothal of Raphael and the Niece of Cardinal Bibbiena, 1813 by
+          Ingres
+        imageUrl: /assets/ingres-betrothal-of-raphael.jpg
+  - textTitle: Ingres and Degas
+    text: >-
+      ### Despite Ingres’ influence on Bracquemond and Renoir, it was Degas who
+      arguably had the strongest relationship with Ingres.
+
+
+      During their first introduction, [Degas](https://impressionistarts.com/edgar-degas-biography.html) became more fascinated with the artist than ever before. This meeting was highly influential for the young artist and he held Ingres’ advice in his head throughout his career.
+
+
+      He is reported to have said, “Draw lines \[…] Lots of lines, whether from memory or from life”. These simple words evidently stayed with Degas and can be seen in practice in paintings such as [‘The Bellelli Family’](https://en.wikipedia.org/wiki/The_Bellelli_Family) from 1858-1857, which echoes the clean, academic style of the great Ingres himself.
+
+
+      However, as their relationship progressed, Degas’ work became less and less allied to Ingres. He favoured freedom and looseness over the stricter lines of his idol, though he continued to claim that Ingres inspired his work.
+
+
+      The 1885 print ‘The Apotheosis of Degas’ can be seen as a direct parody of Ingres’ [‘The Apotheosis of Homer’](https://en.wikipedia.org/wiki/The_Apotheosis_of_Homer_(Ingres)) from 1827. The photograph was taken by Walter Barnes in the summer of 1885 and Degas sent cheap prints of the image to all his friends as a joke. Even whilst he criticised Ingres, however, this reproduction also showed Degas’ dedication to the aesthetic legacy of the master.
+
+
+      During the late 1800s, Degas collected a large number of Ingres’ works and continued to add to it for many years. His undying devotion to Ingres is best illustrated by his visits to a retrospective exhibition of the artist’s works in Paris in 1911.
+
+
+      By this time, Degas’ condition had deteriorated so dramatically that he had completely lost his eyesight. In spite of this, he went to the museum every day. His blindness meant he could no longer see the paintings he once loved but he would touch the canvases instead, feeling the lines and otherworldly forms that had inspired him through his career.
+    sideGalleryImages:
+      - imageTitle: The Bellelli Family, also known as Family Portrait, is an oil
+          painting on canvas by Edgar Degas (1834–1917), painted in ca.
+          1858–1867 it echoes the clean, academic style of the great Ingres
+          himself.
+        imageUrl: /assets/ingres-degas-the-bellelli-family.jpg
+      - imageTitle: Apotheosis of Homer, 1827 by Ingres
+        imageUrl: /assets/ingres-apotheosis-of-homer.jpg
+      - imageTitle: The Vow of Louis XIII (1824) by Ingres, Cathedral of Notre-Dame,
+          Montauban
+        imageUrl: /assets/ingres-vow-of-louis-xiii.jpg
+  - textTitle: Ingres’ legacy
+    text: >-
+      ### The legacy of Ingres is an intriguing one. There can be no doubt that
+      globally he was not privileged with the same fame of his younger rival,
+      Delacroix.
+
+
+      Outside of France, very few members of the public know of his work and he has often been misunderstood as being a rigid artist who depicted conventional portraits and artworks rooted firmly in the classical tradition.
+
+
+      However, there is an underlying sensuality to much of Ingres’ work that cannot be ignored. Ingres was adept at manipulating the figures he depicted, abstracting them in order to emphasise the impossible harmoniousness of the human body.
+
+
+      Art historians have pointed to the influence of Ingres in [Matisse’s ‘Joy of Life’ painting](https://en.wikipedia.org/wiki/Le_bonheur_de_vivre) from 1905 with the clean lines of the nude female figures echoing Ingres’ Neoclassical nudes. One of the best parallels is [Ingres’ ‘Turkish Bath’ painting](https://en.wikipedia.org/wiki/The_Turkish_Bath), produced between 1852 and 1859 and modified again in 1862. Similarly, this work can be seen echoed in Picasso’s later works from the 1920s depicting abstracted female nudes.
+
+
+      The post-impressionists further adopted a number of Ingres’ ideals, particularly his attention to architectural design and his clear, clean compositions. [Cezanne](https://impressionistarts.com/paul-cezanne-biography.html) was among the later admirers of Ingres. Whilst he was heavily rejected by many young artists, Ingres was also a key source of inspiration for some.
+    sideGalleryImages:
+      - imageTitle: The tomb of Ingres in the cemetery of Père Lachaise in Paris. (©
+          Fernando González del Cueto, CC BY-SA 3.0)
+        imageUrl: /assets/ingres-tomb.jpg
+      - imageTitle: Portrait photograph of Jean-Auguste-Dominique Ingres (1780-1867)
+        imageUrl: /assets/ingres-photograph.jpg
+      - imageTitle: Plate in memory of Ingres at 11 Quai Voltaire in Paris, where Ingres
+          died in 1867 (© Celette, CC BY-SA 4.0)
+        imageUrl: /assets/ingres-memorial-plaque-in-paris.jpg
 ---
 ### In many ways Jean-Auguste-Dominique Ingres embodied the classical, academic style of painting that the impressionists sought to break away from. He was a key member of the old guard, painting religious and mythological subjects, while focusing on form and beauty.
 
