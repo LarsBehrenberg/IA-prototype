@@ -754,6 +754,18 @@ const styles = css`
     position: relative;
   }
 
+  .site-text img {
+    @media (min-width: 900px) {
+      width: 32%;
+    }
+    @media (max-width: 900px) {
+      width: 49%;
+    }
+    @media (max-width: 380px) {
+      width: 100%;
+    }
+  }
+
   .site-text table {
     width: 90%;
     margin: 1rem auto 2rem auto;

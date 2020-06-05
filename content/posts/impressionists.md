@@ -7,11 +7,6 @@ title: Impressionists
 tags: Impressionists
 cover: /assets/claude-monet-impression-sunrise.jpg
 links:
-  - post-YHib0YkbQ
-  - post-UHZfRNmAH
-  - post-EqJRP4k4i
-  - post-F_D-HT_NB
-  - post-usLfIVIvG
   - post-jFlOGR7-_
   - post-ow_609WBo
   - post-JcdFACMUe
@@ -52,12 +47,6 @@ In addition, most impressionist works were painted fairly quickly (whereas the p
 
 Here are three examples of impressionist paintings that display these characteristics.
 
-<div style="display: flex; flex-flow: row wrap">
-
-<img src="assets/van-gogh-starry-night.jpg" alt="image">
-
-<img src="assets/van-gogh-starry-night.jpg" alt="image">
-
-<img src="assets/van-gogh-starry-night.jpg" alt="image">
-
-</div>
+![alt text](/assets/alfred-sisley-flood-at-port-marly.jpg)
+![alt text](/assets/van-gogh-starry-night.jpg)
+![alt text](/assets/van-gogh-starry-night.jpg)

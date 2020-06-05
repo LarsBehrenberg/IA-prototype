@@ -177,22 +177,71 @@ const Header = ({
                     <a href="#top" className="list-group-item active">
                       <h4 className="list-group-item-heading">{title}</h4>
                     </a>
-                    {bodyTitles.map((value, index) => {
-                      return (
-                        <a
-                          href={`#${index + 1}`}
+                    {bodyTitles.length === 0 ? (
+                      <>
+                        <Link
+                          to="/paul-cezanne-biography"
                           className="list-group-item"
-                          key={`#${index + 1}`}
                         >
-                          <h5
-                            className="list-group-item-heading"
-                            dangerouslySetInnerHTML={{
-                              __html: bodyTitles[index],
-                            }}
-                          />
-                        </a>
-                      )
-                    })}
+                          <h5 className="list-group-item-heading">
+                            Paul Cezanne
+                          </h5>
+                        </Link>
+                        <Link
+                          to="edouard-manet-biography"
+                          className="list-group-item"
+                        >
+                          <h5 className="list-group-item-heading">
+                            {' '}
+                            Edouard Manet
+                          </h5>
+                        </Link>
+                        <Link
+                          to="claude-monet-biography"
+                          className="list-group-item"
+                        >
+                          <h5 className="list-group-item-heading">
+                            {' '}
+                            Claude Monet
+                          </h5>
+                        </Link>
+                        <Link
+                          to="pierre-auguste-renoir-biography"
+                          className="list-group-item"
+                        >
+                          <h5 className="list-group-item-heading">
+                            {' '}
+                            Pierre-Auguste Renoir
+                          </h5>
+                        </Link>
+                        <Link
+                          to="edgar-degas-biography"
+                          className="list-group-item"
+                        >
+                          <h5 className="list-group-item-heading">
+                            {' '}
+                            Edgar Degas
+                          </h5>
+                        </Link>
+                      </>
+                    ) : (
+                      bodyTitles.map((value, index) => {
+                        return (
+                          <a
+                            href={`#${index + 1}`}
+                            className="list-group-item"
+                            key={`#${index + 1}`}
+                          >
+                            <h5
+                              className="list-group-item-heading"
+                              dangerouslySetInnerHTML={{
+                                __html: bodyTitles[index],
+                              }}
+                            />
+                          </a>
+                        )
+                      })
+                    )}
                     {sideLinks.map(link => (
                       <Link
                         to={`/${link.frontmatter.path}`}
