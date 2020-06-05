@@ -33,13 +33,13 @@ textSections:
       Degas’ father, Augustin, was a wealthy banker and his mother a Creole emigre from New Orleans. Degas attended a good Lycee and graduated with a baccalaureate in 1853. He then studied law for a while, but it became increasingly clear that art was his true vocation.
 
 
-      Unlike [Monet](https://impressionistarts.com/claude-monet-biography.html), Degas’ father was a source of encouragement and advice. Degas enrolled at the Louvre as a copyist and spent large chunks of the 1850s in Italy, staying in Florence and Rome in particular, copying Renaissance masterpieces.
+      Unlike [Monet](/claude-monet-biography), Degas’ father was a source of encouragement and advice. Degas enrolled at the Louvre as a copyist and spent large chunks of the 1850s in Italy, staying in Florence and Rome in particular, copying Renaissance masterpieces.
 
 
       #### Degas’ early style
 
 
-      Degas’ early style might be said to be classical, and it is certainly true that he was inspired by [Ingres](https://impressionistarts.com/jean-auguste-dominique-ingres-biography.html) and old masters such as Titian. But two aspects of Degas’ work suggested from an early age that he was destined for greatness.
+      Degas’ early style might be said to be classical, and it is certainly true that he was inspired by [Ingres](/jean-auguste-dominique-ingres-biography) and old masters such as Titian. But two aspects of Degas’ work suggested from an early age that he was destined for greatness.
 
 
       First, Degas was a hard-worker. By 1860, he has produced 700 copies of older works.
@@ -65,7 +65,7 @@ textSections:
 
 
 
-      Degas was disappointed when Suffering received scant attention during the 1865 Salon, where all other works were overshadowed by [Manet’s Olympia](https://impressionistarts.com/top-10-impressionist-paintings.html#2) (a painting of a naked prostitute staring brazenly out from the canvas). Competed in 1865, the Suffering now hangs in Paris’ Musee d’Orsay.
+      Degas was disappointed when Suffering received scant attention during the 1865 Salon, where all other works were overshadowed by [Manet’s Olympia](/top-10-impressionist-paintings#2) (a painting of a naked prostitute staring brazenly out from the canvas). Competed in 1865, the Suffering now hangs in Paris’ Musee d’Orsay.
 
 
       **(2) Spartan Girls Challenging Boys**is another fascinating work. Sparta was a warrior society in ancient Greece, and this painting shows a group of nude adolescent girls taunting a similar group of boys. But, again, the picture seems to add a touch of modernity: were the girls really from a Spartan age or were they, as one critic put it,
@@ -99,7 +99,7 @@ textSections:
   - textTitle: Degas and the Impressionists
     text: >-
       ### Degas met [Edouard
-      Manet](https://impressionistarts.com/edouard-manet-biography.html) in 1862
+      Manet](/edouard-manet-biography) in 1862
       and became a central figure in the impressionist movement.
 
 
@@ -132,13 +132,13 @@ textSections:
       #### The Franco-Prussian war
 
 
-      Degas, like Manet, was a real patriot and volunteered for infantry service during the 1870/1 Franco-Prussian war. Manet did a similar thing, and [Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) and Bazille also joined up. By contrast, Monet left France with his wife and young son and spent war in London; and [Cezanne](https://impressionistarts.com/paul-cezanne-biography.html) his from the authorities in a small village outside of Aix-en-Provence.
+      Degas, like Manet, was a real patriot and volunteered for infantry service during the 1870/1 Franco-Prussian war. Manet did a similar thing, and [Renoir](/pierre-auguste-renoir-biography) and Bazille also joined up. By contrast, Monet left France with his wife and young son and spent war in London; and [Cezanne](/paul-cezanne-biography) his from the authorities in a small village outside of Aix-en-Provence.
 
 
       During marksmanship training, a serious eye condition which was to afflict Degas greatly in later life was identified.
 
 
-      [Bazille](https://impressionistarts.com/frederic-bazille-biography.html) was the only impressionist to die during the war. But a communist Commune was declared over Paris in the aftermath of the war, which led to a bloody civil war.
+      [Bazille](/frederic-bazille-biography) was the only impressionist to die during the war. But a communist Commune was declared over Paris in the aftermath of the war, which led to a bloody civil war.
 
 
       Degas sensibly travelled to New Orleans via London and New York in 1872, where his uncle Michel Musson ran a cotton business. He painted some remarkable works, returning after five months in February 1873. He later said that he liked America but that
@@ -155,7 +155,7 @@ textSections:
       By late 1873, plans were being hatched by most of the leading impressionists to hold their own independent exhibition. They were fed up of being rejected by the Salon or ignored by reviewers. By the end of the year, they had incorporated the Société Anonyme Coopérative des Artistes, Peintres, Sculpteurs, Graveurs (the Anonymous Society of Artists, Painters, Sculptors and Engravers).
 
 
-      The first exhibition was to open in [April 1874](https://impressionistarts.com/first-impressionist-exhibition.html), with Degas exhibiting ten works. They included the colourful*A Carriage at the Races*and*Rehearsal of a Ballet on Stage*. The reviews were generally hostile, though Degas escaped more lightly than many of the others (Cezanne was singled out for particular ridicule).
+      The first exhibition was to open in [April 1874](/first-impressionist-exhibition), with Degas exhibiting ten works. They included the colourful*A Carriage at the Races*and*Rehearsal of a Ballet on Stage*. The reviews were generally hostile, though Degas escaped more lightly than many of the others (Cezanne was singled out for particular ridicule).
 
 
       By way of example, the following 'notification' appeared in the Paris press shortly before the first exhibition drew to a close:
@@ -181,7 +181,7 @@ textSections:
       Degas quarrelled with the other impressionists for a number of reasons.
 
 
-      **First**, he was primarily a portraitist and did not see the virtues of the en plein air (outdoor) landscape paintings of Monet, Renoir, [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html), Cezanne and others.
+      **First**, he was primarily a portraitist and did not see the virtues of the en plein air (outdoor) landscape paintings of Monet, Renoir, [Pissarro](/camille-pissarro-biography), Cezanne and others.
 
 
       Degas once remarked:
@@ -214,7 +214,7 @@ textSections:
       Horseracing, a recent import from England, was something of a novelty in mid-19th century France. It was much encouraged by Emperor [Napoleon III](https://en.wikipedia.org/wiki/Napoleon_III), who owned horses, was responsible for the construction of the Longchamp racecourse, and who even helped draw up the rules. Before long, the sport became a major attraction with thousands of Parisians flocking to the races.
 
 
-      They included Degas and [Manet](https://impressionistarts.com/edouard-manet-biography.html)—on one occasion, Degas even drew Manet at Longchamp.
+      They included Degas and [Manet](/edouard-manet-biography)—on one occasion, Degas even drew Manet at Longchamp.
 
 
       Degas' had a life-long fascination with horse-racing, though his most important paintings of this genre were produced between the early 1860s and the late 1870s. His works are fascinating because they often focus on events other than the race.
@@ -260,7 +260,7 @@ textSections:
       There was another reason Degas painted ballerinas: they sold well. This was important because the De Gas bank, the source of his family's wealth, failed in the early 1870s, meaning that Degas—for the first time in his life—had to be self-sufficient.
 
 
-      We have selected Degas' Dancing Class as one of our [top 10 impressionist works](https://impressionistarts.com/top-10-impressionist-paintings.html#4).
+      We have selected Degas' Dancing Class as one of our [top 10 impressionist works](/top-10-impressionist-paintings#4).
     sideGalleryImages:
       - imageTitle: Degas' The Dance Class is one of numerous works depicting
           behind-the-scenes action at the Paris Ballet
@@ -287,7 +287,7 @@ textSections:
       Degas' first laundry painting was completed in 1869, but by the turn of century he had finished 14 works on this topic (four in 1884 alone). The pictured*Women Ironing*(1884) depicts the intensity of the work and the exhaustion it caused.
 
 
-      A more glamorous topic was the Milliner (a lady's hat shop). Degas was introduced to this subject by [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html), the American impressionist with whom he struck up an unlikely friendship. She took him to hat shops and on occasion posed as his model, allowing him to produce ravishing works of fleeting moments of surprise or disappointment when a new hat is tried on. Overall, he painted 20 canvasses on this theme.
+      A more glamorous topic was the Milliner (a lady's hat shop). Degas was introduced to this subject by [Mary Cassatt](/mary-cassatt-biography), the American impressionist with whom he struck up an unlikely friendship. She took him to hat shops and on occasion posed as his model, allowing him to produce ravishing works of fleeting moments of surprise or disappointment when a new hat is tried on. Overall, he painted 20 canvasses on this theme.
 
 
       #### Degas and sculpture
@@ -358,7 +358,7 @@ textSections:
       This led to a major schism in French society, between those who thought Dreyfus innocent and those who considered him guilty. Those falling into the latter category was often anti-Semitic, ignoring the overwhelming evidence in Dreyfus' favour and the lack of due process leading to his conviction.
 
 
-      This split was reflected in the impressionists. Monet, Pissarro and [Emile Zola](https://impressionistarts.com/emile-zola-biography.html) (a leading writer and supporter of the impressionist cause) were pro-Dreyfus. Renoir, Cezanne and Degas were anti.
+      This split was reflected in the impressionists. Monet, Pissarro and [Emile Zola](/emile-zola-biography) (a leading writer and supporter of the impressionist cause) were pro-Dreyfus. Renoir, Cezanne and Degas were anti.
 
 
       But Degas was the most outspoken in his anti-Semitic views. When a model in Degas’ studio suggested that Dreyfus may not be guilty, Degas screamed at her
@@ -410,8 +410,8 @@ Despite his privileged upbringing, Degas was a difficult person. He was opiniona
 
 To make matters worse, Degas had an eye condition identified during the Franco-Prussian war of 1870 that made him extremely sensitive to sunlight and resulted in his near-total blindness from 1901.
 
-But Degas was indeed a genius. He focused on classical technique in the [early years](https://impressionistarts.com/edgar-degas-biography.html#1) of his career, though his famous work from this era*Spartan Girls Challenging Boys*has a number of modern touches. Degas also exhibited in seven of the eight [impressionist exhibitions](https://impressionistarts.com/edgar-degas-biography.html#2), more than many of the key impressionists such as Manet, Monet, Cezanne and Renoir.
+But Degas was indeed a genius. He focused on classical technique in the [early years](/edgar-degas-biography#1) of his career, though his famous work from this era*Spartan Girls Challenging Boys*has a number of modern touches. Degas also exhibited in seven of the eight [impressionist exhibitions](/edgar-degas-biography#2), more than many of the key impressionists such as Manet, Monet, Cezanne and Renoir.
 
-Today he is best known for his works of [ballerinas and jockeys](https://impressionistarts.com/edgar-degas-biography.html#3). His works of the ballet are particularly striking: they are incredibly beautiful, they are unusual (often painted from unusual angles), and they also depict the reality of the lives lived by working class dancers—rehearsal, exhaustion, exploitation.
+Today he is best known for his works of [ballerinas and jockeys](/edgar-degas-biography#3). His works of the ballet are particularly striking: they are incredibly beautiful, they are unusual (often painted from unusual angles), and they also depict the reality of the lives lived by working class dancers—rehearsal, exhaustion, exploitation.
 
 Degas is also rightly famous for a number of works of the New Orleans cotton exchange run by his mother’s family, which he visited in the early 1870s.

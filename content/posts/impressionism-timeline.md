@@ -2,8 +2,8 @@
 id: post-ow_609WBo
 path: impressionism-timeline
 date: 2020-06-05T01:41:00.633Z
-subTitle: Timeline of
-title: Impressionism
+subTitle: Learn More
+title: Impressionism Timeline
 tags: More
 cover: /assets/claude-monet-giverny-japanese-bridge.jpg
 links:
@@ -30,28 +30,28 @@ textSections:
   - textTitle: "1830-60: The impressionists are born and come to Paris"
     text: >-
       **1830:** [Camille
-      Pissarro](https://impressionistarts.com/camille-pissarro-biography.html)
+      Pissarro](/camille-pissarro-biography)
       is born on the Island of St Thomas in the Danish West Indies on 10 July.
       His father was a merchant who had moved to the Caribbean to take over the
       family hardware store.
 
 
-      **1832:** [Edouard Manet](https://impressionistarts.com/edouard-manet-biography.html) is born in Paris on 23 January. His parents are wealthy: his father a senior civil servant and later a judge; his mother the goddaughter of the crown prince of Sweden.
+      **1832:** [Edouard Manet](/edouard-manet-biography) is born in Paris on 23 January. His parents are wealthy: his father a senior civil servant and later a judge; his mother the goddaughter of the crown prince of Sweden.
 
 
-      **1834:** [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html) is born in Paris on 19 July; his father is also wealthy, owning the De Gas bank.
+      **1834:** [Edgar Degas](/edgar-degas-biography) is born in Paris on 19 July; his father is also wealthy, owning the De Gas bank.
 
 
-      **1839:** [Paul Cezanne](https://impressionistarts.com/paul-cezanne-biography.html) is born in Aix-en-Provence on 19 January; his father also owns a bank.
+      **1839:** [Paul Cezanne](/paul-cezanne-biography) is born in Aix-en-Provence on 19 January; his father also owns a bank.
 
 
-      **1840:** [Claude Monet](https://impressionistarts.com/claude-monet-biography.html) is born in Paris on 14 November, the son of a Parisian shopkeeper.
+      **1840:** [Claude Monet](/claude-monet-biography) is born in Paris on 14 November, the son of a Parisian shopkeeper.
 
 
-      **1841:** [Pierre-Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) is born in Limoges, France, on 25 February. The son of a tailor, Renoir (like Monet) did not have the advantage of family money to help his career.
+      **1841:** [Pierre-Auguste Renoir](/pierre-auguste-renoir-biography) is born in Limoges, France, on 25 February. The son of a tailor, Renoir (like Monet) did not have the advantage of family money to help his career.
 
 
-      **1841:** [Frederic Bazille](https://impressionistarts.com/frederic-bazille-biography.html) is born in Montpellier, France, on 6 December.
+      **1841:** [Frederic Bazille](/frederic-bazille-biography) is born in Montpellier, France, on 6 December.
 
 
       **1841:** American John Goffe Rand patents his invention for a collapsible metal paint tube. Up until now, paint was difficult to make (usually by turning a powdered pigment into paste) and transport (often in jars or bladders made from animal skin). Rand's invention made painting outside a practical proposition. As Renoir later said:
@@ -80,7 +80,7 @@ textSections:
       **1850-6:** Manet studies at the studio of [Thomas Couture](https://en.wikipedia.org/wiki/Thomas_Couture), a landscapist; Couture encouraged Manet to develop his own style, though the two men sometimes quarrelled.
 
 
-      **1859:** Manet submits [The Absinthe Drinker](https://impressionistarts.com/edouard-manet-biography.html#1) to the Salon of the Academy des Beaux Arts; it is rejected, with only one of the 12 jurors ([Delacroix](https://impressionistarts.com/eugene-delacroix-biography.html)) voting in favour. Manet said:
+      **1859:** Manet submits [The Absinthe Drinker](/edouard-manet-biography#1) to the Salon of the Academy des Beaux Arts; it is rejected, with only one of the 12 jurors ([Delacroix](/eugene-delacroix-biography)) voting in favour. Manet said:
 
 
       > “So they’d prefer me to do a nude, would they? Fine, I’ll do them a nude.”
@@ -111,13 +111,13 @@ textSections:
       **1861:** Manet submits two works to the Salon. The first, a portrait of his parents, was accepted but attracted critical reviews. But the second, a painting entitled*The Spanish Singer*, won an honourable mention. Manet was not to receive any further recognition from the Salon for 20 years.
 
 
-      **1863:** Manet submits [Dejuner sur l'Herbe](https://impressionistarts.com/top-10-impressionist-paintings.html#1) (Lunch on the Grass) to the Salon. It is rejected, but an alternative exhibition for rejected works is organised on the orders of Napoleon III (the Salon des Refuses, literally the Exhibition of the Rejected). The work receives a hostile reaction from the public and critics alike. One critic says that it had been painted with a "floor mop"; another that it was Manet's idea of a practical joke.
+      **1863:** Manet submits [Dejuner sur l'Herbe](/top-10-impressionist-paintings#1) (Lunch on the Grass) to the Salon. It is rejected, but an alternative exhibition for rejected works is organised on the orders of Napoleon III (the Salon des Refuses, literally the Exhibition of the Rejected). The work receives a hostile reaction from the public and critics alike. One critic says that it had been painted with a "floor mop"; another that it was Manet's idea of a practical joke.
 
 
-      **1865:** Manet submits [Olympia](https://impressionistarts.com/top-10-impressionist-paintings.html#1) to the Salon. It is, surprisingly, accepted by the jury. We say 'surprisingly' because Olympia is a painting of a naked, reclining prostitute looking brazenly at the viewer. The reaction from the public and critics alike is so hostile that Manet flees to Spain to escape. For example, one reviewer referred to Manet's model, Victorine Meurant, as a "female gorilla".
+      **1865:** Manet submits [Olympia](/top-10-impressionist-paintings#1) to the Salon. It is, surprisingly, accepted by the jury. We say 'surprisingly' because Olympia is a painting of a naked, reclining prostitute looking brazenly at the viewer. The reaction from the public and critics alike is so hostile that Manet flees to Spain to escape. For example, one reviewer referred to Manet's model, Victorine Meurant, as a "female gorilla".
 
 
-      Monet has better luck: his [two seascapes](https://impressionistarts.com/claude-monet-biography.html#2) receive positive reviews and Manet is irked because he thinks Monet is trading off his name.
+      Monet has better luck: his [two seascapes](/claude-monet-biography#2) receive positive reviews and Manet is irked because he thinks Monet is trading off his name.
     sideGalleryImages:
       - imageTitle: Manet achieved an honourable mention with The Spanish Singer, only
           his second Salon submission. But he would not obtain further
@@ -133,7 +133,7 @@ textSections:
   - textTitle: "1865-71: Mixed results at the Salon and War"
     text: >-
       **1866:** Monet's work, [Woman in the Green
-      Dress](https://impressionistarts.com/claude-monet-biography.html#2), is
+      Dress](/claude-monet-biography#2), is
       accepted by the jury and receives positive reviews. Manet, still reeling
       from the previous year's criticisms, does not submit.
 
@@ -162,10 +162,10 @@ textSections:
       **19 July 1870:** [Napoleon III](https://en.wikipedia.org/wiki/Napoleon_III) declares war on Prussia.
 
 
-      **19 September 1870:** The Siege of Paris begins. Manet and [Berthe Morisot](https://impressionistarts.com/berthe-morisot-biography.html) stay in Paris to protect the city; Monet travels to London with Camille and his son Jean; Renoir and Pissarro also leave Paris; so too does Cezanne, who avoids conscription by hiding in a small village near his home town of Aix-en-Provence.
+      **19 September 1870:** The Siege of Paris begins. Manet and [Berthe Morisot](/berthe-morisot-biography) stay in Paris to protect the city; Monet travels to London with Camille and his son Jean; Renoir and Pissarro also leave Paris; so too does Cezanne, who avoids conscription by hiding in a small village near his home town of Aix-en-Provence.
 
 
-      **28 November 1870:** Bazille is [killed in fighting](https://impressionistarts.com/frederic-bazille-biography.html#3) in the Battle of Beaune-la-Rolande, a failed attempt to break or at least relieve the Siege of Paris.
+      **28 November 1870:** Bazille is [killed in fighting](/frederic-bazille-biography#3) in the Battle of Beaune-la-Rolande, a failed attempt to break or at least relieve the Siege of Paris.
 
 
       **28 January 1871:** The Siege of Paris comes to an end, after over four months. Paris has been devastated by shelling and many have died of hunger or disease. Emperor Napoleon III abdicates with the loss of the war, goes into exile in England, and the Third Republic begins.
@@ -184,14 +184,14 @@ textSections:
     text: >-
       **1873:** Manet has a rare Salon success with his painting of a Parisian
       man smoking his pipe and drinking beer. The picture, called [Le Bon
-      Bock](https://impressionistarts.com/edouard-manet-biography.html#4) (the
+      Bock](/edouard-manet-biography#4) (the
       Good Beer), caught the public mood in the aftermath of the Prussian war
       and the fall of the Second Empire which followed it. This success may have
       convinced Manet not to participate in the first impressionist exhibition
       held the next year.
 
 
-      **1874:** The [first impressionist exhibition](https://impressionistarts.com/first-impressionist-exhibition.html) is held. The main organisers were Monet, Pissarro and Degas, with additional exhibitors including Renoir, Cezanne and Berthe Morisot. Manet refused to take part, preferring to focus on conquering the Salon.
+      **1874:** The [first impressionist exhibition](/first-impressionist-exhibition) is held. The main organisers were Monet, Pissarro and Degas, with additional exhibitors including Renoir, Cezanne and Berthe Morisot. Manet refused to take part, preferring to focus on conquering the Salon.
 
 
       <div class="interesting">
@@ -200,13 +200,13 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      The exhibition was a major failure. For one thing, the reviews were hostile. For example, Monet's [Impression Sunrise](https://impressionistarts.com/top-10-impressionist-paintings.html#3) was compared with wallpaper in a formative state. For another, the company created to put on the exhibition was disbanded at the end of the year, having incurred a substantial loss (each exhibitor owed 278 francs!).
+      The exhibition was a major failure. For one thing, the reviews were hostile. For example, Monet's [Impression Sunrise](/top-10-impressionist-paintings#3) was compared with wallpaper in a formative state. For another, the company created to put on the exhibition was disbanded at the end of the year, having incurred a substantial loss (each exhibitor owed 278 francs!).
 
 
       </div>
 
 
-      **1876:** The second impressionist exhibition is held.[ Gustave Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html) (1848-1894, who was independently wealthy and had joined the group) provided the finance and attended to most of the organisation. The main impressionists all exhibited with the exception of Manet. And, again, the exhibition was a failure.
+      **1876:** The second impressionist exhibition is held.[ Gustave Caillebotte](/gustave-caillebotte-biography) (1848-1894, who was independently wealthy and had joined the group) provided the finance and attended to most of the organisation. The main impressionists all exhibited with the exception of Manet. And, again, the exhibition was a failure.
 
 
       <div class="interesting">
@@ -215,13 +215,13 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      The [second impressionist exhibition](https://impressionistarts.com/claude-monet-biography.html#3) is well-known for a review by Albert Woolf, calling the impressionist "lunatics" and "daubers" and comparing them to inmates in a Parisian asylum. There were, however, one or two small signs of encouragement: Henry James wrote a positive article for the New York Tribune and Monet sold his Japanese Girls for 2,000 francs.
+      The [second impressionist exhibition](/claude-monet-biography#3) is well-known for a review by Albert Woolf, calling the impressionist "lunatics" and "daubers" and comparing them to inmates in a Parisian asylum. There were, however, one or two small signs of encouragement: Henry James wrote a positive article for the New York Tribune and Monet sold his Japanese Girls for 2,000 francs.
 
 
       </div>
 
 
-      **1877:** The third impressionist exhibition is held, at impressive premises on rue Le Peletier. It was organised and financed by Caillebotte. Exhibitors included Monet (with 30 works, including 17 of [Gare Saint Lazare](https://impressionistarts.com/top-10-impressionist-paintings.html#5)), Renoir (with 17 works), Cezanne (16 works), Degas, Sisley, Berthe Morisot and Caillebotte himself.
+      **1877:** The third impressionist exhibition is held, at impressive premises on rue Le Peletier. It was organised and financed by Caillebotte. Exhibitors included Monet (with 30 works, including 17 of [Gare Saint Lazare](/top-10-impressionist-paintings#5)), Renoir (with 17 works), Cezanne (16 works), Degas, Sisley, Berthe Morisot and Caillebotte himself.
 
 
       But the reviews were again mainly hostile. For example, the Arts Chronicle said that
@@ -233,10 +233,10 @@ textSections:
       Another said that the impressionist effect was similar to "worm-eaten Roquefort cheese".
 
 
-      **1879:** The fourth impressionist exhibition is held. Cezanne, Renoir and Morisot decline to participate. On the other hand, 15,000 people attend (almost four times the number that saw the first exhibition); Monet's Rue Montorgueil is the star of the show. American impressionist [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html) paticipates for the first time.
+      **1879:** The fourth impressionist exhibition is held. Cezanne, Renoir and Morisot decline to participate. On the other hand, 15,000 people attend (almost four times the number that saw the first exhibition); Monet's Rue Montorgueil is the star of the show. American impressionist [Mary Cassatt](/mary-cassatt-biography) paticipates for the first time.
 
 
-      **5 September 1879:** [Camille Monet](https://impressionistarts.com/claude-monet-biography.html#4), Monet's first wife, dies aged just 32, leaving Monet with two children to care for. Camille's death came during a terrible period for Monet: one of his main patrons, Ernest Horschede, was declared bankrupt a few years earlier and the Monet and Horschede families had moved in together to economise. Monet was left sending scores of letters to friends and collectors begging for money.
+      **5 September 1879:** [Camille Monet](/claude-monet-biography#4), Monet's first wife, dies aged just 32, leaving Monet with two children to care for. Camille's death came during a terrible period for Monet: one of his main patrons, Ernest Horschede, was declared bankrupt a few years earlier and the Monet and Horschede families had moved in together to economise. Monet was left sending scores of letters to friends and collectors begging for money.
     sideGalleryImages:
       - imageTitle: Manet's Salon success with Le Bon Bock (The Good Beer) in 1873 may
           have been the reason he did not contribute to the first impressionist
@@ -262,16 +262,16 @@ textSections:
       **1881:** The sixth impressionist exhibition is held.
 
 
-      **1881:** Manet finally wins a medal at the Salon, awarded for a portrait of a political figure called[Henri Rochefort](https://impressionistarts.com/edouard-manet-biography.html). Whilst the medal is only second class, it provides some vindication for Manet's strategy of refusing to participate in the independent exhibitions. It also meant that Manet could participate in future Salons without having to have his works approved by the Jury. Later that year, Manet is awarded the legion d'honneur by the French state (thanks to his childhood friend Antonin Proust, who had become Minister for Fine Arts).
+      **1881:** Manet finally wins a medal at the Salon, awarded for a portrait of a political figure called[Henri Rochefort](/edouard-manet-biography). Whilst the medal is only second class, it provides some vindication for Manet's strategy of refusing to participate in the independent exhibitions. It also meant that Manet could participate in future Salons without having to have his works approved by the Jury. Later that year, Manet is awarded the legion d'honneur by the French state (thanks to his childhood friend Antonin Proust, who had become Minister for Fine Arts).
 
 
       **1882:** The seventh impressionist exhibition is held.
 
 
-      **1882:** Manet's last major work, [The Bar at the Folies Bergere](https://impressionistarts.com/top-10-impressionist-paintings.html#7), is exhibited at the Salon. The reviews are mainly negative.
+      **1882:** Manet's last major work, [The Bar at the Folies Bergere](/top-10-impressionist-paintings#7), is exhibited at the Salon. The reviews are mainly negative.
 
 
-      **1883:** Manet dies of syphilis; Monet moves to Giverny; Monet's solo show at Durand-Ruel's Paris gallery produces favourable reviews. [Durand-Ruel](https://impressionistarts.com/paul-durand-ruel-biography.html) holds a number of other solo shows: Renoir (April); Pissarro (May); and Sisley (June).
+      **1883:** Manet dies of syphilis; Monet moves to Giverny; Monet's solo show at Durand-Ruel's Paris gallery produces favourable reviews. [Durand-Ruel](/paul-durand-ruel-biography) holds a number of other solo shows: Renoir (April); Pissarro (May); and Sisley (June).
 
 
       **1883:** The first major exhibition of impressionist work is held in America. Over the next decades, America was the key market for the sale of impressionist works.
@@ -283,7 +283,7 @@ textSections:
       **1886:** The eighth and final impressionist exhibition is held. But Monet, Renoir and Sisley refuse to participate.
 
 
-      **1886-8:** Vincent van Gogh, the leading post-impressionist and perhaps the most famous painter of all time, spends time with Pissarro, [Gauguin](https://impressionistarts.com/paul-gauguin-biography.html) and [Seurat](https://impressionistarts.com/georges-seurat-biography.html) in Paris. This results in him lightning his palette from the earthy tones that are used in early van Goghs such as the [Potato Eaters](https://impressionistarts.com/van-gogh-biography.html#2).
+      **1886-8:** Vincent van Gogh, the leading post-impressionist and perhaps the most famous painter of all time, spends time with Pissarro, [Gauguin](/paul-gauguin-biography) and [Seurat](/georges-seurat-biography) in Paris. This results in him lightning his palette from the earthy tones that are used in early van Goghs such as the [Potato Eaters](/van-gogh-biography#2).
     sideGalleryImages:
       - imageTitle: Manet finally achieved the Salon recognition he craved in 1881,
           winning a second class medal for this portrait of Henri Rochefort
@@ -296,33 +296,33 @@ textSections:
       **1888-90:** Van Gogh moves to Arles in the south of France and Gaugin
       later moves in with him. The next two years were tumultuous: van Gogh
       produced many of his most famous works; but he [sliced off his left
-      ear](https://impressionistarts.com/van-gogh-biography.html#4) in December
+      ear](/van-gogh-biography#4) in December
       1888 and gave the bloody flesh to a brothel worker; van Gogh continued to
       struggle with his mental health until he committed suicide in July 1890.
 
 
-      **1890:** Monet organises a collection to buy Manet's [Olympia](https://impressionistarts.com/top-10-impressionist-paintings.html) from Manet's widow for the French state. He raises almost 20,000 francs. But the authorities initially refuse to hang it in the Louvre, exhibiting it instead in the museum devoted to living artists: the Musee du Luxembourg.
+      **1890:** Monet organises a collection to buy Manet's [Olympia](/top-10-impressionist-paintings) from Manet's widow for the French state. He raises almost 20,000 francs. But the authorities initially refuse to hang it in the Louvre, exhibiting it instead in the museum devoted to living artists: the Musee du Luxembourg.
 
 
-      **1889-92:** Monet paints his [Haystacks](https://impressionistarts.com/claude-monet-biography.html#6) series.
+      **1889-92:** Monet paints his [Haystacks](/claude-monet-biography#6) series.
 
 
-      **May 1891:** [Paul Durand-Ruel](https://impressionistarts.com/paul-durand-ruel-biography.html) exhibits 15 versions of Monet's Haystacks. They sell within three days for prices of as much as 1000 francs. Monet uses the money to buy and extend the Giverny property that he is renting.
+      **May 1891:** [Paul Durand-Ruel](/paul-durand-ruel-biography) exhibits 15 versions of Monet's Haystacks. They sell within three days for prices of as much as 1000 francs. Monet uses the money to buy and extend the Giverny property that he is renting.
 
 
-      **1890-95:** Cezanne produces the five versions of his [Card Players](https://impressionistarts.com/top-10-impressionist-paintings.html#8). One of the set holds the [world record price](https://impressionistarts.com/most-expensive-impressionist-paintings.html) for an impressionist work: it was sold in 2011 for $259 million.
+      **1890-95:** Cezanne produces the five versions of his [Card Players](/top-10-impressionist-paintings#8). One of the set holds the [world record price](/most-expensive-impressionist-paintings) for an impressionist work: it was sold in 2011 for $259 million.
 
 
-      **1892-3:** Monet paints his [Rouen Cathedral](https://impressionistarts.com/claude-monet-biography.html#6) series. Despite calls for it to be purchased by the French state, the works are snapped up by foreign buyers at an 1895 exhibition and dispersed around the world (particularly to America).
+      **1892-3:** Monet paints his [Rouen Cathedral](/claude-monet-biography#6) series. Despite calls for it to be purchased by the French state, the works are snapped up by foreign buyers at an 1895 exhibition and dispersed around the world (particularly to America).
 
 
-      **1890s:** Monet starts work on his [Water Lilies](https://impressionistarts.com/top-10-impressionist-paintings.html) series, which would be the artistic focus of the rest of his life. In total, Monet painted over 250 versions of the Water Lilies. By this stage, demand for Monet's work and prices have skyrocketed. This trend has continued: two versions of the Water Lilies have been sold in the past decade for over $80 million.
+      **1890s:** Monet starts work on his [Water Lilies](/top-10-impressionist-paintings) series, which would be the artistic focus of the rest of his life. In total, Monet painted over 250 versions of the Water Lilies. By this stage, demand for Monet's work and prices have skyrocketed. This trend has continued: two versions of the Water Lilies have been sold in the past decade for over $80 million.
 
 
       **1895:** The art dealer Ambroise Vollard holds an exhibition of 152 of Cezanne's works. He sells a number of them, the first popular success enjoyed by Cezanne.
 
 
-      **1895:** Berthe Morisot, the [leading female impressionist](https://impressionistarts.com/berthe-morisot-biography.html), dies aged 54.
+      **1895:** Berthe Morisot, the [leading female impressionist](/berthe-morisot-biography), dies aged 54.
 
 
       **1897:** The Nationalgalerie in Berlin buys one of Cezanne's works.
@@ -373,7 +373,7 @@ textSections:
       **1990:** Renoir's Bal du Moulin de la Galette is sold at auction for $78 million, at that stage the second highest price ever paid for a work of art.
 
 
-      **2002:** One of Cezanne's The Card Players is sold for $259 million, at that stage the [highest price ever paid](https://impressionistarts.com/most-expensive-impressionist-paintings.html) for a painting (it is now third on a list headed by da Vinci's Salvator Mundi).
+      **2002:** One of Cezanne's The Card Players is sold for $259 million, at that stage the [highest price ever paid](/most-expensive-impressionist-paintings) for a painting (it is now third on a list headed by da Vinci's Salvator Mundi).
 
 
       **June 2008:** One of Monet's Waterlilies is sold by Christie's London for £40.9 million, giving it an ajusted price of $113 million.
@@ -392,10 +392,10 @@ textSections:
 ---
 ## Today impressionism is one of the most popular artistic genres. But in the 19th century the impressionists shocked the art world. It took over two decades for them to be recognised and appreciated. This page explains how that happened.
 
-The impressionists were born in the 1830s and early 1840s and had moved to [Paris by 1860](https://impressionistarts.com/impressionism-timeline.html#1). They spent the 1860s battling for recognition in the Salon of the Academy des Beaux Arts (the Exhibition of the Fine Arts Academy), with very[ limited success](https://impressionistarts.com/impressionism-timeline.html).
+The impressionists were born in the 1830s and early 1840s and had moved to [Paris by 1860](/impressionism-timeline#1). They spent the 1860s battling for recognition in the Salon of the Academy des Beaux Arts (the Exhibition of the Fine Arts Academy), with very[ limited success](/impressionism-timeline).
 
-The [Prussian war](https://impressionistarts.com/impressionism-timeline.html#3) of 1870/71 saw them disperse to places including southern France and London. But they returned to Paris, formed their own company, and held an [independent exhibition](https://impressionistarts.com/impressionism-timeline.html#4) in 1874. The reviews were incredibly hostile. Seven more exhibitions were to follow, with recognition finally coming, albeit slowly, in the 1880s.
+The [Prussian war](/impressionism-timeline#3) of 1870/71 saw them disperse to places including southern France and London. But they returned to Paris, formed their own company, and held an [independent exhibition](/impressionism-timeline#4) in 1874. The reviews were incredibly hostile. Seven more exhibitions were to follow, with recognition finally coming, albeit slowly, in the 1880s.
 
-Those of them who lived into the late 1880s held solo shows and lived to enjoy the financial and reputational [success they deserved](https://impressionistarts.com/impressionism-timeline.html#5). Others were not so lucky: Bazille died in the Prussian war and Manet, who had given the group the courage to take on the establishment in the 1860s, died of syphilis in 1883.
+Those of them who lived into the late 1880s held solo shows and lived to enjoy the financial and reputational [success they deserved](/impressionism-timeline#5). Others were not so lucky: Bazille died in the Prussian war and Manet, who had given the group the courage to take on the establishment in the 1860s, died of syphilis in 1883.
 
-Monet—the most famous impressionist today—outlived the rest of the group, passing away in 1926 at the age of 86. He spent the last [30 years](https://impressionistarts.com/impressionism-timeline.html#6) of his life painting water lilies, haystacks, Rouen Cathedral and other subjects with remarkable industry.
+Monet—the most famous impressionist today—outlived the rest of the group, passing away in 1926 at the age of 86. He spent the last [30 years](/impressionism-timeline#6) of his life painting water lilies, haystacks, Rouen Cathedral and other subjects with remarkable industry.

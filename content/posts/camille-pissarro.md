@@ -44,10 +44,10 @@ textSections:
       Pissarro decided to move to Paris and arrived in 1855, in time for the Universal Exhibition.
 
 
-      It included a substantial art section, dominated by the twin-titans of French art of the time: the [romantic painter Delacroix](https://impressionistarts.com/eugene-delacroix-biography.html) and the [traditionalist Ingres](https://impressionistarts.com/jean-auguste-dominique-ingres-biography.html). Also represented was the realist school of art, in particular the works of its standard-bearer Corot.
+      It included a substantial art section, dominated by the twin-titans of French art of the time: the [romantic painter Delacroix](/eugene-delacroix-biography) and the [traditionalist Ingres](/jean-auguste-dominique-ingres-biography). Also represented was the realist school of art, in particular the works of its standard-bearer Corot.
 
 
-      Pissarro was initially attracted to the realist school, and received informal mentoring from Corot. Painting en plain air (outside), he produced mainly rural scenes and was accepted by the Salon for the first time in 1859. He was to have he work accepted in the Salons of 1864-6 and 1868-70, initially describing himself as a ["Pupil of Corot"](https://impressionistarts.com/jean-baptiste-camille-corot-biography.html#3).
+      Pissarro was initially attracted to the realist school, and received informal mentoring from Corot. Painting en plain air (outside), he produced mainly rural scenes and was accepted by the Salon for the first time in 1859. He was to have he work accepted in the Salons of 1864-6 and 1868-70, initially describing himself as a ["Pupil of Corot"](/jean-baptiste-camille-corot-biography#3).
 
 
       Typical of Pissarro's output over this period is the pictured The Marne at Chennevieres (1864).
@@ -56,7 +56,7 @@ textSections:
       Pissarro meets Monet and Cezanne
 
 
-      Pissarro met [Claude Monet](https://impressionistarts.com/claude-monet-biography.html) and [Paul Cezanne](https://impressionistarts.com/paul-cezanne-biography.html) while attending the Suisse Painting Academy in 1859.
+      Pissarro met [Claude Monet](/claude-monet-biography) and [Paul Cezanne](/paul-cezanne-biography) while attending the Suisse Painting Academy in 1859.
 
 
       The three men were all dissatisfied with the traditional French art establishment, which encouraged religious and mythological works over almost all else and frowned upon painting en plein air (outdoors) and the use of loose brush-strokes.
@@ -78,7 +78,7 @@ textSections:
       the 1870/71 Prussian War.
 
 
-      From over 1,500 works, only 40 remained. Pissarro himself fled to London for his own safety where he met up with [Monet](https://impressionistarts.com/claude-monet-biography.html).
+      From over 1,500 works, only 40 remained. Pissarro himself fled to London for his own safety where he met up with [Monet](/claude-monet-biography).
 
 
       Pissarro also used his time in exile to paint a number of works of suburban London, including*The Avenue at Sydenham*and*Lordship Lane Station, Dulwich*.
@@ -90,7 +90,7 @@ textSections:
       #### The Anonymous Society
 
 
-      After discussions within the group, they agreed to establish the Anonymous Society of Painters, Sculptors and Engravers. With the help of Monet, Pissarro set about organising the first Impressionist exhibition in Paris in 1874. It was held at [35 Boulevard des Capucines](https://impressionistarts.com/first-impressionist-exhibition.html), the studio of Nadar the photographer, or Gaspard-Félix Tournachon. In total, 30 artists displayed 165 pieces of work at the exhibition.
+      After discussions within the group, they agreed to establish the Anonymous Society of Painters, Sculptors and Engravers. With the help of Monet, Pissarro set about organising the first Impressionist exhibition in Paris in 1874. It was held at [35 Boulevard des Capucines](/first-impressionist-exhibition), the studio of Nadar the photographer, or Gaspard-Félix Tournachon. In total, 30 artists displayed 165 pieces of work at the exhibition.
 
 
       #### The First Exhibition
@@ -105,13 +105,13 @@ textSections:
       #### Later Exhibitions
 
 
-      Following the first 1874 exhibition, [seven more exhibitions](https://impressionistarts.com/impressionism-timeline.html#4) were held in the years between 1876 and 1886. The Salon continued to reject the impressionists’ artwork so the exhibitions became a regular event, despite mainly negative reviews from critics and a cool reception from most of the public. Ultimately, however, they were critical in introducing impressionist works to a larger audience.
+      Following the first 1874 exhibition, [seven more exhibitions](/impressionism-timeline#4) were held in the years between 1876 and 1886. The Salon continued to reject the impressionists’ artwork so the exhibitions became a regular event, despite mainly negative reviews from critics and a cool reception from most of the public. Ultimately, however, they were critical in introducing impressionist works to a larger audience.
 
 
-      Pissarro was the only artist to show his work in every single exhibition and he was instrumental in bringing new blood to the exhibition as other artists left the group. [Berthe Morisot](https://impressionistarts.com/berthe-morisot-biography.html), the leading female impressionist, was the next most loyal, showing her work in seven exhibitions.
+      Pissarro was the only artist to show his work in every single exhibition and he was instrumental in bringing new blood to the exhibition as other artists left the group. [Berthe Morisot](/berthe-morisot-biography), the leading female impressionist, was the next most loyal, showing her work in seven exhibitions.
 
 
-      He happily accepted [Degas’](https://impressionistarts.com/edgar-degas-biography.html) influence in the 1881 exhibition, whilst other artists resented what they perceived as his takeover. Through the many upheavals the group faced, Pissarro remained steadfastly loyal to the movement and refused to return to the Salon.
+      He happily accepted [Degas’](/edgar-degas-biography) influence in the 1881 exhibition, whilst other artists resented what they perceived as his takeover. Through the many upheavals the group faced, Pissarro remained steadfastly loyal to the movement and refused to return to the Salon.
     sideGalleryImages:
       - imageTitle: Monet's Impression Sunrise was lambasted at the first impressionist
           exhibition.
@@ -133,7 +133,7 @@ textSections:
       #### Father and Son
 
 
-      Pissarro ventured to experiment with the techniques thanks to his son, Lucien, who was enthusiastic about the work of[ Georges Seurat](https://impressionistarts.com/georges-seurat-biography.html). In 1886, both father and son submitted Neo-Impressionist paintings to the exhibition, though Pissarro’s landscape scene used softer brushstrokes.
+      Pissarro ventured to experiment with the techniques thanks to his son, Lucien, who was enthusiastic about the work of[ Georges Seurat](/georges-seurat-biography). In 1886, both father and son submitted Neo-Impressionist paintings to the exhibition, though Pissarro’s landscape scene used softer brushstrokes.
 
 
       Pissarro’s pointillism contrasted with his previous works in part due to the extensive planning required. He preferred to paint quickly and easily but pointillism involved rigorous scientific method and detailed studies before the final painting could be embarked upon. The mechanistic approach of building up a picture with small dots also made it hard for him to portray the movement he wanted.
@@ -199,7 +199,7 @@ textSections:
       #### Boulevard Montmartre
 
 
-      The Boulevard Montmarte series is one composition that he chose to paint over and over from the same position of his hotel room. It is one of our [top 10 impressionist paintings](https://impressionistarts.com/top-10-impressionist-paintings.html).
+      The Boulevard Montmarte series is one composition that he chose to paint over and over from the same position of his hotel room. It is one of our [top 10 impressionist paintings](/top-10-impressionist-paintings).
 
 
       He painted this series with different views and street scenes, experimenting with the weather transitions, the changing seasons and the time of day to show the variety of city life. However, unlike other Impressionist series, those by Monet in particular, Pissarro did not intend for his paintings to be hung together.
@@ -236,7 +236,7 @@ textSections:
       #### Impact on the other impressionists
 
 
-      Pissarro's impact on other Impressionist artists is clear from their accounts of him. [Van Gogh](https://impressionistarts.com/van-gogh-biography.html) called him “father to us all” and [Cezanne](https://impressionistarts.com/paul-cezanne-biography.html) stated that
+      Pissarro's impact on other Impressionist artists is clear from their accounts of him. [Van Gogh](/van-gogh-biography) called him “father to us all” and [Cezanne](/paul-cezanne-biography) stated that
 
 
       > “he was one of my masters.”
@@ -259,7 +259,7 @@ textSections:
 ---
 ## Camille Pissarro was born in 1830 on St Thomas, an island in the Danish West Indies.
 
-The son of a French shopkeeper, who had moved to St Thomas to take over the family business, Pissarro spent his [formative years](https://impressionistarts.com/camille-pissarro-biography.html#1) on St Thomas and, from the age of 12, at a boarding school outside Paris.
+The son of a French shopkeeper, who had moved to St Thomas to take over the family business, Pissarro spent his [formative years](/camille-pissarro-biography#1) on St Thomas and, from the age of 12, at a boarding school outside Paris.
 
 Pissarro was not the most talented of the impressionists, and he himself remarked that:
 
@@ -267,10 +267,10 @@ Pissarro was not the most talented of the impressionists, and he himself remarke
 
 
 
-But Pissarro was key to the [impressionist movement](https://impressionistarts.com/camille-pissarro-biography.html#2). He was patient, sensible and wise. These were critical characteristics: the impressionist movement was barraged by criticism and ridicule for the best part of two decades. So it needed someone steady to hold the rudder. This was particularly so given that Cezanne and Degas were difficult personalities.
+But Pissarro was key to the [impressionist movement](/camille-pissarro-biography#2). He was patient, sensible and wise. These were critical characteristics: the impressionist movement was barraged by criticism and ridicule for the best part of two decades. So it needed someone steady to hold the rudder. This was particularly so given that Cezanne and Degas were difficult personalities.
 
-Cezanne in fact commented that Pissarro was "a father to me" and the American impressionist Mary Cassatt remarked that Pissarro could have "taught the stones to draw". Pissarro's centrality can be seen in another way: he was the only impressionist to exhibit in all eight of the [independent exhibitions](https://impressionistarts.com/camille-pissarro-biography.html#2) held between 1874 and 1886.
+Cezanne in fact commented that Pissarro was "a father to me" and the American impressionist Mary Cassatt remarked that Pissarro could have "taught the stones to draw". Pissarro's centrality can be seen in another way: he was the only impressionist to exhibit in all eight of the [independent exhibitions](/camille-pissarro-biography#2) held between 1874 and 1886.
 
 Pissarro could also paint. He was first accepted to the Salon in 1859, at which stage his works were fairly traditional. But his palette lightened and his style became looser after he met Monet and Cezanne at Suisse's painting academy. Pissarro's finest work is his series of paintings of Boulevard Montmartre at different times of the day, completed in spring 1897.
 
-Pissarro dabbled with [pointillism](https://impressionistarts.com/camille-pissarro-biography.html#3) — a method of painting using small coloured dots championed by [Georges Seurat](https://impressionistarts.com/georges-seurat-biography.html) and [Paul Signac](https://impressionistarts.com/paul-signac-biography.html) — but gave it up after four years on the basis that it was too artificial. Pissarro died in 1903, aged 73.
+Pissarro dabbled with [pointillism](/camille-pissarro-biography#3) — a method of painting using small coloured dots championed by [Georges Seurat](/georges-seurat-biography) and [Paul Signac](/paul-signac-biography) — but gave it up after four years on the basis that it was too artificial. Pissarro died in 1903, aged 73.

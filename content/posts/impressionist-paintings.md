@@ -2,8 +2,8 @@
 id: post-jFlOGR7-_
 path: top-10-impressionist-paintings
 date: 2020-06-05T01:12:01.674Z
-subTitle: Top 10
-title: Impressionist Paintings
+subTitle: Our
+title: Top 10 Impressionist Paintings
 tags: More
 cover: /assets/10-paintings-manet-dejuner-sur-lherbe.jpg
 links:
@@ -36,7 +36,7 @@ textSections:
       kick-started the impressionist movement.
 
 
-      Submitted by [Edouard Manet](https://impressionistarts.com/edouard-manet-biography.html) to the Salon des Beaux Arts (the annual exhibition organised by the influential and conservative Academy des Beaux Arts), Lunch on the Grass was rejected by the jury.
+      Submitted by [Edouard Manet](/edouard-manet-biography) to the Salon des Beaux Arts (the annual exhibition organised by the influential and conservative Academy des Beaux Arts), Lunch on the Grass was rejected by the jury.
 
 
       The painting was instead displayed in a different exhibition held in 1863 called the Salon des Refuses (the “exhibition of the refused”), open to the 3,200 works that had been rejected by the Salon’s jury.
@@ -93,7 +93,7 @@ textSections:
       Le Dejuner Sur l’Herbe is found in the permanent collection of the [Musee D’Orsay](https://thingstodoeverywhere.com/things-to-do-in-paris-france.html) in Paris. London’s [Courtauld Gallery](https://thingstodoeverywhere.com/central-london-attractions.html) has a smaller earlier version of the work.
 
 
-      You might also enjoy our page on [Manet's life story](https://impressionistarts.com/edouard-manet-biography.html).
+      You might also enjoy our page on [Manet's life story](/edouard-manet-biography.html).
     sideGalleryImages:
       - imageTitle: Monet's Dejeuner sur l'Herbe sparked uproar when it was shown at the
           Salon des Refuses in 1861
@@ -152,7 +152,7 @@ textSections:
       #### Where can I see it for myself?
 
 
-      Olympia was bought from [Manet's widow](https://impressionistarts.com/edouard-manet-biography.html#3), Suzanne, shortly after his death. It was paid for by a public subscription organised by Monet, which raised almost 20,000 francs, so that it could be hung in the Louvre (though it languished in the less prestigious Musee du Luxembourg until 1907).
+      Olympia was bought from [Manet's widow](/edouard-manet-biography#3), Suzanne, shortly after his death. It was paid for by a public subscription organised by Monet, which raised almost 20,000 francs, so that it could be hung in the Louvre (though it languished in the less prestigious Musee du Luxembourg until 1907).
 
 
       These days Olympia is to be found in the [Musee D’Orsay](https://thingstodoeverywhere.com/things-to-do-in-paris-france.html).
@@ -175,7 +175,7 @@ textSections:
       By 1873, the group that would become known as the Impressionists had become thoroughly disillusioned with the Salon and had decided that they would host their own exhibition. Or most of them had: Manet refused to join the independent exhibition as he feared that it would further ostracise him from the French art establishment.
 
 
-      The group's [first exhibition](https://impressionistarts.com/first-impressionist-exhibition.html), held in 1874, included works by [Monet](https://impressionistarts.com/claude-monet-biography.html), [Cezanne](https://impressionistarts.com/paul-cezanne-biography.html), [Renior](https://impressionistarts.com/pierre-auguste-renoir-biography.html), [Degas](https://impressionistarts.com/edgar-degas-biography.html) and [Pissarro](https://impressionistarts.com/camille-pissarro-biography.html) and was hosted at the Rue de Capucines.
+      The group's [first exhibition](/first-impressionist-exhibition), held in 1874, included works by [Monet](/claude-monet-biography), [Cezanne](/paul-cezanne-biography), [Renior](/pierre-auguste-renoir-biography), [Degas](/edgar-degas-biography) and [Pissarro](/camille-pissarro-biography) and was hosted at the Rue de Capucines.
 
 
       The group formed a company in which they each held shares and charged an entrance fee of 1 franc. Attendance was good (some 3,500 came), but Manet’s bad experiences of the Salon were repeated: the public came to jeer and the reviews were hostile.
@@ -211,10 +211,10 @@ textSections:
       #### Where can I see it for myself?
 
 
-      Impression Sunrise is found in Paris' Marmottan Monet Museum, a small museum displaying more than 300 of Monet's works. It was [stolen](https://impressionistarts.com/top-10-impressionist-art-thefts.html) by five masked gunmen in 1985 and not recovered for five years (having been hidden in a small Corsican villa).
+      Impression Sunrise is found in Paris' Marmottan Monet Museum, a small museum displaying more than 300 of Monet's works. It was [stolen](/top-10-impressionist-art-thefts) by five masked gunmen in 1985 and not recovered for five years (having been hidden in a small Corsican villa).
 
 
-      You might also enjoy our page on [Monet's life story](https://impressionistarts.com/claude-monet-biography.html).
+      You might also enjoy our page on [Monet's life story](/claude-monet-biography).
     sideGalleryImages:
       - imageTitle: Monet's Impression Sunrise was the work that earned the
           Impressionists their name
@@ -232,7 +232,7 @@ textSections:
       #### Degas
 
 
-      [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html), the son of a wealthy banker, was a complex individual. Degas’ father (unlike Manet's) did not rail against his son’s artistic ambitions. But Degas started out as a classical artist, copying the paintings of old masters in the Louvre and in Italy, Holland and Spain. He was not bitten by the impressionist bug until the early 1870s.
+      [Edgar Degas](/edgar-degas-biography), the son of a wealthy banker, was a complex individual. Degas’ father (unlike Manet's) did not rail against his son’s artistic ambitions. But Degas started out as a classical artist, copying the paintings of old masters in the Louvre and in Italy, Holland and Spain. He was not bitten by the impressionist bug until the early 1870s.
 
 
       Degas exhibited at a number of the eight impressionist exhibitions held in and after 1874. Indeed, he played a key role in organising them. But his involvement was always controversial: he was demanding, cutting and didn’t like being called an impressionist.
@@ -299,7 +299,7 @@ textSections:
       #### The Station Master
 
 
-      Monet’s answer was a stroke of genius. As[ Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) later explained:
+      Monet’s answer was a stroke of genius. As[ Renoir](/pierre-auguste-renoir-biography) later explained:
 
 
       > “He \[Monet] put on his best clothes, pulled his lace cuffs to rights, and, idly swinging his gold headed cane, handed the director of the western railways his card. The official froze, and ushered him in forthwith. The exalted personage asked his visitor to take a seat, and the latter introduced himself simply with the words ‘I am the painter Claude Monet’”.
@@ -329,7 +329,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      The Saint-Lazare paintings had a more practical effect too. [Paul Durand-Ruel](https://impressionistarts.com/paul-durand-ruel-biography.html), the impressionists’ most dependable gallery owner, bought the lot from Monet and advanced small sums to the rest of the group. He could see that they were powerful impressions of modern life. This was important: at this time, Monet was living from hand to mouth.
+      The Saint-Lazare paintings had a more practical effect too. [Paul Durand-Ruel](/paul-durand-ruel-biography), the impressionists’ most dependable gallery owner, bought the lot from Monet and advanced small sums to the rest of the group. He could see that they were powerful impressions of modern life. This was important: at this time, Monet was living from hand to mouth.
 
 
       </div>
@@ -375,7 +375,7 @@ textSections:
       #### The details
 
 
-      Aline is pictured in the foreground with a griffon dog on her lap. She is talking to a group of people who include the impressionist painters [Gustave Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html) and [Mary Cassatt](https://impressionistarts.com/mary-cassatt-biography.html).
+      Aline is pictured in the foreground with a griffon dog on her lap. She is talking to a group of people who include the impressionist painters [Gustave Caillebotte](/gustave-caillebotte-biography) and [Mary Cassatt](/mary-cassatt-biography).
 
 
       The painting is particularly impressive for rolling three genres into one: portrait, still life (see the fruit on the table) and landscape (see the lush foliage in the background).
@@ -384,7 +384,7 @@ textSections:
       #### Reaction
 
 
-      But whilst Renoir’s love life was in order, his career was still struggling. Like the other impressionists, he could not find regular purchasers of his work and went through a crisis in the summer of 1881 that led to his so-called [Dry Period](https://impressionistarts.com/pierre-auguste-renoir-biography.html#4) (he worried he was stagnating and wondered whether he should head in a new artistic direction). Indeed, he often paid for his food and lodgings at the Fournaise by donating paintings.
+      But whilst Renoir’s love life was in order, his career was still struggling. Like the other impressionists, he could not find regular purchasers of his work and went through a crisis in the summer of 1881 that led to his so-called [Dry Period](/pierre-auguste-renoir-biography#4) (he worried he was stagnating and wondered whether he should head in a new artistic direction). Indeed, he often paid for his food and lodgings at the Fournaise by donating paintings.
 
 
       <div class="interesting">
@@ -399,7 +399,7 @@ textSections:
       </div>
 
 
-      To learn more, check out our [August Renoir biography](https://impressionistarts.com/pierre-auguste-renoir-biography.html) page.
+      To learn more, check out our [August Renoir biography](/pierre-auguste-renoir-biography) page.
 
 
       #### Where can I see it for myself
@@ -421,7 +421,7 @@ textSections:
       ### By 1882, Manet was dying of tertiary syphilis.
 
 
-      But he was still keen to paint and exhibit his works at the official Salon des Beaux Arts, where he had finally achieved success the previous year (being awarded a [second class medal](https://impressionistarts.com/edouard-manet-biography.html#5) for a painting of the aristocrat Henri Rochefort). This was important: it meant that Manet was able to exhibit works without the consent of the hostile jury.
+      But he was still keen to paint and exhibit his works at the official Salon des Beaux Arts, where he had finally achieved success the previous year (being awarded a [second class medal](/edouard-manet-biography#5) for a painting of the aristocrat Henri Rochefort). This was important: it meant that Manet was able to exhibit works without the consent of the hostile jury.
 
 
       The Bar at the Folies Bergere was one of two works he submitted in 1882.
@@ -490,7 +490,7 @@ textSections:
       Paul Cézanne was a complex fellow. Born in Aix en Provence in southern France, he struggled for years to escape his domineering father. He was ill-tempered and much of his early work was quite disturbing (it even includes paintings of murders).
 
 
-      But with [Pissarro’s](https://impressionistarts.com/camille-pissarro-biography.html) encouragement and support he was brought into the impressionist fold and exhibited in two of their eight independent exhibitions (though he attracted appalling reviews!).
+      But with [Pissarro’s](/camille-pissarro-biography) encouragement and support he was brought into the impressionist fold and exhibited in two of their eight independent exhibitions (though he attracted appalling reviews!).
 
 
       For instance, one critic wrote after seeing A Modern Olympia that Cezanne was a
@@ -499,7 +499,7 @@ textSections:
       > “sort of madman, painting in a state of delirium tremens”.
 
 
-      By the 1890s, Cezanne had become estranged from his wife and best friend, [Emile Zola](https://impressionistarts.com/emile-zola-biography.html), and was almost entirely devoted to his art.
+      By the 1890s, Cezanne had become estranged from his wife and best friend, [Emile Zola](/emile-zola-biography), and was almost entirely devoted to his art.
 
 
       #### The paintings
@@ -523,7 +523,7 @@ textSections:
       Cézanne completed many studies before painting the five works, with the usual assumption being that the larger three player pictures came first.
 
 
-      To learn more, check out our [Paul Cezanne biography](https://impressionistarts.com/paul-cezanne-biography.html) page.
+      To learn more, check out our [Paul Cezanne biography](/paul-cezanne-biography) page.
 
 
       #### Where can I see it for myself
@@ -532,7 +532,7 @@ textSections:
       Four of the Card Players are on public display at the Barnes Foundation Philadelphia and the Metropolitan Museum of Art in New York (the three player versions) and at the Musee D’Orsay in Paris and Courtauld Gallery in London (two player versions).
 
 
-      Most critics regard the D’Orsay’s version as the best. The final version is in a private collection, having been bought by the Qatar Royal Family for a [world record](https://impressionistarts.com/most-expensive-impressionist-paintings.html) $259 million in 2011.
+      Most critics regard the D’Orsay’s version as the best. The final version is in a private collection, having been bought by the Qatar Royal Family for a [world record](/most-expensive-impressionist-paintings) $259 million in 2011.
     sideGalleryImages:
       - imageTitle: Paul Cezanne is probably most famous for his Card Players series of
           paintings
@@ -572,7 +572,7 @@ textSections:
       Pissarro's daytime scenes are remarkable for their variety. The two examples we give show a bustling street on an overcast spring morning and a warm sunset later in the year once the trees are in blossom.
 
 
-      To learn more, check out our [Camille Pissarro biography](https://impressionistarts.com/camille-pissarro-biography.html) page.
+      To learn more, check out our [Camille Pissarro biography](/camille-pissarro-biography) page.
 
 
       #### Where can I see them for myself?
@@ -599,7 +599,7 @@ textSections:
       #### Giverny
 
 
-      Monet moved to [Giverny](https://impressionistarts.com/claude-monet-biography.html#5), a small town outside Paris, in 1883 (the year of Manet’s death). He rented a large farmhouse to start with, purchasing it about a decade later as his work increased in popularity and price.
+      Monet moved to [Giverny](/claude-monet-biography#5), a small town outside Paris, in 1883 (the year of Manet’s death). He rented a large farmhouse to start with, purchasing it about a decade later as his work increased in popularity and price.
 
 
       <div class="interesting">
@@ -623,7 +623,7 @@ textSections:
       #### The Water Lilies
 
 
-      For thirty years from the mid-1890s, Monet principally painted water lilies. This was easily his most comprehensive[ series of paintings](https://impressionistarts.com/claude-monet-biography.html#5) (he also painted many versions of Haystacks, Poplars, Rouen Cathedral and the Houses of Parliament).
+      For thirty years from the mid-1890s, Monet principally painted water lilies. This was easily his most comprehensive[ series of paintings](/claude-monet-biography#5) (he also painted many versions of Haystacks, Poplars, Rouen Cathedral and the Houses of Parliament).
 
 
       The works are impressive on so many levels. Nobody has ever used colour, light and reflection so skilfully.
@@ -672,7 +672,7 @@ textSections:
       #### Van Gogh's life
 
 
-      Born in 1853 to well-off but conservative parents, [Vincent van Gogh](https://impressionistarts.com/van-gogh-biography.html) had a troubled life. Serious and introspective, he worked as an art dealer and missionary before taking up painting full time in 1881. Van Gogh's early works are mostly still lifes and paintings of labourers in earthy tones (such as the Potato Eaters). They do not suggest the splashes of colour that were to follow van Gogh's move to Paris and introduction to impressionists such as [Degas](https://impressionistarts.com/edgar-degas-biography.html) and [Gauguin](https://impressionistarts.com/paul-gauguin-biography.html).
+      Born in 1853 to well-off but conservative parents, [Vincent van Gogh](/van-gogh-biography) had a troubled life. Serious and introspective, he worked as an art dealer and missionary before taking up painting full time in 1881. Van Gogh's early works are mostly still lifes and paintings of labourers in earthy tones (such as the Potato Eaters). They do not suggest the splashes of colour that were to follow van Gogh's move to Paris and introduction to impressionists such as [Degas](/edgar-degas-biography) and [Gauguin](/paul-gauguin-biography).
 
 
       Van Gogh's most famous works were painted between 1887 and his death in July 1890. Over this period van Gogh suffered serious mental health issues. He checked himself into a sanitorium after he severed his left ear in December 1888, following an argument with Gaugin, and delivered the bloody mess to a brothel that he frequented. And he shot himself in chest with a revolver in July 1890, dying of his injuries two days later.
@@ -708,21 +708,21 @@ textSections:
 
 The movement, which sought to capture modern life, light and the moment, has become one of the 21st century's favourite genres. But the impressionists were roundly rejected by the art establishment and the public in the 1860s and 1870s. Many of them struggled to make ends meet. And at times they caused uproar.
 
-Edouard Manet, the reluctant father of impressionism, features heavily in our list. His [Dejuner Sur l'Herbe (Lunch on the Grass)](https://impressionistarts.com/top-10-impressionist-paintings.html#1 "Dejuner sur l'herbe") and [Olympia](https://impressionistarts.com/top-10-impressionist-paintings.html#2 "Manet's Olympia"), completed in the early 1860s, threw down the gauntlet to the traditional Academy des Beaux Arts. Manet was not to achieve recognition until late in his life, with the Bon Bock and the [Bar at the Folies Bergere](https://impressionistarts.com/top-10-impressionist-paintings.html#7 "Bar at the Folies Bergere").
+Edouard Manet, the reluctant father of impressionism, features heavily in our list. His [Dejuner Sur l'Herbe (Lunch on the Grass)](/top-10-impressionist-paintings#1 "Dejuner sur l'herbe") and [Olympia](/top-10-impressionist-paintings#2 "Manet's Olympia"), completed in the early 1860s, threw down the gauntlet to the traditional Academy des Beaux Arts. Manet was not to achieve recognition until late in his life, with the Bon Bock and the [Bar at the Folies Bergere](/top-10-impressionist-paintings#7 "Bar at the Folies Bergere").
 
-Claude Monet, the most famous impressionist today, also has three entries: [Impression Sunrise](https://impressionistarts.com/top-10-impressionist-paintings.html#3 "Monet's Impression Sunrise") (which got the impressionists their name), [Gare Saint-Lazare](https://impressionistarts.com/top-10-impressionist-paintings.html#5 "Monet's Gare Saint-Lazare series") (which captures steam, noise, heat and modernity) and his beautiful [Water Lily](https://impressionistarts.com/top-10-impressionist-paintings.html#10 "Monet's Water Lilies") series (featuring over 250 works, painted in the last 30 years of Monet's life from his home in Giverny).
+Claude Monet, the most famous impressionist today, also has three entries: [Impression Sunrise](/top-10-impressionist-paintings#3 "Monet's Impression Sunrise") (which got the impressionists their name), [Gare Saint-Lazare](/top-10-impressionist-paintings#5 "Monet's Gare Saint-Lazare series") (which captures steam, noise, heat and modernity) and his beautiful [Water Lily](/top-10-impressionist-paintings#10 "Monet's Water Lilies") series (featuring over 250 works, painted in the last 30 years of Monet's life from his home in Giverny).
 
 <div class="interesting">
 
 Four other impressionists are included in our list:
 
-* **Camille Pissarro**, slightly older than the other impressionists, provided solidity and support to the movement. His [Boulevard Montmatre](https://impressionistarts.com/top-10-impressionist-paintings.html#9 "Pissarro's Boulevard Montmatre") at night is instantly recognisable.
-* **Auguste Renoir**, with his unique glossy finish, also features with [Luncheon at the Boating Lake](https://impressionistarts.com/top-10-impressionist-paintings.html#6 "August Renoir's Luncheon at the Boating Lake").
-* **Edgar Degas** achieves a place with his [Dancing Class](https://impressionistarts.com/top-10-impressionist-paintings.html#4 "Edgar Degas' Dancing Class"), one of many works painted by Degas of ballet dancers at the Paris Opera.
-* **Paul Cezanne's** [Card Players](https://impressionistarts.com/top-10-impressionist-paintings.html#8 "Paul Cezanne's Card Players") is this taciturn artist's most famous work, being sold for a world-record US$259 million in 2011.
+* **Camille Pissarro**, slightly older than the other impressionists, provided solidity and support to the movement. His [Boulevard Montmatre](/top-10-impressionist-paintings#9 "Pissarro's Boulevard Montmatre") at night is instantly recognisable.
+* **Auguste Renoir**, with his unique glossy finish, also features with [Luncheon at the Boating Lake](/top-10-impressionist-paintings#6 "August Renoir's Luncheon at the Boating Lake").
+* **Edgar Degas** achieves a place with his [Dancing Class](/top-10-impressionist-paintings#4 "Edgar Degas' Dancing Class"), one of many works painted by Degas of ballet dancers at the Paris Opera.
+* **Paul Cezanne's** [Card Players](/top-10-impressionist-paintings#8 "Paul Cezanne's Card Players") is this taciturn artist's most famous work, being sold for a world-record US$259 million in 2011.
 
 </div>
 
-We have three bonus entries, each from [Vicent van Gogh](https://impressionistarts.com/top-10-impressionist-paintings.html#11 "Three of Vincent van Gogh's most famous works"). Though probably a post-impressionist, we cannot ignore this troubled genius. Our selections are Starry Night, Irises and Sunflowers.
+We have three bonus entries, each from [Vicent van Gogh](/top-10-impressionist-paintings#11 "Three of Vincent van Gogh's most famous works"). Though probably a post-impressionist, we cannot ignore this troubled genius. Our selections are Starry Night, Irises and Sunflowers.
 
-Our selection of the 10 best impressionist paintings is arranged chronologically. So you might want to have a look at our [Impressionist Timeline](https://impressionistarts.com/impressionism-timeline.html) page later.
+Our selection of the 10 best impressionist paintings is arranged chronologically. So you might want to have a look at our [Impressionist Timeline](/impressionism-timeline) page later.
