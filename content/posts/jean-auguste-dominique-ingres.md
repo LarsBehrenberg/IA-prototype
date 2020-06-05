@@ -277,7 +277,7 @@ textSections:
           died in 1867 (© Celette, CC BY-SA 4.0)
         imageUrl: /assets/ingres-memorial-plaque-in-paris.jpg
 ---
-### In many ways Jean-Auguste-Dominique Ingres embodied the classical, academic style of painting that the impressionists sought to break away from. He was a key member of the old guard, painting religious and mythological subjects, while focusing on form and beauty.
+## In many ways Jean-Auguste-Dominique Ingres embodied the classical, academic style of painting that the impressionists sought to break away from. He was a key member of the old guard, painting religious and mythological subjects, while focusing on form and beauty.
 
 However, his paintings are not quite as straightforward as conventional analysis would make them. Ingres manipulated Classical painting to create an alternative, abstracted style. He developed his [own fusion of neoclassicism and romanticism](/jean-auguste-dominique-ingres-biography#2), mixed with psychologically complex subjects in many cases. In doing so, he would go on to inspire prominent impressionist figures like [Auguste Renoir](/pierre-auguste-renoir-biography) and [Edgar Degas](/edgar-degas-biography), as well as later post-impressionist, Fauvist and cubist artists.
 
