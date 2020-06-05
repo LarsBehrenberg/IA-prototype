@@ -1998,3 +1998,24 @@ img.hover-shadow {
 .BrainhubCarousel__arrow--disable {
     pointer-events: none;
 }
+
+@media (min-width: 900px) {
+
+    .site-text img {
+        width: 32%;
+    }
+}
+
+@media (max-width: 900px) {
+
+    .site-text img {
+        width: 49%;
+    }
+}
+
+@media (max-width: 380px) {
+
+    .site-text img {
+        width: 100%;
+    }
+}
