@@ -402,13 +402,11 @@ textSections:
           the Milliner (a person selling lady's hats).
         imageUrl: /assets/degas-at-the-milliners.jpg
 ---
-### Edgar Degas was born in Paris in 1834, his father a wealthy banker and his mother an emigre from New Orleans.
+## Edgar Degas was born in Paris in 1834, his father a wealthy banker and his mother an emigre from New Orleans.
 
 Despite his privileged upbringing, Degas was a difficult person. He was opinionated, demanding and (at least in later life) anti-Semitic. As Caillebotte said during preparations for one of the impressionist exhibitions,
 
 > “He is quite intolerable. But we have to concede that he is extremely talented.”
-
-
 
 To make matters worse, Degas had an eye condition identified during the Franco-Prussian war of 1870 that made him extremely sensitive to sunlight and resulted in his near-total blindness from 1901.
 
