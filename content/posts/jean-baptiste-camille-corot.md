@@ -253,7 +253,7 @@ textSections:
           Léonard Béguine, CC BY-SA 3.0)
         imageUrl: /assets/camille-corot-grave-in-pere-lachaise.jpg
 ---
-### Born in Paris in the late 1700s, Jean-Baptiste-Camille Corot was crucial for establishing landscape painting as a valued genre in France.
+## Born in Paris in the late 1700s, Jean-Baptiste-Camille Corot was crucial for establishing landscape painting as a valued genre in France.
 
 In doing so, he was a precursor of the [Impressionist Movement](/). Corot’s use of natural light and soft [depictions of landscapes](/jean-baptiste-camille-corot-biography#2), sensitive to the colours and patterns of nature, were key drivers for the development of the Impressionist style.
 
