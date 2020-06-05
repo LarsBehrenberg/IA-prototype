@@ -40,7 +40,7 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
                         <a className="ttde-gallery-url">
                           <img
                             src={
-                              data.upperGalleryImages &&
+                              !!data.upperGalleryImages &&
                               data.upperGalleryImages.topImage &&
                               data.upperGalleryImages.topImage.topImageUrl
                                 ? data.upperGalleryImages.topImage.topImageUrl
