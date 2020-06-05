@@ -14,8 +14,7 @@ upperGalleryImages:
       Minneapolis Institute of Art
     topImageUrl: /assets/eugene-delacroix-fanatics-of-tangier.jpg
   leftImage:
-    leftImageTitle:
-      Liberty Leading the People (1830), painted by Eugene Delacroix,
+    leftImageTitle: Liberty Leading the People (1830), painted by Eugene Delacroix,
       Louvre, Paris. Commemorating the French Revolution of 1830 (July
       Revolution) on 28 July 1830.
     leftImageUrl: /assets/eugene-delacroix-liberty-leading-the-people.jpg
@@ -88,12 +87,10 @@ textSections:
     sideGalleryImages:
       - imageTitle: Massacre at Chios, by Eugene Delacroix in 1824, Louvre, Paris
         imageUrl: /assets/eugene-delacroix-massacre-at-chios.jpg
-      - imageTitle:
-          Greece on the Ruins of Missolonghi, by Eugene Delacroix in 1826,
+      - imageTitle: Greece on the Ruins of Missolonghi, by Eugene Delacroix in 1826,
           Musée des Beaux-Arts, Bordeaux
         imageUrl: /assets/eugene-delacroix-greece-on-the-ruins-of-missolonghi.jpg
-      - imageTitle:
-          Dante and Virgil in Hell, Painting of Dante's »Divine Comedy,
+      - imageTitle: Dante and Virgil in Hell, Painting of Dante's »Divine Comedy,
           Inferno« by Eugene Delacroix in 1822
         imageUrl: /assets/eugene-delacroix-the-barque-of-dante.jpg
   - textTitle: Delacroix and colour
@@ -156,14 +153,12 @@ textSections:
 
       This palette would go on to inspire artists such as Auguste Renoir, Paul Cézanne and [Henri Matisse](/henri-matisse-biography) who drew on his sensuous portrayals of Orientalized female figures.
     sideGalleryImages:
-      - imageTitle:
-          Women of Algiers in their Apartment, by Eugene Delacroix in 1834,
+      - imageTitle: Women of Algiers in their Apartment, by Eugene Delacroix in 1834,
           Louvre
         imageUrl: /assets/eugene-delacroix-women-of-algiers.jpg
       - imageTitle: Medea about to Kill Her Children, by Eugene Delacroix in 1838
         imageUrl: /assets/eugene-delacroix-medea-about-to-kill-her-children.jpg
-      - imageTitle:
-          Ovid among the Scythians, by Eugene Delacroix in 1862, Metropolitan
+      - imageTitle: Ovid among the Scythians, by Eugene Delacroix in 1862, Metropolitan
           Museum of Art, New York City
         imageUrl: /assets/eugene-delacroix-ovid-among-the-scythes.jpg
   - textTitle: Delacroix and the Impressionists
@@ -236,12 +231,10 @@ textSections:
     sideGalleryImages:
       - imageTitle: Mademoiselle Rose, by Eugene Delacroix between 1817-1824, Louvre
         imageUrl: /assets/eugene-delacroix-mademoiselle-rose.jpg
-      - imageTitle:
-          The Death of Sardanapalus, by Eugene Delacroix in 1827, Philadelphia
+      - imageTitle: The Death of Sardanapalus, by Eugene Delacroix in 1827, Philadelphia
           Museum of Art
         imageUrl: /assets/eugene-delacroix-death-of-sardanapalus.jpg
-      - imageTitle:
-          Woman with a Parrot, by Eugene Delacroix in 1827, Museum of Fine
+      - imageTitle: Woman with a Parrot, by Eugene Delacroix in 1827, Museum of Fine
           Arts of Lyon
         imageUrl: /assets/eugene-delacroix-woman-with-a-parrot.jpg
   - textTitle: Delacroix’s legacy
@@ -297,18 +290,15 @@ textSections:
 
       The passion that fed through all of Delacroix’s paintings and his innovative work with colour are his most important contributions to art history.
     sideGalleryImages:
-      - imageTitle:
-          The murals by Eugene Delacroix for Salon du Roi, Palais Bourbon,
+      - imageTitle: The murals by Eugene Delacroix for Salon du Roi, Palais Bourbon,
           Paris, 1833–1837
         imageUrl: /assets/eugene-delacroix-mural.jpg
-      - imageTitle:
-          A monument to Delacroix, at the Jardin du Luxembourg by Aimé-Jules
+      - imageTitle: A monument to Delacroix, at the Jardin du Luxembourg by Aimé-Jules
           Dalou (1838-1902) (© World Imaging, CC BY-SA 4.0)
         imageUrl: /assets/eugene-delacroix-monument-in-luxembourg.jpg
       - imageTitle: Delacroix 's tomb in Père Lachaise Cemetery (© Rama, CeCILL)
         imageUrl: /assets/eugene-delacroix-grave.jpg
 ---
-
 ## A Romantic in every way, Eugène Delacroix devoted much of his career to portraying dramatic and intense scenes from mythology and orientalised scenes inspired by his travels to North Africa.
 
 He drove his paintings to ever greater levels of animation and passion through his [use of colour and optical effects](/eugene-delacroix-biography#2). It was this expressiveness that has led to his legacy as one of the most important romantic artists of the 19th century.
