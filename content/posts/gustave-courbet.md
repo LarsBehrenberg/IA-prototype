@@ -158,9 +158,8 @@ textSections:
   - textTitle: Courbet and the Impressionists
     text: >-
       ### Courbet, along with his contemporaries like Camille_Corot"
-      [Corot](/jean-baptiste-camille-corot-biography)
-      and the Barbizon School, exchanged radical ideas that paved the way for
-      the impressionist movement.
+      [Corot](/jean-baptiste-camille-corot-biography) and the Barbizon School,
+      exchanged radical ideas that paved the way for the impressionist movement.
 
 
       The impressionists embraced the concept of realism and objective observation of the everyday world, moving away from the historical painting of earlier eras of French art.
@@ -277,7 +276,7 @@ textSections:
           Switzerland, at Bulle"
         imageUrl: /assets/gustave-courbet-in-swiss-with-friends.jpg
 ---
-### Gustave Courbet was one of the principal artists of the 19th century realist movement. A divisive character, he revelled in the controversy he caused throughout his career, openly shunning the French art establishment.
+## Gustave Courbet was one of the principal artists of the 19th century realist movement. A divisive character, he revelled in the controversy he caused throughout his career, openly shunning the French art establishment.
 
 Over the course of his life, Courbet experimented with a [wide range of genres and styles](/gustave-courbet-biography#1). His works were as often met with criticism as they were with praise. Indeed, some of his artworks are still contentious to this day.
 
