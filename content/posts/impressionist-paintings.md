@@ -94,6 +94,15 @@ textSections:
 
 
       You might also enjoy our page on [Manet's life story](https://impressionistarts.com/edouard-manet-biography.html).
+    sideGalleryImages:
+      - imageTitle: Monet's Dejeuner sur l'Herbe sparked uproar when it was shown at the
+          Salon des Refuses in 1861
+        imageUrl: /assets/10-paintings-manet-dejuner-sur-lherbe.jpg
+      - imageTitle: The models at the centre of Manet's first controversial work
+        imageUrl: /assets/10-paintings-manet-dejuner-sur-lherbe-close-up.jpg
+      - imageTitle: The picnic in the bottom left hand corner of Manet's dejuner sur
+          l'herbe
+        imageUrl: /assets/10-paintings-manet-picnic-dejuner-sur-lherbe.jpg
   - textTitle: Olympia (Manet, 1863)
     text: >-
       ### Though painted in 1863, Manet hid Olympia in his studio for 18 months
@@ -147,6 +156,14 @@ textSections:
 
 
       These days Olympia is to be found in the [Musee D’Orsay](https://thingstodoeverywhere.com/things-to-do-in-paris-france.html).
+    sideGalleryImages:
+      - imageTitle: Manet's Olympia was the most controversial impressionist work
+        imageUrl: /assets/10-paintings-manet-olympia.jpg
+      - imageTitle: The servant and cat to the right of Olympia often get overlooked
+        imageUrl: /assets/10-paintings-manet-olympia-cat.jpg
+      - imageTitle: "The defiant gaze of Olympia: she wasn't going to apologise for her
+          way of life!"
+        imageUrl: /assets/10-paintings-manet-olympia-close-up.jpg
   - textTitle: Impression Sunrise (Monet, 1871)
     text: >-
       ### Impression Sunrise is the work that coined the word "Impressionism".
@@ -198,6 +215,14 @@ textSections:
 
 
       You might also enjoy our page on [Monet's life story](https://impressionistarts.com/claude-monet-biography.html).
+    sideGalleryImages:
+      - imageTitle: Monet's Impression Sunrise was the work that earned the
+          Impressionists their name
+        imageUrl: /assets/10-paintings-monet-impression-sunrise.jpg
+      - imageTitle: ... but the term 'Impressionism' was initially intended as an insult
+        imageUrl: /assets/10-paintings-monet-impression-sunrise-close-up-boat.jpg
+      - imageTitle: The sun is the focal point of Monet's Impression Sunrise
+        imageUrl: /assets/10-paintings-monet-impression-sunrise-close-up-sun.jpg
   - textTitle: The Dance Class (Degas, 1870-1874)
     text: >-
       ### Degas’ Dance Class series, painted at the rehearsal rooms of the Paris
@@ -253,6 +278,16 @@ textSections:
 
 
       Versions of Degas’ Dance Class are found in the Metropolitan Museum of Art in New York and in Paris’ [Musee D’Orsay](https://thingstodoeverywhere.com/things-to-do-in-paris-france.html).
+    sideGalleryImages:
+      - imageTitle: Edgar Degas loved and was given special access to the Parisian
+          Ballet, where he painted Dancing Class
+        imageUrl: /assets/10-paintings-edgar-degas-dancing-class.jpg
+      - imageTitle: Degas painted a number of variations of the Dance Class, found in
+          the D'Orsay and the Met.
+        imageUrl: /assets/10-paintings-edgar-degas-the-dance-class.jpg
+      - imageTitle: Degas, a difficult personality, is also famous for his works of
+          jockeys and race courses
+        imageUrl: /assets/10-paintings-edgar-degas-the-dance-class-stairs.jpg
   - textTitle: Gare Saint-Lazare (Monet, 1877)
     text: >-
       ### In 1877, Monet had a very good idea: he would paint fog.
@@ -304,6 +339,15 @@ textSections:
 
 
       Monet painted 12 pictures of Gare Saint-Lazare in all. They are found at, amonst other places, London's National Gallery and Musee D’Orsay in Paris.
+    sideGalleryImages:
+      - imageTitle: Monet's Gare Saint Lazare, a series of paintings of this famous
+          Parisian station. Read the funny story of how Monet blagged his way in
+          on this page.
+        imageUrl: /assets/10-paintings-monet-gare-saint-lazare.jpg
+      - imageTitle: The Arrival of the Normandy Train at Gare Saint Lazare
+        imageUrl: /assets/10-paintings-monet-arrival-normandy-train-gare-saint-lazare.jpg
+      - imageTitle: Monet's Goods Sheds at the Gare Saint Lazare
+        imageUrl: /assets/10-paintings-monet-goods-sheds-saint-lazare-station.jpg
   - textTitle: Luncheon at the Boating Lake (Renoir, 1880-1)
     text: >-
       ### Luncheon at the Boating Lake is a classic Renoir: it is contemporary,
@@ -362,6 +406,16 @@ textSections:
 
 
       Luncheon at the Boating Lake appears in the film Amelie and is the star attraction of Washington DC’s Phillips Collection.
+    sideGalleryImages:
+      - imageTitle: Renoir's masterful Luncheon at the Boating Lake was shown in the
+          seventh impressionist exhibition
+        imageUrl: /assets/10-paintings-renoir-luncheon-boating-lake.jpg
+      - imageTitle: Renoir's future wife, Aline Charigot, is the focus of Luncheon at
+          the Boating Lake
+        imageUrl: /assets/10-paintings-renoir-aline-charigot-luncheon-boating-lake.jpg
+      - imageTitle: The impressionist painter Caillebotte is one of the other figures in
+          Luncheon at the Boating Lake
+        imageUrl: /assets/10-paintings-renoir-gustave-caillebotte-luncheon-boating-lake.jpg
   - textTitle: Bar at the Folies-Bergere (Manet, 1882)
     text: >-
       ### By 1882, Manet was dying of tertiary syphilis.
@@ -416,6 +470,14 @@ textSections:
 
 
       The Folies Bergere, Manet’s last major work, is found in London’s Courtauld Gallery.
+    sideGalleryImages:
+      - imageTitle: Manet's last major work was the Bar at the Folies Bergere
+        imageUrl: /assets/10-paintings-manet-bar-at-folies-bergere.jpg
+      - imageTitle: Exhibited at the Salon des Beaux Arts in 1882, it received a second
+          class medal
+        imageUrl: /assets/10-paintings-manet-barmaid-suzon-folies-bergere.jpg
+      - imageTitle: It is a fascinating work of the eponymous popular Parisian nightclub.
+        imageUrl: /assets/10-paintings-manet-tangerines-bar-folies-bergere.jpg
   - textTitle: The Card Players (Cezanne, 1890)
     text: >-
       ### Cézanne is most famous for his series of five Card Players. One of the
@@ -471,6 +533,15 @@ textSections:
 
 
       Most critics regard the D’Orsay’s version as the best. The final version is in a private collection, having been bought by the Qatar Royal Family for a [world record](https://impressionistarts.com/most-expensive-impressionist-paintings.html) $259 million in 2011.
+    sideGalleryImages:
+      - imageTitle: Paul Cezanne is probably most famous for his Card Players series of
+          paintings
+        imageUrl: /assets/10-paintings-paul-cezanne-card-players-wine.jpg
+      - imageTitle: Exhibited at the Salon des Beaux Arts in 1882, it received a second
+          class medal
+        imageUrl: /assets/10-paintings-paul-cezanne-card-players-white-pipe.jpg
+      - imageTitle: It is a fascinating work of the eponymous popular Parisian nightclub.
+        imageUrl: /assets/10-paintings-paul-cezanne-three-card-players.jpg
   - textTitle: Boulevard Montmatre (Pissarro, 1897)
     text: >-
       ### Pissarro may not be the most famous impressionist. But he was the glue
@@ -508,6 +579,14 @@ textSections:
 
 
       Versions of Boulevard Montmatre can be found in London's National Gallery and the Musee D'Orsay in Paris.
+    sideGalleryImages:
+      - imageTitle: Pissarro painted a series of pictures of Boulevard Montmatre. This
+          is the only painting of the street at night.
+        imageUrl: /assets/10-paintings-pissarro-boulevard-montmatre-at-night.jpg
+      - imageTitle: The bustling Boulevard Montmatre by day
+        imageUrl: /assets/10-paintings-pissarro-boulevard-montmatre.jpg
+      - imageTitle: Sunset over Pissarro's Boulevard Montmatre
+        imageUrl: /assets/10-paintings-pissarro-boulevard-montmatre-sunset.jpg
   - textTitle: Water Lilies (Monet, 1895-1926)
     text: >-
       ### Monet, the most famous impressionist today, is best known for his
@@ -575,6 +654,15 @@ textSections:
 
 
       Versions of Water Lilies can be seen around the world. London's National Gallery and Paris' Musee D'Orsay hold versions. So too do New York's Metropolitan Museum of Art, Washington's National Gallery and Tokyo's National Gallery of Western Art. Paris' Musee de l'Orangerie was specially built to Monet's exacting specifictions to hold his bequest of 12 enormous waterlilies.
+    sideGalleryImages:
+      - imageTitle: Claude Monet is most famous for his water lily series
+        imageUrl: /assets/10-paintings-claude-monet-water-lilies-nympheas.jpg
+      - imageTitle: With over 250 paintings, this was by far the largest series of works
+          by Monet. His other series included works of Rouen Cathedral and
+          Haystacks.
+        imageUrl: /assets/10-paintings-claude-monet-japanese-footbridge.jpg
+      - imageTitle: The paintings vary widely in their size and in the colours used.
+        imageUrl: /assets/10-paintings-claude-monet-water-lily-pond.jpg
   - textTitle: "Bonus entries: Vincent van Gogh"
     text: >-
       ### Van Gogh is one of the world's most famous artists on account of his
@@ -606,6 +694,15 @@ textSections:
 
 
       The best place in the world to see van Gogh's work is the Van Gogh Museum in Amsterdam. But his works are found in the world's best galleries. London's National Gallery has a version of Sunflowers and the excellent Wheatfields with Cypress Trees. The Museum of Modern Art in New York has one version of Starry Night and Paris' Musee D'Orsay has another.
+    sideGalleryImages:
+      - imageTitle: Van Gogh's Starry Night is the subject of Don McLean's eponymous song
+        imageUrl: /assets/10-paintings-van-gogh-starry-night.jpg
+      - imageTitle: Each one of Van Gogh's irises is unique. He carefully studied their
+          movements and shapes to create a variety of curved silhouettes bounded
+          by wavy, twisting, and curling lines.
+        imageUrl: /assets/10-paintings-van-gogh-irises.jpg
+      - imageTitle: The paintings vary widely in their size and in the colours used.
+        imageUrl: /assets/10-paintings-van-gogh-sunflowers.jpg
 ---
 ## Selecting the top 10 impressionist works is a difficult job.
 
