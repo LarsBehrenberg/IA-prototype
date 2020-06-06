@@ -3,7 +3,7 @@ id: post-ihanCCs6U
 path: most-expensive-impressionist-paintings
 date: 2020-06-06T07:07:36.136Z
 subTitle: Most Expensive
-title: Impressionist paintings
+title: Impressionist Paintings
 tags: More
 cover: /assets/paul-cezanne-card-players.jpg
 links:
@@ -178,7 +178,10 @@ textSections:
 
 
       Painted in 1904, the work is typical of Cezanne's output at the end of his life: eyesight problems caused him to paint in a very minimalistic style, with small parts of the canvass not used at all.
-    sideGalleryImages: []
+    sideGalleryImages:
+      - imageTitle: Paul Cezanne's Mont Saint-Victoire from Chateaux Noir is the third
+          most expensive impressionist painting ever sold.
+        imageUrl: /assets/expensive-paintings-paul-cezanne-mont-sainte-victoire-chateaux-noir.jpg
   - textTitle: "Monet: Le Bassin aux Nymphéas"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale: |
@@ -255,6 +258,10 @@ textSections:
 
 
       It is, then, ironic that a century later three of the five most expensive impressionist paintings are Cezannes.
+    sideGalleryImages:
+      - imageTitle: Paul Cezanne's still life entitled Rideau, Cruchon et Compotier sold
+          for $60.5 million in 1999.
+        imageUrl: /assets/expensive-paintings-paul-cezanne-rideau-cruchon-compotier.jpg
   - textTitle: "Monet: Haystacks"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -299,7 +306,10 @@ textSections:
 
 
       The painting has also proved to be a remarkable investment. When it was last sold, in 1986, it fetched just [$2.5 million](https://www.bbc.co.uk/news/world-us-canada-48278312)!
-    sideGalleryImages: []
+    sideGalleryImages:
+      - imageTitle: This version of Monet's Haystacks was recently sold by Sotheby's New
+          York for $110 million.
+        imageUrl: /assets/expensive-paintings-claude-monet-haystacks-sothebys-2019.jpg
   - textTitle: "Monet: Haystacks"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale: | Buyer/Seller: |
@@ -334,6 +344,9 @@ textSections:
 
 
       It is almost exactly the same size as entry number 6 on out list (72.7 x 92.1 cms), and was also painted in 1890 and signed "Claude Monet '91".
+    sideGalleryImages:
+      - imageTitle: This version of Monet's Haystacks was sold in 2016 for $81.4 million.
+        imageUrl: /assets/expensive-paintings-claude-monet-haystacks-christies-2016.jpg
   - textTitle: "Monet: Nympheas en Fleur"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -375,6 +388,9 @@ textSections:
 
 
       This version of the Water Lilies was a study for Monet's Grand Decorations, which probably explains the particularly thick brush strokes used and why the canvas can be seen on the painting's edges.
+    sideGalleryImages:
+      - imageTitle: Claude Monet's Water Lilies in Bloom recently fetched $84 million.
+        imageUrl: /assets/expensive-paintings-claude-monet-nympheas-en-fleur.jpg
   - textTitle: "Manet: Spring (Jeanne Demarsy)"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -413,7 +429,10 @@ textSections:
 
 
       The picture is important because it was the final critical success of Manet's career. Positive feedback was rare for Manet, who threw down the gauntlet to the conservative art establishment in the early 1860s with works such as [Dejuner sur l'herbe](https://impressionistarts.com/top-10-impressionist-paintings.html#1) and [Olympia](https://impressionistarts.com/top-10-impressionist-paintings.html#2). This was one of the many ways in which Manet inspired the other impressionists.
-    sideGalleryImages: []
+    sideGalleryImages:
+      - imageTitle: Edouard Manet's Spring (Jeanne Demarsy) was sold in 2011 for $65
+          million
+        imageUrl: /assets/expensive-paintings-edouard-manet-jeanne-spring.jpg
   - textTitle: "Monet: Nympheas"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -446,6 +465,9 @@ textSections:
 
 
       As the years went by, Monet typically painted larger canvasses, focussed on smaller areas of his ponds, and used more saturated colours. This 1905 work is therefore a good yardstick against which to assess the other Water Lilies.
+    sideGalleryImages:
+      - imageTitle: Claude Monet's 1905 work Nympheas
+        imageUrl: /assets/expensive-paintings-monet-nympheas-1905.jpg
   - textTitle: "Degas: Danseuse en Repos"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale: | Buyer/Seller: |
@@ -495,6 +517,10 @@ textSections:
 
 
       Danseuse en Repos was previously sold by Sotheby's in London in [June 1999](https://www.theguardian.com/uk/1999/jun/29/3) for £17.6 million, smashing the estimate of £6-7 million and setting the record price for a Degas. When currency exchange and inflation are taken into account, Sotheby's New York's [November 2008](http://www.sothebys.com/en/auctions/ecatalogue/2008/impressionist-modern-art-evening-sale-n08485/lot.14.html) sale achieved almost exactly the same price.
+    sideGalleryImages:
+      - imageTitle: Edgar Degas' Danseuse en Repos was sold for $37 million by Sotheby's
+          New York in November 2008.
+        imageUrl: /assets/expensive-paintings-edgar-degas-danseuse-en-repos.jpg
   - textTitle: "Manet: Self-Portrait with a Palette"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -533,6 +559,10 @@ textSections:
 
 
       Self-Portrait with a Palette is accordingly an important work, perhaps the most significant Manet in private hands.
+    sideGalleryImages:
+      - imageTitle: Edouard Manet's Self Portrait with Palette, sold by Sotheby's London
+          in 2010 for £22 million.
+        imageUrl: /assets/expensive-paintings-edouard-manet-self-portrait-with-palette.jpg
   - textTitle: "Pissarro: Boulevard Montmartre (Spring Morning)"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -589,6 +619,10 @@ textSections:
 
 
       The Palais Ducal was the headline attraction of Sotheby's Impressionism sale held on 26 February 2019. After a bidding war between two undisclosed telephone buyers, the painting sold for £24 million (or £27,534,000 when premiums are factored in).
+    sideGalleryImages:
+      - imageTitle: Monet's Le Palais Ducal sold at Sotheby's London on 26 February 2019
+          for £24 million
+        imageUrl: /assets/expensive-paintings-le-palais-ducal-claude-monet.jpg
   - textTitle: "Monet: Exterieur de la Gare Saint-Lazare"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -603,6 +637,10 @@ textSections:
 
 
       It sold for $32.9 million when auctioned by Christie's in New York in May 2018, giving it an adjusted price of $34.6 million.
+    sideGalleryImages:
+      - imageTitle: Monet's Exterior of the Saint-Lazare station was sold for $32.9
+          million in mid-2018
+        imageUrl: /assets/expensive-paintings-claude-monet-exterieur-de-la-gare-saint-lazare-effet-du-soleil.jpg
   - textTitle: "Monet: Exterieur de la Gare Saint-Lazare"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -635,6 +673,10 @@ textSections:
 
 
       It sold for $31,812,500 when auctioned by Christie's in New York in November 2018, giving it an adjusted price of $32.9 million.
+    sideGalleryImages:
+      - imageTitle: Monet's Le Bassin Aux Nympheas was sold for $31.8 million in
+          November 2018
+        imageUrl: /assets/expensive-paintings-claude-monet-le-bassin-aux-nympheas.jpg
   - textTitle: "Monet: Poplars"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -661,7 +703,10 @@ textSections:
 
 
       Monet's technique when painting Poplars is fascinating: he worked from a floating studio, and often worked on numerous canvasses during the same painting session (sometimes changing canvass as often as once every seven minutes!).
-    sideGalleryImages: []
+    sideGalleryImages:
+      - imageTitle: This version of Monet's Poplars sold at Christie's New York for
+          $22.4 million in May 2011
+        imageUrl: /assets/expensive-paintings-claude-monet-poplars-les-peupliers.jpg
   - textTitle: "Monet: Nympheas"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -676,6 +721,10 @@ textSections:
 
 
       The price was a disappointment for Sotheby's, who had estimated that the work would achieve £25-£35 million. But, with buyers' fees, the price to be paid is still a whopping £23.7 million ($29.7 million).
+    sideGalleryImages:
+      - imageTitle: This version of Monet's Nympheas sold at Sotheby's London for £21
+          million on 19 June 2019.
+        imageUrl: /assets/expensive-paintings-claude-monet-nympheas-june-2019-sothebys.jpg
   - textTitle: "Monet: Matinée sur la Seine"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -690,6 +739,10 @@ textSections:
 
 
       It sold for $23,375,000 when auctioned by Christie's in New York in November 2017, giving it an adjusted price of $25.0 million.
+    sideGalleryImages:
+      - imageTitle: Matinée sur la Seine sold at Christie's New York for $23.375 million
+          in November 2017
+        imageUrl: /assets/expensive-paintings-claude-monet-matinee-sur-la-seine.jpg
   - textTitle: "Monet: Les Glaccons Bennecourt"
     text: >-
       | Sale Price: | Adjusted Price: | Date of Sale:
@@ -704,6 +757,44 @@ textSections:
 
 
       It sold for $23,372,500 when auctioned by Sotheby's in New York in November 2017, giving it an adjusted price of $24.2 million.
+    sideGalleryImages:
+      - imageTitle: Monet's Les Glaccons Bennecourt sold for $23.7 million in November 2017
+        imageUrl: /assets/expensive-paintings-claude-monet-les-glacons-bennecourt-1893.jpg
+  - textTitle: "Cezanne: Vue sur L'Estaque et le Château d'If"
+    text: >-
+      | Artist: | Work: | Adjusted price (sale price): |       Date of
+      Sale:            |
+
+      | ----------- | --------------- | ------------- | -------------------------------- |
+
+      | Paul Cezanne       | Vue sur L'Estaque et le Château d'If         | $24.239 million (£13.522 million)      | February 2015  |
+    sideGalleryImages:
+      - imageTitle: Cezanne's Chateaux d'If at l'Estaque sold for £13.5 million in 2015.
+        imageUrl: /assets/10-paintings-claude-monet-japanese-footbridge.jpg
+  - textTitle: "Caillebotte: Le pont d'Argenteuil et la Seine"
+    text: >-
+      | Artist: | Work: | Adjusted price (sale price): |       Date of
+      Sale:            |
+
+      | ----------- | --------------- | ------------- | -------------------------------- |
+
+      | Paul Cezanne       | Vue sur L'Estaque et le Château d'If         | $24.239 million (£13.522 million)      | February 2015  |
+    sideGalleryImages:
+      - imageTitle: Caillebotte's Le pont d'Argenteuil et la Seine was sold by
+          Christie's New York for just over $18 million in November 2011.
+        imageUrl: /assets/10-paintings-claude-monet-japanese-footbridge.jpg
+  - textTitle: "Monet: Iris mauves"
+    text: >-
+      | Artist: | Work: | Adjusted price (sale price): |       Date of
+      Sale:            |
+
+      | ----------- | --------------- | ------------- | -------------------------------- |
+
+      | Paul Cezanne       | Vue sur L'Estaque et le Château d'If         | $24.239 million (£13.522 million)      | February 2015  |
+    sideGalleryImages:
+      - imageTitle: Monet's Purple Irises, a preparatory work for his water lily series,
+          sold in June 2015 for £10.8 million.
+        imageUrl: /assets/10-paintings-claude-monet-japanese-footbridge.jpg
 ---
 ## Impressionist paintings are some of the most sought after in the international art market.
 
