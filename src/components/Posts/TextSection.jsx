@@ -79,25 +79,59 @@ const TextSection = ({
                 </div>
                 <div className="col-sm-9">
                   <div className="site-text">
-                    <div
-                      className="site-text-less"
-                      id={`view-content-${index + 1}`}
-                    >
-                      <div id={`view-content-height-${index + 1}`}>
-                        <div dangerouslySetInnerHTML={{ __html: text }} />
-                      </div>
-                    </div>
-                    <div
-                      className="site-text-more"
-                      id={`site-text-more-button-${index + 1}`}
-                    >
-                      <span
-                        className="btn btn-outline"
-                        onClick={ttdeToggleVisibility}
-                      >
-                        Expand to read more
-                      </span>
-                    </div>
+                    {window.location.pathname.includes(
+                      'most-expensive-impressionist-paintings'
+                    ) ? (
+                      <>
+                        {index > 13 ? (
+                          <div dangerouslySetInnerHTML={{ __html: text }} />
+                        ) : (
+                          <div
+                            className="site-text-less"
+                            id={`view-content-${index + 1}`}
+                          >
+                            <div id={`view-content-height-${index + 1}`}>
+                              <div dangerouslySetInnerHTML={{ __html: text }} />
+                            </div>
+                          </div>
+                        )}
+                        {index > 13 ? null : (
+                          <div
+                            className="site-text-more"
+                            id={`site-text-more-button-${index + 1}`}
+                          >
+                            <span
+                              className="btn btn-outline"
+                              onClick={ttdeToggleVisibility}
+                            >
+                              Expand to read more
+                            </span>
+                          </div>
+                        )}
+                      </>
+                    ) : (
+                      <>
+                        <div
+                          className="site-text-less"
+                          id={`view-content-${index + 1}`}
+                        >
+                          <div id={`view-content-height-${index + 1}`}>
+                            <div dangerouslySetInnerHTML={{ __html: text }} />
+                          </div>
+                        </div>
+                        <div
+                          className="site-text-more"
+                          id={`site-text-more-button-${index + 1}`}
+                        >
+                          <span
+                            className="btn btn-outline"
+                            onClick={ttdeToggleVisibility}
+                          >
+                            Expand to read more
+                          </span>
+                        </div>
+                      </>
+                    )}
                   </div>
                 </div>
               </div>

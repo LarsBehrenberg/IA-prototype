@@ -217,13 +217,14 @@ const Index = ({ data }) => {
         {categorizedData
           ? categorizedData.map(({ node }) => {
               const { id, excerpt, frontmatter } = node
-              const { cover, path, title, date } = frontmatter
+              const { cover, path, title, date, subTitle } = frontmatter
               return (
                 <PostList
                   key={id}
                   cover={cover.childImageSharp.fluid}
                   path={path}
                   title={title}
+                  subTitle={subTitle}
                   date={date}
                   excerpt={excerpt}
                   view={state.currentView}
@@ -255,6 +256,7 @@ export const query = graphql`
           excerpt(pruneLength: 150)
           frontmatter {
             title
+            subTitle
             path
             tags
             date(formatString: "dddd, MMMM Do YYYY")

@@ -2,8 +2,8 @@
 id: post-jFlOGR7-_
 path: top-10-impressionist-paintings
 date: 2020-06-05T01:12:01.674Z
-subTitle: Our
-title: Top 10 Impressionist Paintings
+subTitle: Our Top 10
+title: Impressionist Paintings
 tags: More
 cover: /assets/10-paintings-manet-dejuner-sur-lherbe.jpg
 links:

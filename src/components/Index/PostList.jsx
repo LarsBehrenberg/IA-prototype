@@ -182,16 +182,17 @@ const Info = styled.div`
 
 const Title = styled.h2`
   margin-bottom: 0.6rem;
+  margin-top: 0.4rem;
 `
 
-const PostList = ({ date, cover, path, title, excerpt, view }) => (
+const PostList = ({ date, cover, path, title, excerpt, view, subTitle }) => (
   <Wrapper className={`${view}-view`} to={`/${path}`}>
     <Image className={`${view}-view list-image-container`}>
       <Img fluid={cover} alt={title} />
     </Image>
     <StyledLink className={`${view}-view`}>
       <Info className={`${view}-view`}>
-        {/* <span>{date}</span> */}
+        <span>{subTitle}</span>
         <Title>{title}</Title>
         <span>
           {view === 'grid' ? `${excerpt.substring(0, 75)}...` : excerpt}

@@ -16,7 +16,7 @@ const ResultWrapper = styled.div`
     0 2px 10px 0 rgba(34, 36, 38, 0.15);
   border: 1px solid #d4d4d5;
 
-  max-width: 1500px;
+  max-width: 800px;
   display: flex;
   flex-flow: row wrap;
 `
@@ -62,7 +62,7 @@ const SearchResults = ({ searchResults }) => (
   <>
     {searchResults !== null ? (
       <ResultWrapper>
-        {searchResults.map(({ node }) => {
+        {searchResults.slice(0, 16).map(({ node }) => {
           const { frontmatter } = node
           const { cover, path, title, id } = frontmatter
           return (

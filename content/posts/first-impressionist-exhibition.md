@@ -2,7 +2,7 @@
 id: post-ZhQwecaum
 path: first-impressionist-exhibition
 date: 2020-06-04T06:32:12.754Z
-subTitle: THE 1874
+subTitle: The 1874
 title: First Impressionist Exhibition
 tags: Exhibitions
 cover: /assets/first-exhibition-postcard-of-paris-boulevard-des-capucines.jpg

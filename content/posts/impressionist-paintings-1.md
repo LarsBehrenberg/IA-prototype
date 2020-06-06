@@ -53,7 +53,7 @@ textSections:
       #### The painting
 
 
-      Of the five versions of the Card Players that [Paul Cezanne](https://impressionistarts.com/paul-cezanne-biography.html) painted in the early to mid-1890s, this work is thought to be the last.
+      Of the five versions of the Card Players that [Paul Cezanne](/paul-cezanne-biography) painted in the early to mid-1890s, this work is thought to be the last.
 
 
       It is certainly the most stripped-back of the collection, the earliest members of which feature three card players. The men playing cards are farmhands from Cezanne's beloved Provence that the artist paid to model for him.
@@ -109,7 +109,7 @@ textSections:
       The painting was sold by Betsey Whitney (a philanthropist and former daughter-in-law of John F Kennedy) to Ryoei Saito (the chairman of a Japanese paper manufacturing company) at an auction at [Sotheby's New York](https://www.telegraph.co.uk/art/what-to-see/the-most-expensive-artworks-in-pictures/renoir-bal-du-moulin-de-la-galette/).
 
 
-      At the time, it was the second most expensive painting of any type ever sold (second to [van Gogh's](https://impressionistarts.com/van-gogh-biography.html) Portrait of Dr. Gachet). It is now thought to be housed in a private collection in Switzerland, with the larger version in the permanent collection of the Musee d'Orsay. The painting's first owner was the impressionist [Gustave Caillebotte](https://impressionistarts.com/gustave-caillebotte-biography.html).
+      At the time, it was the second most expensive painting of any type ever sold (second to [van Gogh's](/van-gogh-biography) Portrait of Dr. Gachet). It is now thought to be housed in a private collection in Switzerland, with the larger version in the permanent collection of the Musee d'Orsay. The painting's first owner was the impressionist [Gustave Caillebotte](/gustave-caillebotte-biography).
 
 
       <div class="interesting">
@@ -118,7 +118,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      [Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography.html) was the son of a tailor and a seamstress. He started his artistic career at the age of 13 when he was apprenticed to a porcelain manufacturer. Renoir painted crockery for a number of years and was known by his co-workers as "Monsieur Rubens" because of his speed and skill.
+      [Auguste Renoir](/pierre-auguste-renoir-biography) was the son of a tailor and a seamstress. He started his artistic career at the age of 13 when he was apprenticed to a porcelain manufacturer. Renoir painted crockery for a number of years and was known by his co-workers as "Monsieur Rubens" because of his speed and skill.
 
 
       </div>
@@ -162,7 +162,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      [Paul Cezanne](https://impressionistarts.com/paul-cezanne-biography.html) was an odd character. The first time he was introduced to fellow impressionist Edouard Manet, he refused to shake Manet's hand because he "hadn't washed in two weeks".
+      [Paul Cezanne](/paul-cezanne-biography) was an odd character. The first time he was introduced to fellow impressionist Edouard Manet, he refused to shake Manet's hand because he "hadn't washed in two weeks".
 
 
       </div>
@@ -207,7 +207,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      [Claude Monet](https://impressionistarts.com/claude-monet-biography.html) lived much of his early life as a painter in poverty. He often sent begging letters to his friends and supporters, asking for as little as 20 francs (because, for example, the baker or the butcher would give him no more credit and he could not feed his wife and young family).
+      [Claude Monet](/claude-monet-biography) lived much of his early life as a painter in poverty. He often sent begging letters to his friends and supporters, asking for as little as 20 francs (because, for example, the baker or the butcher would give him no more credit and he could not feed his wife and young family).
 
 
       </div>
@@ -248,7 +248,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      [Paul Cezanne](https://impressionistarts.com/paul-cezanne-biography.html) had a difficult relationship with his father. For example, he kept the fact that he had a son secret for almost a decade (his father discovering it when he opened some post and saw a reference to "Little Paul").
+      [Paul Cezanne](/paul-cezanne-biography) had a difficult relationship with his father. For example, he kept the fact that he had a son secret for almost a decade (his father discovering it when he opened some post and saw a reference to "Little Paul").
 
 
       </div>
@@ -366,7 +366,7 @@ textSections:
       #### The painting
 
 
-      This is another enormous painting, measuring 160.3 by 180 centimetres. But, in contrast to the [first](https://impressionistarts.com/most-expensive-impressionist-paintings.html#4) Water Lily painting on our list, Nympheas en Fleur is a study of a much smaller section of Monet's lily ponds.
+      This is another enormous painting, measuring 160.3 by 180 centimetres. But, in contrast to the [first](/most-expensive-impressionist-paintings#4) Water Lily painting on our list, Nympheas en Fleur is a study of a much smaller section of Monet's lily ponds.
 
 
       It was painted in a burst of creativity between 1914 and 1917, when Monet threw himself into his work painting 60 canvasses while the first world war was taking place just hundreds of kilometres away (Giverny is about 150 kms from the Somme).
@@ -407,7 +407,7 @@ textSections:
       It recently fetched $65 million when auctioned by Christie's in New York in November 2011, giving it an adjusted price of $75.9 million
 
 
-      By 1881, when Spring was produced, Manet was [seriously ill](https://impressionistarts.com/edouard-manet-biography.html#5). He had contracted syphilis in his youth and it was attacking his nerves and impairing his ability to walk. He followed his doctors' orders, which normally involved taking the waters at a thermal spa, but this did little to alleviate his symptoms.
+      By 1881, when Spring was produced, Manet was [seriously ill](/edouard-manet-biography#5). He had contracted syphilis in his youth and it was attacking his nerves and impairing his ability to walk. He followed his doctors' orders, which normally involved taking the waters at a thermal spa, but this did little to alleviate his symptoms.
 
 
       But Manet never stopped painting, though his illness often meant that he could no longer paint out of doors or in situ (his most famous late work, the Bar at the Folies Bergeres, was painted from a reconstructed bar in his studio).
@@ -428,7 +428,7 @@ textSections:
       Spring was the first of an intended set of four paintings, depicting the four seasons. It features a young and aspiring actress, Jeanne Demarsy. In the event, only Spring and Winter were produced before Manet's death.
 
 
-      The picture is important because it was the final critical success of Manet's career. Positive feedback was rare for Manet, who threw down the gauntlet to the conservative art establishment in the early 1860s with works such as [Dejuner sur l'herbe](https://impressionistarts.com/top-10-impressionist-paintings.html#1) and [Olympia](https://impressionistarts.com/top-10-impressionist-paintings.html#2). This was one of the many ways in which Manet inspired the other impressionists.
+      The picture is important because it was the final critical success of Manet's career. Positive feedback was rare for Manet, who threw down the gauntlet to the conservative art establishment in the early 1860s with works such as [Dejuner sur l'herbe](/top-10-impressionist-paintings#1) and [Olympia](/top-10-impressionist-paintings#2). This was one of the many ways in which Manet inspired the other impressionists.
     sideGalleryImages:
       - imageTitle: Edouard Manet's Spring (Jeanne Demarsy) was sold in 2011 for $65
           million
@@ -486,7 +486,7 @@ textSections:
       #### Degas
 
 
-      Born in 1834, [Edgar Degas](https://impressionistarts.com/edgar-degas-biography.html) was one of the older impressionists. He was great friends with Manet but differed in personality: he was rude and demanding.
+      Born in 1834, [Edgar Degas](/edgar-degas-biography) was one of the older impressionists. He was great friends with Manet but differed in personality: he was rude and demanding.
 
 
       His father's bank failed in the early 1870s meaning that Degas actually had to sell his works to survive. Fortunately, it was at about this time that he became obsessed with painting ballet dancers.
@@ -549,7 +549,7 @@ textSections:
       <h4><img src="logo/palette.png"> Interesting fact...</h4>
 
 
-      Manet was slightly older than the rest of the impressionists and was the first to take on the conservative art establishment. He shocked the art world with his painting of a naked and unapologetic Parisian prostitute, exhibited in the Salon in 1865. The work, called [Olympia](https://impressionistarts.com/top-10-impressionist-paintings.html#2), is perhaps the most controversial work of all time.
+      Manet was slightly older than the rest of the impressionists and was the first to take on the conservative art establishment. He shocked the art world with his painting of a naked and unapologetic Parisian prostitute, exhibited in the Salon in 1865. The work, called [Olympia](/top-10-impressionist-paintings#2), is perhaps the most controversial work of all time.
 
 
       </div>
@@ -573,16 +573,16 @@ textSections:
       | $19.9m       | $38.3m         | Feb 2014      | Undisclosed  |
 
 
-      ### [Camille Pissarro's](https://impressionistarts.com/camille-pissarro-biography.html) Le Boulevard de Montmartre, Matinée de Printemps (Spring Morning) is the first Pissarro on our list.
+      ### [Camille Pissarro's](/camille-pissarro-biography) Le Boulevard de Montmartre, Matinée de Printemps (Spring Morning) is the first Pissarro on our list.
 
 
       It sold for £19.9 million when auctioned by Sotheby's in London in February 2014, giving it an adjusted price of $38.3 million.
 
 
-      The Boulevard Montmatre series of 14 canvasses is Pissarro's piece de resistance. Painted between 10 February and 17 April 1897, Pissarro captured the famous street at different times of the day and in different weather conditions. His Boulevard Montmatre at night, housed in London's National Gallery, is probably the jewel in the crown and is one of our [top 10 impressionist paintings](https://impressionistarts.com/top-10-impressionist-paintings.html).
+      The Boulevard Montmatre series of 14 canvasses is Pissarro's piece de resistance. Painted between 10 February and 17 April 1897, Pissarro captured the famous street at different times of the day and in different weather conditions. His Boulevard Montmatre at night, housed in London's National Gallery, is probably the jewel in the crown and is one of our [top 10 impressionist paintings](/top-10-impressionist-paintings).
 
 
-      Pissarro has a long list of other achievements. Born in St Thomas in the Dutch East Indies in 1830, Pissarro was sent to boarding school in France at the age of 12 and studied the French masters. Initially drawn to the realist painting style of [Corot](https://impressionistarts.com/jean-baptiste-camille-corot-biography.html) and [Courbet](https://impressionistarts.com/gustave-courbet-biography.html), Pissarro met fellow impressionists Manet, Monet and Cezanne in the early 1860s.
+      Pissarro has a long list of other achievements. Born in St Thomas in the Dutch East Indies in 1830, Pissarro was sent to boarding school in France at the age of 12 and studied the French masters. Initially drawn to the realist painting style of [Corot](/jean-baptiste-camille-corot-biography) and [Courbet](/gustave-courbet-biography), Pissarro met fellow impressionists Manet, Monet and Cezanne in the early 1860s.
 
 
       He went on to become the glue that held the impressionist group, and its numerous difficult characters, together. Thus, he was involved in organising a number of the independent impressionist exhibitions, and has the distinction of being the only major impressionist to have exhibited in all eight exhibitions held between 1874 and 1886. Cezanne said of Pissarro:
@@ -1218,7 +1218,7 @@ Cezanne's The Card Players tops our list, having been sold for $259 million in 2
 
 Paul Cezanne has three works in the top five, with works by Pierre-Auguste Renoir, Claude Monet and Edouard Manet all making the top ten. And the list of the top 20 dearest impressionist paintings is dominated by Claude Monet, with 12 entries.
 
-The impressionist market show no sign of cooling off: one of[Monet's Haystacks](https://impressionistarts.com/most-expensive-impressionist-paintings.html#6)was sold by Sotheby's New York in May 2019 for $110.7 million.
+The impressionist market show no sign of cooling off: one of[Monet's Haystacks](/most-expensive-impressionist-paintings#6)was sold by Sotheby's New York in May 2019 for $110.7 million.
 
 Other entries in the list are by lesser known impressionists including Berthe Morisot, Frederic Bazille and Alfred Sisley.
 
