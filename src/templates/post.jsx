@@ -11,7 +11,8 @@ import Img from 'gatsby-image'
 
 let slideIndex = 1
 
-const Post = ({ data, pageContext }) => {
+const Post = ({ data, pageContext, location }) => {
+  const { pathname } = location
   const { next, prev } = pageContext
   const { html, frontmatter, excerpt, fields } = data.markdownRemark
   const {
@@ -211,6 +212,11 @@ const Post = ({ data, pageContext }) => {
                   title={textSections[index].textTitle}
                   text={fields.bodyText[index]}
                   textSectionImageArray={textSections[index].sideGalleryImages}
+                  currentPath={
+                    pathname.includes('most-expensive-impressionist-paintings')
+                      ? true
+                      : false
+                  }
                 />
               )
             })}

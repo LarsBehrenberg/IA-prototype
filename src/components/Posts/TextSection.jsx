@@ -5,14 +5,18 @@ import Img from 'gatsby-image'
 import { adsenseId } from '../../../config/site'
 import AdSense from 'react-adsense'
 
-const TextSection = ({
-  title,
-  text,
-  textSectionImageArray,
-  index,
-  showGallery,
-  openGallery,
-}) => {
+const TextSection = (
+  {
+    title,
+    text,
+    textSectionImageArray,
+    index,
+    showGallery,
+    openGallery,
+    currentPath,
+  },
+  { location }
+) => {
   function ttdeToggleVisibility() {
     document.getElementById(`site-text-more-button-${index + 1}`).remove()
     document.getElementById(`view-content-${index + 1}`).classList.add('auto')
@@ -79,9 +83,7 @@ const TextSection = ({
                 </div>
                 <div className="col-sm-9">
                   <div className="site-text">
-                    {window.location.pathname.includes(
-                      'most-expensive-impressionist-paintings'
-                    ) ? (
+                    {currentPath ? (
                       <>
                         {index > 13 ? (
                           <div dangerouslySetInnerHTML={{ __html: text }} />
