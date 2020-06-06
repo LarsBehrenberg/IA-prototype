@@ -803,7 +803,9 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | Glacons, Effet Blanc        | $19.603 million ($16.125 million)     | 6 Nov 2013  |
-    sideGalleryImages: []
+    sideGalleryImages:
+      - imageTitle: Monet's Glacons Effet Blanc sold for over $16 million in November 2013.
+        imageUrl: /assets/expensive-paintings-monet-glacons-effet-blanc.jpg
   - textTitle: "Monet: Giverny Grainstacks"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -812,6 +814,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | Les meules à Giverny (the Giverny Grainstacks)        | $19.068 million ($16.405 million)     | 15 May 2015  |
+    sideGalleryImages:
+      - imageTitle: Monet's Giverny Grainstacks, sold by Christie's New York in May 2015
+          for $16.4 million
+        imageUrl: /assets/expensive-paintings-monet-les-meules-a-giverny.jpg
   - textTitle: "Renoir: L'ombrelle"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -820,6 +826,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Pierre-Auguste Renoir       | L'ombrelle       | $18,758,585.47 (£9,673,250)     | 6 Feb 2013  |
+    sideGalleryImages:
+      - imageTitle: Renoir's Umbrella, sold by Christie's London for £9.673 million in
+          February 2013
+        imageUrl: /assets/expensive-paintings-renoir-umbrella-1878.jpg
   - textTitle: "Monnet: La Seine a Lavacourt"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -828,6 +838,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | La Seine a Lavacourt        | $16.855 million ($15,837,500.00 )     | 8 May 2018  |
+    sideGalleryImages:
+      - imageTitle: Monet's The Seine at Lavacourt, sold by Christie's New York for
+          $15.837 million in May 2018
+        imageUrl: /assets/expensive-paintings-monet-the-seine-at-lavacourt.jpg
   - textTitle: "Monet: Young Girl in the Giverny Garden"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -836,6 +850,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | Jeune fille dans le jardin de Giverny (Young Girl in the Giverny Garden)        | $16.836 million ($16,062,500)     | 11 Nov 2018  |
+    sideGalleryImages:
+      - imageTitle: Monet's Young Girl in the Giverny Garden, sold by Christie's New
+          York for $16.062 million in November 2018
+        imageUrl: /assets/expensive-paintings-monet-young-girl-in-the-giverny-garden.jpg
   - textTitle: "Monet: Snow Effect at Giverny"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -844,6 +862,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | Effet de neige à Giverny (Snow Effect at Giverny)        | $16.249 million ($15,000,000)     | 11 Nov 2018  |
+    sideGalleryImages:
+      - imageTitle: Monet's Snow Effect at Giverny, sold by Christie's New York for $15
+          million in November 2018
+        imageUrl: /assets/expensive-paintings-monet-effet-de-neige-a-giverny.jpg
   - textTitle: "Degas: Danseuses"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -852,6 +874,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Edgar Degas       | Danseuses        | $14.682 million ($10,722,500)     | 3 November 2009  |
+    sideGalleryImages:
+      - imageTitle: Degas' Danseuses was sold by Christie's New York for over $10.7
+          million in November 2009
+        imageUrl: /assets/expensive-paintings-edgar-degas-danseuses-1896.jpg
   - textTitle: "Monet: Au Parc Monceau"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -860,6 +886,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | Au Parc Monceau        | $14,436,900 (£6,313,250)     | 23 June 2009  |
+    sideGalleryImages:
+      - imageTitle: Monet's Au Parc Monceau was sold by Christie's London for £6.3
+          million in June 2009
+        imageUrl: /assets/expensive-paintings-monet-au-parc-monceau.jpg
   - textTitle: "Degas: Three Dancers"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -868,6 +898,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Edgar Degas       | Trois danseuses (Three Dancers)        | $13,866,951 ($11.925 million)     | 14 May 2015  |
+    sideGalleryImages:
+      - imageTitle: Degas' Three Dancers was sold by Christie's New York for almost $12
+          million in May 2015
+        imageUrl: /assets/expensive-paintings-edgar-degas-trois-danseuses.jpg
   - textTitle: "Manet: Lilac and Roses"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -876,6 +910,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Edouard Manet       | Lilas et Roses (Lilac and Roses)        | $13,805,423.31 ($12,968,750)     | 8 May 2018  |
+    sideGalleryImages:
+      - imageTitle: Manet's Lilas et Roses sold for almost $13 million in New York in
+          May 2018.
+        imageUrl: /assets/expensive-paintings-manet-lilas-et-roses.jpg
   - textTitle: "Renoir: Nude woman lying down"
     text: >-
       | Artist: |
@@ -885,6 +923,10 @@ textSections:
       | ------- | --------------------------------------------------------------- | ---------------------------- | ------------- |
 
       | Pierre-Auguste Renoir    | Femme nue couchée, Gabrielle (Gabrielle: Nude woman lying down) | $13,722,962 ($10,162,500)                        | 4 May 2010          |
+    sideGalleryImages:
+      - imageTitle: Renoir's Femme Nue Couchee sold for over $10 million in New York in
+          May 2010.
+        imageUrl: /assets/expensive-paintings-renoir-femme-nue-couchee.jpg
   - textTitle: "Renoir: Young Girls Playing at the Wheel"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -893,6 +935,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Pierre-Auguste Renoir       | Jeunes filles jouant au volant (Young Girls Playing at the Wheel)        | $13,626,567 ($11,365,000)     | 6 May 2014  |
+    sideGalleryImages:
+      - imageTitle: Renoir's Jeunes filles jouant au volant was sold by Christie's New
+          York for $11.36 million in May 2014
+        imageUrl: /assets/expensive-paintings-renoir-jeunes-filles-jouant-au-volant.jpg
   - textTitle: "Degas: In the Wings"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -901,6 +947,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Edgar Degas       | Dans les coulisses (In the Wings)        | $13.54 million (£9,233,750)     | 27 Feb 2018  |
+    sideGalleryImages:
+      - imageTitle: Degas' Dans les Coulisses (In the Wings) was sold by Christie's
+          London for over £9.2 million in February 2018
+        imageUrl: /assets/expensive-paintings-degas-in-the-wings.jpg
   - textTitle: "Morisot: Apres Le Dejeuner (After Lunch)"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -909,6 +959,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Berthe Morisot       | Apres Le Dejeuner (After Lunch)        | $13,150,582 (£6,985,250)     | 2 July 2013  |
+    sideGalleryImages:
+      - imageTitle: Berthe Morisot's Apres Le Dejuner was sold by Christie's London in
+          July 2013 for almost £7 million
+        imageUrl: /assets/expensive-paintings-berthe-morisot-apres-le-dejeuner.jpg
   - textTitle: "Pissarro: Rue Saint-Lazare in Daylight"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -917,6 +971,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Camille Pissarro       | La Rue Saint-Lazare, temps lumineux (Rue Saint-Lazare in Daylight)        | $12,947,065 ($12,350,000)     | 11 Nov 2018  |
+    sideGalleryImages:
+      - imageTitle: Pissarro's Rue Saint-Lazare in Daylight was sold by Christie's in
+          November 2018 for $12.35 million
+        imageUrl: /assets/expensive-paintings-camille-pissarro-rue-saint-lazare-temps-lumineux.jpg
   - textTitle: "Monet: Au Petit-Gennevilliers"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -925,6 +983,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | Au Petit-Gennevilliers        | $12,838,107 ($11,365,000)     | 12 May 2016  |
+    sideGalleryImages:
+      - imageTitle: Monet's Au Petit-Gennevilliers was sold by Christie's New York for
+          $11.3665 million in May 2016
+        imageUrl: /assets/expensive-paintings-claude-monet-au-petit-gennevilliers.jpg
   - textTitle: "Monet: Weeping Willow"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -933,6 +995,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | Saule pleureur (Weeping Willow)        | $12,648,368 (£8,901,000)     | 8 May 2018  |
+    sideGalleryImages:
+      - imageTitle: Monet's Saule Pleureur (Weeping Willow) was sold by Christie's
+          London for £8.9 million in May 2018
+        imageUrl: /assets/expensive-paintings-monet-saule-pleureur.jpg
   - textTitle: "Monet: La route de Vétheuil, effet de neige"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -941,6 +1007,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | La route de Vétheuil, effet de neige        | $12,549,578 ($11,447,500)     | 15 May 2017  |
+    sideGalleryImages:
+      - imageTitle: Monet's La route de Vétheuil, effet de neige was sold by Christie's
+          New York for $11.44 million in May 2017
+        imageUrl: /assets/expensive-paintings-monet-la-route-de-vetheuil-effet-de-neige.jpg
   - textTitle: "Manet: L'Italienne"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -949,6 +1019,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Edouard Manet       | L'Italienne        | $11,713,646 ($11,000,000)    | 15 May 2018  |
+    sideGalleryImages:
+      - imageTitle: Manet's l'Italienne was sold by Christie's New York for $11 million
+          in May 2018
+        imageUrl: /assets/expensive-paintings-edouard-manet-italienne.jpg
   - textTitle: "Cezanne: Trees and House next to the Water"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -957,6 +1031,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Paul Cezanne       | Arbres et Maison au bord to l'eau (Trees and House next to the Water)        | $11,685,301 ($11,137,400)     | 11 Nov 2018  |
+    sideGalleryImages:
+      - imageTitle: Cezanne's Arbres et Maison au bord to l'eau was sold by Sotheby's
+          New York for $11.137 million in November 2018
+        imageUrl: /assets/expensive-paintings-cezanne-arbres-et-maison-au-bord-de-leau.jpg
   - textTitle: "Monnet: Vétheuil"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -965,6 +1043,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | Vétheuil        | $11,254,057 (£7,546,250)     | 27 Feb 2018  |
+    sideGalleryImages:
+      - imageTitle: Monet's Vétheuil was sold by Christie's London for over £7.5 million
+          in February 2018
+        imageUrl: /assets/expensive-paintings-claude-monet-vetheuil.jpg
   - textTitle: "Monet: Prairie à Giverny"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -973,6 +1055,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | Prairie à Giverny        | $10,929,809 (£7,546,250)     | 27 Feb 2018  |
+    sideGalleryImages:
+      - imageTitle: Monet's Prairie à Giverny was sold by Christie's London for £5.081
+          million in June 2011
+        imageUrl: /assets/expensive-paintings-monet-prairie-a-giverny.jpg
   - textTitle: "Renoir: La source (Nu allongé)"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -981,6 +1067,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Pierre-Auguste Renoir       | La source (Nu allongé)        | $10,826,849 (£5,081,250)     | 21 June 2011  |
+    sideGalleryImages:
+      - imageTitle: Renoir's La source (Nu allongé) was sold by Christie's London for
+          £5.081 million in June 2011
+        imageUrl: /assets/expensive-paintings-renoir-la-source-nu-allonge.jpg
   - textTitle: "Cezanne: Apples on a cloth"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -989,6 +1079,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Paul Cezanne       | Pommes sur un linge (Apples on a cloth)        | $10,465,897 ($9,125,000)     | 12 Nov 2015  |
+    sideGalleryImages:
+      - imageTitle: Cezanne's Pommes sur un linge was sold by Christie's New York for
+          $9.125 million in November 2015
+        imageUrl: /assets/expensive-paintings-cezanne-pommes-sur-un-linge.jpg
   - textTitle: "Monet: Bouquet de Glaieuls, Lis et Marguerites"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -997,6 +1091,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | Bouquet of Gadiolas, Lilies and Dasies (Bouquet de Glaieuls, Lis et Marguerites)        | $10,032,629 ($9,556,800)     | 11 Nov 2018  |
+    sideGalleryImages:
+      - imageTitle: Monet's Bouquet of Gadiolas, Lilies and Dasies was sold by Sotheby's
+          New York for $9.556 million in November 2018
+        imageUrl: /assets/expensive-paintings-monet-bouqet-of-gadiolas-lillies-and-dasies.jpg
   - textTitle: "Monet: L'Ile aux Orties"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -1005,6 +1103,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Claude Monet       | L'Ile aux Orties        | $9,891,147 ($8,117,000)     | 5 Nov 2013  |
+    sideGalleryImages:
+      - imageTitle: Monet's L'Ile aux Orties was sold by Christie's New York for $8.11
+          million in November 2013
+        imageUrl: /assets/expensive-paintings-claude-monet-lile-aux-orties.jpg
   - textTitle: "Renoir: Gabrielle Au Miroir (Gabrielle at the Mirror)"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -1013,6 +1115,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Pierre-Auguste Renoir       | Gabrielle Au Miroir (Gabrielle at the Mirror)        | $9,684,750 ($9,087,500)     | 8 May 2018  |
+    sideGalleryImages:
+      - imageTitle: Renoir's Gabrielle Au Miroir (Gabrielle at the Mirror) was sold by
+          Christie's New York for $9.125 million in November 2015
+        imageUrl: /assets/expensive-paintings-renoir-gabrielle-au-miroir.jpg
   - textTitle: "Renoir: The Two Sisters"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -1021,6 +1127,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Pierre-Auguste Renoir       | Les deux soeurs (The Two Sisters)        | $9,613,505 ($8,005,000)     | 6 May 2014  |
+    sideGalleryImages:
+      - imageTitle: Renoir's Les deux soeurs (The Two Sisters) was sold by Christie's
+          New York for $8 million in May 2014
+        imageUrl: /assets/expensive-paintings-renoir-les-deux-soeurs.jpg
   - textTitle: "Cezanne: La Cote Saint Denis a Pontoise"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -1029,6 +1139,10 @@ textSections:
       | ----------- | --------------- | ------------- | -------------------------------- |
 
       | Paul Cezanne       | La Cote Saint Denis a Pontoise        | $9,489,232 ($8,647,500)     | 15 May 2017 |
+    sideGalleryImages:
+      - imageTitle: Cezanne's La Cote Saint Denis a Pontoise was sold by Christie's New
+          York for $8.64 million in May 2017
+        imageUrl: /assets/expensive-paintings-cezanne-a-cote-saint-denis-a-pontoise.jpg
   - textTitle: "Monet: Le Rio de la Salute"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
@@ -1036,39 +1150,59 @@ textSections:
 
       | ----------- | --------------- | ------------- | -------------------------------- |
 
-      | Name       | Name        | price     | Date  |
-  - textTitle: Title here
+      | Claude Monet       | Le Rio de la Salute        | $8,849,423 ($8,187,500)     | 23 Nov 2017  |
+    sideGalleryImages:
+      - imageTitle: Monet's Le Rio de la Salute was sold by Christie's New York for
+          $8.18 million in November 2017
+        imageUrl: /assets/expensive-paintings-claude-monet-le-rio-de-la-salute.jpg
+  - textTitle: "Caillebotte: Le Pont de l'Europe, esquisse"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
       Sale:            |
 
       | ----------- | --------------- | ------------- | -------------------------------- |
 
-      | Name       | Name        | price     | Date  |
-  - textTitle: Title here
+      | Gustave Caillebotte       | Le Pont de l'Europe, esquisse        | $8,849,423 ($8,187,500)     | 23 Nov 2017  |
+    sideGalleryImages:
+      - imageTitle: Caillebotte's Le Pont de l'Europe, esquisse was sold by Christie's
+          New York for $8.18 million in November 2017
+        imageUrl: /assets/expensive-paintings-gustave-caillebotte-le-pont-de-leurope-esquisse.jpg
+  - textTitle: "Renoir: Buste de femme, de profil"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
       Sale:            |
 
       | ----------- | --------------- | ------------- | -------------------------------- |
 
-      | Name       | Name        | price     | Date  |
-  - textTitle: Title here
+      | Pierre-Auguste Renoir       | Buste de femme, de profil        | $8,848,706 ($8,187,500)     | 23 Nov 2017  |
+    sideGalleryImages:
+      - imageTitle: Renoir's Buste de femme, de profil was sold by Christie's New York
+          for $8.18 million in November 2017
+        imageUrl: /assets/expensive-paintings-renoir-buste-de-femme-de-profil.jpg
+  - textTitle: "Cezanne: Nature Morte"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
       Sale:            |
 
       | ----------- | --------------- | ------------- | -------------------------------- |
 
-      | Name       | Name        | price     | Date  |
-  - textTitle: Title here
+      | Paul Cezanne       | Nature Morte        | $8,793,338 ($8,131,000)     | 14 Nov 2017  |
+    sideGalleryImages:
+      - imageTitle: Cezanne's Nature Morte was sold by Sotheby's New York for $8.13
+          million in November 2017
+        imageUrl: /assets/expensive-paintings-cezanne-nature-morte.jpg
+  - textTitle: "Monet: Le Givre (The Frost)"
     text: >-
       | Artist: | Work: | Adjusted price (sale price): |       Date of
       Sale:            |
 
       | ----------- | --------------- | ------------- | -------------------------------- |
 
-      | Name       | Name        | price     | Date  |
+      | Claude Monet       | Le Givre (The Frost)        | $7,221,000 ($8,423,480)     | 6 May 2014  |
+    sideGalleryImages:
+      - imageTitle: Monet's Le Givre (The Frost) was sold by Christie's New York for
+          $7.221 million in May 2014
+        imageUrl: /assets/expensive-paintings-monet-le-givre-the-frost.jpg
 ---
 ## Impressionist paintings are some of the most sought after in the international art market.
 
