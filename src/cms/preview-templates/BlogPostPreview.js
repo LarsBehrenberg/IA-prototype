@@ -143,6 +143,9 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
             //     document.getElementById("view-content-"+(index+1)).classList.add("auto")
             // }
 
+            const hasSideGallery = array =>
+              array === undefined || array.length === 0 ? true : false
+
             return (
               <div className="container" id={index + 1}>
                 <div className="row">
@@ -152,14 +155,13 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
                         {index + 1}. {textBlock.getIn(['data', 'textTitle'])}
                       </h2>
                       <div className="row">
-                        {data.textSections[index].sideGalleryImages !==
-                          undefined ||
-                        data.textSections[index].sideGalleryImages.length !==
-                          0 ? (
+                        {hasSideGallery(
+                          data.textSections[index].sideGalleryImages
+                        ) ? null : (
                           <div className="col-sm-3">
                             <div className="smallery">
                               {data.textSections[index].sideGalleryImages.map(
-                                (image, curr) => (
+                                image => (
                                   <div className="smallery-item-wrp ttdegalleryitem">
                                     <figure className="smallery-item-psn">
                                       <a className="smallery-item-uri">
@@ -175,28 +177,27 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
                               )}
                             </div>
                           </div>
-                        ) : null}
+                        )}
                         <div
                           className={
-                            data.textSections[index].sideGalleryImages !==
-                              undefined ||
-                            data.textSections[index].sideGalleryImages
-                              .length !== 0
-                              ? 'col-sm-9'
-                              : 'col-sm-12'
+                            hasSideGallery(
+                              data.textSections[index].sideGalleryImages
+                            )
+                              ? ''
+                              : 'col-sm-9'
                           }
                         >
-                          <div className="site-text">
-                            <div
-                              className="site-text-less auto"
-                              id="view-content-1"
-                            >
-                              <div id="view-content-height-1">
-                                <div>
-                                  {textBlock.getIn(['widgets', 'text'])}
-                                </div>
-                              </div>
-                            </div>
+                          <div
+                            className="site-text"
+                            style={
+                              hasSideGallery(
+                                data.textSections[index].sideGalleryImages
+                              )
+                                ? { padding: '0 15px' }
+                                : {}
+                            }
+                          >
+                            <div>{textBlock.getIn(['widgets', 'text'])}</div>
                             {/* <div className="site-text-more" id={"site-text-more-button-"+(index+1)}>
                                             <a className="btn btn-outline" onClick={ttdeToggleVisibility}>Expand to read more</a>
                                           </div> */}
