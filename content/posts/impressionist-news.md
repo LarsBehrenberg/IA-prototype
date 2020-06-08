@@ -2,7 +2,7 @@
 id: post-JcdFACMUe
 path: impressionism-news
 date: 2020-05-05T06:45:19.751Z
-subTitle: '2020'
+subTitle: "2020"
 title: Impressionism News
 tags: More
 cover: /assets/berthe-morisot-grain-field.jpg
@@ -65,6 +65,7 @@ textSections:
 
       #### April 2020
     buttonToggle: true
+    sideGalleryImages: []
 ---
 
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.
