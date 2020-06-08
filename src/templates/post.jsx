@@ -11,8 +11,7 @@ import Img from 'gatsby-image'
 
 let slideIndex = 1
 
-const Post = ({ data, pageContext, location }) => {
-  const { pathname } = location
+const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext
   const { html, frontmatter, excerpt, fields } = data.markdownRemark
   const {
@@ -212,11 +211,7 @@ const Post = ({ data, pageContext, location }) => {
                   title={textSections[index].textTitle}
                   text={fields.bodyText[index]}
                   textSectionImageArray={textSections[index].sideGalleryImages}
-                  currentPath={
-                    pathname.includes('most-expensive-impressionist-paintings')
-                      ? true
-                      : false
-                  }
+                  buttonToggle={textSections[index].buttonToggle}
                 />
               )
             })}
@@ -388,7 +383,9 @@ export const query = graphql`
         }
         textSections {
           textTitle
+          buttonToggle
           sideGalleryImages {
+            imageTitle
             imageUrl {
               thumbImage: childImageSharp {
                 fixed(width: 200) {
@@ -401,7 +398,6 @@ export const query = graphql`
                 }
               }
             }
-            imageTitle
           }
         }
         cover {

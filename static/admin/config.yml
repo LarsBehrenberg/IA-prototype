@@ -179,6 +179,10 @@ collections:
               required: true,
               hint: 'This text of the text section',
             }
+          - label: 'Toggle Read-More Button'
+            name: buttonToggle
+            widget: boolean
+            default: true
           - label: 'Side Gallery'
             name: 'sideGalleryImages'
             widget: 'list'

@@ -56,6 +56,7 @@ textSections:
 
 
       After a brief time pursuing a career in the clergy, where Vincent donated all his possessions to coal-miners in South Belgium and was rejected from the church for being too extreme in his piety, he finally settled on becoming an artist. His reason for seeking out the career was a method of bringing him closer to God.
+    buttonToggle: true
     sideGalleryImages:
       - imageUrl: /assets/van-gogh-1873.jpg
         imageTitle: Vincent van Gogh in 1873, when he worked at the Goupil & Cie gallery in The Hague
@@ -115,6 +116,7 @@ textSections:
 
 
       This painting contrasts heavily with the airy, colourful scenes of the Monet, [Renoir](/pierre-auguste-renoir-biography) and many other Impressionists. van Gogh’s deliberate shunning of the beauty and carefree style of the Impressionists showed his commitment to pursuing his own unique style. However, as a result of this individualist attitude, van Gogh was penniless. This canvas was unsellable, despite Theo’s stoic efforts.
+    buttonToggle: true
     sideGalleryImages:
       - imageUrl: /assets/van-gogh-bleaching-ground-at-scheveningen.jpg
         imageTitle: leachery at Scheveningen by Vincent Van Gogh, 1882
@@ -163,6 +165,7 @@ textSections:
 
 
       Similarly, many of van Gogh’s mature paintings have a linear quality to them that mimics Japanese artworks. He combined these strong lines with the loose brushwork of the Impressionists, whilst using his own distinct colour palette. In doing so, van Gogh began creating works that were highly unique and instantly recognisable, differing from any other artist painting at the time.
+    buttonToggle: true
     sideGalleryImages:
       - imageUrl: /assets/van-gogh-flowering-plum-orchard.jpg
         imageTitle: Flowering Plum Orchard by Vincent Van Gogh (after Hiroshige), 1887. Van Gogh Museum, Amsterdam
@@ -234,6 +237,7 @@ textSections:
 
 
       Van Gogh died in his Theo’s arms two days later. He left him his entire collection of artworks.
+    buttonToggle: true
     sideGalleryImages:
       - imageUrl: /assets/van-gogh-olive-trees.jpg
         imageTitle: Olive Trees with the Alpilles in the Background by Vincent Van Gogh, 1889. Museum of Modern Art, New York
@@ -260,6 +264,7 @@ textSections:
 
 
       Over the course of his artistic career, van Gogh produced 900 paintings and over 1,100 drawings and sketches. Despite this, his talent went unnoticed by the French art market. He sold just one painting while he was alive.
+    buttonToggle: true
     sideGalleryImages:
       - imageUrl: /assets/van-gogh-newspaper-article.jpg
         imageTitle: Article on Van Gogh's death from L'Écho Pontoisien, 7 August 1890
