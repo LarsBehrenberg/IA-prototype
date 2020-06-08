@@ -103,6 +103,7 @@ textSections:
       - imageTitle: The picnic in the bottom left hand corner of Manet's dejuner sur
           l'herbe
         imageUrl: /assets/10-paintings-manet-picnic-dejuner-sur-lherbe.jpg
+    buttonToggle: true
   - textTitle: Olympia (Manet, 1863)
     text: >-
       ### Though painted in 1863, Manet hid Olympia in his studio for 18 months
@@ -164,6 +165,7 @@ textSections:
       - imageTitle: "The defiant gaze of Olympia: she wasn't going to apologise for her
           way of life!"
         imageUrl: /assets/10-paintings-manet-olympia-close-up.jpg
+    buttonToggle: true
   - textTitle: Impression Sunrise (Monet, 1871)
     text: >-
       ### Impression Sunrise is the work that coined the word "Impressionism".
@@ -223,6 +225,7 @@ textSections:
         imageUrl: /assets/10-paintings-monet-impression-sunrise-close-up-boat.jpg
       - imageTitle: The sun is the focal point of Monet's Impression Sunrise
         imageUrl: /assets/10-paintings-monet-impression-sunrise-close-up-sun.jpg
+    buttonToggle: true
   - textTitle: The Dance Class (Degas, 1870-1874)
     text: >-
       ### Degas’ Dance Class series, painted at the rehearsal rooms of the Paris
@@ -288,6 +291,7 @@ textSections:
       - imageTitle: Degas, a difficult personality, is also famous for his works of
           jockeys and race courses
         imageUrl: /assets/10-paintings-edgar-degas-the-dance-class-stairs.jpg
+    buttonToggle: true
   - textTitle: Gare Saint-Lazare (Monet, 1877)
     text: >-
       ### In 1877, Monet had a very good idea: he would paint fog.
@@ -348,6 +352,7 @@ textSections:
         imageUrl: /assets/10-paintings-monet-arrival-normandy-train-gare-saint-lazare.jpg
       - imageTitle: Monet's Goods Sheds at the Gare Saint Lazare
         imageUrl: /assets/10-paintings-monet-goods-sheds-saint-lazare-station.jpg
+    buttonToggle: true
   - textTitle: Luncheon at the Boating Lake (Renoir, 1880-1)
     text: >-
       ### Luncheon at the Boating Lake is a classic Renoir: it is contemporary,
@@ -416,6 +421,7 @@ textSections:
       - imageTitle: The impressionist painter Caillebotte is one of the other figures in
           Luncheon at the Boating Lake
         imageUrl: /assets/10-paintings-renoir-gustave-caillebotte-luncheon-boating-lake.jpg
+    buttonToggle: true
   - textTitle: Bar at the Folies-Bergere (Manet, 1882)
     text: >-
       ### By 1882, Manet was dying of tertiary syphilis.
@@ -478,6 +484,7 @@ textSections:
         imageUrl: /assets/10-paintings-manet-barmaid-suzon-folies-bergere.jpg
       - imageTitle: It is a fascinating work of the eponymous popular Parisian nightclub.
         imageUrl: /assets/10-paintings-manet-tangerines-bar-folies-bergere.jpg
+    buttonToggle: true
   - textTitle: The Card Players (Cezanne, 1890)
     text: >-
       ### Cézanne is most famous for his series of five Card Players. One of the
@@ -542,6 +549,7 @@ textSections:
         imageUrl: /assets/10-paintings-paul-cezanne-card-players-white-pipe.jpg
       - imageTitle: It is a fascinating work of the eponymous popular Parisian nightclub.
         imageUrl: /assets/10-paintings-paul-cezanne-three-card-players.jpg
+    buttonToggle: true
   - textTitle: Boulevard Montmatre (Pissarro, 1897)
     text: >-
       ### Pissarro may not be the most famous impressionist. But he was the glue
@@ -587,6 +595,7 @@ textSections:
         imageUrl: /assets/10-paintings-pissarro-boulevard-montmatre.jpg
       - imageTitle: Sunset over Pissarro's Boulevard Montmatre
         imageUrl: /assets/10-paintings-pissarro-boulevard-montmatre-sunset.jpg
+    buttonToggle: true
   - textTitle: Water Lilies (Monet, 1895-1926)
     text: >-
       ### Monet, the most famous impressionist today, is best known for his
@@ -663,6 +672,7 @@ textSections:
         imageUrl: /assets/10-paintings-claude-monet-japanese-footbridge.jpg
       - imageTitle: The paintings vary widely in their size and in the colours used.
         imageUrl: /assets/10-paintings-claude-monet-water-lily-pond.jpg
+    buttonToggle: true
   - textTitle: "Bonus entries: Vincent van Gogh"
     text: >-
       ### Van Gogh is one of the world's most famous artists on account of his
@@ -703,6 +713,7 @@ textSections:
         imageUrl: /assets/10-paintings-van-gogh-irises.jpg
       - imageTitle: The paintings vary widely in their size and in the colours used.
         imageUrl: /assets/10-paintings-van-gogh-sunflowers.jpg
+    buttonToggle: true
 ---
 ## Selecting the top 10 impressionist works is a difficult job.
 

@@ -82,6 +82,7 @@ textSections:
           "'Olympia' by Monet, 1863 was also highly critized: “never has a
           painting received more laughter, mockery and catcalls”"
         imageUrl: /assets/first-exhibition-monet-olympia-1863.jpg
+    buttonToggle: true
   - textTitle: Organisation
     text: >-
       ### The main organisers of the first exhibition were Monet, Pissarro,
@@ -166,6 +167,7 @@ textSections:
         imageUrl: /assets/first-exhibition-cham-caricature-in-1874.jpg
       - imageTitle: The cover of the catalog of the first impressionist exhibition in 1874
         imageUrl: /assets/first-exhibition-catalog-cover-impressionist-exhibition-1874.jpg
+    buttonToggle: true
   - textTitle: Paintings on display
     text: >-
       ### The most famous painting to be displayed was Claude Monet’s Impression
@@ -199,6 +201,7 @@ textSections:
           "'The Hanged Man's House in Auvers' by Paul Cezanne, 1873 currently
           at Musée d'Orsay, Paris, France"
         imageUrl: /assets/first-exhibition-cezanne-the-hanged-man-s-house-in-auvers-1873.jpg
+    buttonToggle: true
   - textTitle: Hostile reviews
     text: >-
       ### The reviews were overwhelmingly negative.
@@ -254,6 +257,7 @@ textSections:
           "'Reading' by Berthe Morisot, 1873 currently at Cleveland Museum of
           Art, US"
         imageUrl: /assets/first-exhibition-morisot-reading-1873.jpg
+    buttonToggle: true
   - textTitle: What happened next?
     text: >-
       ### Though the exhibition was a bust commercially, Monet managed to sell
@@ -284,6 +288,7 @@ textSections:
           "'The Luncheon on the Grass (Le déjeuner sur l'herbe)' by Edouard
           Manet, 1863"
         imageUrl: /assets/first-exhibition-manet-luncheon-on-the-grass.jpg
+    buttonToggle: true
 ---
 
 ## The First Impressionist Exhibition took place in April-May 1874 in a gallery on Rue du Capucines in Paris.

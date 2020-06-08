@@ -82,6 +82,7 @@ textSections:
         imageUrl: /assets/renoir-lise-sewing-auguste-1866.jpg
       - imageTitle: Frederic Bazille's portrait of a young Renoir.
         imageUrl: /assets/renoir-frederic-bazille-young.jpg
+    buttonToggle: true
   - textTitle: The early impressionist years
     text: >-
       ### The early years of Renoir's career were difficult: he had to scrimp
@@ -196,6 +197,7 @@ textSections:
       - imageTitle: Renoir's La Grenouillere (the Frogpond) is remarkably similar to
           Monet's work of the same name.
         imageUrl: /assets/renoir-la-grenouillere-the-frogpond.jpg
+    buttonToggle: true
   - textTitle: "Renoir comes of age: 1873-1882"
     text: >-
       ### Renoir came of age in the decade following the Prussian war.
@@ -340,6 +342,7 @@ textSections:
         imageUrl: /assets/renoir-at-the-theatre.jpg
       - imageTitle: Renoir's painting of Monet at work in his garden at Argenteuil
         imageUrl: /assets/renoir-monet-painting-in-his-garden-at-argenteuil.jpg
+    buttonToggle: true
   - textTitle: Renoir's Dry Period
     text: >-
       ### Renoir travelled to Italy in 1881 and was awe-struck by the Titian and
@@ -394,6 +397,7 @@ textSections:
       - imageTitle: Renoir's The Umbrellas is certainly a striking painting. But is it
           lacking in charm and intimacy?
         imageUrl: /assets/renoir-the-umbrellas.jpg
+    buttonToggle: true
   - textTitle: Renoir's Later Years
     text: >-
       ### Renoir’s later years were mixed: he suffered from ill-health, but
@@ -487,6 +491,7 @@ textSections:
         imageUrl: /assets/renoir-terrace-at-cagnes-1905.jpg
       - imageTitle: Renoir's Gabrielle with Jewels, painted in 1910
         imageUrl: /assets/renoir-gabrielle-with-jewels-1910.jpg
+    buttonToggle: true
   - textTitle: Renoir's Legacy
     text: >-
       ### Renoir, one of the core impressionists, gave the world a substantial
@@ -543,6 +548,7 @@ textSections:
       - imageTitle: Renoir's The Doges Palace, from 1881, comes towards the end of his
           trimphant decade of impressionist painting.
         imageUrl: /assets/renoir-the-doges-palace-venice-1881.jpg
+    buttonToggle: true
 ---
 ## Pierre-Auguste Renoir was born in 1842 in Limoges, southern France.
 

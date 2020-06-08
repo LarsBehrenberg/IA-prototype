@@ -80,6 +80,7 @@ textSections:
         imageUrl: /assets/emile-zola-second-wife-rozerot.jpg
       - imageTitle: Emile Zola with his children and wife Jeanne Rozerot
         imageUrl: /assets/emile-zola-family-photograph.jpg
+    buttonToggle: true
   - textTitle: Zola’s writing
     text: >-
       ### The experiences of Zola’s childhood and romances would become one of
@@ -119,6 +120,7 @@ textSections:
           The 1892 and final tree, annotated by Zola and which published in
           1893 with his final novel Le Docteur Pascal
         imageUrl: /assets/emile-zola-rougon-family-tree.jpg
+    buttonToggle: true
   - textTitle: Zola and the Impressionists
     text: >-
       ### Zola’s early bohemian lifestyle inevitably led him towards the
@@ -174,6 +176,7 @@ textSections:
         imageUrl: /assets/emile-zola-taking-a-photograph.jpg
       - imageTitle: A photograph of Emile Zola middle-aged (© e-periodica, CC BY-SA 4.0)
         imageUrl: /assets/emile-zola-photograph-middle-aged.jpg
+    buttonToggle: true
   - textTitle: Zola’s legacy
     text: >-
       ### The death of the author death was as filled with drama as his life. On
@@ -213,6 +216,7 @@ textSections:
       - imageUrl: /assets/emile-zola-tomb.jpg
         imageTitle: The tomb of Émile Zola at the Panthéon in Paris. (© Lucas
           Werkmeister, CC BY 4.0)
+    buttonToggle: true
 ---
 
 ## Émile Édouard Charles Antoine Zola is arguably one of the most influential and controversial figures in the history of French literature.

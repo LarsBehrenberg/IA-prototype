@@ -104,6 +104,7 @@ textSections:
         imageUrl: /assets/claude-monet-view-at-rouelles.jpg
       - imageTitle: A photograph of the rather dashing Claude Monet, aged 25.
         imageUrl: /assets/claude-monet-aged-25.jpg
+    buttonToggle: true
   - textTitle: '1865-70: Early successes and failures'
     text: >-
       ### Monet was 25 in 1865. The next five years were mixed: he had success
@@ -206,6 +207,7 @@ textSections:
           "By contrast, Monet's 1867 Salon entry, was a complete flop: it was
           probably rightly rejected by the jury."
         imageUrl: /assets/claude-monet-women-in-the-garden.jpg
+    buttonToggle: true
   - textTitle: '1870-76: War, London and the early impressionist exhibitions'
     text: >-
       ### The early 1870s was an interesting time for Monet: he fled Paris for
@@ -297,6 +299,7 @@ textSections:
           1876. Whilst the reviews were again critical, he managed to sell
           Japanese Fans for 2,000 francs.
         imageUrl: /assets/claude-monet-camille-japanese-fans.jpg
+    buttonToggle: true
   - textTitle: '1876-1883: problems, tragedy and hope'
     text: >-
       ### The late 1870s and early 1880s were difficult for Monet: he had money
@@ -399,6 +402,7 @@ textSections:
           Gare Saint Lazare into thinking he was an important artist (which in
           those days he wasn't!)
         imageUrl: /assets/claude-monet-gare-saint-lazare-1877.jpg
+    buttonToggle: true
   - textTitle: '1883-1926: Giverny and Water Lilies'
     text: >-
       ### The Water Lilies, paintings of Monet's garden at his home in Giverny,
@@ -500,6 +504,7 @@ textSections:
       - imageTitle: Monet did more than paint water lilies at Giverny; this is a
           fabulously colourful verion of Rose Gardens
         imageUrl: /assets/claude-monet-giverny-rose-garden.jpg
+    buttonToggle: true
   - textTitle: Haystacks, Rouen Cathedral and more ...
     text: >-
       ### Monet is famous for a number of further series of works, including
@@ -557,6 +562,7 @@ textSections:
           Monet painted in London in 1891 and returned there a number of times
           over the years to paint the Houses of Parliament and Waterloo Bridge.
         imageUrl: /assets/claude-monet-houses-of-parliament-sunset.jpg
+    buttonToggle: true
   - textTitle: Legacy and resources
     text: >-
       ### Monet is rightly regarded as the greatest impressionist painter, for a
@@ -584,6 +590,7 @@ textSections:
           repeatedly returned to London to paint versions of both this subject
           and Westminster bridge.
         imageUrl: /assets/claude-monet-houses-of-parliament.jpg
+    buttonToggle: true
 ---
 
 ## Claude Monet is probably the most famous impressionist today. If you asked a man on the street to name an impressionist painting he would probably reply “water lilies”.

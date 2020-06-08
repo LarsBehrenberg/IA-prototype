@@ -69,6 +69,7 @@ textSections:
         imageTitle: "'Jeanne Durand Ruel', by Pierre Auguste Renoir in 1876"
       - imageTitle: "'Marie-Louise Durand-Ruel', by Pierre August Renoir in 1898"
         imageUrl: /assets/durand-ruel-daughter-marie-louise-painted-by-renoir.jpg
+    buttonToggle: true
   - textTitle: Durand-Ruel and the Barbizon School
     text: >-
       ### As an art collector, Durand-Ruel’s earliest focus was the artists
@@ -130,6 +131,7 @@ textSections:
           1931 until at least 1947, when it was exhibited at the Durand-Ruel
           Gallery in New York."
         imageUrl: /assets/durand-ruel-edgar-degas-woman-ironing.jpg
+    buttonToggle: true
   - textTitle: Durand-Ruel and the Impressionists
     text: >-
       ### Already a keen collector of the Barbizon School, Durand-Ruel was
@@ -225,6 +227,7 @@ textSections:
         imageUrl: /assets/durand-ruel-marie-therese-by-renoir.jpg
       - imageTitle: "'Two sisters', by Pierre August Renoir in 1881"
         imageUrl: /assets/durand-ruel-two-sisters-by-renoir.jpg
+    buttonToggle: true
   - textTitle: Portraits of Durand-Ruel
     text: >-
       ### One of the Impressionist artists closest to Durand-Ruel during his
@@ -255,6 +258,7 @@ textSections:
         imageUrl: /assets/durand-ruel-marie-and-jeanne-by-renoir.jpg
       - imageTitle: Paul Durand Ruel aged 69, as painted by Renoir
         imageUrl: /assets/durand-ruel-painted-by-renoir.jpg
+    buttonToggle: true
   - textTitle: Durand-Ruel’s legacy
     text: >-
       ### There can be no doubt that Durand-Ruel was a focussed and intelligent
@@ -289,6 +293,7 @@ textSections:
       - imageTitle: A picture of Paul Durand Ruel in his office at home. The artist is
           unknown. Circa 1920
         imageUrl: /assets/durand-ruel-painted-by-unkown.jpg
+    buttonToggle: true
 ---
 ## A pioneering art dealer, Paul Durand-Ruel shaped how we consume art today.
 

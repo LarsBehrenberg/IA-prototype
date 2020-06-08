@@ -103,6 +103,7 @@ textSections:
         imageUrl: /assets/berthe-morisot-the-artists-daughter-julie-with-her-nanny.jpg
       - imageTitle: The Sisters painted by Berthe Morisot in 1869, National Gallery of Art
         imageUrl: /assets/berthe-morisot-the-sisters.jpg
+    buttonToggle: true
   - textTitle: The Impressionist exhibitions
     text: >-
       ### The Impressionist exhibitions were first conceived as a reaction to
@@ -183,6 +184,7 @@ textSections:
           "'The Dining Room' painted by Berthe Morisot in c. 1875, National
           Gallery of Art"
         imageUrl: /assets/berthe-morisot-the-dining-room.jpg
+    buttonToggle: true
   - textTitle: Garden paintings
     text: >-
       ### Morisot’s wealthy upbringing meant that she was not as reliant on
@@ -236,6 +238,7 @@ textSections:
         imageUrl: /assets/berthe-morisot-laundry.jpg
       - imageTitle: "'Reading' painted by Berthe Morisot in 1873, Cleveland Museum of Art"
         imageUrl: /assets/berthe-morisot-reading.jpg
+    buttonToggle: true
   - textTitle: Morisot’s later works
     text: >-
       ### Whilst Morisot’s work was firmly Impressionist in style for much of
@@ -265,6 +268,7 @@ textSections:
           "'Winter aka Woman with a Muff' painted by Berthe Morisot in 1880,
           Dallas Museum of Arts"
         imageUrl: /assets/berthe-morisot-woman-with-a-muff.jpg
+    buttonToggle: true
   - textTitle: Morisot’s legacy
     text: >-
       ### Morisot’s death came suddenly and as a great shock to the
@@ -300,6 +304,7 @@ textSections:
         imageUrl: /assets/berthe-morisot-with-a-fan-edouard-manet.jpg
       - imageTitle: A picture of Berthe Morisot (1841-1895) taken by unknown
         imageUrl: /assets/berthe-morisot-photo.jpg
+    buttonToggle: true
 ---
 
 ## In many ways, Berthe Morisot captured the essence of Impressionism.

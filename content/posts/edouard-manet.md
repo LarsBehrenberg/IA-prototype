@@ -108,6 +108,7 @@ textSections:
           des Beaux Arts, in 1859, was the Absinthe Drinker. It did not find
           favour, with only one of the 12 jurors voting for its admission.
         imageUrl: /assets/edouard-manet-absinthe-drinker.jpg
+    buttonToggle: true
   - textTitle: The 1860s
     text: >-
       ### The 1860s started well for Manet: he won an honourable mention in the
@@ -257,6 +258,7 @@ textSections:
           going to apologise for her way of life! The public outrage was so
           extreme that Manet travelled to Spain to escape from it."
         imageUrl: /assets/edouard-manet-olympia.jpg
+    buttonToggle: true
   - textTitle: Manet's personal life
     text: >-
       ### Manet's personal life was anything but straightforward.
@@ -341,6 +343,7 @@ textSections:
       - imageTitle: Manet painted Berthe Morisot, with whom he appears to have fallen in
           love, on a number of occasions.
         imageUrl: /assets/edouard-manet-morisot-in-black-hat.jpg
+    buttonToggle: true
   - textTitle: The 1870s
     text: >-
       ### The 1870s was a varied decade for Manet
@@ -498,6 +501,7 @@ textSections:
           the Salon in 1877 and thereafter displayed in an art dealer's window
           (where it nearly caused a riot!)
         imageUrl: /assets/edouard-manet-nana-1877-salon.jpg
+    buttonToggle: true
   - textTitle: The 1880s
     text: >-
       ### Manet died in 1883, but not before he had won a medal at the Salon,
@@ -572,6 +576,7 @@ textSections:
           service was resumed: the public were puzzled by the painting's use of
           perspective and reviews were mainly negative."
         imageUrl: /assets/edouard-manet-bar-at-folies-bergere.jpg
+    buttonToggle: true
   - textTitle: Manet's Legacy
     text: >-
       ### Manet was in many ways the leader of the impressionists.
@@ -660,6 +665,7 @@ textSections:
       - imageTitle: Manet's painting of a mother and daughter at the Gare Saint Lazare
           was produced in 1873
         imageUrl: /assets/edouard-manet-the-railway-1873.jpg
+    buttonToggle: true
 ---
 ## Edouard Manet was born in 1832, the first child of Auguste and Eugenie.
 

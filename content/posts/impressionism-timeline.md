@@ -96,6 +96,7 @@ textSections:
         imageUrl: /assets/claude-monet-view-at-rouelles.jpg
       - imageTitle: Manet's Absinthe Drinker was rejected by the jury for the 1859 Salon.
         imageUrl: /assets/edouard-manet-absinthe-drinker.jpg
+    buttonToggle: true
   - textTitle: "1860-65: Manet throws down the gauntlet"
     text: >-
       **1859-60:** Monet comes to Paris and studies at Suisse's studio (where he
@@ -130,6 +131,7 @@ textSections:
           uproar. See the defiant gaze of Olympia: she wasn't going to apologise
           for her way of life!"
         imageUrl: /assets/edouard-manet-olympia.jpg
+    buttonToggle: true
   - textTitle: "1865-71: Mixed results at the Salon and War"
     text: >-
       **1866:** Monet's work, [Woman in the Green
@@ -180,6 +182,7 @@ textSections:
           rejected by the jury: check out the odd posture of the woman in the
           background."
         imageUrl: /assets/claude-monet-women-in-the-garden.jpg
+    buttonToggle: true
   - textTitle: "1874-79: The first four impressionist exhibitions"
     text: >-
       **1873:** Manet has a rare Salon success with his painting of a Parisian
@@ -250,6 +253,7 @@ textSections:
           Gare Saint Lazare into thinking he was an important artist (which in
           those days he wasn't!)
         imageUrl: /assets/claude-monet-gare-saint-lazare-1877.jpg
+    buttonToggle: true
   - textTitle: "1880-86: More exhibitions; glimmers of hope"
     text: >-
       **1880:** The fifth impressionist exhibition is held. Monet refuses to
@@ -291,6 +295,7 @@ textSections:
       - imageTitle: Manet submitted Bar at the Folies Bergere to the 1882 Salon; it
           received largely negative reviews.
         imageUrl: /assets/edouard-manet-bar-at-folies-bergere.jpg
+    buttonToggle: true
   - textTitle: "1887-1926: Gradual recognition"
     text: >-
       **1888-90:** Van Gogh moves to Arles in the south of France and Gaugin
@@ -389,6 +394,7 @@ textSections:
         imageUrl: /assets/paul-cezanne-card-players.jpg
       - imageTitle: Monet's water lilies are perhaps the most famous impressionist work
         imageUrl: /assets/claude-monet-giverny-water-lilies.jpg
+    buttonToggle: true
 ---
 ## Today impressionism is one of the most popular artistic genres. But in the 19th century the impressionists shocked the art world. It took over two decades for them to be recognised and appreciated. This page explains how that happened.
 

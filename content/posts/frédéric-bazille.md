@@ -68,6 +68,7 @@ textSections:
           "'The Pink Dress (View of Castelnau-le-Lez, Hérault)', by Frédéric
           Bazille, c. 1864, Musée d'Orsay"
         imageUrl: /assets/frederic-bazille-the-pink-dress.jpg
+    buttonToggle: true
   - textTitle: Bazille’s painting style
     text: >-
       ### With this promising start to his artistic career, Bazille began
@@ -120,6 +121,7 @@ textSections:
           "'Summer Scene (Bathers)', by Frédéric Bazille, c. 1869, Harvard Art
           Museums/Fogg Museum, Gift of Mr. and Mrs. F. Meynier de Salinelles"
         imageUrl: /assets/frederic-bazille-summer-scene.jpg
+    buttonToggle: true
   - textTitle: Bazille’s legacy
     text: >-
       ### The artistic legacy of Bazille was cut short by the Franco-Prussian
@@ -154,6 +156,7 @@ textSections:
           Tomb of Frédéric Bazille, made by the sculptor Baussan, in the
           Protestant cemetery of Montpellier (© Sapin88, CC BY-SA 4.0)
         imageUrl: /assets/frederic-bazille-grave.jpg
+    buttonToggle: true
 ---
 
 ## Born on 6th December, 1841, Frédéric Bazille was a benefactor of the Impressionist movement and a promising artist himself.

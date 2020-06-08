@@ -41,44 +41,51 @@ const TextSection = ({
             <section className="site-block">
               <h2>{newTitle}</h2>
               <div className="row">
-                <div className="col-sm-3">
-                  <div className="smallery">
-                    {textSectionImageArray !== null
-                      ? textSectionImageArray.map((image, arrayLocation) => {
-                          return (
-                            <div
-                              className="smallery-item-wrp ttdegalleryitem"
-                              data-pswp-uid="1"
-                              key={arrayLocation}
+                {textSectionImageArray !== null ? (
+                  <div className="col-sm-3">
+                    <div className="smallery">
+                      {textSectionImageArray.map((image, arrayLocation) => {
+                        return (
+                          <div
+                            className="smallery-item-wrp ttdegalleryitem"
+                            data-pswp-uid="1"
+                            key={arrayLocation}
+                          >
+                            <figure
+                              className="smallery-item-psn"
+                              id={index.toString() + arrayLocation.toString()}
+                              onClick={() => {
+                                findImage(
+                                  index.toString() + arrayLocation.toString()
+                                )
+                              }}
                             >
-                              <figure
-                                className="smallery-item-psn"
-                                id={index.toString() + arrayLocation.toString()}
-                                onClick={() => {
-                                  findImage(
-                                    index.toString() + arrayLocation.toString()
-                                  )
-                                }}
-                              >
-                                <span className="smallery-item-uri">
-                                  <Img
-                                    fixed={image.imageUrl.thumbImage.fixed}
-                                    alt={image.imageTitle}
-                                    className="smallery-item-img"
-                                    style={{
-                                      width: '100%',
-                                      height: '100%',
-                                    }}
-                                  />
-                                </span>
-                              </figure>
-                            </div>
-                          )
-                        })
-                      : null}
+                              <span className="smallery-item-uri">
+                                <Img
+                                  fixed={image.imageUrl.thumbImage.fixed}
+                                  alt={image.imageTitle}
+                                  className="smallery-item-img"
+                                  style={{
+                                    width: '100%',
+                                    height: '100%',
+                                  }}
+                                />
+                              </span>
+                            </figure>
+                          </div>
+                        )
+                      })}
+                    </div>
                   </div>
-                </div>
-                <div className="col-sm-9">
+                ) : null}
+                <div
+                  className={
+                    textSectionImageArray === null ? 'col-sm-12' : 'col-sm-9'
+                  }
+                  style={
+                    textSectionImageArray === null ? { padding: '0 15px' } : {}
+                  }
+                >
                   <div className="site-text">
                     {buttonToggle ? (
                       <>

@@ -105,6 +105,7 @@ textSections:
           Cezanne's 'dark period' is characterised by a number of brutal
           paintings, including The Murder
         imageUrl: /assets/paul-cezanne-dark-period-the-murder.jpg
+    buttonToggle: true
   - textTitle: The impressionist exhibitions
     text: >-
       ### Cezanne took part in two of the eight impressionist exhibitions, in
@@ -185,6 +186,7 @@ textSections:
           Cezanne's Landscape Near Paris was one of 16 works he showed at the
           third impressionist exhibition, held in 1877.
         imageUrl: /assets/paul-cezanne-landscape-near-paris.jpg
+    buttonToggle: true
   - textTitle: 'The 1880s: Cezanne paints Provence'
     text: >-
       ### Cezanne matured as a painter during the 1880s. He also managed to get
@@ -241,6 +243,7 @@ textSections:
           Cezanne only once exhibited at the Salon, with this portait of his
           father.
         imageUrl: /assets/paul-cezanne-portrait-of-father.jpg
+    buttonToggle: true
   - textTitle: Cezanne's Personal Life
     text: >-
       ### Cezanne was a difficult man who had a complicated personal life.
@@ -311,6 +314,7 @@ textSections:
           A photograph of the writer Emile Zola, Cezanne's closest friend
           until the two men fell out in 1876
         imageUrl: /assets/paul-cezanne-emile-zola-writer-friend-cezanne.jpg
+    buttonToggle: true
   - textTitle: '1890-1906: Cezanne’s final period'
     text: >-
       ### Success came for Cezanne fairly late in life, starting with the solo
@@ -399,6 +403,7 @@ textSections:
         imageUrl: /assets/paul-cezanne-portrait-ambroise-vollard.jpg
       - imageTitle: Paul Cezanne's The Bathers, this version being produced in 1900
         imageUrl: /assets/paul-cezanne-bathers-1900.jpg
+    buttonToggle: true
 ---
 
 ## Paul Cezanne was born in 1839 in Aix-en-Provence, southern France. He studied in Aix before joining the other impressionists in Paris in the early 1860s.

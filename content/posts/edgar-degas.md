@@ -96,6 +96,7 @@ textSections:
       - imageTitle: Degas' Spartan Girls Challenging Boys, one of the most famous works
           of his early career.
         imageUrl: /assets/degas-spartan-girls-challenging-boys.jpg
+    buttonToggle: true
   - textTitle: Degas and the Impressionists
     text: >-
       ### Degas met [Edouard
@@ -203,6 +204,7 @@ textSections:
         imageUrl: /assets/degas-the-opera-orchestra-1870.jpg
       - imageTitle: Degas' Singer with Glove, from 1878.
         imageUrl: /assets/degas-singer-with-glove-1878.jpg
+    buttonToggle: true
   - textTitle: Ballerinas and Jockeys
     text: >-
       ### Degas' most famous works are of jockeys and ballerinas.
@@ -271,6 +273,7 @@ textSections:
       - imageTitle: Another Degas Dancing Class, this time with the ballerinas
           surrounding an elderly violinist.
         imageUrl: /assets/degas-dancing-class-violinist.jpg
+    buttonToggle: true
   - textTitle: Degas' Later Life
     text: >-
       
@@ -401,6 +404,7 @@ textSections:
       - imageTitle: Another topic Degas returned to repeatedly in his later years was
           the Milliner (a person selling lady's hats).
         imageUrl: /assets/degas-at-the-milliners.jpg
+    buttonToggle: true
 ---
 ## Edgar Degas was born in Paris in 1834, his father a wealthy banker and his mother an emigre from New Orleans.
 

@@ -73,6 +73,7 @@ textSections:
       - imageTitle: Portrait of Gertrude Stein by Pablo Picasso inside Metropolitan
           Museum of Art, New York City
         imageUrl: /assets/picasso-gertrude-stein.jpg
+    buttonToggle: true
   - textTitle: Picasso and the Impressionists
     text: >-
       ### Shortly after moving to Paris, Picasso embarked on a more
@@ -138,6 +139,7 @@ textSections:
         imageUrl: /assets/picasso-the-girls-of-avignon-1907.jpg
       - imageTitle: "'Girl on the ball' by Picasso in 1905, Pushkin Museum, Moscow, Russia"
         imageUrl: /assets/picasso-girl-on-the-ball-1905.jpg
+    buttonToggle: true
   - textTitle: Picasso and Cubism
     text: >-
       ### From ‘Les Demoiselles’ onwards, Picasso’s work became increasingly
@@ -193,6 +195,7 @@ textSections:
       - imageTitle: "'Garçon à la pipe, (Boy with a Pipe)' by Picasso in 1905 in his red
           period, currently in private collection"
         imageUrl: /assets/picasso-boy-with-a-pipe-1905.jpg
+    buttonToggle: true
   - textTitle: Picasso’s legacy
     text: >-
       ### It is hard to summarise the extent of Picasso’s artistic legacy.
@@ -220,6 +223,7 @@ textSections:
       - imageTitle: Backside of the Hôtel Salé hosting the Musée Picasso in Paris (©
           LPLT, CC BY-SA 3.0)
         imageUrl: /assets/picasso-museum-in-paris.jpg
+    buttonToggle: true
 ---
 ## Pablo Picasso has been called many things by many people, from “the most famous artist of all time” to “a madman”.
 

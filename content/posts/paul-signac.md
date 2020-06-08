@@ -72,6 +72,7 @@ textSections:
       - imageTitle: "'Paris, Ponton des Bains Bailet' by Signac in 1885, currently in
           private collection"
         imageUrl: /assets/paul-signac-paris-ponton-des-bains-bailet-1885.jpg
+    buttonToggle: true
   - textTitle: Signac and the Impressionists
     text: >-
       ### Unlike earlier Impressionist artists, Signac grew up in a Paris that
@@ -117,6 +118,7 @@ textSections:
         imageUrl: /assets/paul-signac-the-milliner-1885.jpg
       - imageTitle: "'Sunday' by Signac, c. 1888–1890"
         imageUrl: /assets/paul-signac-sunday-1888.jpg
+    buttonToggle: true
   - textTitle: Signac and Neo-Impressionism
     text: >-
       ### Early into his painting career, in 1884, Signac helped to found the
@@ -179,6 +181,7 @@ textSections:
       - imageTitle: "'Antibes, the Pink Cloud' by Signac in 1916, currently in private
           collection"
         imageUrl: /assets/paul-signac-antibes-the-pink-cloud-1916.jpg
+    buttonToggle: true
   - textTitle: Signac’s legacy
     text: >-
       ### The energetic artist eventually died in 1935 from septicemia. During
@@ -217,6 +220,7 @@ textSections:
       - imageTitle: Tomb of Paul Signac (Père Lachaise cemetery, division 67) (©
           Pierre-Yves Beaudouin, CC BY-SA 4.0)
         imageUrl: /assets/paul-signac-grave-in-paris.jpg
+    buttonToggle: true
 ---
 ## One of the principle Neo-Impressionists, Paul Signac worked alongside Georges Seurat to develop a new form of expression, combining the Impressionist technique with scientific accuracy and colour theory.
 

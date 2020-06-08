@@ -179,7 +179,8 @@ collections:
               required: true,
               hint: 'This text of the text section',
             }
-          - label: 'Toggle Read-More Button'
+          - label: 'Read-More Button'
+            hint: 'Turn this switch off to remove the read more button on this section'
             name: buttonToggle
             widget: boolean
             default: true

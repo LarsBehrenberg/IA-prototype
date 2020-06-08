@@ -93,6 +93,7 @@ textSections:
       - imageTitle: Dante and Virgil in Hell, Painting of Dante's »Divine Comedy,
           Inferno« by Eugene Delacroix in 1822
         imageUrl: /assets/eugene-delacroix-the-barque-of-dante.jpg
+    buttonToggle: true
   - textTitle: Delacroix and colour
     text: >-
       ### Delacroix’s dynamic compositions and focus on dramatic scenes quickly
@@ -161,6 +162,7 @@ textSections:
       - imageTitle: Ovid among the Scythians, by Eugene Delacroix in 1862, Metropolitan
           Museum of Art, New York City
         imageUrl: /assets/eugene-delacroix-ovid-among-the-scythes.jpg
+    buttonToggle: true
   - textTitle: Delacroix and the Impressionists
     text: >-
       ### Delacroix was a prominent source of inspiration for the impressionist
@@ -237,6 +239,7 @@ textSections:
       - imageTitle: Woman with a Parrot, by Eugene Delacroix in 1827, Museum of Fine
           Arts of Lyon
         imageUrl: /assets/eugene-delacroix-woman-with-a-parrot.jpg
+    buttonToggle: true
   - textTitle: Delacroix’s legacy
     text: >-
       ### Towards the end of his life, Delacroix’s health suffered and he became
@@ -298,6 +301,7 @@ textSections:
         imageUrl: /assets/eugene-delacroix-monument-in-luxembourg.jpg
       - imageTitle: Delacroix 's tomb in Père Lachaise Cemetery (© Rama, CeCILL)
         imageUrl: /assets/eugene-delacroix-grave.jpg
+    buttonToggle: true
 ---
 ## A Romantic in every way, Eugène Delacroix devoted much of his career to portraying dramatic and intense scenes from mythology and orientalised scenes inspired by his travels to North Africa.
 

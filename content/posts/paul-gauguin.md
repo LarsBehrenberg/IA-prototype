@@ -117,6 +117,7 @@ textSections:
           "'Portrait of Madame Gauguin' by Gauguin c. 1880–81, Foundation E.G.
           Bührle, Zürich"
         imageUrl: /assets/gauguin-portrait-of-madame-gauguin-1880.jpg
+    buttonToggle: true
   - textTitle: Gauguin and the Impressionists
     text: >-
       ### What Gauguin’s early biography amounts to is an intriguing foundation
@@ -197,6 +198,7 @@ textSections:
         imageUrl: /assets/gauguin-spirit-of-the-dead-1892.jpg
       - imageTitle: "'O Taiti (Nevermore)' by Gauguin in 1897, Courtauld Institute"
         imageUrl: /assets/gauguin-o-taiti-nevermore-1897.jpg
+    buttonToggle: true
   - textTitle: Gauguin and the Symbolist movement
     text: >-
       ### Determined to attempt a career painting professionally, Gauguin spent
@@ -265,6 +267,7 @@ textSections:
         imageUrl: /assets/gauguin-tahitian-women-on-the-beach-1891.jpg
       - imageTitle: "'Two Tahitian Women' by Gauguin in 1899"
         imageUrl: /assets/gauguin-two-tahitian-women-1899.jpg
+    buttonToggle: true
   - textTitle: Gauguin’s legacy
     text: >-
       ### Gauguin’s career would be short lived as he died in 1903 at the age of
@@ -344,6 +347,7 @@ textSections:
           Jules Agostini's 1896 photograph of Gauguin's house in Puna'auia.
           Note the sculpture of a nude woman.
         imageUrl: /assets/gauguins-house-in-tahiti-in-1896.jpg
+    buttonToggle: true
 ---
 
 ### Paul Gauguin’s biography is complex, surprising and unsettling.

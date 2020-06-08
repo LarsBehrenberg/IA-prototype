@@ -64,6 +64,7 @@ textSections:
 
 
       #### April 2020
+    buttonToggle: true
 ---
 
 ## On this page, updated on a weekly basis, we give you the latest impressionist news.

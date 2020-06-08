@@ -73,6 +73,7 @@ textSections:
           "'Yellow Roses in a Vase' by Gustave Caillebotte (1848-1894) in
           1882, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-yellow-roses-in-a-vase.jpg
+    buttonToggle: true
   - textTitle: Caillebotte’s patronage
     text: >-
       ### Thanks to his substantial inheritance, Caillebotte is famous as a
@@ -106,6 +107,7 @@ textSections:
           "'Le jardin du Petit Gennevilliers en hiver', by Gustave Caillebotte
           (1848–1894) in 1894, oil on canvas"
         imageUrl: /assets/gustave-caillebotte-le-jardin-du-petit-gennevilliers-en-hiver.jpg
+    buttonToggle: true
   - textTitle: Caillebotte’s Impressionist works
     text: >-
       ### Let’s not forget that Caillebotte was a painter too. He shared the
@@ -170,6 +172,7 @@ textSections:
           realist subject by Gustave Caillebotte (1848–1894) in 1875, oil on
           canvas"
         imageUrl: /assets/gustave-caillebotte-the-floor-planers.jpg
+    buttonToggle: true
   - textTitle: Caillebotte’s nudes
     text: >-
       ### It is worth noting that Caillebotte’s figures were also exceptional in
@@ -221,6 +224,7 @@ textSections:
           "'Man at His Bath', by Gustave Caillebotte (1848–1894) in 1884, oil
           on canvas"
         imageUrl: /assets/gustave-caillebotte-man-at-his-bath.jpg
+    buttonToggle: true
   - textTitle: Caillebotte’s later works
     text: >-
       ### Caillebotte settled permanently in Petit Gennevilliers in 1888 where
@@ -269,6 +273,7 @@ textSections:
           Sixième Étage) by Gustave Caillebotte, 1878, oil on canvas, 23.5 by
           28.75 in.; 59.5 by 73 cm"
         imageUrl: /assets/gustave-caillebotte-rue-halevy-from-the-sixth-floor.jpg
+    buttonToggle: true
   - textTitle: Caillebotte’s legacy
     text: >-
       ### When Caillebotte died, he donated a large portion of his art
@@ -313,6 +318,7 @@ textSections:
         imageUrl: /assets/gustave-caillebotte-petit-gennevilliers.jpg
       - imageTitle: Gustave Caillebotte (right) with his brother, Martial before 1895
         imageUrl: /assets/gustave-caillebotte-with-brother.jpg
+    buttonToggle: true
 ---
 
 ## A collector, patron and painter, Gustave Caillebotte played a number of roles in the Impressionist movement. His support of [impressionism](/) came not just from his art but also his financial backing. Sadly, his career was short lived and he died at the age of just 45.

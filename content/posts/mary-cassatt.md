@@ -72,6 +72,7 @@ textSections:
       - imageTitle: A self-portrait by Mary Cassatt - 'Portrait of the Artist' c. 1878,
           gouache on paper
         imageUrl: /assets/mary-cassatt-portrait-of-the-artist.jpg
+    buttonToggle: true
   - textTitle: Cassatt’s Impressionism
     text: >-
       ### Cassatt broke from the Salon in the late 1870s when she began
@@ -145,6 +146,7 @@ textSections:
       - imageTitle: "'Young Woman in a Black and Green Bonnet', painted by Mary Cassatt,
           c. 1890, Princeton University Art Museum"
         imageUrl: /assets/mary-cassatt-young-woman-in-black-with-green-bonnet.jpg
+    buttonToggle: true
   - textTitle: Cassatt’s drawings
     text: >-
       ### Some of Cassatt’s finest works are her pastel drawings.
@@ -191,6 +193,7 @@ textSections:
       - imageTitle: "'A Woman and a Girl Driving' painted by Mary Cassatt (1844-1926) in
           1881"
         imageUrl: /assets/mary-cassatt-woman-and-girl-driving.jpg
+    buttonToggle: true
   - textTitle: Cassatt’s Japanese prints
     text: >-
       ### As well as being a painter, Cassatt was an accomplished printmaker
@@ -236,6 +239,7 @@ textSections:
         imageUrl: /assets/mary-cassatt-the-bath-1890.jpg
       - imageTitle: "'Afternoon Tea Party', printed by Mary Cassatt in 1890-1891"
         imageUrl: /assets/mary-cassatt-afternoon-tea-party-1890.jpg
+    buttonToggle: true
   - textTitle: Cassatt’s later works & legacy
     text: >-
       ### Due to her failing eyesight, Cassatt’s later works were somewhat
@@ -279,6 +283,7 @@ textSections:
       - imageTitle: The family grave of Mary Cassatt (1844-1926) (© Daniel Volpatti, CC
           BY-SA 4.0)
         imageUrl: /assets/mary-cassatt-family-grave.jpg
+    buttonToggle: true
 ---
 ## In 1904, Mary Cassatt was awarded the Légion d’honneur for her services to art.
 

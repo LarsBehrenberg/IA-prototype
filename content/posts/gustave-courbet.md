@@ -82,6 +82,7 @@ textSections:
       - imageTitle: "'Portrait of Jo (La belle Irlandaise)' by Gustave Courbet, 1865–66,
           Metropolitan Museum of Art, a painting of Joanna Hiffernan"
         imageUrl: /assets/gustave-courbet-portrait-of-jo.jpg
+    buttonToggle: true
   - textTitle: Courbet and Realism
     text: >-
       ### Moving to Paris in 1839, Courbet ignored his father’s plans for his
@@ -155,6 +156,7 @@ textSections:
       - imageTitle: "'Le Sommeil (Sleep)' by Gustave Courbet, 1866, Petit Palais, Musée
           des Beaux-Arts de la Ville de Paris"
         imageUrl: /assets/gustave-courbet-the-sleepers.jpg
+    buttonToggle: true
   - textTitle: Courbet and the Impressionists
     text: >-
       ### Courbet, along with his contemporaries like Camille_Corot"
@@ -224,6 +226,7 @@ textSections:
       - imageTitle: "'The Wave (La Vague)' by Gustave Courbet, 1869, Musée des
           beaux-arts de Lyon"
         imageUrl: /assets/gustave-courbet-the-wave.jpg
+    buttonToggle: true
   - textTitle: Courbet’s legacy
     text: >-
       ### Courbet’s colourful life came to an abrupt end in 1877. He died in
@@ -275,6 +278,7 @@ textSections:
           Maxime Gapany, Gustave Courbet and Louis Weitzel, during a meal in
           Switzerland, at Bulle"
         imageUrl: /assets/gustave-courbet-in-swiss-with-friends.jpg
+    buttonToggle: true
 ---
 ## Gustave Courbet was one of the principal artists of the 19th century realist movement. A divisive character, he revelled in the controversy he caused throughout his career, openly shunning the French art establishment.
 

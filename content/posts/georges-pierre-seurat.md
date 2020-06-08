@@ -86,6 +86,7 @@ textSections:
         imageUrl: /assets/georges-seurat-young-woman-powdering-herself.jpg
       - imageTitle: "'Flowers in a vase' by Seurat, 1879, Fogg Museum"
         imageUrl: /assets/georges-seurat-vase-of-flowers.jpg
+    buttonToggle: true
   - textTitle: Seurat and the Impressionists
     text: >-
       ### Together with his friends Ernest Laurent and Édmond-François
@@ -135,6 +136,7 @@ textSections:
         imageUrl: /assets/georges-seurat-seated-nude.jpg
       - imageTitle: "'Bathers at Asnières' by Seurat, 1884, National Gallery, London"
         imageUrl: /assets/georges-seurat-bathers-at-asnieres.jpg
+    buttonToggle: true
   - textTitle: Seurat and Neo-Impressionism
     text: >-
       ### In defining the Neo-Impressionist school, Seurat successful merged the
@@ -209,6 +211,7 @@ textSections:
         imageUrl: /assets/georges-seurat-the-circus.jpg
       - imageTitle: "'Le Chahut' by Seurat, 1889–90, Kröller-Müller Museum, Otterlo"
         imageUrl: /assets/georges-seurat-le-chahut.jpg
+    buttonToggle: true
   - textTitle: Seurat’s legacy
     text: >-
       ### Much like his father, Seurat chose to live in secrecy for the majority
@@ -260,6 +263,7 @@ textSections:
           A photo of the Pere Lachaise Cemetery in Paris, France (© Peter
           Poradisch, CC BY 2.5)
         imageUrl: /assets/georges-seurat-pere-lachaise-cemetery.jpg
+    buttonToggle: true
 ---
 
 ## Georges-Pierre Seurat was the founder of Neo-Impressionism and the pioneer of the Pointillist technique.

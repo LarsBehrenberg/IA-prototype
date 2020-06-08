@@ -53,6 +53,7 @@ textSections:
       - imageTitle: "The Concert by Vermeer, c. 1664, 1990: stolen from Isabella Stewart
           Gardner Museum"
         imageUrl: /assets/art-thefts-vermeer-the-concert.jpg
+    buttonToggle: true
   - textTitle: Impression Sunrise (Claude Monet, 1985)
     text: >-
       ### In total, nine Impressionist paintings were stolen from the [Marmottan
@@ -79,6 +80,7 @@ textSections:
         imageUrl: /assets/art-thefts-monet-sunrise-bw.jpg
       - imageTitle: "Impression, Sunrise by Claude Monet, 1872, 1985: stolen"
         imageUrl: /assets/art-thefts-monet-sunrise.jpg
+    buttonToggle: true
   - textTitle: Charing Cross Bridge, London (Claude Monet, 2012)
     text: >-
       ### One of Monet’s most famous series, the Charing Cross Bridge works
@@ -103,6 +105,7 @@ textSections:
       - imageTitle: From the Charing Cross Bridge series by Claude Monet, 1899-1901,
           Saint Louis Art Museum
         imageUrl: /assets/art-thefts-monet-charing-cross-bridge.jpg
+    buttonToggle: true
   - textTitle: Poppy Flowers (Vincent Van Gogh, 1977)
     text: >-
       ### With an estimated worth of $55 million, Poppy Flowers by Van Gogh
@@ -129,6 +132,7 @@ textSections:
           Viscaria) by Van Gogh, 1887, stolen the second time from Cairo's
           Mohamed Mahmoud Khalil Museum in August 2010
         imageUrl: /assets/art-thefts-van-gogh-vase-with-flowers.jpg
+    buttonToggle: true
   - textTitle: View of Auvers-sur-Oise (Paul Cézanne, 2000)
     text: >-
       ### Taken during the millennial celebrations on January 1 2000, this
@@ -153,6 +157,7 @@ textSections:
         imageUrl: /assets/art-thefts-cezanne-view-of-auvers-sur-oise.jpg
       - imageTitle: Houses at Auvers by Vincent Van Gogh, 1890, Toledo Museum of Art
         imageUrl: /assets/art-thefts-van-gogh-houses-at-auvers.jpg
+    buttonToggle: true
   - textTitle: The Lane of Poplars at Moret (Alfred Sisley, 2007)
     text: >-
       ### Alfred Sisley’s 1890 work, The Lane of Poplars, was stolen from the
@@ -178,6 +183,7 @@ textSections:
         imageUrl: /assets/art-thefts-sisley-avenue-of-poplars-near-moret-sur-loing.jpg
       - imageTitle: Lane of Poplars at Moret by Alfred Sisley, 1888, private collection
         imageUrl: /assets/art-thefts-lane-of-poplars-at-moret-1888.jpg
+    buttonToggle: true
   - textTitle: The Potato Eaters (Vincent Van Gogh, 1991)
     text: >-
       ### Van Gogh’s works have long been a popular target for art thefts.
@@ -199,6 +205,7 @@ textSections:
         imageUrl: /assets/art-thefts-van-gogh-potato-eaters-pre-study.jpg
       - imageTitle: The Potato Eaters by Van Gogh, 1885, Van Gogh Museum, Amsterdam
         imageUrl: /assets/art-thefts-van-gogh-potato-eaters.jpg
+    buttonToggle: true
   - textTitle: View of the Sea at Scheveningen (Vincent Van Gogh, 2002)
     text: >-
       ### Incredibly, two more paintings were stolen from the same museum just 9
@@ -222,6 +229,7 @@ textSections:
       - imageTitle: Congregation Leaving the Reformed Church in Nuenen by Van Gogh,
           1884, Van Gogh Museum, Amsterdam
         imageUrl: /assets/art-thefts-van-gogh-church-of-nuenen.jpg
+    buttonToggle: true
   - textTitle: Young Parisian (Auguste Renoir, 2000)
     text: >-
       ### The robbery at [Stockholm’s National
@@ -240,6 +248,7 @@ textSections:
       - imageTitle: Young Parisian by Pierre Auguste Renoir, Nationalmuseum, Stockholm,
           Sweden
         imageUrl: /assets/art-thefts-young-parisian-renoir.jpg
+    buttonToggle: true
   - textTitle: Ludovic Lepic and His Daughters (Edgar Degas, 2008)
     text: >-
       ### $164 million of artworks were stolen from a private museum in Zurich
@@ -265,6 +274,7 @@ textSections:
       - imageTitle: Blossoming Chestnut Branches, painted by Van Gogh at Auvers-sur-Oise
           in May of 1890
         imageUrl: /assets/art-thefts-van-gogh-blossoming-chestnut-branches-framed.jpg
+    buttonToggle: true
 ---
 ## Impressionist art includes many of the world’s best known and most expensive artworks, leading to some of the most shocking art thefts in living memory.
 

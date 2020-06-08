@@ -74,6 +74,7 @@ textSections:
         imageUrl: /assets/matisse-gustave-moreaus-studio-1894.jpg
       - imageTitle: A photograph of Matisse and his students in 1909
         imageUrl: /assets/matisse-group-picture-of-students.jpg
+    buttonToggle: true
   - textTitle: Matisse and the Impressionists
     text: >-
       ### During Matisse’s early art education, he was interested by the loose
@@ -138,6 +139,7 @@ textSections:
           "'Portrait of Madame Matisse (The green line)' by Matisse in 1905,
           Statens Museum for Kunst, Copenhagen, Denmark"
         imageUrl: /assets/matisse-portrait-of-madame-matisse.jpg
+    buttonToggle: true
   - textTitle: Matisse and Post-Impressionism
     text: >-
       ### Matisse soon took centre stage as a prominent Post-Impressionist
@@ -256,6 +258,7 @@ textSections:
           1904, Musée d'Orsay, Paris. This painting was first shown at the Salon
           des Indépendants, 1905"
         imageUrl: /assets/matisse-luxe-calme-et-volupte.jpg
+    buttonToggle: true
   - textTitle: Matisse’s legacy
     text: >-
       ### As well as painting, Matisse also developed a proficiency for
@@ -321,6 +324,7 @@ textSections:
           cemetery of the Monastère Notre Dame de Cimiez, Cimiez, France (©
           Jajabis, CC BY-SA 3.0)
         imageUrl: /assets/matisse-tomb-of-henri-matisse.jpg
+    buttonToggle: true
 ---
 
 ### Henri-Emile-Benoit Matisse has been named the greatest colourist of the 20th century.

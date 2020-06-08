@@ -71,6 +71,7 @@ textSections:
         imageUrl: /assets/pissarro-the-marne-at-chennevieres.jpg
       - imageTitle: Pissarro's Paysage Montmorency.
         imageUrl: /assets/pissarro-paysage-montmorency.jpg
+    buttonToggle: true
   - textTitle: The impressionist exhibitions
     text: >-
       ### Tragically, many of Pissarro’s earlier works were destroyed as a
@@ -121,6 +122,7 @@ textSections:
       - imageTitle: Pissarro's Bords de l'Oise, près de Pontoise, temps gris, painted in
           1878
         imageUrl: /assets/pissarro-bord-de-loise-pontoise.jpg
+    buttonToggle: true
   - textTitle: Pissarro and Pointillism
     text: >-
       ### To keep his work new and interesting, Pissarro began experimenting
@@ -172,6 +174,7 @@ textSections:
         imageUrl: /assets/pissarro-house-deaf-woman-belfry-eragny.jpg
       - imageTitle: Pissarro's Apple Harvest
         imageUrl: /assets/pissarro-apple-harvest.jpg
+    buttonToggle: true
   - textTitle: Pissarro's Later Life
     text: >-
       ### In spite of his influence in impressionism, Pissarro had money worries
@@ -216,6 +219,7 @@ textSections:
         imageUrl: /assets/pissarro-avenue-de-lopera.jpg
       - imageTitle: Pissarro's Place de Theatre Francais
         imageUrl: /assets/pissarro-place-de-theatre-francais.jpg
+    buttonToggle: true
   - textTitle: Pissarro's legacy
     text: >-
       ### Pissarro was unlike any of his contemporaries.
@@ -256,6 +260,7 @@ textSections:
         imageUrl: /assets/pissarro-le-pont-neuf.jpg
       - imageTitle: Pissarro's Sunset at Eragny
         imageUrl: /assets/pissarro-sunset-at-eragny.jpg
+    buttonToggle: true
 ---
 ## Camille Pissarro was born in 1830 on St Thomas, an island in the Danish West Indies.
 

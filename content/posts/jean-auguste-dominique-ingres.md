@@ -92,6 +92,7 @@ textSections:
           Jean-Auguste-Dominique Ingres, École nationale supérieure des
           Beaux-Arts (ENSBA), Paris, France
         imageUrl: /assets/ingres-ambassadors-sent-by-agamemnon.jpg
+    buttonToggle: true
   - textTitle: Ingres' Neoclassicism
     text: >-
       ### Despite his classical background and success in the École des
@@ -160,6 +161,7 @@ textSections:
       - imageTitle: The Grande Baigneuse, also called The Valpinçon Bather (1808) by
           Ingres, Louvre
         imageUrl: /assets/ingres-the-grande-baigneuse.jpg
+    buttonToggle: true
   - textTitle: Ingres and the Impressionists
     text: >-
       ### The influence of Ingres on the Impressionists was often passed through
@@ -217,6 +219,7 @@ textSections:
       - imageTitle: The Betrothal of Raphael and the Niece of Cardinal Bibbiena, 1813 by
           Ingres
         imageUrl: /assets/ingres-betrothal-of-raphael.jpg
+    buttonToggle: true
   - textTitle: Ingres and Degas
     text: >-
       ### Despite Ingres’ influence on Bracquemond and Renoir, it was Degas who
@@ -250,6 +253,7 @@ textSections:
       - imageTitle: The Vow of Louis XIII (1824) by Ingres, Cathedral of Notre-Dame,
           Montauban
         imageUrl: /assets/ingres-vow-of-louis-xiii.jpg
+    buttonToggle: true
   - textTitle: Ingres’ legacy
     text: >-
       ### The legacy of Ingres is an intriguing one. There can be no doubt that
@@ -276,6 +280,7 @@ textSections:
       - imageTitle: Plate in memory of Ingres at 11 Quai Voltaire in Paris, where Ingres
           died in 1867 (© Celette, CC BY-SA 4.0)
         imageUrl: /assets/ingres-memorial-plaque-in-paris.jpg
+    buttonToggle: true
 ---
 ## In many ways Jean-Auguste-Dominique Ingres embodied the classical, academic style of painting that the impressionists sought to break away from. He was a key member of the old guard, painting religious and mythological subjects, while focusing on form and beauty.
 

@@ -71,6 +71,7 @@ textSections:
         imageUrl: /assets/camille-corot-a-woman-reading.jpg
       - imageTitle: Hagar in the Wilderness, by Camille Corot in 1835
         imageUrl: /assets/camille-corot-hagar-in-the-wilderness.jpg
+    buttonToggle: true
   - textTitle: Corot’s landscape paintings
     text: >-
       ### Where Corot truly excelled was in his depiction of landscapes.
@@ -146,6 +147,7 @@ textSections:
       - imageTitle: Ville d'Avray, by Camille Corot ca. 1867, National Gallery of Art in
           Washington D.C.
         imageUrl: /assets/camille-corot-ville-davray.jpg
+    buttonToggle: true
   - textTitle: Corot and the Impressionists
     text: >-
       ### As Corot’s fame grew, he was awarded with an increasing number of
@@ -212,6 +214,7 @@ textSections:
         imageUrl: /assets/camille-corot-peasants-under-the-trees-at-dawn.jpg
       - imageTitle: Stormy Weather, Pas de Calais, by Camille Corot c. 1870, Pushkin Museum
         imageUrl: /assets/camille-corot-stormy-weather.jpg
+    buttonToggle: true
   - textTitle: Corot’s legacy
     text: >-
       ### On February 22 1875 at the age of 78, Corot died.
@@ -252,6 +255,7 @@ textSections:
           engraver. Tomb decorated with a bronze bust of Beguine (© Michel
           Léonard Béguine, CC BY-SA 3.0)
         imageUrl: /assets/camille-corot-grave-in-pere-lachaise.jpg
+    buttonToggle: true
 ---
 ## Born in Paris in the late 1700s, Jean-Baptiste-Camille Corot was crucial for establishing landscape painting as a valued genre in France.
 

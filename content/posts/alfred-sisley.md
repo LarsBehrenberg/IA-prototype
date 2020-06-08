@@ -211,7 +211,7 @@ textSections:
         imageUrl: /assets/alfred-sisley-fog-voisins-1874.jpg
       - imageTitle: "'Snow on the Road Louveciennes', painted by Alfred Sisley in 1874"
         imageUrl: /assets/alfred-sisley-snow-on-the-road-louveciennes-1874.jpg
-    buttonToggle: false
+    buttonToggle: true
   - textTitle: Sisley’s later works & legacy
     text: >-
       ### Due to his failing health, Sisley’s later works do now show the same
@@ -264,7 +264,7 @@ textSections:
         imageUrl: /assets/alfred-sisley-molesey-weir.jpg
       - imageTitle: "'Seaside, Langland', painted by Alfred Sisley in 1887"
         imageUrl: /assets/alfred-sisley-seaside-langland-1887.jpg
-    buttonToggle: false
+    buttonToggle: true
 ---
 
 ## Alfred Sisley did not paint people or urban scenes. Instead, he dedicated himself entirely to painting landscapes. During his life, from 1839-1899, he developed his own distinct style that was both delicate and intense.
