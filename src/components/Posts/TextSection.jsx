@@ -33,6 +33,11 @@ const TextSection = ({
     return 1
   }
   const newTitle = `${index + 1}. ${title}`
+
+  const hasSideGallery =
+    textSectionImageArray === null || textSectionImageArray.length === 0
+      ? true
+      : false
   return (
     <>
       <div className="container" id={index + 1}>
@@ -41,7 +46,7 @@ const TextSection = ({
             <section className="site-block">
               <h2>{newTitle}</h2>
               <div className="row">
-                {textSectionImageArray !== null ? (
+                {!hasSideGallery ? (
                   <div className="col-sm-3">
                     <div className="smallery">
                       {textSectionImageArray.map((image, arrayLocation) => {
@@ -79,12 +84,8 @@ const TextSection = ({
                   </div>
                 ) : null}
                 <div
-                  className={
-                    textSectionImageArray === null ? 'col-sm-12' : 'col-sm-9'
-                  }
-                  style={
-                    textSectionImageArray === null ? { padding: '0 15px' } : {}
-                  }
+                  className={hasSideGallery ? 'col-sm-12' : 'col-sm-9'}
+                  style={hasSideGallery ? { padding: '0 15px' } : {}}
                 >
                   <div className="site-text">
                     {buttonToggle ? (

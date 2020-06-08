@@ -152,29 +152,40 @@ const BlogPostPreview = ({ entry, widgetFor, widgetsFor }) => {
                         {index + 1}. {textBlock.getIn(['data', 'textTitle'])}
                       </h2>
                       <div className="row">
-                        <div className="col-sm-3">
-                          <div className="smallery">
-                            {data.textSections[index].sideGalleryImages !==
-                            undefined
-                              ? data.textSections[index].sideGalleryImages.map(
-                                  (image, curr) => (
-                                    <div className="smallery-item-wrp ttdegalleryitem">
-                                      <figure className="smallery-item-psn">
-                                        <a className="smallery-item-uri">
-                                          <img
-                                            className="smallery-item-img loaded"
-                                            src={image.imageUrl}
-                                            alt=""
-                                          />
-                                        </a>
-                                      </figure>
-                                    </div>
-                                  )
+                        {data.textSections[index].sideGalleryImages !==
+                          undefined ||
+                        data.textSections[index].sideGalleryImages.length !==
+                          0 ? (
+                          <div className="col-sm-3">
+                            <div className="smallery">
+                              {data.textSections[index].sideGalleryImages.map(
+                                (image, curr) => (
+                                  <div className="smallery-item-wrp ttdegalleryitem">
+                                    <figure className="smallery-item-psn">
+                                      <a className="smallery-item-uri">
+                                        <img
+                                          className="smallery-item-img loaded"
+                                          src={image.imageUrl}
+                                          alt=""
+                                        />
+                                      </a>
+                                    </figure>
+                                  </div>
                                 )
-                              : null}
+                              )}
+                            </div>
                           </div>
-                        </div>
-                        <div className="col-sm-9">
+                        ) : null}
+                        <div
+                          className={
+                            data.textSections[index].sideGalleryImages !==
+                              undefined ||
+                            data.textSections[index].sideGalleryImages
+                              .length !== 0
+                              ? 'col-sm-9'
+                              : 'col-sm-12'
+                          }
+                        >
                           <div className="site-text">
                             <div
                               className="site-text-less auto"

@@ -33,7 +33,7 @@ textSections:
       1990.
 
 
-      As well as[Manet](https://thingstodoeverywhere.com/edouard-manet-biography.html)’s 1887 work, the Boston museum also lost pieces by Rembrant, Vermeer and five works on paper by[Degas](edgar-degas-biography.html). In total, the works stolen had a value of a cool $500 million.
+      As well as[Manet](/edouard-manet-biography)’s 1887 work, the Boston museum also lost pieces by Rembrant, Vermeer and five works on paper by[Degas](/edgar-degas-biography). In total, the works stolen had a value of a cool $500 million.
 
 
       The theft was audacious and extreme - on March 18th 1990, two men disguised as police officers buzzed the door to the museum in Boston. It was 1.24 am and they said they had been called out about a disturbance. The security guard let them in and the men handcuffed him and the other guard on duty.
@@ -53,7 +53,7 @@ textSections:
       - imageTitle: "The Concert by Vermeer, c. 1664, 1990: stolen from Isabella Stewart
           Gardner Museum"
         imageUrl: /assets/art-thefts-vermeer-the-concert.jpg
-    buttonToggle: true
+    buttonToggle: false
   - textTitle: Impression Sunrise (Claude Monet, 1985)
     text: >-
       ### In total, nine Impressionist paintings were stolen from the [Marmottan
@@ -61,7 +61,7 @@ textSections:
       in 1985.
 
 
-      The loot included five paintings by [Monet](https://thingstodoeverywhere.com/claude-monet-biography.html) and two by [Auguste Renoir](pierre-auguste-renoir-biography.html), with a combined value of hundreds of millions of dollars. Among the missing paintings was ‘Impression, Sunrise’ by Monet, one of the 10 most important impressionist works, which has been credited with giving the Impressionist group their name.
+      The loot included five paintings by [Monet](/claude-monet-biography) and two by [Auguste Renoir](/pierre-auguste-renoir-biography), with a combined value of hundreds of millions of dollars. Among the missing paintings was ‘Impression, Sunrise’ by Monet, one of the 10 most important impressionist works, which has been credited with giving the Impressionist group their name.
 
 
       At 10am on October 27th, two men paid for their entrance to the museum where they were then joined by three more accomplices. Threatening the guards at gunpoint, they grabbed the paintings they were looking for and left quickly. The theft was made easier by the fact the museum alarm system was only turned on at night.
@@ -80,7 +80,7 @@ textSections:
         imageUrl: /assets/art-thefts-monet-sunrise-bw.jpg
       - imageTitle: "Impression, Sunrise by Claude Monet, 1872, 1985: stolen"
         imageUrl: /assets/art-thefts-monet-sunrise.jpg
-    buttonToggle: true
+    buttonToggle: false
   - textTitle: Charing Cross Bridge, London (Claude Monet, 2012)
     text: >-
       ### One of Monet’s most famous series, the Charing Cross Bridge works
@@ -91,7 +91,7 @@ textSections:
       They are so highly prized that one work in the series was stolen in October 2012. The painting was taken from the [Rotterdam Kunsthal Museum](https://en.wikipedia.org/wiki/Kunsthal), along with paintings by Picasso and Matisse. The lost art was valued at a total of €200 million.
 
 
-      A group of Romanian art thieves were convicted of the crime but the paintings were never recovered. One member of the group claimed that his mother had burned the [Monet](https://thingstodoeverywhere.com/claude-monet-biography.html) masterpiece in her stove to “destroy the evidence”.
+      A group of Romanian art thieves were convicted of the crime but the paintings were never recovered. One member of the group claimed that his mother had burned the [Monet](/claude-monet-biography) masterpiece in her stove to “destroy the evidence”.
 
 
       Traces of pigments and canvas were found in the ashes of the oven but whether or not they belonged to the paintings has never been proven.
@@ -105,7 +105,7 @@ textSections:
       - imageTitle: From the Charing Cross Bridge series by Claude Monet, 1899-1901,
           Saint Louis Art Museum
         imageUrl: /assets/art-thefts-monet-charing-cross-bridge.jpg
-    buttonToggle: true
+    buttonToggle: false
   - textTitle: Poppy Flowers (Vincent Van Gogh, 1977)
     text: >-
       ### With an estimated worth of $55 million, Poppy Flowers by Van Gogh
@@ -132,11 +132,11 @@ textSections:
           Viscaria) by Van Gogh, 1887, stolen the second time from Cairo's
           Mohamed Mahmoud Khalil Museum in August 2010
         imageUrl: /assets/art-thefts-van-gogh-vase-with-flowers.jpg
-    buttonToggle: true
+    buttonToggle: false
   - textTitle: View of Auvers-sur-Oise (Paul Cézanne, 2000)
     text: >-
       ### Taken during the millennial celebrations on January 1 2000, this
-      [Cézanne](paul-cezanne-biography.html) masterpiece was stolen from the
+      [Cézanne](/paul-cezanne-biography) masterpiece was stolen from the
       [Ashmolean museum](https://en.wikipedia.org/wiki/Ashmolean_Museum) in
       Oxford, UK.
 
@@ -157,17 +157,17 @@ textSections:
         imageUrl: /assets/art-thefts-cezanne-view-of-auvers-sur-oise.jpg
       - imageTitle: Houses at Auvers by Vincent Van Gogh, 1890, Toledo Museum of Art
         imageUrl: /assets/art-thefts-van-gogh-houses-at-auvers.jpg
-    buttonToggle: true
+    buttonToggle: false
   - textTitle: The Lane of Poplars at Moret (Alfred Sisley, 2007)
     text: >-
       ### Alfred Sisley’s 1890 work, The Lane of Poplars, was stolen from the
       Musée des Beaux-Arts in Nice.
 
 
-      The painting was purloined together with [Monet](https://thingstodoeverywhere.com/claude-monet-biography.html)’s ‘Cliffs near Dieppe’ and two other works by[ Jan Brueghel the Elder](https://en.wikipedia.org/wiki/Jan_Brueghel_the_Elder), with a combined value of €22 million.
+      The painting was purloined together with [Monet](/claude-monet-biography)’s ‘Cliffs near Dieppe’ and two other works by[ Jan Brueghel the Elder](https://en.wikipedia.org/wiki/Jan_Brueghel_the_Elder), with a combined value of €22 million.
 
 
-      Amazingly, this was the third time this work by [Sisley](alfred-sisley-biography.html) had been stolen as it had previously been taken in both 1978 and 1988.
+      Amazingly, this was the third time this work by [Sisley](/alfred-sisley-biography) had been stolen as it had previously been taken in both 1978 and 1988.
 
 
       The robbery was executed by four or five individuals. They entered the museum at 1pm on a Sunday in August. They had a targeted approach and knew the location of each of the paintings they were looking for.
@@ -183,7 +183,7 @@ textSections:
         imageUrl: /assets/art-thefts-sisley-avenue-of-poplars-near-moret-sur-loing.jpg
       - imageTitle: Lane of Poplars at Moret by Alfred Sisley, 1888, private collection
         imageUrl: /assets/art-thefts-lane-of-poplars-at-moret-1888.jpg
-    buttonToggle: true
+    buttonToggle: false
   - textTitle: The Potato Eaters (Vincent Van Gogh, 1991)
     text: >-
       ### Van Gogh’s works have long been a popular target for art thefts.
@@ -205,7 +205,7 @@ textSections:
         imageUrl: /assets/art-thefts-van-gogh-potato-eaters-pre-study.jpg
       - imageTitle: The Potato Eaters by Van Gogh, 1885, Van Gogh Museum, Amsterdam
         imageUrl: /assets/art-thefts-van-gogh-potato-eaters.jpg
-    buttonToggle: true
+    buttonToggle: false
   - textTitle: View of the Sea at Scheveningen (Vincent Van Gogh, 2002)
     text: >-
       ### Incredibly, two more paintings were stolen from the same museum just 9
@@ -229,7 +229,7 @@ textSections:
       - imageTitle: Congregation Leaving the Reformed Church in Nuenen by Van Gogh,
           1884, Van Gogh Museum, Amsterdam
         imageUrl: /assets/art-thefts-van-gogh-church-of-nuenen.jpg
-    buttonToggle: true
+    buttonToggle: false
   - textTitle: Young Parisian (Auguste Renoir, 2000)
     text: >-
       ### The robbery at [Stockholm’s National
@@ -237,7 +237,7 @@ textSections:
       before the armed thieves sped away in a boat moored close to the museum.
 
 
-      Two paintings by [Renoir](pierre-auguste-renoir-biography.html) and one by [Rembrandt](https://en.wikipedia.org/wiki/Rembrandt) were stolen from the Sweden institution in December 2000. All three paintings were small so it was possible for the works to be grabbed off the walls quickly and easily.
+      Two paintings by [Renoir](/pierre-auguste-renoir-biography) and one by [Rembrandt](https://en.wikipedia.org/wiki/Rembrandt) were stolen from the Sweden institution in December 2000. All three paintings were small so it was possible for the works to be grabbed off the walls quickly and easily.
 
 
       ‘Young Parisian’ by Renoir was the last to be recovered, found in Los Angeles, U.S. in 2005. The other Renoir, ‘Conversation’, was found in Stockholm during a random drug investigation and the Rembrandt was also recovered unharmed.
@@ -248,14 +248,14 @@ textSections:
       - imageTitle: Young Parisian by Pierre Auguste Renoir, Nationalmuseum, Stockholm,
           Sweden
         imageUrl: /assets/art-thefts-young-parisian-renoir.jpg
-    buttonToggle: true
+    buttonToggle: false
   - textTitle: Ludovic Lepic and His Daughters (Edgar Degas, 2008)
     text: >-
       ### $164 million of artworks were stolen from a private museum in Zurich
       in 2008, in a theft considered to be the largest in Switzerland’s history.
 
 
-      ‘Ludovic Lepic and His Daughters’ by [Degas](edgar-degas-biography.html) and paintings by [Cezanne](paul-cezanne-biography.html),[Van Gogh](https://en.wikipedia.org/wiki/Vincent_van_Gogh) and [Monet](https://thingstodoeverywhere.com/claude-monet-biography.html) were all stolen from the[ Buehrle Collection](https://en.wikipedia.org/wiki/Foundation_E.G._B%C3%BChrle).
+      ‘Ludovic Lepic and His Daughters’ by [Degas](/edgar-degas-biography) and paintings by [Cezanne](/paul-cezanne-biography),[Van Gogh](/van-gogh-biography) and [Monet](/claude-monet-biography) were all stolen from the[ Buehrle Collection](https://en.wikipedia.org/wiki/Foundation_E.G._B%C3%BChrle).
 
 
       The theft was the second in the area in a week following the loss of two Picasso works from nearby Pfäffikon. The thieves forced their way into the museum just 30 minutes before closing time, ordering staff to lie on the floor and threatening them at gunpoint.
@@ -274,7 +274,7 @@ textSections:
       - imageTitle: Blossoming Chestnut Branches, painted by Van Gogh at Auvers-sur-Oise
           in May of 1890
         imageUrl: /assets/art-thefts-van-gogh-blossoming-chestnut-branches-framed.jpg
-    buttonToggle: true
+    buttonToggle: false
 ---
 ## Impressionist art includes many of the world’s best known and most expensive artworks, leading to some of the most shocking art thefts in living memory.
 
