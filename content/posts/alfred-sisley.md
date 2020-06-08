@@ -72,10 +72,10 @@ textSections:
         imageUrl: /assets/alfred-sisley-bridge-at-hampton-court.jpg
       - imageTitle: "'Bridge at Villeneuve-la-Garenne', painted by Alfred Sisley in 1872"
         imageUrl: /assets/alfred-sisley-bridge-at-villeneuve-la-garenne.jpg
-      - imageTitle:
-          "'Sentier de la Mi-cote, Louveciennes', painted by Alfred Sisley in
+      - imageTitle: "'Sentier de la Mi-cote, Louveciennes', painted by Alfred Sisley in
           1873"
         imageUrl: /assets/alfred-sisley-sentier-de-la-mi-cote.jpg
+    buttonToggle: true
   - textTitle: Sisley’s Île-de-France paintings
     text: >-
       ### Without his father's allowance, Sisley would have had to support his
@@ -119,12 +119,12 @@ textSections:
     sideGalleryImages:
       - imageTitle: "'Church in Moret', painted by Alfred Sisley in 1889"
         imageUrl: /assets/alfred-sisley-church-in-moret-1889.jpg
-      - imageTitle:
-          "'Early Snow at Louveciennes', painted by Alfred Sisley in c.
+      - imageTitle: "'Early Snow at Louveciennes', painted by Alfred Sisley in c.
           1871-1872"
         imageUrl: /assets/alfred-sisley-early-snow-at-louveciennes-1871.jpg
       - imageTitle: "'Women Going to the Woods', painted by Alfred Sisley 1886"
         imageUrl: /assets/alfred-sisley-women-going-to-the-woods.jpg
+    buttonToggle: true
   - textTitle: Sisley and the Barbizon School
     text: >-
       ### Sisley’s work was heavily influenced by earlier periods of French and
@@ -161,18 +161,16 @@ textSections:
 
       Influences from Camille Corot can also be seen in Sisley's delicate colour palette and use of silvery tones. This is evident in the beautifully dreamy work [‘Fog, Voisins’](https://www.wikiart.org/en/alfred-sisley/foggy-morning-voisins-1874) from 1874 where the viewer glimpses a woman in a garden and can just make out a line of trees, a fence and tufts of grass in the background.
     sideGalleryImages:
-      - imageTitle:
-          "'Avenue of Chestnut Trees near La Celle-Saint-Cloud', painted by
+      - imageTitle: "'Avenue of Chestnut Trees near La Celle-Saint-Cloud', painted by
           Alfred Sisley in 1865"
         imageUrl: /assets/alfred-sisley-avenue-of-chestnut-trees.jpg
-      - imageTitle:
-          "'Rest along the Stream. Edge of the Wood', painted by Alfred Sisley
+      - imageTitle: "'Rest along the Stream. Edge of the Wood', painted by Alfred Sisley
           in 1878, Musée d'Orsay"
         imageUrl: /assets/alfred-sisley-reston-along-stream.jpg
-      - imageTitle:
-          "'The Terrace at Saint-Germain', painted by Alfred Sisley in Spring,
+      - imageTitle: "'The Terrace at Saint-Germain', painted by Alfred Sisley in Spring,
           1875, The Walters Art Museum"
         imageUrl: /assets/alfred-sisley-terrace-at-saint-germain-1875.jpg
+    buttonToggle: true
   - textTitle: Sisley’s Impressionism
     text: >-
       ### It is ironic that Sisley’s works should have been so undervalued
@@ -206,14 +204,14 @@ textSections:
 
       At the same time, he was able to capture the colours of the scene in his characteristically nuanced style. [‘La neige à Louveciennes’](https://www.musee-orsay.fr/en/collections/works-in-focus/painting/commentaire_id/snow-at-louveciennes-15396.html?tx_commentaire_pi1%5BpidLi%5D=509&tx_commentaire_pi1%5Bfrom%5D=841&cHash=b60bb0b78c) or ‘Snow at Louveciennes’ from 1878 is one example of his snowy landscapes, demonstrating his use of perspective and large range colour shades. Spending winters in the Parisian suburbs allowed him to paint a number of studies of snow. These works are archetypal examples of the Impressionist interest in natural light.
     sideGalleryImages:
-      - imageTitle:
-          "'Flood at Port-Marly', painted by Alfred Sisley in 1876, Musée
+      - imageTitle: "'Flood at Port-Marly', painted by Alfred Sisley in 1876, Musée
           d'Orsay"
         imageUrl: /assets/alfred-sisley-flood-at-port-marly.jpg
       - imageTitle: "'Fog, Voisins', painted by Alfred Sisley in 1874"
         imageUrl: /assets/alfred-sisley-fog-voisins-1874.jpg
       - imageTitle: "'Snow on the Road Louveciennes', painted by Alfred Sisley in 1874"
         imageUrl: /assets/alfred-sisley-snow-on-the-road-louveciennes-1874.jpg
+    buttonToggle: false
   - textTitle: Sisley’s later works & legacy
     text: >-
       ### Due to his failing health, Sisley’s later works do now show the same
@@ -258,16 +256,15 @@ textSections:
 
       Today, Sisley’s paintings are sold for millions of pounds, sharply contrasting with the financial stuggles that stayed with him throughout his life. However, he can still be seen as one of the underdogs of the Impressionist era and an often forgotten founder of the movement. Sisley remains an intriguingly unknown figure, as fleeting and intangible as the clouds in the skies above his landscapes.
     sideGalleryImages:
-      - imageTitle:
-          "'Le Pont de Moret, effet d'orage', painted by Alfred Sisley in
+      - imageTitle: "'Le Pont de Moret, effet d'orage', painted by Alfred Sisley in
           1887, Musée Malraux, Le Havre"
         imageUrl: /assets/alfred-sisley-le-pont-de-moret-1887.jpg
-      - imageTitle:
-          "'Molesey Weir – Morning', one of the paintings executed by Sisley
+      - imageTitle: "'Molesey Weir – Morning', one of the paintings executed by Sisley
           on his visit to Britain in 1874"
         imageUrl: /assets/alfred-sisley-molesey-weir.jpg
       - imageTitle: "'Seaside, Langland', painted by Alfred Sisley in 1887"
         imageUrl: /assets/alfred-sisley-seaside-langland-1887.jpg
+    buttonToggle: false
 ---
 
 ## Alfred Sisley did not paint people or urban scenes. Instead, he dedicated himself entirely to painting landscapes. During his life, from 1839-1899, he developed his own distinct style that was both delicate and intense.
