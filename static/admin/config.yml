@@ -63,6 +63,7 @@ collections:
           label: 'Featured Image',
           widget: 'image',
           required: true,
+          default: /assets/van-gogh-starry-night.jpg,
           hint: 'This image will be displayed one the funnel page',
         }
       - label: 'Sidebar Links'
@@ -100,12 +101,14 @@ collections:
                   label: Top Image,
                   name: topImageUrl,
                   widget: image,
+                  default: /assets/van-gogh-starry-night.jpg,
                   required: true,
                 }
               - {
                   label: Title & Alt,
                   name: topImageTitle,
                   widget: string,
+                  default: 'Add alt title here',
                   required: true,
                 }
           - label: Left
@@ -116,12 +119,14 @@ collections:
                   label: Left Image,
                   name: leftImageUrl,
                   widget: image,
+                  default: /assets/van-gogh-starry-night.jpg,
                   required: true,
                 }
               - {
                   label: Title & Alt,
                   name: leftImageTitle,
                   widget: string,
+                  default: 'Add alt title here',
                   required: true,
                 }
           - label: Middle
@@ -131,6 +136,7 @@ collections:
               - {
                   label: Middle Image,
                   name: middleImageUrl,
+                  default: /assets/van-gogh-starry-night.jpg,
                   widget: image,
                   required: true,
                 }
@@ -138,6 +144,7 @@ collections:
                   label: Title & Alt,
                   name: middleImageTitle,
                   widget: string,
+                  default: 'Add alt title here',
                   required: true,
                 }
           - label: Right
@@ -147,6 +154,7 @@ collections:
               - {
                   label: Right Image,
                   name: rightImageUrl,
+                  default: /assets/van-gogh-starry-night.jpg,
                   widget: image,
                   required: true,
                 }
@@ -154,6 +162,7 @@ collections:
                   label: Title & Alt,
                   name: rightImageTitle,
                   widget: string,
+                  default: 'Add alt title here',
                   required: true,
                 }
       - label: 'Text sections'
