@@ -83,6 +83,8 @@ textSections:
     sideGalleryImages:
       - imageTitle: Degas' Mary Cassatt at the Louvre, c.1880
         imageUrl: /assets/fifth-exhibition-mary-cassatt-at-the-louvre.jpg
+      - imageTitle: Ernestine, by Eugène Vidal, around 1904.
+        imageUrl: /assets/fifth-exhibition-vidal-ernestine.jpg
   - textTitle: The artists
     text: >-
       ### The most important feature of the Fifth Impressionist Exhibition was
@@ -112,8 +114,6 @@ textSections:
       - imageTitle: Jean-François Raffaëlli in his Paris studio. A newcomer to the
           Impressionists.
         imageUrl: /assets/fifth-exhibition-jean-francois-raffaelli.jpg
-      - imageTitle: Ernestine, by Eugène Vidal, around 1904.
-        imageUrl: /assets/fifth-exhibition-vidal-ernestine.jpg
   - textTitle: Response to the Fifth Impressionist Exhibition
     text: >-
       ### Generally, the exhibition was far less popular than its predecessor.
