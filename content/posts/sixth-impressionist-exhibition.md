@@ -2,7 +2,7 @@
 id: post-pR18nLTkn
 path: sixth-impressionist-exhibition
 date: 2020-06-09T06:41:22.460Z
-subTitle: Biography of
+subTitle: The 1881
 title: Sixth Impressionist Exhibition
 tags: Exhibitions
 cover: /assets/sixth-exhibition-raffaelli-sculptures.jpg
