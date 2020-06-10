@@ -197,7 +197,20 @@ textSections:
           encouraged her husband to launch a new magazine centred around the
           group, which became known as ‘La Vie Moderne’.
   - textTitle: The Aftermath
-    text: Body text here
+    text: >-
+      ### The success of the exhibition strengthened the bond between the remaining Impressionists in the group. Degas, Cassatt, Caillebotte and Pissarro had been forced to work closely in order to bring the exhibition to pass and their friendship had become solidified as a result.
+
+
+      During this time, they had also discovered a shared interest in print making, aided by Cassatt who had studied print making in Rome. Degas owned a printing press and the group began working together, experimenting with different techniques and developing their individual styles, whilst sharing tips among them.
+      
+      
+      This collaborative effort led to the invention of the ‘manière grise’, a method for achieving lightly shaded tints or tonal areas in prints. They also innovated a new method for creating grainier textures in the prints, using a copper plate with a pencil-shaped emery stone. These were extremely exciting discoveries for the group and for the medium.
+
+
+      For Cassatt, the colour printing she did during this period represented an important turning point in her career, allowing her to experiment with flowing, striking designs that distinguished her work from her contemporaries.  Thanks to their successes, the group decided to launch an illustrated journal of prints titled ‘Le Jour et la nuit’ or ‘The Day and The Night’. The plans were largely pushed forward by Degas, aided by Cassatt and the two became even closer friends during the process.
+
+
+      Though the Fourth Impressionist Exhibition did not solve the Impressionists’ woes overnight, it did demonstrate the value of commitment to the cause. The artists who showed their work in the exhibition were rewarded with large numbers of visitors and some positive reviews. Nonetheless, the divide between the Salon artists and the independent Impressionist exhibitors had never been more apparent.
     buttonToggle: true
     sideGalleryImages:
       - imageTitle: Woman Bathing (La Toilette) by Mary Cassatt, 1890-1, is a drypoint
