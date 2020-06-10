@@ -5,7 +5,7 @@ date: 2020-06-09T06:41:22.460Z
 subTitle: Biography of
 title: Sixth Impressionist Exhibition
 tags: Exhibitions
-cover: /assets/van-gogh-starry-night.jpg
+cover: /assets/sixth-exhibition-raffaelli-sculptures.jpg
 links:
   - post-ZhQwecaum
   - post-8AeNSHrko
