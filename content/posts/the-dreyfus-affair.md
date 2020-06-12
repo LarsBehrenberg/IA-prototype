@@ -206,6 +206,22 @@ textSections:
         imageTitle: "'Le Boulevard de Montmartre, Matinée de Printemps' by Camille
           Pissarroo (1897).  Pissarro continued to paint rural themes but they
           also readily showed enthusiasm for modernity."
+  - textTitle: The long-term impact of the Dreyfus affair on the Impressionists
+    text: >-
+      ### The Dreyfus affair exposed a deeper crisis in Impressionism, one that
+      had begun long before the staged trial of an innocent captain.
+
+
+      The once united group no longer held the same ideals, political or painterly, and each was moving in their own direction. 
+
+
+      In the brash, busy modern Paris, complete with “dirty horseless carriages”, Degas, Renoir and Cézanne became increasingly nostalgic for a lost past. Pissarro looked to an anarchist, idealised vision of the future, in which everyone is equal and living in harmony. Monet, on the other hand, rode the wave of the political turmoil in France, part patriot, part republican and was ultimately able to come out on top.
+    buttonToggle: false
+    sideGalleryImages:
+      - imageUrl: /assets/pissarro-avenue-de-lopera.jpg
+        imageTitle: "'lace du Théâtre-Francais and the Avenue de l'Opéra, Sunlight,
+          Winter Morning' by Camille Pissarro (1898). A busy modern Paris at the
+          time."
 ---
 ## The Dreyfus affair was a crucial turning point in French politics in the late 1800s and it had an enormous effect on the relationships between the artists of the [Impressionist movement](http://localhost:8000/discover-the-impressionists).
 
