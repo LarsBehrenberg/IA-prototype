@@ -5,14 +5,14 @@ date: 2020-06-12T01:57:56.148Z
 subTitle: Top 11
 title: Impressionist Holiday Spots
 tags: More
-cover: /assets/van-gogh-starry-night.jpg
+cover: /assets/pissarro-deux-femmes-causant-st-thomas.jpg
 links:
   - post-ow_609WBo
   - post-JcdFACMUe
 upperGalleryImages:
   topImage:
-    topImageUrl: /assets/morisot-the-isle-of-wight-1875.jpg
-    topImageTitle: "'The Isle of Wight' by Berthe Morisot (1875)"
+    topImageUrl: /assets/caillebotte-canal-near-naples.jpg
+    topImageTitle: "'Banks of a Canal, near Naples'  by Gustave Caillebotte (c. 1872)"
   leftImage:
     leftImageUrl: /assets/caillebotte-a-road-in-naples.jpg
     leftImageTitle: "'A Road in Naples' by Gustave Caillebotte (1872)"
@@ -237,7 +237,7 @@ textSections:
 
 
       [Cézanne](/paul-cezanne-biography) also encouraged his fellow Impressionist artists to join him when they were feeling downhearted or lost and Provence and the south of France became an unofficial retreat for the Impressionists seeking a new outlook on their art. They gathered to paint amongst the gleaming sun and shimmering waves, before heading back to Paris once more.
-    buttonToggle: true
+    buttonToggle: false
     sideGalleryImages:
       - imageTitle: "'Mont Sainte-Victoire' by Paul Cezanne (c. 1887)"
         imageUrl: /assets/paul-cezanne-mont-saint-victoire.jpg
