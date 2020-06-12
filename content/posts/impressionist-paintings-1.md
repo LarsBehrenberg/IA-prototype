@@ -2,8 +2,8 @@
 id: post-ihanCCs6U
 path: most-expensive-impressionist-paintings
 date: 2020-06-06T07:07:36.136Z
-subTitle: Most Expensive
-title: Impressionist Paintings
+subTitle: Top 50
+title: Most Expensive Paintings
 tags: More
 cover: /assets/paul-cezanne-card-players.jpg
 links:
